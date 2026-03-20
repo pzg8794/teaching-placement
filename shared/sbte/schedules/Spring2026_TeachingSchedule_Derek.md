@@ -1,14 +1,4 @@
 # Spring 2026 Teaching Schedule for Pine Brook Elementary
-
-**Color Code:** 🟥 Shared with SBTE
-
-> **Page Type:** Shared document
-> **Purpose:** Material intended for your sbte.
-> **Audience:** Sbte and you.
-> **Use This When:** Share or review sbte-facing material.
-
----
-
 **Piter Garcia | Computer Science & Inclusion Certification**
 
 ---
@@ -24,18 +14,86 @@ This schedule reflects a strategic revision to optimize teaching quality, reduce
 
 ---
 
-## DAY COLOR LEGEND
+## COLOR LEGEND
 
-- `🟦 Monday`: RIT + afternoon teaching
-- `🟩 Tuesday`: full-day Pine Brook teaching
-- `🟪 Wednesday`: RIT + afternoon teaching
-- `🟨 Thursday`: full-day Pine Brook teaching
-- `🟥 Friday`: full-day Pine Brook teaching
+- `🟦 Monday / Day 1`
+- `🟩 Tuesday / Day 2`
+- `🟪 Wednesday / Day 3`
+- `🟨 Thursday / Day 4`
+- `🟥 Friday / Day 5`
+- `🟫 Grade 1`
+- `🟧 Grade 2`
+- `🟩 Grade 3`
+- `🟦 Grade 4`
+- `🟪 Grade 5`
+- `⬜ Kindergarten`
+- `⬛ Flex / planning / PLC / lunch / 12:1+(3:1)`
 
-### QUICK PATTERN
+---
 
-- `🟦 Monday` and `🟪 Wednesday`: lighter placement days with afternoon-only teaching
-- `🟩 Tuesday`, `🟨 Thursday`, and `🟥 Friday`: core full-day teaching days
+## PINE BROOK ROTATION ROSTER BY HOUR
+
+This roster is transcribed from the local PowerPoint schedule and is included here so each transcript or lesson note can be matched back to its likely class block by **date + weekday + hour + grade/topic cues**.
+
+### 🟦 MONDAY / DAY 1
+
+| Time | Class Block |
+|------|-------------|
+| 9:00-9:50 | ⬛ Flex Block |
+| 9:50-10:40 | ⬛ 12:1+(3:1) |
+| 10:45-11:35 | 🟧 Callon (Grade 2) |
+| 11:35-12:25 | ⬛ Lunch |
+| 12:25-1:15 | ⬜ Justinger (Kindergarten) |
+| 1:15-2:10 | 🟦 Baris (Grade 4) |
+| 2:15-3:05 | 🟧 Henchen (Grade 2) |
+
+### 🟩 TUESDAY / DAY 2
+
+| Time | Class Block |
+|------|-------------|
+| 9:00-9:50 | ⬛ Flex Block |
+| 9:50-10:40 | ⬛ 12:1+(3:1) |
+| 10:45-11:35 | 🟪 Pickett (Grade 5) |
+| 11:35-12:25 | ⬛ Lunch |
+| 12:25-1:15 | ⬜ Kesys (Kindergarten) |
+| 1:15-2:10 | 🟦 Fowler (Grade 4) |
+| 2:15-3:05 | ⬛ Planning |
+
+### 🟪 WEDNESDAY / DAY 3
+
+| Time | Class Block |
+|------|-------------|
+| 9:00-9:50 | ⬛ Flex Block |
+| 9:50-10:40 | 🟩 Lamanaco (Grade 3) |
+| 10:45-11:35 | 🟪 McGlashon (Grade 5) |
+| 11:35-12:25 | ⬛ Lunch |
+| 12:25-1:15 | 🟫 Gargana (Grade 1) |
+| 1:15-2:10 | 🟦 Schrank (Grade 4) |
+| 2:15-3:05 | 🟫 Polfleit (Grade 1) |
+
+### 🟨 THURSDAY / DAY 4
+
+| Time | Class Block |
+|------|-------------|
+| 9:00-9:50 | ⬛ Flex Block |
+| 9:50-10:40 | 🟩 Lallucci (Grade 3) |
+| 10:45-11:35 | 🟧 Barthelman (Grade 2) |
+| 11:35-12:25 | ⬛ Lunch |
+| 12:25-1:15 | ⬜ Pum (Kindergarten) |
+| 1:15-2:10 | 🟦 Autore (Grade 4) |
+| 2:15-3:05 | ⬛ PLC Block |
+
+### 🟥 FRIDAY / DAY 5
+
+| Time | Class Block |
+|------|-------------|
+| 9:00-9:50 | ⬛ Flex Block |
+| 9:50-10:40 | 🟩 Regelsberger (Grade 3) |
+| 10:45-11:35 | 🟪 Pecora (Grade 5) |
+| 11:35-12:25 | ⬛ Lunch |
+| 12:25-1:15 | 🟫 Montgomery (Grade 1) |
+| 1:15-2:10 | ⬛ Planning |
+| 2:15-3:05 | 🟩 Tandoi (Grade 3) |
 
 ---
 
@@ -234,11 +292,11 @@ This schedule reflects a strategic revision to optimize teaching quality, reduce
 ### **Piter's Presence at Pine Brook:**
 
 **Weekly:**
-- **🟦 Monday:** 1:10-3:10 PM (Afternoon block)
-- **🟩 Tuesday:** 9:00-3:20 PM (Full day)
-- **🟪 Wednesday:** 1:10-3:10 PM (Afternoon block)
-- **🟨 Thursday:** 9:00-3:20 PM (Full day)
-- **🟥 Friday:** 9:10-3:10 PM (Full day)
+- **Monday:** 1:10-3:10 PM (Afternoon block)
+- **Tuesday:** 9:00-3:20 PM (Full day)
+- **Wednesday:** 1:10-3:10 PM (Afternoon block)
+- **Thursday:** 9:00-3:20 PM (Full day)
+- **Friday:** 9:10-3:10 PM (Full day)
 
 **Total:** ~22 hours/week in classroom
 
@@ -259,60 +317,3 @@ This schedule reflects a strategic revision to optimize teaching quality, reduce
 - Document progress toward CPAST standards
 
 ---
-
-## COMMUNICATION & LOGISTICS
-
-### **Weekly Check-ins:**
-- Derek & Piter discuss upcoming week lessons
-- Address any schedule adjustments needed
-- Feedback on previous week's teaching
-
-### **Monthly:**
-- Zen Borys visits for observation/feedback
-- Sue Maddamma joins periodically for inclusion-focused feedback
-- All three review progress toward milestones
-
-### **Emergency Schedule Changes:**
-- If winter weather forces closure: Both parties discuss asynchronous reflection activities
-- If Piter has health/illness: Contact Derek + Zen immediately
-- If classroom needs change: Derek & Piter meet to adjust
-
----
-
-## SUPPORTING DOCUMENTS
-
-✓ **Letter of Expectations:** To be submitted by Feb 2, 2026  
-✓ **Midpoint Evaluation:** Completed by ~March 15, 2026  
-✓ **Weekly Lesson Plans:** Submitted to Derek by Friday of prior week  
-✓ **Observation Notes:** Piter maintains reflective journal  
-✓ **Student Teaching Portfolio:** Compiled throughout Phase 2  
-
----
-
-## FINAL NOTES FROM PITER
-
-Dear Derek,
-
-Thank you for your partnership in this teaching placement. This revised schedule reflects careful consideration of safety, sustainability, and teaching quality. By eliminating the hazardous Mon/Wed morning double commutes while maintaining robust afternoon presence and extending full-day teaching on Tue/Thu/Fri, I believe we can optimize the learning environment for your students and create the conditions for my best teaching practice.
-
-The morning RIT coursework is essential to my program (bioinformatics + data science), and consolidating that on Mon/Wed mornings while protecting afternoon teaching time allows me to be fully present in both contexts.
-
-I'm committed to:
-- Arriving prepared and on time each afternoon
-- Completing all assigned coursework and reflections
-- Providing comprehensive coverage of your classroom practices
-- Taking feedback seriously and implementing it quickly
-- Supporting your students with genuine care and attention
-
-I look forward to working with you this semester.
-
-Best regards,  
-**Piter Garcia**  
-Student Teacher, Computer Science & Inclusion  
-University of Rochester Warner School of Education
-
----
-
-**Schedule Prepared:** February 2, 2026  
-**For Submission To:** Derek Romig, Zen Borys, Sue Maddamma  
-**Academic Plan Reference:** Spring 2026 Master Strategic Integration Plan
