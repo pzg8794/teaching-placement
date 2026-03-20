@@ -1,0 +1,184 @@
+# ⚪ 02-12 Lecture:  Code.org Login and Intro to AI Machine Learning for Second Grade
+
+**Color Code:** ⚪ Transcripts
+
+> **📌 What This Is:** Clean Markdown transcript for classroom, lesson, or teaching use.
+> **🧭 Start Here When:** You need the fuller transcript source behind the lesson notes.
+> **👀 Best Use:** Skim the timestamps and speaker sections first, then pull out the teaching moves, lesson flow, or class-management details you need.
+
+---
+
+## ⚡ Quick Scan
+
+- 📄 **Source TXT:** [02-12 Lecture_ Code.org Login and Intro to AI Machine Learning for Second Grade-transcript.txt](./02-12 Lecture_ Code.org Login and Intro to AI Machine Learning for Second Grade-transcript.txt)
+- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Lessons-Notes.md](../transcript-derived-lessons/Transcript-Derived-Lessons-Notes.md)
+- 📍 **Transcript Type:** Teaching / lesson / classroom note
+
+## 📝 Transcript
+
+### 00:00:00 · Speaker 2
+Alright, So the other thing you guys could come to this truck. So there is also uh. How did they ask you?
+### 00:00:19 · Speaker 1
+Let's go get the. Your head? Hold? What does that mean, you hurt?
+### 00:00:30 · Speaker 1
+What happened? You have a headache? Is it does it hurt too much? You want to go to the nurse? Yes, please join me at the conference. I think you're sitting down on the carpet. My head hurts so much. Okay. See you, dude. Okay, yeah. Let's come to the rock. Where's my crystal? I'm going to get it for you. Let's go to the. Um, ladies, let's come to the rug, please. Ryder, get up. Go. All right. Don't throw it off. Come on now.I'm not bothering you.Bye-bye.Keep going.
+### 00:01:29 · Speaker 1
+I'm on the last level. So, is it doing it again?
+### 00:01:59 · Speaker 2
+So I had two screens. It didn't work in this port. It probably did do it, But it didn't go on here.
+### 00:02:06 · Speaker 1
+And then when I plugged the other one in, stopped doing that. Is this a port? Or the port might be damaged and uh maybe that could be too. I do use her computer a lot too,
+### 00:02:18 · Speaker 2
+To do this. So maybe her computer was passing.
+### 00:02:21 · Speaker 3
+Off on the laptop or something like that. Okay! I am going to talk to you guys about a couple things up here. I've got to show you, I want to run through how to log in to code dot org because me and Mr. Garcia don't want to run around like crazy people trying to get you guys into the program. So, I'm going to show you how to get in. Then, I really need you guys to focus on stretching your attention span out because we're going gonna talk for like maybe five minutes about what AI is and how AI is a part of.
+### 00:02:57 · Speaker 3
+Your life, And then we're going to train an AI bot on how to help us clean up the ocean. Okay, and we'll talk more about that in a moment. So, to start us off, you guys are going to click here. You're going to go to ClassLink, and when you go to ClassLink, it pulls up just like this. Sometimes it's automatic when you open up a new screen. Louis Louis up here, okay Then, we are going to click on code dot org Where's my.
+### 00:03:28 · Speaker 3
+Love it. Uh, So then you're going to click on code dot org and click this button up here. Can you guys read that one? Sign in. That says sign in. You second graders are just straight off geniuses. Yeah! So check this out. This is important. When you get to this screen, you click on section code and you don't have to type anything in, it remembers it. Please stop touching his hair, dude, what's what are you doing? You're going to move now? Okay, now you're gonna click on the code, Callie. Look here. Click on the code and then hit go.
+### 00:04:05 · Speaker 3
+That's Gonna put you into this screen where you gotta choose your name. Okay? Whose computer are we using? Me!
+### 00:04:14 · Speaker 3
+No! Callie! And then on your card. Are you kidding me? Hey.
+### 00:04:18 · Speaker 1
+Bad things from guys.
+### 00:04:19 · Speaker 3
+Hey. On your card there's a picture I gotta choose. Pirate because the pirate's on my card and then I hit sign in. It will take me right to my dashboard here, okay? Also,
+### 00:04:35 · Speaker 1
+They can bookmark it so they can just go straight to the So.
+### 00:04:40 · Speaker 3
+If you click this button right here, this will help you so that you can go straight to it every time. So it says bookmarks bar, you hit done and then look, it's right there. Oh! Okay? So it'll take you right to your dashboard. So, what we're going to do now is learn a little bit about AI. We're going to watch a video, we're going to talk about how AI has impacted your life so far, and then you guys are going to do a little activity. Now, I'm hoping in past classes we haven't gotten that far in this. I'm hoping you guys can do one two uh. We'll do one together, then you're gonna do two, three and four at your tables. Okay. And then we'll come back up here and watch the video for number five together.
+### 00:05:25 · Speaker 3
+Then you'll do six. Then we'll watch videos. Do you see what I'm saying? So we'll watch the videos and talk for a second, and then you'll go back to do your work. Okay? So, what does that mean when you get done with your activities? What can you do? Free choice. So, You could do free choice on your computer quietly as long as you're not disrupting. What would I prefer that you do? Louie, move away from him. Come here. You can sit right here. Right behind Kayla.
+### 00:05:54 · Speaker 3
+You're really wasting a lot of my time today, okay? I don't understand what's going on, but sit down on your butt. Get on your butt. There's kids behind you. Okay, what can you do when you're done with your activities? So get up and help somebody who's still doing it. This is like coding, right? So you can do it with a partner. You're training an AI agent, so get up, help somebody and when everybody's done we'll come to the carpet.
+### 00:06:33 · Speaker 4
+My name is Alejandra, I'm a product manager at Elsevier.
+### 00:06:37 · Speaker 5
+My name is Dr. Chelsea Houghton, I work at the Allen Institute for Artificial Intelligence and I work on an AI- powered academic search engine. All around you, computers are making decisions and those decisions affect your daily life. When you do an internet search or scroll through your news feed, computers decide what you see. Computers can, Can already recognize your face and understand your voice. And soon they'll be driving cars and detecting diseases even better than humans. So how is any of this possible?
+### 00:07:12 · Speaker 4
+You may have heard about something called AI, or artificial intelligence. True artificial intelligence is decades away. There's a type of AI called machine learning that is here today. It's a type of AI you probably interact with every day. Without even knowing it. And, it has the opportunity to help us tackle some of the world's biggest challenges. Machine.
+### 00:07:38 · Speaker 5
+Learning is how computers recognize patterns and make decisions without being explicitly programmed. What's so exciting is that it's a completely different way to program a computer than what we've ever done before. With machine learning, instead of, Programming a computer step by step. You can program a computer to learn just like you learn, through trial and error and lots of practice. Learning comes from experience,
+### 00:08:11 · Speaker 4
+And that's true for machine learning too. In this case, experience means lots and lots of data. Machine learning can take in any kind of data: images, video, audio or text. And begin to recognize patterns in that data. Once it learns to recognize patterns in the data, it can also learn to make predictions based on those patterns, Like noticing the difference between an image of a car and an image of a bicycle. Ai.
+### 00:08:46 · Speaker 5
+And machine learning are playing a bigger and bigger role in society at large, and shaping all of our futures. That's why it's so important to learn how it works with some hands- on experience. Remember, AI is like any tool. First you get the knowledge, then you get the power. Okay,
+### 00:09:14 · Speaker 3
+So before I get into this, I, just want you guys to talk to somebody next to you and tell them how has AI? Either impacted your life? Or how have you heard of AI in in the community? Like how have you heard of AI in your life or your family's life? Okay, go ahead and talk for a minute.
+### 00:09:34 · Speaker 1
+Talk to each other.
+### 00:09:50 · Speaker 1
+So you can speak. Take it off. So you can speak with him. You cannot talk like that.
+### 00:10:01 · Speaker 3
+Hey, don't look at me. If he tells you to do something, it's just like if I tell you to do something. So if he says take it off, you take it off.
+### 00:10:10 · Speaker 1
+Do you understand?
+### 00:10:20 · Speaker 3
+Okay, what did you guys talk about? Some people, some people at least think that AI isn't really impacting their life. But, let's let's hear let's hear those of you that do have some interaction with AI or AI does something for you or one of your family members or you've heard about it. What do you know? What do you know? Okay, um, AI can be integrated into apps. It could be part of apps, right? It's not a, It's not like specifically an app, but it could be part of apps, right? Yeah. Um, also we can have apps that perform AI functions. Yep. Okay, so like I have a Chat GPT app on my phone. Chat GPT is a company that provides that provides AI and I use it to perform tasks for me. So I'll go in that app and say, write me an email to Mr Garcia and tell him in a really nice way that uh I can't wait to see him at work tomorrow.
+### 00:11:18 · Speaker 3
+Okay, and AI will type that whole email up, and then I'll copy it, paste it, and send it off. All right. What else?
+### 00:11:28 · Speaker 1
+Okay. So.
+### 00:11:33 · Speaker 3
+What else? What else do you guys have? How is AI part of your life or what have you heard? To do their math. To do their math.
+### 00:11:46 · Speaker 1
+Okay. AI can do your math, yeah.
+### 00:11:48 · Speaker 3
+That's really good. So some people use it as a thought partner to help them with their homework, right? Or give them additional practice problems. Okay, so what's good about AI is like you could use a calculator. Hey boys, eyes up here. You could use a calculator to do a math problem, right? Well, What about if it's a confusing word problem? And you don't even know what the problem is asking you to do? Well that's where AI can come in and you could, You could type the problem or copy the problem into AI, and it'll tell you not only what to do, but what the answer is and show you how it arrived at the answer. So so the AI can teach you things, right? Now what else? Go ahead.
+### 00:12:42 · Speaker 3
+Did You say oh It can be hard. Okay, so AI can be in cars for sure, right? You guys know Mister Fowler has that fancy car, the Tesla. So Teslas have AI technology in them. So yeah, AI can drive your cars too. So, there is a lot of complicated stuff going on there that like I don't really understand what parts of it are AI. And some of it is like stuff that somebody like Mister Garcia coded into. The program so that it would react in a certain way to certain situations.
+### 00:13:16 · Speaker 2
+I can't explain that. Yeah,
+### 00:13:18 · Speaker 1
+You see the way you guys are going to train the AI now, right? That's the same way we will train the AI to drive, right? It's the same steps. The same steps. It will learn from your driving.
+### 00:13:32 · Speaker 3
+Yep So, you know, It also has AI built into it like Mr. Fowler tells me sometimes he has conversations with his car when he's driving to work. So he'll be he'll be driving to work, And since he doesn't really have to pay attention to the steering wheel, because the car is navigating the road by itself, he can talk to the car and say, "Hey," I think he calls it Grok or something. He'll say, "Hey Grok, I got I have to teach a class at eight o'clock today about um multiplication. Can you give me some good strategies for teaching nine year olds about multiplication?" And Grok will give him some strategies. And then he'll say, "Hey, can you remind me later on to uh uh"
+### 00:14:11 · Speaker 3
+Grab some flowers for my wife on the way home. She's mad at me this morning. And Grok will remind him to get the flowers. So you can have the AI help you with tasks, And and we have to teach the AI how to help us with these tasks. And that's what you guys are going to do today with this task. Yes, I think so.
+### 00:14:29 · Speaker 1
+What aboutum. What aboutum. Oh, she just asked me what about the other parts of AI? Yeah, every. Right now, pretty much every industry, every car industry has an AI version. You.
+### 00:14:46 · Speaker 3
+Were saying Toyota. I heard you know like Yoda the Star Wars character. I heard Toy Yoda. So, what I want you guys to do is click on, click on the number two thing when you get in here, okay? So hey hey Nico. Up here, please. We're almost done. And, it's going to take you into this part of the app where you are going to train Louie. You are going to train this AI bot, how to recognize fish in the water and garbage in the water, so it can pick up the garbage and let the fish live. This is a very needed thing in the real world because because.
+### 00:15:35 · Speaker 3
+This is a very needed thing in the real world because there's billions of pounds of garbage in the water. That's right, and we need to clean it up. We need to clean it up because if we don't, Louis, take that off your head. We have one more minute. Please pay attention. Up the garbage because it's killing fish, it's killing birds, It's dirtying our water, and it's too big of a job for people to do. So we need to teach the machines how to help us. Okay? This isn't pretend. This is real life. Okay? Yeah, Sunny.- I'm not so worried.-.
+### 00:16:29 · Speaker 1
+Um,- Oh!-.
+### 00:16:30 · Speaker 3
+I'm not so worried. Okay. We'll have time to tell stories maybe at the end, but I got to keep going here because everybody's losing their uh attention here. So I'm not typing that. That's AI telling us that we need to help him to understand what is what. And so it can recognize patterns and pick up the trash, let the fish go by. So is this fish or is this trash? So that's not a fish. What's that? What's that?
+### 00:17:04 · Speaker 3
+Okay, what's this? Not a fish. Fish. Okay, this is seventeen billion pounds of plastic enter the ocean each year. Okay, we're programming the training the AI with each choice. Let's keep going. That's a. Fish! Not.
+### 00:17:25 · Speaker 1
+A fish! Fish! Pollution!
+### 00:17:34 · Speaker 3
+Let's try to see if we've trained the AI well enough. Okay, we just did it for a minute or two. Let's see how it goes. Now let's see if the AI knows what a fish looks like. I'm going to run our program. The AI is going to analyze random sets of objects and label them based on our training. Let's go.Oh.Oh.What?What?Uh-oh.Uh-oh.Okay, The AI is doing a bad job, right? It knows what some garbage looks like, But it doesn't know what some things look like, because I didn't tell it what those things look like. I got to teach the bot what is what, right? And if it didn't encounter those things, it's not going to throw them out. So, What I want you guys to do right now is go back and train your AI bot.
+### 00:18:30 · Speaker 1
+I'm gonna be taller than you. I.
+### 00:19:58 · Speaker 1
+Taking a bath, I think you know things that connects it to the life here, but also to their daily daily daily base.
+### 00:20:07 · Speaker 3
+So that's that's great. That'sum excellent ideas. That's like the person that would be the main thing that I would probably do is try to shorten the amount of time they're sitting here. It was just like you know, kids were like okay,
+### 00:20:22 · Speaker 2
+Let me go do it. So so alsoum I would also.
+### 00:20:27 · Speaker 1
+Um, Because I think like if you actually make the the lecture a little bit longer, meaning the teaching. Yeah. I think the lecture gets shorter because for example, If you stop the video a little bit like two or three times to ask a question,
+### 00:20:43 · Speaker 2
+And my engage them a little more. So embed the teaching into the video. That's another great thing while watching videos, so we don't have to correct them. So many times like you know shut up. Right right right yeah.
+### 00:21:14 · Speaker 1
+That's Good.
+### 00:21:24 · Speaker 1
+And then it didn't go up and I. It didn't go and then I showed it there. Monkey doesn't have a mouth. Oh, if he wants to get sick, that's on him. But when he's when when we need you to talk, you need to have that. Oh yeah, you cannot have that in your mouth. Can I have it in my mouth or not? Yeah, it's on you if you want to get sick, That's on you though I don't, but you're going to get sick, but that's not.
+### 00:21:57 · Speaker 1
+Because that thing falls on the floor, everybody step on it and then you put in your mouth, you know. Everybody. Everybody puts their hand. People go to the bathroom, they use the toilet, you know. I have everything connected to air. So. Woo!
+### 00:22:14 · Speaker 3
+He's talking. He's talking about following directions and look at him say okay. I understand.
+### 00:22:21 · Speaker 1
+Yeah, You can click try it once, and then you can also click there and it's gonna take you there. So yeah. There you go. F X X I have to press Y? Yeah, now select your name and then the image. You got the login? Okay. Yeah, you can press one or you can just press try. Either one works. Are you sure you can see fine with this? You want me to fix it? You can see fine? Okay. You got it. Yep.
+### 00:23:19 · Speaker 1
+What do we do when this is done? Oh, I'll just continue. You said continue right there? Just continue. Yes. We can play? I'll keep talking and just keep clicking continue until until the until the game slash training starts. There you go. Do you have a question? Yeah, yeah. Just press continue.
+### 00:23:49 · Speaker 1
+Yes. Yeah, what's that? Look, you're training it. So, is that a fish? Okay. Is that a fish? Is that a fish? Alright so you you keep training it. Keep training it. You keep doing that.
+### 00:25:25 · Speaker 1
+No. You need help? Okay, so all right. You're good. Let's see. See, it's working. You trained the AI perfectly. Thank You.
+### 00:25:50 · Speaker 3
+Mr. Beast has one billion dollars. That's his estimated net worth. Oh, guys, doing here? I mean,
+### 00:25:58 · Speaker 1
+That's not even. I have two hundred things and I got two hundred twenty likes. No! Pay attention! Pay attention! You know who's the biggest Mr. Beast? Oh yeah,
+### 00:26:16 · Speaker 3
+What happened today? Okay, we're gonna talk about monsters today. This dude, this dude's worth one billion dollars. His company's worth five billion. I don't even know why. I swear to you, he just does like weird challenges on YouTube. I don't know, I've never watched his show, But I heard on the news YouTube TV is a thing on Netflix now too.
+### 00:26:40 · Speaker 1
+How's it going? It looks good though. Oh!
+### 00:26:48 · Speaker 1
+That was an error. Oh, another error. So you have only two errors. But you're close, you're close. You only have two errors. You did one mistake, right? Yes, oh three errors. That's what the Bible.
+### 00:27:15 · Speaker 1
+Oh, maybe you didn't finish draining it, right? That's what happened. You have to. I love the fish. You have to finish draining it. Yeah. You have to finish draining it. You wanna go back and try again? I'm done! Okay, can we continue? Let's see what we have more. Okay! I'll be at all. Okay, yeah, you can continue to the next level. But remember to do all of it, okay? Because if you don't finish it then it will make error. Go ahead. You were close, very close. Very good. Oh, you threw a fish out!
+### 00:28:14 · Speaker 1
+Yeah, make sure you finish. Sometimes I finish, it will make mistake. We have to train all the way. Like everything that it gives you, you have to say yes or no to everything. If you just do some of them and then continue, it'll go back from everywhere. Yes? Can I watch the video again? Uh, that's a different video actually. Yeah? Wait wait wait! Yeah, but I can't. Oh, you're on another level. That's that's good. Three hundred? What level is this? Level two? Not bad. Ahh.
+### 00:29:12 · Speaker 1
+I saw that. You have to do it a little bit slower. You're doing good, but you have to go a little bit slower. I got one one ball. I have zero now. You're going. He's taking his time though, he's doing it. That's how you should do it, take your time across the water. There's no need to do it fast, you wanna do it right. You wanna do it right, not fast because for example if you wanna drink clean water, right? You don't want somebody to filter the garbage from the water fast, right? You want them to take their time, right? So your water is clean. It's the same thing.
+### 00:30:14 · Speaker 1
+No. I want a pool.
+### 00:30:21 · Speaker 2
+Callie beat Callie's ten seconds. I'm leaving. Was that was it over? I wasn't there and I was the last one. Oh, so he probably knew you weren't sitting there listening? No, he called me for like, You know, do your thing. If you're done,
+### 00:30:48 · Speaker 1
+What else are you going to do? It's just funny that, you know, perhaps he was talking from the.
+### 00:30:54 · Speaker 2
+It seems like a story after what he did. Yeah. Okay so uh we're going to stop and do some things right now. They're already like uh at least on the second level. Some are on the fourth level.
+### 00:31:12 · Speaker 1
+I promise you.
+### 00:31:13 · Speaker 3
+You guys, if you were good, you could do free time at the end. You were good. So your free time for ten minutes here. Alright, maybe five. You guys no longer have access to Minecraft. Callie! Callie! No! Can't get this girl's gotta stay there. Alright?
+### 00:31:44 · Speaker 1
+Put your feet down. Alright, what's up? Gabe caught me up. What do you mean he caught you up? He helped me out. Oh, he helped you. Okay, that's good. But I have more than him. I have um two, I have three items here.
+### 00:32:13 · Speaker 1
+I think that's enough. I think that's enough. I think you're good. What did you get? I just got the trash can.
+### 00:33:13 · Speaker 1
+I have some.
+### 00:34:46 · Speaker 1
+I don't know where my keys are. Oh.
+### 00:35:44 · Speaker 1
+I.
+### 00:36:14 · Speaker 2
+I was wearing a backwards. I wonder if the hammer will move this time. No, now that we know the way to go, it's moving though. It already locked.
+### 00:36:27 · Speaker 1
+You got it? Yeah, good. And what could we do?
