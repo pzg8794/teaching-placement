@@ -14,6 +14,72 @@ This schedule reflects a strategic revision to optimize teaching quality, reduce
 
 ---
 
+## PINE BROOK ROTATION ROSTER BY HOUR
+
+This roster is transcribed from the local PowerPoint schedule and is included here so each transcript or lesson note can be matched back to its likely class block by **date + weekday + hour + grade/topic cues**.
+
+### MONDAY / DAY 1
+
+| Time | Class Block |
+|------|-------------|
+| 9:00-9:50 | Flex Block |
+| 9:50-10:40 | 12:1+(3:1) |
+| 10:45-11:35 | Callon (Grade 2) |
+| 11:35-12:25 | Lunch |
+| 12:25-1:15 | Justinger (Kindergarten) |
+| 1:15-2:10 | Baris (Grade 4) |
+| 2:15-3:05 | Henchen (Grade 2) |
+
+### TUESDAY / DAY 2
+
+| Time | Class Block |
+|------|-------------|
+| 9:00-9:50 | Flex Block |
+| 9:50-10:40 | 12:1+(3:1) |
+| 10:45-11:35 | Pickett (Grade 5) |
+| 11:35-12:25 | Lunch |
+| 12:25-1:15 | Kesys (Kindergarten) |
+| 1:15-2:10 | Fowler (Grade 4) |
+| 2:15-3:05 | Planning |
+
+### WEDNESDAY / DAY 3
+
+| Time | Class Block |
+|------|-------------|
+| 9:00-9:50 | Flex Block |
+| 9:50-10:40 | Lamanaco (Grade 3) |
+| 10:45-11:35 | McGlashon (Grade 5) |
+| 11:35-12:25 | Lunch |
+| 12:25-1:15 | Gargana (Grade 1) |
+| 1:15-2:10 | Schrank (Grade 4) |
+| 2:15-3:05 | Polfleit (Grade 1) |
+
+### THURSDAY / DAY 4
+
+| Time | Class Block |
+|------|-------------|
+| 9:00-9:50 | Flex Block |
+| 9:50-10:40 | Lallucci (Grade 3) |
+| 10:45-11:35 | Barthelman (Grade 2) |
+| 11:35-12:25 | Lunch |
+| 12:25-1:15 | Pum (Kindergarten) |
+| 1:15-2:10 | Autore (Grade 4) |
+| 2:15-3:05 | PLC Block |
+
+### FRIDAY / DAY 5
+
+| Time | Class Block |
+|------|-------------|
+| 9:00-9:50 | Flex Block |
+| 9:50-10:40 | Regelsberger (Grade 3) |
+| 10:45-11:35 | Pecora (Grade 5) |
+| 11:35-12:25 | Lunch |
+| 12:25-1:15 | Montgomery (Grade 1) |
+| 1:15-2:10 | Planning |
+| 2:15-3:05 | Tandoi (Grade 3) |
+
+---
+
 ## REVISED WEEKLY TEACHING SCHEDULE
 
 ### **MONDAY (Day 1 of Pine Brook Rotation)**
