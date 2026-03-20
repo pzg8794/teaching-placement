@@ -1,0 +1,88 @@
+# ⚪ 03-17 Lecture: Online Safety and Types of Robots
+
+**Color Code:** ⚪ Transcripts
+
+> **📌 What This Is:** Clean Markdown transcript for classroom, lesson, or teaching use.
+> **🧭 Start Here When:** You need the fuller transcript source behind the lesson notes.
+> **👀 Best Use:** Skim the timestamps and speaker sections first, then pull out the teaching moves, lesson flow, or class-management details you need.
+
+---
+
+## ⚡ Quick Scan
+
+- 📄 **Source TXT:** [03-17 Lecture_ Online Safety and Types of Robots-transcript.txt](./03-17 Lecture_ Online Safety and Types of Robots-transcript.txt)
+- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Lessons-Notes.md](../transcript-derived-lessons/Transcript-Derived-Lessons-Notes.md)
+- 📍 **Transcript Type:** Teaching / lesson / classroom note
+
+## 📝 Transcript
+
+### 00:00:04 · Speaker 1
+Put that. Unhealthy. It could be unhealthy. Is there anything else that fits on this one about if you're mean to someone on the internet? What do you think, Jonah? It hurts one's feelings. You're gonna hurt somebody's feelings. If you're mean to someone on the internet, you're gonna. Nobody wants to hurt someone's feelings. We want to be nice to people. We don't want to be mean to them. So that's why we got to make sure we follow that rule.
+### 00:00:34 · Speaker 1
+Rule number three: never share personal information online. Is that because it could be dangerous or unhealthy? It could hurt someone's feelings, or it could break the equipment. What do you think? Personal information online. Do you share personal information online? What? Personal information. Do we want to share it online? Why not? What happens if you break that rule? You'll get a lot. So you could break the equipment. You could break the equipment. Did you tell him, Simon? He wanted water. You could break the equipment. Now also, if you share personal information online, it could be dangerous or unhealthy too.
+### 00:01:33 · Speaker 1
+If you share your personal information, a grown-up could come steal you or steal your stuff at your house. You don't ever want to share personal information online. That's why we have to follow that rule. Rule number four: carry your computer with two hands. Is it because it could be dangerous? Could hurt somebody? Or it could break the equipment? What do you think? You could break your equipment. You gotta carry your Chromebook with two hands. That's the rule. Rule number five: walk, don't run while you're carrying your equipment. Dangerous or unhealthy: hurt someone's feelings or break the equipment. What do you think? They could break the equipment. They could break it now because this is the last one: only visit approved websites.
+### 00:02:32 · Speaker 1
+Not going on any old random website. Why is that? Because it could be dangerous or unhealthy, could hurt somebody's feelings, or it could break the equipment. What do you think? It definitely could break the equipment. If you go on a website, you could download a virus. If you go on a website that's not allowed. That's true. There could be viruses to get you. What else? What else up here could happen because of going on a website that you're not supposed to. It's not approved Danielle. Hey, there are twenty kids in this class. Not just the Joseph show Danielle. What do you think you could break the equipment if you go on bad websites, but what else?
+### 00:03:30 · Speaker 1
+Dangerous or unhealthy? You could read stuff you're not supposed to read or see videos you're not supposed to see. You have to make sure that you stay off unapproved websites. This one's definitely going to be "unsafe." Be truthful when talking about somebody else on the internet. Which one is this going to be? Is it dangerous? Is it going to hurt someone's feelings? Or are you going to break your pledge? If you're not truthful when you're talking about other people. What do you think, Kelsa? That's right. If you're telling lies on the internet, you're going to hurt somebody's feelings, and that's not good. I'm not going to pick who's the last one here. Who's the last one? Tell an adult if you see something that makes it uncomfortable online. Is it dangerous or unhealthy if you break that rule? Is it going to hurt someone's feelings or are you going to break.
+### 00:04:29 · Speaker 1
+This one's tricky because I think it's all of them. Guys, you got to follow these rules. You got to follow these rules when you're using the computer or else. If you do this, somebody could get hurt. Somebody's feelings could get hurt, or you could break your computer. You understand? Or your phone! Get up! Up! Up! You want to go this way here? You want to go this way on the.
+### 00:05:36 · Speaker 1
+Let's go the rock. Come on, everyone. Let's go the rock.
+### 00:06:10 · Speaker 2
+Today, we're diving into the exciting world of robots. From industrial machines to social helpers, robots are shaping the future of work and life in ways we could never have imagined. Let's break down the different types of robots and what they're designed to do. First up, we've got industrial robots. These are the heavy lifters of the manufacturing world. They're built for precision, reliability, and to work in high volume environments. Think robotic arms on assembly lines, welding robots, painting robots, and even material handling robots. They do all the repetitive tasks that humans used to do, but faster and more accurately. Next, we've got service robots designed to help us in everyday life outside of industrial settings.
+### 00:07:05 · Speaker 2
+Include things like robotic vacuums and lawnmowers, but they don't stop there. We also have health care robots, like those that assist in surgeries or even robots that deliver packages right to your doorstep. These robots make life easier, whether they're cleaning your house, assisting in hospitals or bringing food to your door.
+### 00:07:34 · Speaker 1
+Autonomous mobile robots or AMRs.
+### 00:08:05 · Speaker 1
+I did. Because you're all talking.
+### 00:08:10 · Speaker 2
+These robots are capable of moving around on their own using AI and sensors. These are the robots working in warehouses, like the ones you see in Amazon operations, or the ones driving autonomous vehicles like self-driving cars and drones. Then we have humanoid robots, robots that look and move like us. Meet Sophia, a social humanoid robot. Asimo is a robot that walks and interacts with people. These robots are used in research, entertainment, and customer service. Next, there are swarm robots. A group of small robots that work together as a team. Think of a swarm of drones or robots in search and rescue missions working together to complete tasks in ways no single robot could.
+### 00:09:03 · Speaker 2
+Then, we've got exploration robots designed for exploring places that are too dangerous or remote for humans. Like the Mars rovers, Curiosity and Perseverance, or underwater robots used for exploring the deep sea. These robots are equipped with sensors and tools to navigate harsh environments. Moving on to military robots designed to assist with high risk military operations. From surveillance drones to bomb disposal robots, these machines help protect lives by reducing human exposure to danger. For all the future engineers and coders out there, we have educational robots. These robots, like Lego Mindstorms and VEX Robotics, help students learn coding and robotics by letting them build, program, and interact with real robots. Let's talk about collaborative robots.
+### 00:10:02 · Speaker 2
+Or cobots. These robots are designed to work alongside humans. Cobots like Universal Robots work with people in manufacturing environments, helping with tasks while ensuring safety with sensors to avoid accidents. Next, we've got social robots. These robots are all about interaction and communication. Robots like Pepper are designed to interact with people in public spaces. Robots like Jibo are built for the home; they recognize voices, emotions and help make life a little more fun and connected. Moving to agriculture, we have agricultural robots designed to improve farming efficiency. These robots help with tasks like planting, harvesting and even spraying pesticides, making farming more sustainable and less reliant on human labor.
+### 00:10:59 · Speaker 2
+Lastly, we have inspection robots. These robots are used in hard to reach or hazardous locations for inspection and maintenance. Whether it's checking pipelines, inspecting bridges, or monitoring nuclear plants, these robots help assess conditions safely. As you can see, robots come in all shapes and sizes, each designed for specific tasks to improve our world. And with advancements in technology, the future of robotics is looking more exciting than ever. Thanks for watching. Don't forget to like, comment, and subscribe for more cool tech content. See you in the next video.
+### 00:11:47 · Speaker 1
+Like, comment, and subscribe! Is it gonna take me? So boys and girls, we don't have enough time today. But next time you guys come in here, we're going to watch this video again, and you and your partner. Where are you going? Stay there. You're going to be the last one though. You and your partner are going to build one of those kinds of robots. You need to be able to tell me what kind of robot it is and what it's for.
+### 00:12:25 · Speaker 1
+So you can't just build a random robot and say this is my robot. You need to watch the show, the video, choose a type of robot, and then decide what the robot would be used for. So we'll do that next time.
+### 00:14:01 · Speaker 1
+Everybody ready for the first day of school tomorrow? What's important before your first day of school? A good night's sleep. I love you. Good night. See you in the morning. Good night, Dad. Good night. One two, three, four, five step by step express route dreamland bedtime routine step one.
+### 00:14:31 · Speaker 1
+Good night everybody. Looks like secret mom and pop ice cream time can start a little early tonight. It's on. Stu, step one, get dressed for bed. All done. Now for step two, tooth brushing time.
+### 00:15:01 · Speaker 1
+Step four, taking nighttime stuffies and you too. Good night, Ricky. Good night, Clover. And good night to you. Step five is bedtime story time. Ready?
+### 00:15:33 · Speaker 1
+The world.
+### 00:16:03 · Speaker 1
+I am. I can't find the sweet. I think that I know who missed a step, but my never failed one kid drink all my stuff. I get a lot of soda and a candy. It's pretty good. First step is getting your brain out, so the second ingredient is going to be tea. All three ingredients are in here because it was on the list right here because that's what we're going to do now. We're going to make some coffee now. Cherry! That color doesn't work for me. Vicki. Oh no.
+### 00:17:33 · Speaker 1
+Dad! I can't sleep because I didn't say goodnight to Shiloh. Your elephant, Stuffy? Have you seen her? Did you check your room? I'm here! Hi, Shiloh! Are you fine? She is! Shiloh! Thanks for letting me sleep too. But I hate her. That was a close one. You can say that again. Ugh, three boxcars. You're awake too? You woke me up moving around the room. Sorry, I couldn't find Jamiah! But here she is! Good night! Good night! Four boxcars. Five. Six. That was quick.
+### 00:18:32 · Speaker 1
+Good night, Rikki. Good night, Jamaya. Ooh! I know we're gonna read our words for Bible time. Then time for story time. Should we get a different book that's not about a ballerina squirrel? It's just too funny.
+### 00:19:33 · Speaker 1
+Calm down. When you leave for college, what if my new class has a pet fish that I'll need to care for? Good thinking ahead. I keep it close in case of an emergency. Thanks! I sure hope this helps me fall asleep. When I can't sleep, I listen to music or ocean sounds or nature sounds. That's not a good thing.
+### 00:20:38 · Speaker 1
+Only be fed once a day to prevent overheating.
+### 00:21:08 · Speaker 1
+I have no. I just say go to your table and go to your last class when I take go to your table. Whoever is talking, they have to have the laptop open. I'm not going to line them up. So I want to get laptops closed and I want to get laptops closed. And no talking and I'm going to line them up. Laptops closed. We're going to do this again.
+### 00:22:06 · Speaker 1
+You can go line up. Excuse me, can you hold that up? I'll put you right here. Just make everyone else wait. How are you doing? I miss Denver so much.
+### 00:22:37 · Speaker 1
+I want to be. I think I need to be.
+### 00:23:10 · Speaker 1
+I know everyone.
+### 00:23:39 · Speaker 1
+You repeat.
+### 00:24:10 · Speaker 1
+I didn't do nothing. We're not going anywhere until I see a straight, quiet line. That's not how my class behaves.
+### 00:24:40 · Speaker 1
+We're sitting in silence. How old are you? No. If you're going to behave like that, no snack. Skip it. So instead, close your mouth, fold your computer, walk down yellow room, walk down blue. Go down blue. Do not talk in the hallway. I don't want to hear anything about pushing and crowding and none of it. Where's your computer Jayla? He's doing. Girl how do you feel knowing that you didn't leave the room? Do you like some funny girl? What? Did you bring it to the front? I couldn't find. Who's your teacher? Barkley. Thank you so much. Barkley. Is Ava Glanton in your class? She's not in my class. Rashawn Williams, the man, the myth.
+### 00:25:50 · Speaker 1
+Can it get better? The situation.
+### 00:26:20 · Speaker 1
+How are you feeling right now? One of those days. My goodness.
