@@ -1,5 +1,7 @@
 # Letter of Expectations — Student Teaching Internship (Spring 2026)
 
+**Color Code:** 🟥 Shared with SBTE
+
 **Candidate:** Piter Garcia (Computer Science & Inclusion Certification)
 
 **Placement Site:** Pine Brook Elementary (Greece Central School District) — IGNITE Program

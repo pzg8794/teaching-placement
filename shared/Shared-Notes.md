@@ -1,5 +1,7 @@
 # Shared Notes
 
+**Color Code:** 🌐 Shared Workspace
+
 Only this `shared/` tree is intended for Git tracking and outward distribution.
 
 - [SBTE share folder](./sbte/SBTE-Notes.md)

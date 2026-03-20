@@ -1,5 +1,7 @@
 # Collaborators Notes
 
+**Color Code:** 🟪 Shared with Collaborators
+
 This folder is reserved for items you can share with classmates, professors, and contributors.
 
 ## Lesson Plans

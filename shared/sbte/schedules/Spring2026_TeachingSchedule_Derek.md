@@ -1,4 +1,6 @@
 # Spring 2026 Teaching Schedule for Pine Brook Elementary
+
+**Color Code:** 🟥 Shared with SBTE
 **Piter Garcia | Computer Science & Inclusion Certification**
 
 ---

@@ -1,5 +1,7 @@
 # SBTE Notes
 
+**Color Code:** 🟥 Shared with SBTE
+
 This folder is reserved for documents appropriate to share with your SBTE.
 
 ## Expectations

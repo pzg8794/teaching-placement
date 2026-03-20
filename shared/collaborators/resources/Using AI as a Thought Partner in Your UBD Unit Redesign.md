@@ -1,5 +1,7 @@
 # **Using AI as a Thought Partner in Your UBD Unit Redesign**
 
+**Color Code:** 🟪 Shared with Collaborators
+
 ### ***Sample Prompts for Stages 1–3 \+ Iterative Design***
 
 We will explore using AI as a thought partner in the redesign of a unit that takes advantage of technology to support learning. Specifically, we will use HiTA a tool developed by researchers at the University of Colorado Mining School. To access HiTA you will need to follow these steps:
