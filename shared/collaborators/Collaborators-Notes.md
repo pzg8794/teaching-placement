@@ -2,12 +2,21 @@
 
 This folder is reserved for items you can share with classmates, professors, and contributors.
 
-## Lessons
+## Lesson Plans
 
-- [Minecraft CS module DOCX](./lessons/minecraft_cs_module_warner.docx)
-- [Minecraft CS module PDF](./lessons/minecraft_cs_module_warner.pdf)
-- [Block Coding with Bees notes](./lessons/23.Block%20Coding%20with%20Bees.md)
-- [Block Coding with Bees PDF](./lessons/23-Block-Coding-with-Bees.pdf)
+### Minecraft CS module
+
+- [Lesson plan directory](./lesson-plans/minecraft_cs_module_warner/)
+- [DOCX](./lesson-plans/minecraft_cs_module_warner/minecraft_cs_module_warner.docx)
+- [PDF](./lesson-plans/minecraft_cs_module_warner/minecraft_cs_module_warner.pdf)
+- [LaTeX source](./lesson-plans/minecraft_cs_module_warner/minecraft_cs_module_warner.tex)
+
+### Block Coding with Bees
+
+- [Lesson plan directory](./lesson-plans/23-block-coding-with-bees/)
+- [Notes](./lesson-plans/23-block-coding-with-bees/23.Block%20Coding%20with%20Bees.md)
+- [PDF](./lesson-plans/23-block-coding-with-bees/23-Block-Coding-with-Bees.pdf)
+- [LaTeX source](./lesson-plans/23-block-coding-with-bees/23-Block-Coding-with-Bees.tex)
 
 ## Shared references
 

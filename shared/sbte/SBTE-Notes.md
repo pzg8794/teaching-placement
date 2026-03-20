@@ -11,10 +11,14 @@ This folder is reserved for documents appropriate to share with your SBTE.
 
 - [Spring 2026 teaching schedule](./schedules/Spring2026_TeachingSchedule_Derek.md)
 
-## Lessons
+## Lesson Plans
 
-- [Minecraft CS module DOCX](./lessons/minecraft_cs_module_warner.docx)
-- [Minecraft CS module PDF](./lessons/minecraft_cs_module_warner.pdf)
+### Minecraft CS module
+
+- [Lesson plan directory](./lesson-plans/minecraft_cs_module_warner/)
+- [DOCX](./lesson-plans/minecraft_cs_module_warner/minecraft_cs_module_warner.docx)
+- [PDF](./lesson-plans/minecraft_cs_module_warner/minecraft_cs_module_warner.pdf)
+- [LaTeX source](./lesson-plans/minecraft_cs_module_warner/minecraft_cs_module_warner.tex)
 
 ## Reference packet
 
