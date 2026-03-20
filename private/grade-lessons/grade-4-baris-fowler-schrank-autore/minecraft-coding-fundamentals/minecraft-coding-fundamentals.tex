@@ -1,44 +1,177 @@
 \documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 \usepackage[margin=1in]{geometry}
 \usepackage{hyperref}
 \usepackage{enumitem}
+\hypersetup{colorlinks=true,linkcolor=black,urlcolor=blue,citecolor=blue}
 \title{Minecraft Coding Fundamentals}
 \author{Piter Garcia}
-\date{\today}
+\date{March 20, 2026}
 \begin{document}
 \maketitle
+\section*{Packet Use}
+This printable lesson packet is generated from the paired Markdown guide. The Markdown version remains the clickable, neurodivergent-friendly working copy; this PDF carries the same lesson substance in a formal handout format. Evidence claims in this packet are based on transcript-derived lesson notes and the cleaned transcript files in this workspace.
 
-\section*{Grade and Class Match}
-\textbf{Grade:} Grade 4\\
-\textbf{Likely blocks:} Day 1 · 1:15-2:10 · Baris; Day 2 · 1:15-2:10 · Fowler; Day 3 · 1:15-2:10 · Schrank; Day 4 · 1:15-2:10 · Autore
-
-\section*{Lesson Focus}
-Minecraft Education setup, agent coding, challenge progression, and debugging.
-
-\section*{Learning Targets}
+\section*{Quick Scan}
 \begin{itemize}[leftmargin=*]
-\item Students enter the correct Minecraft coding world and follow setup steps.
-\item Students use agent commands to solve a coding challenge.
-\item Students debug a failed attempt and explain the fix.
+\item \textbf{Grade:} Grade 4
+\item \textbf{Grade Hub:} Notes [../grade-4-Notes.md]
+\item \textbf{Schedule Reference:} Spring2026\_TeachingSchedule\_Derek.md [../../school/Spring2026\_TeachingSchedule\_Derek.md]
+\item \textbf{Workbook Sheet:} \texttt{4th} in \texttt{Teaching\_Placement-IGNITE Curriculum\_ GCSD25-26.xlsx}
+\item \textbf{Lesson Focus:} Students enter Minecraft Education coding worlds, use block code to control the agent, solve challenge levels, and debug why a solution fails.
+\item \textbf{CS Alignment Strength:} Strong CS lesson
+\item \textbf{LaTeX Source:} minecraft-coding-fundamentals.tex [./minecraft-coding-fundamentals.tex]
+\item \textbf{Bib File:} minecraft-coding-fundamentals.bib [./minecraft-coding-fundamentals.bib]
+\item \textbf{Artifacts Folder:} artifacts/ [./artifacts/]
 \end{itemize}
 
-\section*{Materials}
+\section*{Lesson Identity}
+\begin{itemize}[leftmargin=*]
+\item \textbf{Likely Class Blocks:} Day 1 -- 1:15-2:10 -- Baris, Day 2 -- 1:15-2:10 -- Fowler, Day 3 -- 1:15-2:10 -- Schrank, Day 4 -- 1:15-2:10 -- Autore
+\item \textbf{Main Lesson Family:} Minecraft Coding Fundamentals
+\item \textbf{Primary Evidence Base:} Transcript-derived notes plus source transcripts from this teaching-placement workspace.
+\item \textbf{Primary External Source Type:} Official curriculum/provider materials.
+\end{itemize}
+
+\section*{What We Are Teaching}
+\begin{itemize}[leftmargin=*]
+\item navigating Minecraft Education into the correct coding world
+\item using sequences, loops, and challenge-specific agent commands
+\item reading the task objective and translating it into code steps
+\item debugging timing, movement, and dual-goal challenges
+\end{itemize}
+
+\section*{CS Standards Alignment}
+\begin{itemize}[leftmargin=*]
+\item \textbf{1B-AP-10}: Create programs that include sequences, events, loops, and conditionals. Why it fits here: Students solve levels by assembling block code for the Minecraft agent.
+\item \textbf{1B-AP-11}: Decompose problems into smaller, manageable subproblems. Why it fits here: Students break a level into movement, turning, timing, and agent tasks.
+\item \textbf{1B-AP-15}: Test and debug a program or algorithm to ensure it runs as intended. Why it fits here: Debugging is explicit in the transcripts and in the official challenge structure.
+\end{itemize}
+
+\section*{NYS / Local Curriculum Alignment}
+\begin{itemize}[leftmargin=*]
+\item Aligned to the local Grade 4 workbook and class sequence for Minecraft-based coding, internet safety, and standards-linked challenge work.
+\item Supports New York-facing digital fluency and problem-solving goals through structured computational tasks rather than open build time.
+\item This packet is a core CS lesson family because the transcript evidence shows the teacher explicitly separating “lesson mode” from free building and tying the work to required standards.
+\end{itemize}
+
+\section*{Lesson Content and Concepts}
+\begin{itemize}[leftmargin=*]
+\item sequence
+\item loop
+\item agent
+\item debugging
+\item timed challenge
+\item world navigation
+\end{itemize}
+
+\section*{Evidence / Proof of Instruction}
+\begin{itemize}[leftmargin=*]
+\item \textbf{Transcript-derived note:} 260302 Grade 4 Baris Minecraft Test [../../transcript-derived-lessons/260302-grade-4-baris-minecraft-test.md] The note shows the teacher explicitly explaining that Minecraft time should move from building to standards-based coding lessons.
+\item \textbf{Transcript-derived note:} 260313 Grade 4 Baris Minecraft Fundamentals [../../transcript-derived-lessons/260313-grade-4-baris-minecraft-fundamentals.md] The lesson note captures the coding-world entry path, agent control, and repeated troubleshooting moves.
+\item \textbf{Transcript-derived note:} 260312 Grade 4 Baris Agent Challenge [../../transcript-derived-lessons/260312-grade-4-baris-agent-challenge.md] The challenge note documents timed dual-plate activation, debugging, and loop-based progression.
+\item \textbf{Source transcript:} 260313 Grade 4 Baris Minecraft Fundamentals [../../transcripts/260313-grade-4-baris-minecraft-fundamentals.md] The transcript records menu navigation to Computer Science > Block Coding > Upper Primary > Coding Fundamentals 1, along with repeated reminders to read directions and follow the lesson world.
+\item \textbf{Source transcript:} 260302 Grade 4 Baris Minecraft Test [../../transcripts/260302-grade-4-baris-minecraft-test.md] The transcript records the teacher saying the goal is to use Minecraft to teach coding, internet safety, and standards, not simply to let students build.
+\item \textbf{Likely student proof:} World-entry success, completed agent challenges, debugged code, screenshots, and level completion all serve as proof that the CS content was taught.
+\end{itemize}
+
+\section*{Assessment Evidence}
+\begin{itemize}[leftmargin=*]
+\item Student enters the correct world and lesson with reduced support.
+\item Student uses agent code to solve at least one structured challenge.
+\item Student can explain a bug and the change that fixed it.
+\item Student distinguishes lesson-based coding from free build time.
+\end{itemize}
+
+\section*{UDL and Inclusion Supports}
+\subsection*{Multiple Representation}
+\begin{itemize}[leftmargin=*]
+\item Project the exact menu path and keep it visible during startup.
+\item Use one shared visual for command vocabulary such as move, turn, loop, and agent.
+\item Show the objective and the success condition before students start coding.
+\end{itemize}
+
+\subsection*{Multiple Action / Expression}
+\begin{itemize}[leftmargin=*]
+\item Allow students to plan with arrows or pseudocode before placing blocks.
+\item Use partners strategically so one student navigates while the other checks directions.
+\item Provide a “help checkpoint” routine: read objective, test one block, ask after trying one fix.
+\end{itemize}
+
+\subsection*{Multiple Engagement}
+\begin{itemize}[leftmargin=*]
+\item Use challenge progression and visible level goals to sustain attention.
+\item Normalize being stuck as part of coding, especially in the boss-level and timed tasks.
+\item Keep free-build desires acknowledged but separated from the current lesson purpose.
+\end{itemize}
+
+\section*{How We Are Already Making It Inclusive}
+\begin{itemize}[leftmargin=*]
+\item Transcript evidence shows strong teacher modeling of sign-in and world navigation.
+\item The teacher repeatedly re-centers students on reading directions, which supports students who otherwise rush into trial-and-error.
+\item Pairing and quiet-wait expectations are already used to manage support demand and help students stay in the lesson flow.
+\end{itemize}
+
+\section*{How to Improve Inclusion Next Time}
+\begin{itemize}[leftmargin=*]
+\item Add printed startup cards with screenshots for the login and lesson path.
+\item Create one low-floor entry task and one stretch task inside the same packet so students do not bottleneck at the same point.
+\item Add a debug log page students can mark with “what I tried” and “what changed.”
+\item Save screenshots of completed levels, common bugs, and successful fixes in \texttt{artifacts/} as proof of teaching.
+\end{itemize}
+
+\section*{Materials and Setup}
 \begin{itemize}[leftmargin=*]
 \item Student devices
-\item Minecraft Education
-\item Projected modeling screen
+\item Minecraft Education installed and updated
+\item Projector / modeling screen
+\item World access or library setup
+\item Printed startup / debug cards
 \end{itemize}
 
-\section*{Suggested Lesson Flow}
-\begin{enumerate}[leftmargin=*]
-\item Open with the exact device, tool, or routine students need in order to start successfully.
-\item Model one example task before students begin independent or partner work.
-\item Give students time to build, code, design, or document their work while circulating for support.
-\item Close with a short share-out, reflection, or debugging discussion.
-\end{enumerate}
+\section*{Teacher Moves / Script / Routines}
+\begin{itemize}[leftmargin=*]
+\item Start by naming the lesson purpose and separating it from free build mode.
+\item Model the exact clicks to reach the lesson world, then pause for students to mirror.
+\item Require students to read the challenge objective before placing blocks.
+\item Stop mid-lesson to share one debugging pattern that is working.
+\item Close with a brief reflection on the challenge, bug, and fix.
+\end{itemize}
 
-\section*{Source Notes}
-This lesson packet is enriched with transcript-derived lesson notes, the school schedule roster, and official starting-point resources. See the paired Markdown guide for clickable links.
+\section*{Common Errors and Debugging}
+\begin{itemize}[leftmargin=*]
+\item Students may get lost in sign-in or library navigation before reaching the lesson.
+\item Students may ignore written directions and brute-force the level.
+\item Timed or dual-goal levels can overload students if they do not break the task into parts.
+\item Some students may confuse avatar movement and agent movement.
+\end{itemize}
+
+\section*{Extensions and Simplifications}
+\begin{itemize}[leftmargin=*]
+\item Extension: ask students to optimize a working solution with fewer blocks or more elegant loop use.
+\item Simplification: provide a partially completed block stack or a paper path plan first.
+\item Extension: add a reflection comparing two different solutions to the same level.
+\item Simplification: assign a fixed partner role split for navigation, coding, and checking.
+\end{itemize}
+
+\section*{Related Local Materials}
+\begin{itemize}[leftmargin=*]
+\item Minecraft CS Module Notes [../../lessons/minecraft\_cs\_module\_warner/Minecraft-CS-Module-Notes.md]
+\end{itemize}
+
+\section*{Artifacts Checklist}
+\begin{itemize}[leftmargin=*]
+\item Compiled lesson PDF in \texttt{artifacts/}
+\item At least one screenshot, student example, or setup photo
+\item One short assessment or observation record
+\item Updated standards/source bibliography once the \texttt{.bib} file is revised
+\item Any teacher reflection or revision notes after reteaching
+\end{itemize}
+
+\section*{Selected Official Sources}
+Selected official sources that informed this packet are listed below.
+ocite{*}
 
 \bibliographystyle{plain}
 \bibliography{minecraft-coding-fundamentals}

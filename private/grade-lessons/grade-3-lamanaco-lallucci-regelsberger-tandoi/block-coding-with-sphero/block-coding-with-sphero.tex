@@ -1,44 +1,170 @@
 \documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 \usepackage[margin=1in]{geometry}
 \usepackage{hyperref}
 \usepackage{enumitem}
+\hypersetup{colorlinks=true,linkcolor=black,urlcolor=blue,citecolor=blue}
 \title{Block Coding with Sphero}
 \author{Piter Garcia}
-\date{\today}
+\date{March 20, 2026}
 \begin{document}
 \maketitle
+\section*{Packet Use}
+This printable lesson packet is generated from the paired Markdown guide. The Markdown version remains the clickable, neurodivergent-friendly working copy; this PDF carries the same lesson substance in a formal handout format. Evidence claims in this packet are based on transcript-derived lesson notes and the cleaned transcript files in this workspace.
 
-\section*{Grade and Class Match}
-\textbf{Grade:} Grade 3\\
-\textbf{Likely blocks:} Day 3 · 9:50-10:40 · Lamanaco; Day 4 · 9:50-10:40 · Lallucci; Day 5 · 9:50-10:40 · Regelsberger; Day 5 · 2:15-3:05 · Tandoi
-
-\section*{Lesson Focus}
-Block-based robot programming with movement, aiming, loops, and safety expectations.
-
-\section*{Learning Targets}
+\section*{Quick Scan}
 \begin{itemize}[leftmargin=*]
-\item Students connect to the correct robot and identify its controls.
-\item Students create a short movement program using a loop.
-\item Students follow equipment and partner expectations.
+\item \textbf{Grade:} Grade 3
+\item \textbf{Grade Hub:} Notes [../grade-3-Notes.md]
+\item \textbf{Schedule Reference:} Spring2026\_TeachingSchedule\_Derek.md [../../school/Spring2026\_TeachingSchedule\_Derek.md]
+\item \textbf{Workbook Sheet:} \texttt{3rd} in \texttt{Teaching\_Placement-IGNITE Curriculum\_ GCSD25-26.xlsx}
+\item \textbf{Lesson Focus:} Students pair robots, create movement programs, use loops for repeated motion, and debug route accuracy through floor-based challenges.
+\item \textbf{CS Alignment Strength:} Strong CS lesson
+\item \textbf{LaTeX Source:} block-coding-with-sphero.tex [./block-coding-with-sphero.tex]
+\item \textbf{Bib File:} block-coding-with-sphero.bib [./block-coding-with-sphero.bib]
+\item \textbf{Artifacts Folder:} artifacts/ [./artifacts/]
 \end{itemize}
 
-\section*{Materials}
+\section*{Lesson Identity}
 \begin{itemize}[leftmargin=*]
-\item Sphero robots
+\item \textbf{Likely Class Blocks:} Day 3 -- 9:50-10:40 -- Lamanaco, Day 4 -- 9:50-10:40 -- Lallucci, Day 5 -- 9:50-10:40 -- Regelsberger, Day 5 -- 2:15-3:05 -- Tandoi
+\item \textbf{Main Lesson Family:} Block Coding with Sphero
+\item \textbf{Primary Evidence Base:} Transcript-derived notes plus source transcripts from this teaching-placement workspace.
+\item \textbf{Primary External Source Type:} Official curriculum/provider materials.
+\end{itemize}
+
+\section*{What We Are Teaching}
+\begin{itemize}[leftmargin=*]
+\item pairing and aiming a robot
+\item sequencing movement blocks into a route
+\item using loops or repeated structures to shorten code
+\item debugging distance, direction, and timing
+\end{itemize}
+
+\section*{CS Standards Alignment}
+\begin{itemize}[leftmargin=*]
+\item \textbf{1B-AP-10}: Create programs that include sequences, events, loops, and conditionals. Why it fits here: Students build working movement programs with repeated structures.
+\item \textbf{1B-AP-11}: Decompose problems into smaller, manageable subproblems. Why it fits here: Students break the route into single moves before combining them.
+\item \textbf{1B-AP-15}: Test and debug a program or algorithm to ensure it runs as intended. Why it fits here: Students repeatedly test, adjust, and rerun their robot code.
+\end{itemize}
+
+\section*{NYS / Local Curriculum Alignment}
+\begin{itemize}[leftmargin=*]
+\item Aligned to the local Grade 3 IGNITE robotics sequence in the workbook and schedule.
+\item Supports New York-facing computational thinking and collaborative problem solving through route planning, testing, and revision.
+\item This is a core CS packet because the content centers on algorithm design, repeated patterns, and debugging.
+\end{itemize}
+
+\section*{Lesson Content and Concepts}
+\begin{itemize}[leftmargin=*]
+\item sequence
+\item loop
+\item debugging
+\item robot control
+\item decomposition
+\end{itemize}
+
+\section*{Evidence / Proof of Instruction}
+\begin{itemize}[leftmargin=*]
+\item \textbf{Transcript-derived note:} 260227 Grade 3 Lamanaco Sphero Loops [../../transcript-derived-lessons/260227-grade-3-lamanaco-sphero-loops.md] The lesson note explicitly names pairing, loops, square movement, aiming, and safety.
+\item \textbf{Transcript-derived note:} 260227 Grade 3 Lamanaco Block Coding [../../transcript-derived-lessons/260227-grade-3-lamanaco-block-coding.md] The additional note shows the same lesson family emphasized core block coding rather than one isolated challenge.
+\item \textbf{Transcript-derived note:} 260306 Grade 3 Lamanaco Square Maze [../../transcript-derived-lessons/260306-grade-3-lamanaco-square-maze.md] Later transcripts show students applying the same logic to more precise route and maze navigation tasks.
+\item \textbf{Source transcript:} 260227 Grade 3 Lamanaco Sphero Loops [../../transcripts/260227-grade-3-lamanaco-sphero-loops.md] The source transcript records teacher language around loops, pairing, and safety while students work in robot pairs.
+\item \textbf{Likely student proof:} Working square paths, looped code blocks, debug revisions, and safe partner management are direct evidence of instruction.
+\end{itemize}
+
+\section*{Assessment Evidence}
+\begin{itemize}[leftmargin=*]
+\item Student pairs the correct robot and keeps it under control.
+\item Student writes a movement sequence that completes the task or gets close enough to debug.
+\item Student can explain one fix they made after testing.
+\end{itemize}
+
+\section*{UDL and Inclusion Supports}
+\subsection*{Multiple Representation}
+\begin{itemize}[leftmargin=*]
+\item Model the route on the floor and on screen before coding.
+\item Use arrows, distance markers, and turn visuals.
+\item Show one buggy program and one corrected version side by side.
+\end{itemize}
+
+\subsection*{Multiple Action / Expression}
+\begin{itemize}[leftmargin=*]
+\item Allow coding by dragging blocks, pointing to a route card, or verbally sequencing for a partner.
+\item Use clearly assigned pair roles: coder, launcher, observer, recorder.
+\item Give students a printed planning strip before the digital build.
+\end{itemize}
+
+\subsection*{Multiple Engagement}
+\begin{itemize}[leftmargin=*]
+\item Use robot motion as immediate feedback for effort and revision.
+\item Keep challenges short enough for multiple retry cycles.
+\item Frame debugging as the normal path to success.
+\end{itemize}
+
+\section*{How We Are Already Making It Inclusive}
+\begin{itemize}[leftmargin=*]
+\item Transcript evidence shows teacher modeling before student handling of the robots.
+\item Partner structures were already present, which supports participation for students who need shared problem solving.
+\item The lesson used physical movement and visible outcomes, which lowers abstraction load.
+\end{itemize}
+
+\section*{How to Improve Inclusion Next Time}
+\begin{itemize}[leftmargin=*]
+\item Add route mats with start/end icons and numbered steps.
+\item Create a quiet-observer role for students who need to participate without launching every round.
+\item Build a common error wall with examples like overshoot, wrong angle, and unpaired robot.
+\item Store route photos and code screenshots in \texttt{artifacts/} as proof.
+\end{itemize}
+
+\section*{Materials and Setup}
+\begin{itemize}[leftmargin=*]
+\item Sphero robots and chargers
 \item Student devices
-\item Floor path or challenge space
+\item Floor route or taped path
+\item Planning strips or dry-erase route cards
 \end{itemize}
 
-\section*{Suggested Lesson Flow}
-\begin{enumerate}[leftmargin=*]
-\item Open with the exact device, tool, or routine students need in order to start successfully.
-\item Model one example task before students begin independent or partner work.
-\item Give students time to build, code, design, or document their work while circulating for support.
-\item Close with a short share-out, reflection, or debugging discussion.
-\end{enumerate}
+\section*{Teacher Moves / Script / Routines}
+\begin{itemize}[leftmargin=*]
+\item Model pairing and aiming before any free handling begins.
+\item Have students predict the route before launch.
+\item Stop midway to compare a long program and a looped version.
+\item Close with a debug story: what failed and what changed.
+\end{itemize}
 
-\section*{Source Notes}
-This lesson packet is enriched with transcript-derived lesson notes, the school schedule roster, and official starting-point resources. See the paired Markdown guide for clickable links.
+\section*{Common Errors and Debugging}
+\begin{itemize}[leftmargin=*]
+\item Students may skip pairing steps and blame the code.
+\item Distance and angle errors can look like conceptual failure when they are calibration issues.
+\item Partner imbalance can leave one student passive without role structure.
+\end{itemize}
+
+\section*{Extensions and Simplifications}
+\begin{itemize}[leftmargin=*]
+\item Extension: compare two possible solutions and justify which is more efficient.
+\item Simplification: reduce the task to one turn and one forward move repeated.
+\item Extension: add an event or sensor-based trigger after the movement pattern works.
+\end{itemize}
+
+\section*{Related Local Materials}
+\begin{itemize}[leftmargin=*]
+\item Block Coding with Bees materials [../../lessons/23-Block-Coding-with-Bees/23-Block-Coding-with-Bees-Notes.md]
+\end{itemize}
+
+\section*{Artifacts Checklist}
+\begin{itemize}[leftmargin=*]
+\item Compiled lesson PDF in \texttt{artifacts/}
+\item At least one screenshot, student example, or setup photo
+\item One short assessment or observation record
+\item Updated standards/source bibliography once the \texttt{.bib} file is revised
+\item Any teacher reflection or revision notes after reteaching
+\end{itemize}
+
+\section*{Selected Official Sources}
+Selected official sources that informed this packet are listed below.
+ocite{*}
 
 \bibliographystyle{plain}
 \bibliography{block-coding-with-sphero}

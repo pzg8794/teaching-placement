@@ -1,44 +1,169 @@
 \documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 \usepackage[margin=1in]{geometry}
 \usepackage{hyperref}
 \usepackage{enumitem}
+\hypersetup{colorlinks=true,linkcolor=black,urlcolor=blue,citecolor=blue}
 \title{Robot Logic and Conditional Coding}
 \author{Piter Garcia}
-\date{\today}
+\date{March 20, 2026}
 \begin{document}
 \maketitle
+\section*{Packet Use}
+This printable lesson packet is generated from the paired Markdown guide. The Markdown version remains the clickable, neurodivergent-friendly working copy; this PDF carries the same lesson substance in a formal handout format. Evidence claims in this packet are based on transcript-derived lesson notes and the cleaned transcript files in this workspace.
 
-\section*{Grade and Class Match}
-\textbf{Grade:} Grade 5\\
-\textbf{Likely blocks:} Day 2 · 10:45-11:35 · Pickett; Day 3 · 10:45-11:35 · McGlashon; Day 5 · 10:45-11:35 · Pecora
-
-\section*{Lesson Focus}
-Conditional logic, event-based behavior, and partner debugging in robotics.
-
-\section*{Learning Targets}
+\section*{Quick Scan}
 \begin{itemize}[leftmargin=*]
-\item Students use conditional or event-based structures in robot code.
-\item Students explain how a program changes based on the condition or trigger.
-\item Students debug a challenge with a partner.
+\item \textbf{Grade:} Grade 5
+\item \textbf{Grade Hub:} Notes [../grade-5-Notes.md]
+\item \textbf{Schedule Reference:} Spring2026\_TeachingSchedule\_Derek.md [../../school/Spring2026\_TeachingSchedule\_Derek.md]
+\item \textbf{Workbook Sheet:} \texttt{5th} in \texttt{Teaching\_Placement-IGNITE Curriculum\_ GCSD25-26.xlsx}
+\item \textbf{Lesson Focus:} Students move from basic robot control to conditional logic, using sensors, events, or logic choices to change what the robot does.
+\item \textbf{CS Alignment Strength:} Strong CS lesson
+\item \textbf{LaTeX Source:} robot-logic-and-conditional-coding.tex [./robot-logic-and-conditional-coding.tex]
+\item \textbf{Bib File:} robot-logic-and-conditional-coding.bib [./robot-logic-and-conditional-coding.bib]
+\item \textbf{Artifacts Folder:} artifacts/ [./artifacts/]
 \end{itemize}
 
-\section*{Materials}
+\section*{Lesson Identity}
 \begin{itemize}[leftmargin=*]
-\item Robots
+\item \textbf{Likely Class Blocks:} Day 2 -- 10:45-11:35 -- Pickett, Day 3 -- 10:45-11:35 -- McGlashon, Day 5 -- 10:45-11:35 -- Pecora
+\item \textbf{Main Lesson Family:} Robot Logic and Conditional Coding
+\item \textbf{Primary Evidence Base:} Transcript-derived notes plus source transcripts from this teaching-placement workspace.
+\item \textbf{Primary External Source Type:} Official curriculum/provider materials.
+\end{itemize}
+
+\section*{What We Are Teaching}
+\begin{itemize}[leftmargin=*]
+\item what a condition means in code
+\item how robot behavior changes when a condition is true or false
+\item how to compare a simple sequence with a logic-driven program
+\item how to debug conditional branches and trigger conditions
+\end{itemize}
+
+\section*{CS Standards Alignment}
+\begin{itemize}[leftmargin=*]
+\item \textbf{1B-AP-10}: Create programs that include sequences, events, loops, and conditionals. Why it fits here: The lesson explicitly targets conditional logic in robot programming.
+\item \textbf{1B-AP-11}: Decompose problems into smaller, manageable subproblems. Why it fits here: Students separate condition, action, and test case while planning the task.
+\item \textbf{1B-AP-15}: Test and debug a program or algorithm to ensure it runs as intended. Why it fits here: Students must test both branches or outcomes of the condition.
+\end{itemize}
+
+\section*{NYS / Local Curriculum Alignment}
+\begin{itemize}[leftmargin=*]
+\item Aligned to the local Grade 5 robotics sequence in the workbook and schedule.
+\item Supports New York-facing problem solving and computational reasoning through branching logic and debugging.
+\item This lesson is a strong CS packet because students are no longer only sequencing movement; they are reasoning about logic and alternate outcomes.
+\end{itemize}
+
+\section*{Lesson Content and Concepts}
+\begin{itemize}[leftmargin=*]
+\item conditional
+\item branching
+\item sensor input
+\item test case
+\item debugging
+\end{itemize}
+
+\section*{Evidence / Proof of Instruction}
+\begin{itemize}[leftmargin=*]
+\item \textbf{Transcript-derived note:} 260227 Grade 4 5 Shared Conditional Sphero [../../transcript-derived-lessons/260227-grade-4-5-shared-conditional-sphero.md] The shared Grade 4-5 note explicitly frames the work as conditional coding with Sphero robots.
+\item \textbf{Transcript-derived note:} 260313 Mixed Shared Sphero Minecraft [../../transcript-derived-lessons/260313-mixed-shared-sphero-minecraft.md] Later mixed notes show students working across robot logic and Minecraft-style command thinking, reinforcing the logic focus.
+\item \textbf{Source transcript:} 260227 Grade 4 5 Shared Conditional Sphero [../../transcripts/260227-grade-4-5-shared-conditional-sphero.md] The source transcript supports that conditions and robot responses were taught explicitly, not inferred later.
+\item \textbf{Likely student proof:} Robot runs that behave differently based on a sensor or condition, plus explained fixes, count as direct evidence.
+\end{itemize}
+
+\section*{Assessment Evidence}
+\begin{itemize}[leftmargin=*]
+\item Student can explain what condition the robot is checking.
+\item Student can build or modify a conditional block sequence.
+\item Student tests and explains at least one failure or false trigger.
+\end{itemize}
+
+\section*{UDL and Inclusion Supports}
+\subsection*{Multiple Representation}
+\begin{itemize}[leftmargin=*]
+\item Show condition language with if/when visuals and concrete trigger examples.
+\item Use a two-column chart: if this happens / then robot does this.
+\item Demonstrate one true-case and one false-case outcome.
+\end{itemize}
+
+\subsection*{Multiple Action / Expression}
+\begin{itemize}[leftmargin=*]
+\item Allow students to predict with cards before coding.
+\item Provide prewritten conditional sentence frames.
+\item Use paired testing roles so one student watches the condition while the other launches code.
+\end{itemize}
+
+\subsection*{Multiple Engagement}
+\begin{itemize}[leftmargin=*]
+\item Use visible cause-and-effect robot behavior to make logic concrete.
+\item Keep tasks framed as puzzles with more than one test round.
+\item Invite students to guess what the robot will do before it runs.
+\end{itemize}
+
+\section*{How We Are Already Making It Inclusive}
+\begin{itemize}[leftmargin=*]
+\item The transcript trail shows that students were already beyond basic movement coding and into more advanced reasoning.
+\item Robot tasks provide embodied feedback, which supports students who need visible evidence of logic.
+\item The lesson already appears to use partner structures and repeated testing cycles.
+\end{itemize}
+
+\section*{How to Improve Inclusion Next Time}
+\begin{itemize}[leftmargin=*]
+\item Add a branch organizer so students record both possible outcomes before launch.
+\item Create one simplified conditional task and one enrichment task in the same packet.
+\item Capture a short video of a working true/false branch in \texttt{artifacts/}.
+\item Add sentence stems for students explaining why the robot chose one action instead of another.
+\end{itemize}
+
+\section*{Materials and Setup}
+\begin{itemize}[leftmargin=*]
+\item Robots and charging setup
 \item Student devices
-\item Challenge instructions
+\item Conditional challenge cards
+\item Sensor trigger objects or controlled environment
 \end{itemize}
 
-\section*{Suggested Lesson Flow}
-\begin{enumerate}[leftmargin=*]
-\item Open with the exact device, tool, or routine students need in order to start successfully.
-\item Model one example task before students begin independent or partner work.
-\item Give students time to build, code, design, or document their work while circulating for support.
-\item Close with a short share-out, reflection, or debugging discussion.
-\end{enumerate}
+\section*{Teacher Moves / Script / Routines}
+\begin{itemize}[leftmargin=*]
+\item Model a non-conditional program first, then show what changes with a condition.
+\item Ask students to test both outcomes instead of only the successful one.
+\item Use debug talk that distinguishes wrong code from wrong trigger conditions.
+\item Close with a comparison between sequence-only and condition-based solutions.
+\end{itemize}
 
-\section*{Source Notes}
-This lesson packet is enriched with transcript-derived lesson notes, the school schedule roster, and official starting-point resources. See the paired Markdown guide for clickable links.
+\section*{Common Errors and Debugging}
+\begin{itemize}[leftmargin=*]
+\item Students may think a condition is just another step, not a decision point.
+\item Sensors can create inconsistent results if the environment is uncontrolled.
+\item Students may test only one branch and assume the program works.
+\end{itemize}
+
+\section*{Extensions and Simplifications}
+\begin{itemize}[leftmargin=*]
+\item Extension: chain more than one condition or compare two conditional solutions.
+\item Simplification: use one obvious trigger and one obvious response.
+\item Extension: ask students to explain the logic in plain language before showing the blocks.
+\end{itemize}
+
+\section*{Related Local Materials}
+\begin{itemize}[leftmargin=*]
+\item No direct local lesson packet linked yet.
+\end{itemize}
+
+\section*{Artifacts Checklist}
+\begin{itemize}[leftmargin=*]
+\item Compiled lesson PDF in \texttt{artifacts/}
+\item At least one screenshot, student example, or setup photo
+\item One short assessment or observation record
+\item Updated standards/source bibliography once the \texttt{.bib} file is revised
+\item Any teacher reflection or revision notes after reteaching
+\end{itemize}
+
+\section*{Selected Official Sources}
+Selected official sources that informed this packet are listed below.
+ocite{*}
 
 \bibliographystyle{plain}
 \bibliography{robot-logic-and-conditional-coding}
