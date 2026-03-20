@@ -319,13 +319,3 @@ This roster is transcribed from the local PowerPoint schedule and is included he
 - If classroom needs change: Derek & Piter meet to adjust
 
 ---
-
-## SUPPORTING DOCUMENTS
-
-✓ **Letter of Expectations:** To be submitted by Feb 2, 2026  
-✓ **Midpoint Evaluation:** Completed by ~March 15, 2026  
-✓ **Weekly Lesson Plans:** Submitted to Derek by Friday of prior week  
-✓ **Observation Notes:** Piter maintains reflective journal  
-✓ **Student Teaching Portfolio:** Compiled throughout Phase 2  
-
----
