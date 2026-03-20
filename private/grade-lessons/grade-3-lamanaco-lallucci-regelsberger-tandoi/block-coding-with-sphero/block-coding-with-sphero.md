@@ -2,64 +2,149 @@
 
 **Color Code:** 🟢 Lessons
 
-> **📌 What This Is:** A grade-organized lesson packet connected to the schedule, transcript lesson notes, and a formal online starting point.
-> **🧭 Start Here When:** You know the grade or class block and want the strongest reusable version of the lesson.
-> **👀 Best Use:** Read the quick scan, confirm the class match, then jump into the transcript lesson notes or LaTeX source.
+> **📌 What This Is:** A teacher-ready lesson packet built from transcripts, schedule evidence, local curriculum context, and official lesson sources.
+> **🧭 Start Here When:** You want the full instructional record: what we taught, why it counts as CS, how we know it happened, and how to make it more inclusive.
+> **👀 Best Use:** Read `Quick Scan` first, then `Evidence / proof of instruction`, then `UDL and inclusion supports` before re-teaching.
 
 ---
 
 ## ⚡ Quick Scan
 
 - 👥 **Grade:** Grade 3
-- 📘 **Grade Hub:** [Grade 3 Notes](../grade-3-Notes.md)
+- 📘 **Grade Hub:** [Notes](../grade-3-Notes.md)
 - 📅 **Schedule Reference:** [Spring2026_TeachingSchedule_Derek.md](../../school/Spring2026_TeachingSchedule_Derek.md)
 - 🗂️ **Workbook Sheet:** `3rd` in `Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
-- 🎯 **Lesson Focus:** Block-based robot programming with movement, aiming, loops, and safety expectations.
+- 🎯 **Lesson Focus:** Students pair robots, create movement programs, use loops for repeated motion, and debug route accuracy through floor-based challenges.
+- 📏 **CS Alignment Strength:** Strong CS lesson
 - 🧾 **LaTeX Source:** [block-coding-with-sphero.tex](./block-coding-with-sphero.tex)
 - 📚 **Bib File:** [block-coding-with-sphero.bib](./block-coding-with-sphero.bib)
-- 🌐 **Formal Starting Point:** [Sphero Edu K-12 Teacher Resource Guide](https://dmmedia.sphero.com/email-marketing/Sphero-Edu/SpheroEdu-k12-teacher-resource-guide-v1_updated050818.pdf)
+- 📂 **Artifacts Folder:** [artifacts/](./artifacts/)
 
----
+## 🪪 Lesson Identity
 
-## 📍 Likely Class Match
+- 🏫 **Likely Class Blocks:** Day 3 · 9:50-10:40 · Lamanaco, Day 4 · 9:50-10:40 · Lallucci, Day 5 · 9:50-10:40 · Regelsberger, Day 5 · 2:15-3:05 · Tandoi
+- 🧭 **Main Lesson Family:** Block Coding with Sphero
+- 🔗 **Primary Evidence Base:** Transcript-derived notes plus source transcripts from this teaching-placement workspace.
+- 🌐 **Primary External Source Type:** Official curriculum/provider materials.
 
-- Strong fit for Grade 3 blocks when the transcript mentions pairing Spheros, square paths, loops, aiming, or maze navigation.
-- 🕒 **Likely grade blocks:** Day 3 · 9:50-10:40 · Lamanaco, Day 4 · 9:50-10:40 · Lallucci, Day 5 · 9:50-10:40 · Regelsberger, Day 5 · 2:15-3:05 · Tandoi
+## 🧠 What We Are Teaching
 
-## 🎯 Learning Targets
+- 🧠 pairing and aiming a robot
+- 🧠 sequencing movement blocks into a route
+- 🧠 using loops or repeated structures to shorten code
+- 🧠 debugging distance, direction, and timing
 
-- Students connect to the correct robot and identify its controls.
-- Students create a short movement program using a loop.
-- Students follow equipment and partner expectations.
+## 📏 CS Standards Alignment
 
-## 🛠️ Materials
+- 📏 **1B-AP-10**: Create programs that include sequences, events, loops, and conditionals.  
+  Why it fits here: Students build working movement programs with repeated structures.
+- 📏 **1B-AP-11**: Decompose problems into smaller, manageable subproblems.  
+  Why it fits here: Students break the route into single moves before combining them.
+- 📏 **1B-AP-15**: Test and debug a program or algorithm to ensure it runs as intended.  
+  Why it fits here: Students repeatedly test, adjust, and rerun their robot code.
 
-- Sphero robots
-- Student devices
-- Floor path or challenge space
+## 🏫 NYS / Local Curriculum Alignment
 
-## ⚪ Transcript Lesson Notes
+- 🏫 Aligned to the local Grade 3 IGNITE robotics sequence in the workbook and schedule.
+- 🏫 Supports New York-facing computational thinking and collaborative problem solving through route planning, testing, and revision.
+- 🏫 This is a core CS packet because the content centers on algorithm design, repeated patterns, and debugging.
 
-- ⚪ [2026 02 27 Sphero Block Coding For Third Graders Pairing Loops Square Movement Aiming And Safety](../../transcript-derived-lessons/260227-grade-3-lamanaco-sphero-loops.md)
-- ⚪ [2026 02 27 Sphero Robot Block Based Coding](../../transcript-derived-lessons/260227-grade-3-lamanaco-block-coding.md)
-- ⚪ [2026 03 06 Sphero Robotics Square Path Programming And Maze Navigation](../../transcript-derived-lessons/260306-grade-3-lamanaco-square-maze.md)
-- ⚪ [2026 03 06 Lesson Sphero Bolt Block Coding Aiming Angles Loops And Classroom Management](../../transcript-derived-lessons/260306-grade-3-lamanaco-bolt-loops.md)
+## 🧩 Lesson Content and Concepts
+
+- 🔹 sequence
+- 🔹 loop
+- 🔹 debugging
+- 🔹 robot control
+- 🔹 decomposition
+
+## 📌 Evidence / Proof of Instruction
+
+- 📌 **Transcript-derived note:** [260227 Grade 3 Lamanaco Sphero Loops](../../transcript-derived-lessons/260227-grade-3-lamanaco-sphero-loops.md)  
+  The lesson note explicitly names pairing, loops, square movement, aiming, and safety.
+- 📌 **Transcript-derived note:** [260227 Grade 3 Lamanaco Block Coding](../../transcript-derived-lessons/260227-grade-3-lamanaco-block-coding.md)  
+  The additional note shows the same lesson family emphasized core block coding rather than one isolated challenge.
+- 📌 **Transcript-derived note:** [260306 Grade 3 Lamanaco Square Maze](../../transcript-derived-lessons/260306-grade-3-lamanaco-square-maze.md)  
+  Later transcripts show students applying the same logic to more precise route and maze navigation tasks.
+- 📌 **Source transcript:** [260227 Grade 3 Lamanaco Sphero Loops](../../transcripts/260227-grade-3-lamanaco-sphero-loops.md)  
+  The source transcript records teacher language around loops, pairing, and safety while students work in robot pairs.
+- 📌 **Likely student proof:** Working square paths, looped code blocks, debug revisions, and safe partner management are direct evidence of instruction.
+
+## ✅ Assessment Evidence
+
+- ✅ Student pairs the correct robot and keeps it under control.
+- ✅ Student writes a movement sequence that completes the task or gets close enough to debug.
+- ✅ Student can explain one fix they made after testing.
+
+## ♿ UDL and Inclusion Supports
+
+### 👀 Multiple Representation
+- 👀 Model the route on the floor and on screen before coding.
+- 👀 Use arrows, distance markers, and turn visuals.
+- 👀 Show one buggy program and one corrected version side by side.
+
+### ✍️ Multiple Action / Expression
+- ✍️ Allow coding by dragging blocks, pointing to a route card, or verbally sequencing for a partner.
+- ✍️ Use clearly assigned pair roles: coder, launcher, observer, recorder.
+- ✍️ Give students a printed planning strip before the digital build.
+
+### ❤️ Multiple Engagement
+- ❤️ Use robot motion as immediate feedback for effort and revision.
+- ❤️ Keep challenges short enough for multiple retry cycles.
+- ❤️ Frame debugging as the normal path to success.
+
+## 🌱 How We Are Already Making It Inclusive
+
+- ✅ Transcript evidence shows teacher modeling before student handling of the robots.
+- ✅ Partner structures were already present, which supports participation for students who need shared problem solving.
+- ✅ The lesson used physical movement and visible outcomes, which lowers abstraction load.
+
+## 🔧 How to Improve Inclusion Next Time
+
+- 🔧 Add route mats with start/end icons and numbered steps.
+- 🔧 Create a quiet-observer role for students who need to participate without launching every round.
+- 🔧 Build a common error wall with examples like overshoot, wrong angle, and unpaired robot.
+- 🔧 Store route photos and code screenshots in `artifacts/` as proof.
+
+## 🛠️ Materials and Setup
+
+- 🛠️ Sphero robots and chargers
+- 🛠️ Student devices
+- 🛠️ Floor route or taped path
+- 🛠️ Planning strips or dry-erase route cards
+
+## 🗣️ Teacher Moves / Script / Routines
+
+- 🗣️ Model pairing and aiming before any free handling begins.
+- 🗣️ Have students predict the route before launch.
+- 🗣️ Stop midway to compare a long program and a looped version.
+- 🗣️ Close with a debug story: what failed and what changed.
+
+## 🐞 Common Errors and Debugging
+
+- 🐞 Students may skip pairing steps and blame the code.
+- 🐞 Distance and angle errors can look like conceptual failure when they are calibration issues.
+- 🐞 Partner imbalance can leave one student passive without role structure.
+
+## ↔️ Extensions and Simplifications
+
+- ↔️ Extension: compare two possible solutions and justify which is more efficient.
+- ↔️ Simplification: reduce the task to one turn and one forward move repeated.
+- ↔️ Extension: add an event or sensor-based trigger after the movement pattern works.
 
 ## 🔗 Related Local Materials
 
-- 🔗 [23-Block-Coding-with-Bees Notes](../../lessons/23-Block-Coding-with-Bees/23-Block-Coding-with-Bees-Notes.md)
+- 🔗 [Block Coding with Bees materials](../../lessons/23-Block-Coding-with-Bees/23-Block-Coding-with-Bees-Notes.md)
 
-## 🌐 Formal / Online Starting Point
+## 🌐 References
 
-- 🌍 [Sphero Edu K-12 Teacher Resource Guide](https://dmmedia.sphero.com/email-marketing/Sphero-Edu/SpheroEdu-k12-teacher-resource-guide-v1_updated050818.pdf)
+- 🌍 [CSTA K-12 Standards Interactive](https://csteachers.org/k12standards/interactive/)
+- 🌍 [CSTA K-12 Standards PDF](https://csteachers.org/wp-content/uploads/2025/03/csta-k-12-computer-science-standards-revised.pdf)
+- 🌍 [Sphero Edu](https://sphero.com/pages/sphero-edu)
 
-## 🔎 Search Titles
+## 📂 Artifacts Checklist
 
-- 🔎 `Sphero BOLT loops square path lesson`
-- 🔎 `elementary block coding with robots lesson`
-
-## ✅ Next Steps
-
-- ✅ Use the transcript lesson notes above to enrich timing, teacher language, and classroom-management moves.
-- ✅ Use the schedule and workbook sheet to confirm which class block this version best fits.
-- ✅ Store compiled PDFs, slide decks, screenshots, or handouts in [artifacts/](./artifacts/).
+- 📄 Compiled lesson PDF in `artifacts/`
+- 🖼️ At least one screenshot, student example, or setup photo
+- 🧾 One short assessment or observation record
+- 📚 Updated standards/source bibliography once the `.bib` file is revised
+- 📝 Any teacher reflection or revision notes after reteaching

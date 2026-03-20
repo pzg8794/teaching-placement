@@ -2,46 +2,28 @@
 
 **Color Code:** 🟢 Lessons
 
-> **📌 What This Is:** A grade-level lesson hub that connects the roster, workbook, transcript lesson notes, and reusable lesson packets.
-> **🧭 Start Here When:** You know the grade but need the right class block, transcript cluster, or lesson packet quickly.
-> **👀 Best Use:** Scan the class blocks first, then open the lesson packet that matches the topic you taught.
+> **📌 What This Is:** Grade 3 packets centered on robotics, loops, publishing workflows, and responsible technology use.
+> **🧭 Start Here When:** You know the grade first and want the strongest lesson packet to open next.
+> **👀 Best Use:** Open a lesson packet, read `Quick Scan`, then jump to `Evidence / Proof of Instruction` and `UDL and Inclusion Supports`.
 
 ---
 
-## ⚡ Quick Scan
+## 📍 Start Here
 
-- 👥 **Grade:** Grade 3
-- 📚 **Lesson Count:** 2
-- 📅 **Schedule Reference:** [Spring2026_TeachingSchedule_Derek.md](../../school/Spring2026_TeachingSchedule_Derek.md)
-- 🗂️ **Workbook Sheet:** `3rd` in `Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
-- ⚪ **Transcript Index:** [Transcript-Derived-Lessons-Notes.md](../../transcript-derived-lessons/Transcript-Derived-Lessons-Notes.md)
+- 🤖 [Block Coding with Sphero](./block-coding-with-sphero/block-coding-with-sphero.md)  
+  Core CS packet with loops, route planning, and debugging.
+- 🧠 [Responsible AI and Canva Publishing](./responsible-ai-and-canva-publishing/responsible-ai-and-canva-publishing.md)  
+  Impacts of computing and digital artifact design.
 
-## 🕒 Grade Class Blocks
+## 📚 Shared Reference Links
 
-- Day 3 · 9:50-10:40 · Lamanaco
-- Day 4 · 9:50-10:40 · Lallucci
-- Day 5 · 9:50-10:40 · Regelsberger
-- Day 5 · 2:15-3:05 · Tandoi
+- ⚪ [Transcript-derived lessons index](../transcript-derived-lessons/Transcript-Derived-Lessons-Notes.md)
+- ⚪ [Source transcripts index](../transcripts/Transcripts-Notes.md)
+- 📅 [Teaching schedule](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📏 [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
 
-## 📘 Lesson Packets
+## ✅ What To Keep Improving
 
-- 📘 [Block Coding with Sphero](./block-coding-with-sphero/block-coding-with-sphero.md)
-  Transcript notes: [2026 02 27 Lecture Sphero Block Coding For Third Graders Pairing Loops Square Movement Aiming And Safety](../../transcript-derived-lessons/260227-grade-3-lamanaco-sphero-loops.md), [2026 02 27 Lecture Sphero Robot Block Based Coding](../../transcript-derived-lessons/260227-grade-3-lamanaco-block-coding.md), [2026 03 06 Lecture Sphero Robotics Square Path Programming And Maze Navigation](../../transcript-derived-lessons/260306-grade-3-lamanaco-square-maze.md), [2026 03 06 Lesson Sphero Bolt Block Coding Aiming Angles Loops And Classroom Management](../../transcript-derived-lessons/260306-grade-3-lamanaco-bolt-loops.md)
-  Formal starting point: [Sphero Edu K-12 Teacher Resource Guide](https://dmmedia.sphero.com/email-marketing/Sphero-Edu/SpheroEdu-k12-teacher-resource-guide-v1_updated050818.pdf)
-- 📘 [Responsible AI and Canva Publishing](./responsible-ai-and-canva-publishing/responsible-ai-and-canva-publishing.md)
-  Transcript notes: [2026 02 26 Workshop Third Grade Responsible Ai Canva Workflows And Book Promotion Projects](../../transcript-derived-lessons/260226-grade-3-lamanaco-ai-canva.md)
-  Formal starting point: [Canva lesson creator resources](https://www.canva.com/education/teaching-resources/lessons/)
-
-## ⚪ Transcript Notes Used By This Grade
-
-- ⚪ [2026 02 27 Lecture Sphero Block Coding For Third Graders Pairing Loops Square Movement Aiming And Safety](../../transcript-derived-lessons/260227-grade-3-lamanaco-sphero-loops.md)
-- ⚪ [2026 02 27 Lecture Sphero Robot Block Based Coding](../../transcript-derived-lessons/260227-grade-3-lamanaco-block-coding.md)
-- ⚪ [2026 03 06 Lecture Sphero Robotics Square Path Programming And Maze Navigation](../../transcript-derived-lessons/260306-grade-3-lamanaco-square-maze.md)
-- ⚪ [2026 03 06 Lesson Sphero Bolt Block Coding Aiming Angles Loops And Classroom Management](../../transcript-derived-lessons/260306-grade-3-lamanaco-bolt-loops.md)
-- ⚪ [2026 02 26 Workshop Third Grade Responsible Ai Canva Workflows And Book Promotion Projects](../../transcript-derived-lessons/260226-grade-3-lamanaco-ai-canva.md)
-
-## ✅ Use This Folder When
-
-- ✅ You want the private canonical lesson version for Grade 3.
-- ✅ You need the transcript notes already grouped to likely class blocks.
-- ✅ You want a formal starting-point resource before writing or revising a full lesson.
+- ✅ Strengthen each packet’s standards alignment with the paired `.tex` and `.bib` files next.
+- ✅ Keep storing real evidence in `artifacts/`, not only compiled PDFs.
+- ✅ Treat transcript evidence as the proof spine for what was actually taught.

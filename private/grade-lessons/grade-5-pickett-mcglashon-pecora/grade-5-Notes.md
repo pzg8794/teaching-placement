@@ -2,43 +2,28 @@
 
 **Color Code:** 🟢 Lessons
 
-> **📌 What This Is:** A grade-level lesson hub that connects the roster, workbook, transcript lesson notes, and reusable lesson packets.
-> **🧭 Start Here When:** You know the grade but need the right class block, transcript cluster, or lesson packet quickly.
-> **👀 Best Use:** Scan the class blocks first, then open the lesson packet that matches the topic you taught.
+> **📌 What This Is:** Grade 5 packets for more advanced robotics logic and iterative digital design.
+> **🧭 Start Here When:** You know the grade first and want the strongest lesson packet to open next.
+> **👀 Best Use:** Open a lesson packet, read `Quick Scan`, then jump to `Evidence / Proof of Instruction` and `UDL and Inclusion Supports`.
 
 ---
 
-## ⚡ Quick Scan
+## 📍 Start Here
 
-- 👥 **Grade:** Grade 5
-- 📚 **Lesson Count:** 2
-- 📅 **Schedule Reference:** [Spring2026_TeachingSchedule_Derek.md](../../school/Spring2026_TeachingSchedule_Derek.md)
-- 🗂️ **Workbook Sheet:** `5th` in `Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
-- ⚪ **Transcript Index:** [Transcript-Derived-Lessons-Notes.md](../../transcript-derived-lessons/Transcript-Derived-Lessons-Notes.md)
+- 🔀 [Robot Logic and Conditional Coding](./robot-logic-and-conditional-coding/robot-logic-and-conditional-coding.md)  
+  Core CS packet focused on conditions and testing both branches.
+- 📐 [Tinkercad Design and Revision](./tinkercad-design-and-revision/tinkercad-design-and-revision.md)  
+  Computational artifact design and iterative revision.
 
-## 🕒 Grade Class Blocks
+## 📚 Shared Reference Links
 
-- Day 2 · 10:45-11:35 · Pickett
-- Day 3 · 10:45-11:35 · McGlashon
-- Day 5 · 10:45-11:35 · Pecora
+- ⚪ [Transcript-derived lessons index](../transcript-derived-lessons/Transcript-Derived-Lessons-Notes.md)
+- ⚪ [Source transcripts index](../transcripts/Transcripts-Notes.md)
+- 📅 [Teaching schedule](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📏 [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
 
-## 📘 Lesson Packets
+## ✅ What To Keep Improving
 
-- 📘 [Robot Logic and Conditional Coding](./robot-logic-and-conditional-coding/robot-logic-and-conditional-coding.md)
-  Transcript notes: [2026 02 27 Lecture Conditional Coding With Sphero Robots For Grades 4 5](../../transcript-derived-lessons/260227-grade-4-5-shared-conditional-sphero.md), [2026 03 13 Lecture Sphero Robot Programming Events And Minecraft](../../transcript-derived-lessons/260313-mixed-shared-sphero-minecraft.md)
-  Formal starting point: [Sphero Edu K-12 Teacher Resource Guide](https://dmmedia.sphero.com/email-marketing/Sphero-Edu/SpheroEdu-k12-teacher-resource-guide-v1_updated050818.pdf)
-- 📘 [Tinkercad Design and Revision](./tinkercad-design-and-revision/tinkercad-design-and-revision.md)
-  Transcript notes: [2026 03 04 Class Session Tinkercad Basics Via Google Classroom Shape Placement Planes Grouping And Hole Creation](../../transcript-derived-lessons/260304-grade-5-pickett-tinkercad.md)
-  Formal starting point: [Tinkercad classroom entry point](https://www.tinkercad.com/)
-
-## ⚪ Transcript Notes Used By This Grade
-
-- ⚪ [2026 02 27 Lecture Conditional Coding With Sphero Robots For Grades 4 5](../../transcript-derived-lessons/260227-grade-4-5-shared-conditional-sphero.md)
-- ⚪ [2026 03 13 Lecture Sphero Robot Programming Events And Minecraft](../../transcript-derived-lessons/260313-mixed-shared-sphero-minecraft.md)
-- ⚪ [2026 03 04 Class Session Tinkercad Basics Via Google Classroom Shape Placement Planes Grouping And Hole Creation](../../transcript-derived-lessons/260304-grade-5-pickett-tinkercad.md)
-
-## ✅ Use This Folder When
-
-- ✅ You want the private canonical lesson version for Grade 5.
-- ✅ You need the transcript notes already grouped to likely class blocks.
-- ✅ You want a formal starting-point resource before writing or revising a full lesson.
+- ✅ Strengthen each packet’s standards alignment with the paired `.tex` and `.bib` files next.
+- ✅ Keep storing real evidence in `artifacts/`, not only compiled PDFs.
+- ✅ Treat transcript evidence as the proof spine for what was actually taught.

@@ -2,45 +2,28 @@
 
 **Color Code:** 🟢 Lessons
 
-> **📌 What This Is:** A grade-level lesson hub that connects the roster, workbook, transcript lesson notes, and reusable lesson packets.
-> **🧭 Start Here When:** You know the grade but need the right class block, transcript cluster, or lesson packet quickly.
-> **👀 Best Use:** Scan the class blocks first, then open the lesson packet that matches the topic you taught.
+> **📌 What This Is:** Grade 2 packets combining AI, robotics, and digital explanation work.
+> **🧭 Start Here When:** You know the grade first and want the strongest lesson packet to open next.
+> **👀 Best Use:** Open a lesson packet, read `Quick Scan`, then jump to `Evidence / Proof of Instruction` and `UDL and Inclusion Supports`.
 
 ---
 
-## ⚡ Quick Scan
+## 📍 Start Here
 
-- 👥 **Grade:** Grade 2
-- 📚 **Lesson Count:** 2
-- 📅 **Schedule Reference:** [Spring2026_TeachingSchedule_Derek.md](../../school/Spring2026_TeachingSchedule_Derek.md)
-- 🗂️ **Workbook Sheet:** `2nd` in `Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
-- ⚪ **Transcript Index:** [Transcript-Derived-Lessons-Notes.md](../../transcript-derived-lessons/Transcript-Derived-Lessons-Notes.md)
+- 🌊 [AI for Oceans and Robotics](./ai-for-oceans-and-robotics/ai-for-oceans-and-robotics.md)  
+  Strong CS packet with data, sorting, and machine-learning ideas.
+- 📘 [Robotics and Digital Book Project](./robotics-and-digital-book-project/robotics-and-digital-book-project.md)  
+  Robotics plus digital storytelling and documentation.
 
-## 🕒 Grade Class Blocks
+## 📚 Shared Reference Links
 
-- Day 1 · 10:45-11:35 · Callon
-- Day 1 · 2:15-3:05 · Henchen
-- Day 4 · 10:45-11:35 · Barthelman
+- ⚪ [Transcript-derived lessons index](../transcript-derived-lessons/Transcript-Derived-Lessons-Notes.md)
+- ⚪ [Source transcripts index](../transcripts/Transcripts-Notes.md)
+- 📅 [Teaching schedule](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📏 [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
 
-## 📘 Lesson Packets
+## ✅ What To Keep Improving
 
-- 📘 [AI for Oceans and Robotics](./ai-for-oceans-and-robotics/ai-for-oceans-and-robotics.md)
-  Transcript notes: [2026 02 11 Lecture Ai For Oceans Machine Learning And Lego Robotics](../../transcript-derived-lessons/260211-grade-2-callon-ai-oceans.md), [2026 02 12 Lecture Code Org Login And Intro To Ai Machine Learning For Second Grade](../../transcript-derived-lessons/260212-grade-2-callon-codeorg-ai.md)
-  Formal starting point: [Code.org AI for Oceans](https://code.org/hour-of-ai)
-- 📘 [Robotics and Digital Book Project](./robotics-and-digital-book-project/robotics-and-digital-book-project.md)
-  Transcript notes: [2026 02 25 Lecture Robotics Project With Sphero Indy And Book Creator](../../transcript-derived-lessons/260225-grade-2-callon-sphero-book.md), [2026 02 27 Class Review Book Creator Onboarding Library Verification And Classroom Management](../../transcript-derived-lessons/260227-grade-2-callon-creator-onboarding.md), [2026 03 05 Lecture Second Grade Robotics And Digital Book Project With Book Creator And Sphero Indi](../../transcript-derived-lessons/260305-grade-2-callon-indi-book.md)
-  Formal starting point: [Sphero Edu K-12 Teacher Resource Guide](https://dmmedia.sphero.com/email-marketing/Sphero-Edu/SpheroEdu-k12-teacher-resource-guide-v1_updated050818.pdf)
-
-## ⚪ Transcript Notes Used By This Grade
-
-- ⚪ [2026 02 11 Lecture Ai For Oceans Machine Learning And Lego Robotics](../../transcript-derived-lessons/260211-grade-2-callon-ai-oceans.md)
-- ⚪ [2026 02 12 Lecture Code Org Login And Intro To Ai Machine Learning For Second Grade](../../transcript-derived-lessons/260212-grade-2-callon-codeorg-ai.md)
-- ⚪ [2026 02 25 Lecture Robotics Project With Sphero Indy And Book Creator](../../transcript-derived-lessons/260225-grade-2-callon-sphero-book.md)
-- ⚪ [2026 02 27 Class Review Book Creator Onboarding Library Verification And Classroom Management](../../transcript-derived-lessons/260227-grade-2-callon-creator-onboarding.md)
-- ⚪ [2026 03 05 Lecture Second Grade Robotics And Digital Book Project With Book Creator And Sphero Indi](../../transcript-derived-lessons/260305-grade-2-callon-indi-book.md)
-
-## ✅ Use This Folder When
-
-- ✅ You want the private canonical lesson version for Grade 2.
-- ✅ You need the transcript notes already grouped to likely class blocks.
-- ✅ You want a formal starting-point resource before writing or revising a full lesson.
+- ✅ Strengthen each packet’s standards alignment with the paired `.tex` and `.bib` files next.
+- ✅ Keep storing real evidence in `artifacts/`, not only compiled PDFs.
+- ✅ Treat transcript evidence as the proof spine for what was actually taught.
