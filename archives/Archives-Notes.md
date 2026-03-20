@@ -3,10 +3,10 @@
 **Color Code:** 🔒 Private Workspace
 
 > **Page Type:** Index
-> **Purpose:** Archived or snapshot material.
+> **Purpose:** Archived material that is not part of the active placement structure.
 > **Audience:** You.
 > **Use This When:** Check older snapshots or saved states.
 
 ---
 
-- [Snapshots directory](./snapshots/)
+- [Top-level snapshots directory](../snapshots/Snapshots-Notes.md)

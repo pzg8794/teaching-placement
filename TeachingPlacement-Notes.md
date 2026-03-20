@@ -16,9 +16,9 @@
 - `🔵` communications
 - `🟦` coursework or Grade 4 / Monday-type blue grouping when used in schedules
 - `🟢` lessons / teaching materials
-- `🟠` personal items
 - `🟡` coursework support docs
 - `🔴` school / placement logistics
+- `🟫` snapshots / presentations
 - `🟤` tasks / action items
 - `⚪` transcripts
 - `🟥` SBTE-facing shared material
@@ -46,9 +46,9 @@
 - [🔵 Communications](./communications/Communications-Notes.md)
 - [🟦 Coursework](./coursework/Coursework-Notes.md)
 - [🟢 Lessons](./lessons/Lessons-Notes.md)
-- [🟠 Personal](./personal/Personal-Notes.md)
 - [🟡 Coursework References](./coursework/Reference-Notes.md)
 - [🔴 School / Placement](./school/School-Notes.md)
+- [🟫 Snapshots](./snapshots/Snapshots-Notes.md)
 - [🟤 Tasks](./tasks/Tasks-Notes.md)
 - [⚪ Transcripts](./transcripts/Transcripts-Notes.md)
 - [🟥 SBTE Materials](./sbte/SBTE-Notes.md)
