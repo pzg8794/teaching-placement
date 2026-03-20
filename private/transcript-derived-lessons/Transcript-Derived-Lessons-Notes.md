@@ -84,9 +84,9 @@
 
 
 Use these links when you remember the **grade** first and want the matching lesson packets.
-- ⬜ [Kindergarten lesson hub](../grade-lessons/kindergarten/kindergarten-Notes.md)
-- 🟫 [Grade 1 lesson hub](../grade-lessons/grade-1/grade-1-Notes.md)
-- 🟧 [Grade 2 lesson hub](../grade-lessons/grade-2/grade-2-Notes.md)
-- 🟩 [Grade 3 lesson hub](../grade-lessons/grade-3/grade-3-Notes.md)
-- 🟦 [Grade 4 lesson hub](../grade-lessons/grade-4/grade-4-Notes.md)
-- 🟪 [Grade 5 lesson hub](../grade-lessons/grade-5/grade-5-Notes.md)
+- ⬜ [Kindergarten lesson hub](../grade-lessons/kindergarten-justinger-kesys-pum/kindergarten-Notes.md)
+- 🟫 [Grade 1 lesson hub](../grade-lessons/grade-1-gargana-polfleit-montgomery/grade-1-Notes.md)
+- 🟧 [Grade 2 lesson hub](../grade-lessons/grade-2-callon-henchen-barthelman/grade-2-Notes.md)
+- 🟩 [Grade 3 lesson hub](../grade-lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/grade-3-Notes.md)
+- 🟦 [Grade 4 lesson hub](../grade-lessons/grade-4-baris-fowler-schrank-autore/grade-4-Notes.md)
+- 🟪 [Grade 5 lesson hub](../grade-lessons/grade-5-pickett-mcglashon-pecora/grade-5-Notes.md)
