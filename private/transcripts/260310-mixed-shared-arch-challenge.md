@@ -11,7 +11,7 @@
 ## ⚡ Quick Scan
 
 - 📄 **Source TXT:** [03-10 Standardizing a Classroom Robotics Arch Challenge_ Rules, Specs, and Workflow Decisions-transcript.txt](./03-10 Standardizing a Classroom Robotics Arch Challenge_ Rules, Specs, and Workflow Decisions-transcript.txt)
-- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Lessons-Notes.md](../transcript-derived-lessons/Transcript-Derived-Lessons-Notes.md)
+- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Lesson-Sources-Notes.md](../lesson-evidence/Lesson-Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 
 ## 📝 Transcript

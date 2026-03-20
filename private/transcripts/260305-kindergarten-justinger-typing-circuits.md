@@ -11,7 +11,7 @@
 ## ⚡ Quick Scan
 
 - 📄 **Source TXT:** [03-05 Lecture_ Keyboard Typing Skills and Introductory Electricity Circuits with Play-Doh (K–5 Classroom)-transcript.txt](./03-05 Lecture_ Keyboard Typing Skills and Introductory Electricity Circuits with Play-Doh (K–5 Classroom)-transcript.txt)
-- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Lessons-Notes.md](../transcript-derived-lessons/Transcript-Derived-Lessons-Notes.md)
+- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Lesson-Sources-Notes.md](../lesson-evidence/Lesson-Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 
 ## 📝 Transcript

@@ -10,8 +10,8 @@
 
 ## 📍 Start Here
 
-- [🧩 Transcript-derived lesson notes](../transcript-derived-lessons/Transcript-Derived-Lessons-Notes.md)
-- [🟢 Grade-based lesson hub](../grade-lessons/Grade-Lessons-Notes.md)
+- [🧩 Transcript-derived lesson notes](../lesson-evidence/Lesson-Evidence-Notes.md)
+- [🟢 Grade-based lesson hub](../lesson-packets/Lesson-Packets-Notes.md)
 - [🔴 Teaching schedule](../school/Spring2026_TeachingSchedule_Derek.md)
 
 ## 🎓 Teaching / Lesson Transcript Sources

@@ -11,7 +11,7 @@
 ## ⚡ Quick Scan
 
 - 📄 **Source TXT:** [03-17 Workshop_ Programming Puzzles & Agent Control-transcript.txt](./03-17 Workshop_ Programming Puzzles & Agent Control-transcript.txt)
-- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Lessons-Notes.md](../transcript-derived-lessons/Transcript-Derived-Lessons-Notes.md)
+- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Lesson-Sources-Notes.md](../lesson-evidence/Lesson-Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 
 ## 📝 Transcript

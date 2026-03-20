@@ -51,7 +51,9 @@
 - [🟣 Admin](./private/admin/Admin-Notes.md)
 - [🔵 Communications](./private/communications/Communications-Notes.md)
 - [🟦 Coursework](./private/coursework/Coursework-Notes.md)
-- [🟢 Lessons](./private/lessons/Lessons-Notes.md)
+- [🟢 Lesson Sources](./private/lesson-sources/Lesson-Sources-Notes.md)
+- [🧩 Lesson Packets](./private/lesson-packets/Lesson-Packets-Notes.md)
+- [⚪ Lesson Evidence](./private/lesson-evidence/Lesson-Evidence-Notes.md)
 - [🟠 Personal](./private/personal/Personal-Notes.md)
 - [🟡 References](./private/reference/Reference-Notes.md)
 - [🔴 School / Placement](./private/school/School-Notes.md)
@@ -68,6 +70,8 @@
 ## 🧠 Memory Tip
 
 - If you are looking for **what happened in class**, start in [⚪ Transcripts](./private/transcripts/Transcripts-Notes.md).
-- If you are looking for **what to teach next**, start in [🟢 Lessons](./private/lessons/Lessons-Notes.md).
+- If you are looking for **what to teach next**, start in [🧩 Lesson Packets](./private/lesson-packets/Lesson-Packets-Notes.md).
+- If you are looking for **original lesson files or exports**, start in [🟢 Lesson Sources](./private/lesson-sources/Lesson-Sources-Notes.md).
+- If you are looking for **transcript-based proof and lesson reconstruction**, start in [⚪ Lesson Evidence](./private/lesson-evidence/Lesson-Evidence-Notes.md).
 - If you are looking for **when or with which class**, start in [🔴 School / Placement](./private/school/School-Notes.md).
 - If you are looking for **what can be shared**, start in [🌐 Shared Hub](./shared/Shared-Notes.md).

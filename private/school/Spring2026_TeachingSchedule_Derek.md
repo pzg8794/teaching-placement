@@ -98,61 +98,61 @@ Use this section to move from **grade -> class block -> transcript lesson notes 
 ### ⬜ Kindergarten
 
 - 🕒 **Class blocks:** Day 1 · 12:25-1:15 · Justinger, Day 2 · 12:25-1:15 · Kesys, Day 4 · 12:25-1:15 · Pum
-- 📘 [Digital Coloring and Tool Routines](../grade-lessons/kindergarten-justinger-kesys-pum/digital-coloring-and-tool-routines/digital-coloring-and-tool-routines.md)
-- ⚪ Transcript lesson notes: [2026 03 18 Lecture Digital Coloring And Introduction To Robotics](../transcript-derived-lessons/260318-kindergarten-justinger-coloring-robotics.md)
+- 📘 [Digital Coloring and Tool Routines](../lesson-packets/kindergarten-justinger-kesys-pum/digital-coloring-and-tool-routines/digital-coloring-and-tool-routines.md)
+- ⚪ Transcript lesson notes: [2026 03 18 Lecture Digital Coloring And Introduction To Robotics](../lesson-evidence/260318-kindergarten-justinger-coloring-robotics.md)
 - 🌐 Formal starting point: [Seesaw creative activity ideas](https://web.seesaw.me/)
-- 📘 [Intro Typing and Simple Circuits](../grade-lessons/kindergarten-justinger-kesys-pum/intro-typing-and-simple-circuits/intro-typing-and-simple-circuits.md)
-- ⚪ Transcript lesson notes: [2026 03 05 Lecture Summary Elementary Circuit Activity Planning And Kindergarten Typing Session](../transcript-derived-lessons/260305-kindergarten-justinger-circuits-summary.md), [2026 03 05 Lecture Keyboard Typing Skills And Introductory Electricity Circuits With Play Doh K 5 Classroom](../transcript-derived-lessons/260305-kindergarten-justinger-typing-circuits.md)
+- 📘 [Intro Typing and Simple Circuits](../lesson-packets/kindergarten-justinger-kesys-pum/intro-typing-and-simple-circuits/intro-typing-and-simple-circuits.md)
+- ⚪ Transcript lesson notes: [2026 03 05 Lecture Summary Elementary Circuit Activity Planning And Kindergarten Typing Session](../lesson-evidence/260305-kindergarten-justinger-circuits-summary.md), [2026 03 05 Lecture Keyboard Typing Skills And Introductory Electricity Circuits With Play Doh K 5 Classroom](../lesson-evidence/260305-kindergarten-justinger-typing-circuits.md)
 - 🌐 Formal starting point: [Code.org elementary curriculum](https://code.org/curriculum/elementary-school)
 
 ### 🟫 Grade 1
 
 - 🕒 **Class blocks:** Day 3 · 12:25-1:15 · Gargana, Day 3 · 2:15-3:05 · Polfleit, Day 5 · 12:25-1:15 · Montgomery
-- 📘 [Interactive Word Wall Build](../grade-lessons/grade-1-gargana-polfleit-montgomery/interactive-word-wall-build/interactive-word-wall-build.md)
-- ⚪ Transcript lesson notes: [2026 02 11 Lecture Interactive Vocabulary Videos With Google Vids And Qr Lego Word Wall](../transcript-derived-lessons/260211-grade-1-gargana-word-wall.md), [2026 02 12 Lecture Interactive Lego Word Wall Project](../transcript-derived-lessons/260212-grade-1-gargana-lego-wall.md)
+- 📘 [Interactive Word Wall Build](../lesson-packets/grade-1-gargana-polfleit-montgomery/interactive-word-wall-build/interactive-word-wall-build.md)
+- ⚪ Transcript lesson notes: [2026 02 11 Lecture Interactive Vocabulary Videos With Google Vids And Qr Lego Word Wall](../lesson-evidence/260211-grade-1-gargana-word-wall.md), [2026 02 12 Lecture Interactive Lego Word Wall Project](../lesson-evidence/260212-grade-1-gargana-lego-wall.md)
 - 🌐 Formal starting point: [Code.org elementary curriculum](https://code.org/curriculum/elementary-school)
-- 📘 [LEGO Game and Conflict Resolution](../grade-lessons/grade-1-gargana-polfleit-montgomery/lego-game-and-conflict-resolution/lego-game-and-conflict-resolution.md)
-- ⚪ Transcript lesson notes: [2026 02 11 Class Review Lego Game And Conflict Resolution](../transcript-derived-lessons/260211-grade-1-gargana-lego-conflict.md)
+- 📘 [LEGO Game and Conflict Resolution](../lesson-packets/grade-1-gargana-polfleit-montgomery/lego-game-and-conflict-resolution/lego-game-and-conflict-resolution.md)
+- ⚪ Transcript lesson notes: [2026 02 11 Class Review Lego Game And Conflict Resolution](../lesson-evidence/260211-grade-1-gargana-lego-conflict.md)
 - 🌐 Formal starting point: [LEGO Education lesson search](https://education.lego.com/en-us/)
 
 ### 🟧 Grade 2
 
 - 🕒 **Class blocks:** Day 1 · 10:45-11:35 · Callon, Day 1 · 2:15-3:05 · Henchen, Day 4 · 10:45-11:35 · Barthelman
-- 📘 [AI for Oceans and Robotics](../grade-lessons/grade-2-callon-henchen-barthelman/ai-for-oceans-and-robotics/ai-for-oceans-and-robotics.md)
-- ⚪ Transcript lesson notes: [2026 02 11 Lecture Ai For Oceans Machine Learning And Lego Robotics](../transcript-derived-lessons/260211-grade-2-callon-ai-oceans.md), [2026 02 12 Lecture Code Org Login And Intro To Ai Machine Learning For Second Grade](../transcript-derived-lessons/260212-grade-2-callon-codeorg-ai.md)
+- 📘 [AI for Oceans and Robotics](../lesson-packets/grade-2-callon-henchen-barthelman/ai-for-oceans-and-robotics/ai-for-oceans-and-robotics.md)
+- ⚪ Transcript lesson notes: [2026 02 11 Lecture Ai For Oceans Machine Learning And Lego Robotics](../lesson-evidence/260211-grade-2-callon-ai-oceans.md), [2026 02 12 Lecture Code Org Login And Intro To Ai Machine Learning For Second Grade](../lesson-evidence/260212-grade-2-callon-codeorg-ai.md)
 - 🌐 Formal starting point: [Code.org AI for Oceans](https://code.org/hour-of-ai)
-- 📘 [Robotics and Digital Book Project](../grade-lessons/grade-2-callon-henchen-barthelman/robotics-and-digital-book-project/robotics-and-digital-book-project.md)
-- ⚪ Transcript lesson notes: [2026 02 25 Lecture Robotics Project With Sphero Indy And Book Creator](../transcript-derived-lessons/260225-grade-2-callon-sphero-book.md), [2026 02 27 Class Review Book Creator Onboarding Library Verification And Classroom Management](../transcript-derived-lessons/260227-grade-2-callon-creator-onboarding.md), [2026 03 05 Lecture Second Grade Robotics And Digital Book Project With Book Creator And Sphero Indi](../transcript-derived-lessons/260305-grade-2-callon-indi-book.md)
+- 📘 [Robotics and Digital Book Project](../lesson-packets/grade-2-callon-henchen-barthelman/robotics-and-digital-book-project/robotics-and-digital-book-project.md)
+- ⚪ Transcript lesson notes: [2026 02 25 Lecture Robotics Project With Sphero Indy And Book Creator](../lesson-evidence/260225-grade-2-callon-sphero-book.md), [2026 02 27 Class Review Book Creator Onboarding Library Verification And Classroom Management](../lesson-evidence/260227-grade-2-callon-creator-onboarding.md), [2026 03 05 Lecture Second Grade Robotics And Digital Book Project With Book Creator And Sphero Indi](../lesson-evidence/260305-grade-2-callon-indi-book.md)
 - 🌐 Formal starting point: [Sphero Edu K-12 Teacher Resource Guide](https://dmmedia.sphero.com/email-marketing/Sphero-Edu/SpheroEdu-k12-teacher-resource-guide-v1_updated050818.pdf)
 
 ### 🟩 Grade 3
 
 - 🕒 **Class blocks:** Day 3 · 9:50-10:40 · Lamanaco, Day 4 · 9:50-10:40 · Lallucci, Day 5 · 9:50-10:40 · Regelsberger, Day 5 · 2:15-3:05 · Tandoi
-- 📘 [Block Coding with Sphero](../grade-lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-sphero/block-coding-with-sphero.md)
-- ⚪ Transcript lesson notes: [2026 02 27 Lecture Sphero Block Coding For Third Graders Pairing Loops Square Movement Aiming And Safety](../transcript-derived-lessons/260227-grade-3-lamanaco-sphero-loops.md), [2026 02 27 Lecture Sphero Robot Block Based Coding](../transcript-derived-lessons/260227-grade-3-lamanaco-block-coding.md), [2026 03 06 Lecture Sphero Robotics Square Path Programming And Maze Navigation](../transcript-derived-lessons/260306-grade-3-lamanaco-square-maze.md), [2026 03 06 Lesson Sphero Bolt Block Coding Aiming Angles Loops And Classroom Management](../transcript-derived-lessons/260306-grade-3-lamanaco-bolt-loops.md)
+- 📘 [Block Coding with Sphero](../lesson-packets/grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-sphero/block-coding-with-sphero.md)
+- ⚪ Transcript lesson notes: [2026 02 27 Lecture Sphero Block Coding For Third Graders Pairing Loops Square Movement Aiming And Safety](../lesson-evidence/260227-grade-3-lamanaco-sphero-loops.md), [2026 02 27 Lecture Sphero Robot Block Based Coding](../lesson-evidence/260227-grade-3-lamanaco-block-coding.md), [2026 03 06 Lecture Sphero Robotics Square Path Programming And Maze Navigation](../lesson-evidence/260306-grade-3-lamanaco-square-maze.md), [2026 03 06 Lesson Sphero Bolt Block Coding Aiming Angles Loops And Classroom Management](../lesson-evidence/260306-grade-3-lamanaco-bolt-loops.md)
 - 🌐 Formal starting point: [Sphero Edu K-12 Teacher Resource Guide](https://dmmedia.sphero.com/email-marketing/Sphero-Edu/SpheroEdu-k12-teacher-resource-guide-v1_updated050818.pdf)
-- 📘 [Responsible AI and Canva Publishing](../grade-lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/responsible-ai-and-canva-publishing/responsible-ai-and-canva-publishing.md)
-- ⚪ Transcript lesson notes: [2026 02 26 Workshop Third Grade Responsible Ai Canva Workflows And Book Promotion Projects](../transcript-derived-lessons/260226-grade-3-lamanaco-ai-canva.md)
+- 📘 [Responsible AI and Canva Publishing](../lesson-packets/grade-3-lamanaco-lallucci-regelsberger-tandoi/responsible-ai-and-canva-publishing/responsible-ai-and-canva-publishing.md)
+- ⚪ Transcript lesson notes: [2026 02 26 Workshop Third Grade Responsible Ai Canva Workflows And Book Promotion Projects](../lesson-evidence/260226-grade-3-lamanaco-ai-canva.md)
 - 🌐 Formal starting point: [Canva lesson creator resources](https://www.canva.com/education/teaching-resources/lessons/)
 
 ### 🟦 Grade 4
 
 - 🕒 **Class blocks:** Day 1 · 1:15-2:10 · Baris, Day 2 · 1:15-2:10 · Fowler, Day 3 · 1:15-2:10 · Schrank, Day 4 · 1:15-2:10 · Autore
-- 📘 [Event-Driven Robot Coding](../grade-lessons/grade-4-baris-fowler-schrank-autore/event-driven-robot-coding/event-driven-robot-coding.md)
-- ⚪ Transcript lesson notes: [2026 03 03 Lecture Sphero Event Driven Block Coding With Ambient Light Sensors And Flashlight Tag](../transcript-derived-lessons/260303-grade-4-baris-event-sensors.md), [2026 03 12 Workshop Bb 8 Programming Puzzle And Classroom Management](../transcript-derived-lessons/260312-grade-3-lamanaco-bb8.md)
+- 📘 [Event-Driven Robot Coding](../lesson-packets/grade-4-baris-fowler-schrank-autore/event-driven-robot-coding/event-driven-robot-coding.md)
+- ⚪ Transcript lesson notes: [2026 03 03 Lecture Sphero Event Driven Block Coding With Ambient Light Sensors And Flashlight Tag](../lesson-evidence/260303-grade-4-baris-event-sensors.md), [2026 03 12 Workshop Bb 8 Programming Puzzle And Classroom Management](../lesson-evidence/260312-grade-3-lamanaco-bb8.md)
 - 🌐 Formal starting point: [Sphero Edu K-12 Teacher Resource Guide](https://dmmedia.sphero.com/email-marketing/Sphero-Edu/SpheroEdu-k12-teacher-resource-guide-v1_updated050818.pdf)
-- 📘 [Minecraft Coding Fundamentals](../grade-lessons/grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/minecraft-coding-fundamentals.md)
-- ⚪ Transcript lesson notes: [2026 03 02 Class Review Minecraft Education Coding Test Lesson And Video Creation Workflow](../transcript-derived-lessons/260302-grade-4-baris-minecraft-test.md), [2026 03 03 Lecture Minecraft Education Integration Hosting And Standards Aligned Lessons](../transcript-derived-lessons/260303-grade-4-baris-minecraft-integration.md), [2026 03 05 Lesson Summary Minecraft Education Coding Fundamentals And Student Counseling Plan](../transcript-derived-lessons/260305-grade-4-baris-minecraft-summary.md), [2026 03 09 Class Session Code Org Navigation Minecraft Education While Loops And Classroom Pairing Strategies](../transcript-derived-lessons/260309-grade-4-baris-minecraft-loops.md), [2026 03 12 Workshop Minecraft Education Coding Challenge Agent Pathfinding Timed Dual Plate Activation Debugging And Loops](../transcript-derived-lessons/260312-grade-4-baris-agent-challenge.md), [2026 03 13 Lecture Minecraft Coding Fundamentals](../transcript-derived-lessons/260313-grade-4-baris-minecraft-fundamentals.md), [2026 03 13 Lecture Minecraft Installation Sign In Safety And Collaborative Team Build Procedures](../transcript-derived-lessons/260313-grade-4-baris-minecraft-signin.md), [2026 03 17 Lecture Coding Fundamentals And Block One Tutorial](../transcript-derived-lessons/260317-grade-4-baris-block-one.md), [2026 03 17 Workshop Programming Puzzles And Agent Control](../transcript-derived-lessons/260317-grade-4-baris-agent-puzzles.md), [2026 03 18 Class Session Minecraft Education Coding Challenge Boss Level Timing Agent Movement And Progression To Turtle Rescue](../transcript-derived-lessons/260318-grade-4-baris-turtle-rescue.md)
+- 📘 [Minecraft Coding Fundamentals](../lesson-packets/grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/minecraft-coding-fundamentals.md)
+- ⚪ Transcript lesson notes: [2026 03 02 Class Review Minecraft Education Coding Test Lesson And Video Creation Workflow](../lesson-evidence/260302-grade-4-baris-minecraft-test.md), [2026 03 03 Lecture Minecraft Education Integration Hosting And Standards Aligned Lessons](../lesson-evidence/260303-grade-4-baris-minecraft-integration.md), [2026 03 05 Lesson Summary Minecraft Education Coding Fundamentals And Student Counseling Plan](../lesson-evidence/260305-grade-4-baris-minecraft-summary.md), [2026 03 09 Class Session Code Org Navigation Minecraft Education While Loops And Classroom Pairing Strategies](../lesson-evidence/260309-grade-4-baris-minecraft-loops.md), [2026 03 12 Workshop Minecraft Education Coding Challenge Agent Pathfinding Timed Dual Plate Activation Debugging And Loops](../lesson-evidence/260312-grade-4-baris-agent-challenge.md), [2026 03 13 Lecture Minecraft Coding Fundamentals](../lesson-evidence/260313-grade-4-baris-minecraft-fundamentals.md), [2026 03 13 Lecture Minecraft Installation Sign In Safety And Collaborative Team Build Procedures](../lesson-evidence/260313-grade-4-baris-minecraft-signin.md), [2026 03 17 Lecture Coding Fundamentals And Block One Tutorial](../lesson-evidence/260317-grade-4-baris-block-one.md), [2026 03 17 Workshop Programming Puzzles And Agent Control](../lesson-evidence/260317-grade-4-baris-agent-puzzles.md), [2026 03 18 Class Session Minecraft Education Coding Challenge Boss Level Timing Agent Movement And Progression To Turtle Rescue](../lesson-evidence/260318-grade-4-baris-turtle-rescue.md)
 - 🌐 Formal starting point: [Minecraft Education: Coding with Minecraft](https://education.minecraft.net/en-us/resources/computer-science/coding-with-minecraft)
 
 ### 🟪 Grade 5
 
 - 🕒 **Class blocks:** Day 2 · 10:45-11:35 · Pickett, Day 3 · 10:45-11:35 · McGlashon, Day 5 · 10:45-11:35 · Pecora
-- 📘 [Robot Logic and Conditional Coding](../grade-lessons/grade-5-pickett-mcglashon-pecora/robot-logic-and-conditional-coding/robot-logic-and-conditional-coding.md)
-- ⚪ Transcript lesson notes: [2026 02 27 Lecture Conditional Coding With Sphero Robots For Grades 4 5](../transcript-derived-lessons/260227-grade-4-5-shared-conditional-sphero.md), [2026 03 13 Lecture Sphero Robot Programming Events And Minecraft](../transcript-derived-lessons/260313-mixed-shared-sphero-minecraft.md)
+- 📘 [Robot Logic and Conditional Coding](../lesson-packets/grade-5-pickett-mcglashon-pecora/robot-logic-and-conditional-coding/robot-logic-and-conditional-coding.md)
+- ⚪ Transcript lesson notes: [2026 02 27 Lecture Conditional Coding With Sphero Robots For Grades 4 5](../lesson-evidence/260227-grade-4-5-shared-conditional-sphero.md), [2026 03 13 Lecture Sphero Robot Programming Events And Minecraft](../lesson-evidence/260313-mixed-shared-sphero-minecraft.md)
 - 🌐 Formal starting point: [Sphero Edu K-12 Teacher Resource Guide](https://dmmedia.sphero.com/email-marketing/Sphero-Edu/SpheroEdu-k12-teacher-resource-guide-v1_updated050818.pdf)
-- 📘 [Tinkercad Design and Revision](../grade-lessons/grade-5-pickett-mcglashon-pecora/tinkercad-design-and-revision/tinkercad-design-and-revision.md)
-- ⚪ Transcript lesson notes: [2026 03 04 Class Session Tinkercad Basics Via Google Classroom Shape Placement Planes Grouping And Hole Creation](../transcript-derived-lessons/260304-grade-5-pickett-tinkercad.md)
+- 📘 [Tinkercad Design and Revision](../lesson-packets/grade-5-pickett-mcglashon-pecora/tinkercad-design-and-revision/tinkercad-design-and-revision.md)
+- ⚪ Transcript lesson notes: [2026 03 04 Class Session Tinkercad Basics Via Google Classroom Shape Placement Planes Grouping And Hole Creation](../lesson-evidence/260304-grade-5-pickett-tinkercad.md)
 - 🌐 Formal starting point: [Tinkercad classroom entry point](https://www.tinkercad.com/)
 
 ---
