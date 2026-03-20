@@ -1,9 +1,10 @@
-# Ignore everything by default.
-*
-
-# Keep Git metadata and this ignore file.
-!.gitignore
-
-# Allow the shared tree.
-!shared/
-!shared/**
+.DS_Store
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.xdv
+*.synctex.gz
+~$*

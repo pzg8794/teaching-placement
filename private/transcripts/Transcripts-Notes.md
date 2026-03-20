@@ -1,0 +1,66 @@
+# Transcripts Notes
+
+**Color Code:** ⚪ Transcripts
+
+> **Page Type:** Transcript index
+> **Purpose:** Session transcripts and recall notes.
+> **Audience:** You.
+> **Use This When:** Locate or review a conversation.
+
+---
+
+
+- [02-02 Weekly Meeting](./02-02%20Weekly%20Meeting_%20Proposal%20Timeline,%20Student%20Advice,%20and%20Git_GitHub-transcript.txt)
+- [02-10 Meeting](./02-10%20Meeting_%20Student%20Teaching%20Expectations%20for%20Peter-transcript.txt)
+- [02-11 Class Review](./02-11%20Class%20Review_%20Lego%20Game%20and%20Conflict%20Resolution-transcript.txt)
+- [02-11 AI for Oceans lecture](./02-11%20Lecture_%20AI%20for%20Oceans,%20Machine%20Learning,%20and%20LEGO%20Robotics-transcript.txt)
+- [02-11 Lego Word Wall lecture](./02-11%20Lecture_%20Interactive%20Vocabulary%20Videos%20with%20Google%20Vids%20and%20QR%20Lego%20Word%20Wall-transcript.txt)
+- [02-12 Code.org and AI lecture](./02-12%20Lecture_%20Code.org%20Login%20and%20Intro%20to%20AI%20Machine%20Learning%20for%20Second%20Grade-transcript.txt)
+- [02-12 Interactive Lego Word Wall](./02-12%20Lecture_%20Interactive%20Lego%20Word%20Wall%20Project-transcript.txt)
+- [02-25 Class Review](./02-25%20Class%20Review_%20Book%20Creator%20Assignment%20and%20Peace%20Circle-transcript.txt)
+- [02-25 Robotics Project lecture](./02-25%20Lecture_%20Robotics%20Project%20with%20Sphero%20Indy%20and%20Book%20Creator-transcript.txt)
+- [02-25 Video Assignment lecture](./02-25%20Lecture_%20Video%20Assignment%20and%20Robotics-transcript.txt)
+- [02-26 Coding Education lecture](./02-26%20Lecture_%20Coding%20Education,%20Project%20Management,%20and%20Robotics%20for%20Young%20Students-transcript.txt)
+- [02-26 Responsible AI workshop](./02-26%20Workshop_%20Third-Grade%20Responsible%20AI,%20Canva%20Workflows,%20and%20Book-Promotion%20Projects-transcript.txt)
+- [02-27 Book Creator class review](./02-27%20Class%20Review_%20Book%20Creator%20Onboarding,%20Library%20Verification,%20and%20Classroom%20Management-transcript.txt)
+- [02-27 Conditional coding lecture](./02-27%20Lecture_%20Conditional%20Coding%20with%20Sphero%20Robots%20for%20Grades%204%E2%80%935-transcript.txt)
+- [02-27 Trace a square lecture](./02-27%20Lecture_%20Programming%20a%20Robot%20to%20Trace%20a%20Square%20with%20Movement%20Blocks-transcript.txt)
+- [02-27 Sphero block coding lecture](./02-27%20Lecture_%20Sphero%20Block%20Coding%20for%20Third%20Graders%E2%80%94Pairing,%20Loops,%20Square%20Movement,%20Aiming,%20and%20Safety-transcript.txt)
+- [02-27 Sphero robot lecture](./02-27%20Lecture_%20Sphero%20Robot%20Block-Based%20Coding-transcript.txt)
+- [02-27 STEM asset control notes](./02-27%20Stabilizing%20Dismissal%20Flow%20and%20STEM%20Asset%20Control_%20Immediate%20Protocols%20for%20Student%20Movement,%20Transportation,%20and%20Device%20Inventory-transcript.txt)
+- [03-02 Minecraft Education class review](./03-02%20Class%20Review_%20Minecraft%20Education%20Coding%20Test%20Lesson%20and%20Video%20Creation%20Workflow-transcript.txt)
+- [03-02 Classroom technology lecture](./03-02%20Lecture_%20Classroom%20Technology%20Guidance%20and%20Robot%20Construction%20Project-transcript.txt)
+- [03-02 Invention vs. Innovation lecture](./03-02%20Lecture_%20Invention%20vs.%20Innovation,%20Creative%20Brainstorming,%20and%20Google%20Docs%20Workflow-transcript.txt)
+- [03-03 Hands-on building class review](./03-03%20Class%20Review_%20Hands-on%20Building,%20Functional%20Design,%20and%20Event-Driven%20Coding%20%28Sphero,%20Code.org,%20Typing%20Agent%29-transcript.txt)
+- [03-03 Chromebook camera class session](./03-03%20Class%20Session_%20Chromebook%20Camera,%20GIF%20Creation,%20TikTok-Style%20Videos,%20and%20Behavior%20Management-transcript.txt)
+- [03-03 Classroom activity brief](./03-03%20Consistent%20Rules%20and%20Clear%20Brief%20for%20Hands-On%20Prison%20Build%20Classroom%20Activity-transcript.txt)
+- [03-03 Minecraft Education integration lecture](./03-03%20Lecture_%20Minecraft%20Education%20Integration,%20Hosting,%20and%20Standards-Aligned%20Lessons-transcript.txt)
+- [03-03 Sphero event-driven lecture](./03-03%20Lecture_%20Sphero%20Event-Driven%20Block%20Coding%20with%20Ambient%20Light%20Sensors%20and%20Flashlight%20Tag-transcript.txt)
+- [03-04 Tinkercad class session](./03-04%20Class%20Session_%20Tinkercad%20Basics%20via%20Google%20Classroom%20%E2%80%94%20Shape%20Placement,%20Planes,%20Grouping,%20and%20Hole%20Creation-transcript.txt)
+- [03-05 Elementary circuit planning summary](./03-05%20Lecture%20Summary_%20Elementary%20Circuit%20Activity%20Planning%20and%20Kindergarten%20Typing%20Session-transcript.txt)
+- [03-05 Keyboard typing lecture](./03-05%20Lecture_%20Keyboard%20Typing%20Skills%20and%20Introductory%20Electricity%20Circuits%20with%20Play-Doh%20%28K%E2%80%935%20Classroom%29-transcript.txt)
+- [03-05 Second-grade robotics lecture](./03-05%20Lecture_%20Second-Grade%20Robotics%20and%20Digital%20Book%20Project%20with%20Book%20Creator%20and%20Sphero%20Indi-transcript.txt)
+- [03-05 Minecraft lesson summary](./03-05%20Lesson%20Summary_%20Minecraft%20Education%20Coding%20Fundamentals%20%26%20Student%20Counseling%20Plan-transcript.txt)
+- [03-05 Digital project workshop](./03-05%20Workshop_%20Digital%20Project%20and%20Video%20Book%20Recommendations-transcript.txt)
+- [03-06 Sphero robotics lecture](./03-06%20Lecture_%20Sphero%20Robotics%E2%80%94Square%20Path%20Programming%20and%20Maze%20Navigation-transcript.txt)
+- [03-06 Sphero BOLT lesson](./03-06%20Lesson_%20Sphero%20BOLT%20Block-Coding%20%E2%80%94%20Aiming,%20Angles,%20Loops,%20and%20Classroom%20Management-transcript.txt)
+- [03-06 Performative governance discussion](./03-06%20Performative%20Governance%20in%20Schools_%20How%20Hierarchy%20Silences%20Teachers%20and%20Undermines%20Support-transcript.txt)
+- [03-06 Robotics class follow-up](./03-06%20Robotics%20Class%20on%20Sphero%20Programming%20and%20Subsequent%20Adult%20Conversations-transcript.txt)
+- [03-09 Code.org and Minecraft class session](./03-09%20Class%20Session_%20Code.org%20Navigation,%20Minecraft%20Education%20While%20Loops,%20and%20Classroom%20Pairing%20Strategies-transcript.txt)
+- [03-09 Foundational coding workshop](./03-09%20Classroom%20Workshop_%20Foundational%20Coding%20with%20Directional%20Sequencing,%20Loops,%20and%20Classroom%20Management-transcript.txt)
+- [03-10 Robotics arch challenge](./03-10%20Standardizing%20a%20Classroom%20Robotics%20Arch%20Challenge_%20Rules,%20Specs,%20and%20Workflow%20Decisions-transcript.txt)
+- [03-11 Casual conversation](./03-11%20Casual%20Conversation_%20Miko%27s%20Return%20and%20Dependency%20Concerns-transcript.txt)
+- [03-11 Basic electrical circuits lecture](./03-11%20Lecture_%20Basic%20Electrical%20Circuits-transcript.txt)
+- [03-11 Cordables activity lecture](./03-11%20Lecture_%20Cordables%20Activity%20and%20Classroom%20Management-transcript.txt)
+- [03-12 Game-based learning lecture](./03-12%20Lecture_%20Game-Based%20Learning%20and%20Problem-Solving-transcript.txt)
+- [03-12 BB-8 workshop](./03-12%20Workshop_%20BB-8%20Programming%20Puzzle%20and%20Classroom%20Management-transcript.txt)
+- [03-12 Minecraft coding challenge workshop](./03-12%20Workshop_%20Minecraft%20Education%20Coding%20Challenge%20%E2%80%94%20Agent%20Pathfinding,%20Timed%20Dual%20Plate%20Activation,%20Debugging,%20and%20Loops-transcript.txt)
+- [03-13 Minecraft coding fundamentals lecture](./03-13%20Lecture_%20Minecraft%20Coding%20Fundamentals-transcript.txt)
+- [03-13 Minecraft installation lecture](./03-13%20Lecture_%20Minecraft%20Installation,%20Sign-in%20Safety,%20and%20Collaborative%20Team%20Build%20Procedures-transcript.txt)
+- [03-13 Sphero programming lecture](./03-13%20Lecture_%20Sphero%20Robot%20Programming,%20Events,%20and%20Minecraft-transcript.txt)
+- [03-17 Casual conversation](./03-17%20Casual%20Conversation_%20Caregiving%20and%20Family-transcript.txt)
+- [03-17 Coding fundamentals lecture](./03-17%20Lecture_%20Coding%20Fundamentals%20%26%20Block%20One%20Tutorial-transcript.txt)
+- [03-17 Online safety lecture](./03-17%20Lecture_%20Online%20Safety%20and%20Types%20of%20Robots-transcript.txt)
+- [03-17 Programming puzzles workshop](./03-17%20Workshop_%20Programming%20Puzzles%20%26%20Agent%20Control-transcript.txt)
+- [03-18 Minecraft challenge class session](./03-18%20Class%20Session_%20Minecraft%20Education%20Coding%20Challenge%20%E2%80%93%20Boss%20Level%20Timing,%20Agent%20Movement,%20and%20Progression%20to%20Turtle%20Rescue-transcript.txt)
+- [03-18 Digital coloring lecture](./03-18%20Lecture_%20Digital%20Coloring%20and%20Introduction%20to%20Robotics-transcript.txt)
