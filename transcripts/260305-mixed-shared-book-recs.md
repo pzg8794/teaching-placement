@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [03-05 Workshop_ Digital Project and Video Book Recommendations-transcript.txt](./03-05 Workshop_ Digital Project and Video Book Recommendations-transcript.txt)
+- 📄 **Source TXT:** [03-05 Workshop_ Digital Project and Video Book Recommendations-transcript.txt](./260305-mixed-shared-book-recs.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

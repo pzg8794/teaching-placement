@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [03-17 Workshop_ Programming Puzzles & Agent Control-transcript.txt](./03-17 Workshop_ Programming Puzzles & Agent Control-transcript.txt)
+- 📄 **Source TXT:** [03-17 Workshop_ Programming Puzzles & Agent Control-transcript.txt](./260317-grade-4-baris-agent-puzzles.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

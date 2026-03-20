@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [03-10 Standardizing a Classroom Robotics Arch Challenge_ Rules, Specs, and Workflow Decisions-transcript.txt](./03-10 Standardizing a Classroom Robotics Arch Challenge_ Rules, Specs, and Workflow Decisions-transcript.txt)
+- 📄 **Source TXT:** [03-10 Standardizing a Classroom Robotics Arch Challenge_ Rules, Specs, and Workflow Decisions-transcript.txt](./260310-mixed-shared-arch-challenge.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

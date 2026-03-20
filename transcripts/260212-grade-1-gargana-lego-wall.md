@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [02-12 Lecture_ Interactive Lego Word Wall Project-transcript.txt](./02-12 Lecture_ Interactive Lego Word Wall Project-transcript.txt)
+- 📄 **Source TXT:** [02-12 Lecture_ Interactive Lego Word Wall Project-transcript.txt](./260212-grade-1-gargana-lego-wall.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [02-11 Lecture_ Interactive Vocabulary Videos with Google Vids and QR Lego Word Wall-transcript.txt](./02-11 Lecture_ Interactive Vocabulary Videos with Google Vids and QR Lego Word Wall-transcript.txt)
+- 📄 **Source TXT:** [02-11 Lecture_ Interactive Vocabulary Videos with Google Vids and QR Lego Word Wall-transcript.txt](./260211-grade-1-gargana-word-wall.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [03-06 Robotics Class on Sphero Programming and Subsequent Adult Conversations-transcript.txt](./03-06 Robotics Class on Sphero Programming and Subsequent Adult Conversations-transcript.txt)
+- 📄 **Source TXT:** [03-06 Robotics Class on Sphero Programming and Subsequent Adult Conversations-transcript.txt](./260306-mixed-shared-sphero-notes.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

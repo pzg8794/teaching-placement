@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [02-11 Class Review_ Lego Game and Conflict Resolution-transcript.txt](./02-11 Class Review_ Lego Game and Conflict Resolution-transcript.txt)
+- 📄 **Source TXT:** [02-11 Class Review_ Lego Game and Conflict Resolution-transcript.txt](./260211-grade-1-gargana-lego-conflict.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

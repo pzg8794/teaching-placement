@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [03-12 Lecture_ Game-Based Learning and Problem-Solving-transcript.txt](./03-12 Lecture_ Game-Based Learning and Problem-Solving-transcript.txt)
+- 📄 **Source TXT:** [03-12 Lecture_ Game-Based Learning and Problem-Solving-transcript.txt](./260312-mixed-shared-game-learning.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

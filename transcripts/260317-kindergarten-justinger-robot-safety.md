@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [03-17 Lecture_ Online Safety and Types of Robots-transcript.txt](./03-17 Lecture_ Online Safety and Types of Robots-transcript.txt)
+- 📄 **Source TXT:** [03-17 Lecture_ Online Safety and Types of Robots-transcript.txt](./260317-kindergarten-justinger-robot-safety.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [03-18 Lecture_ Digital Coloring and Introduction to Robotics-transcript.txt](./03-18 Lecture_ Digital Coloring and Introduction to Robotics-transcript.txt)
+- 📄 **Source TXT:** [03-18 Lecture_ Digital Coloring and Introduction to Robotics-transcript.txt](./260318-kindergarten-justinger-coloring-robotics.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

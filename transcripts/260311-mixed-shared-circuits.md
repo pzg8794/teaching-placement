@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [03-11 Lecture_ Basic Electrical Circuits-transcript.txt](./03-11 Lecture_ Basic Electrical Circuits-transcript.txt)
+- 📄 **Source TXT:** [03-11 Lecture_ Basic Electrical Circuits-transcript.txt](./260311-mixed-shared-circuits.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

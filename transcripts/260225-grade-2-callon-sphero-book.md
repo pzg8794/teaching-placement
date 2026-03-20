@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [02-25 Lecture_ Robotics Project with Sphero Indy and Book Creator-transcript.txt](./02-25 Lecture_ Robotics Project with Sphero Indy and Book Creator-transcript.txt)
+- 📄 **Source TXT:** [02-25 Lecture_ Robotics Project with Sphero Indy and Book Creator-transcript.txt](./260225-grade-2-callon-sphero-book.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

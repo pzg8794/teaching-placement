@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [02-12 Lecture_ Code.org Login and Intro to AI Machine Learning for Second Grade-transcript.txt](./02-12 Lecture_ Code.org Login and Intro to AI Machine Learning for Second Grade-transcript.txt)
+- 📄 **Source TXT:** [02-12 Lecture_ Code.org Login and Intro to AI Machine Learning for Second Grade-transcript.txt](./260212-grade-2-callon-codeorg-ai.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

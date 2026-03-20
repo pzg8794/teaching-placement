@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [02-27 Class Review_ Book Creator Onboarding, Library Verification, and Classroom Management-transcript.txt](./02-27 Class Review_ Book Creator Onboarding, Library Verification, and Classroom Management-transcript.txt)
+- 📄 **Source TXT:** [02-27 Class Review_ Book Creator Onboarding, Library Verification, and Classroom Management-transcript.txt](./260227-grade-2-callon-creator-onboarding.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

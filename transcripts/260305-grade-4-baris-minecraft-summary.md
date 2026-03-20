@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [03-05 Lesson Summary_ Minecraft Education Coding Fundamentals & Student Counseling Plan-transcript.txt](./03-05 Lesson Summary_ Minecraft Education Coding Fundamentals & Student Counseling Plan-transcript.txt)
+- 📄 **Source TXT:** [03-05 Lesson Summary_ Minecraft Education Coding Fundamentals & Student Counseling Plan-transcript.txt](./260305-grade-4-baris-minecraft-summary.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

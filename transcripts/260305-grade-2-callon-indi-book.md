@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [03-05 Lecture_ Second-Grade Robotics and Digital Book Project with Book Creator and Sphero Indi-transcript.txt](./03-05 Lecture_ Second-Grade Robotics and Digital Book Project with Book Creator and Sphero Indi-transcript.txt)
+- 📄 **Source TXT:** [03-05 Lecture_ Second-Grade Robotics and Digital Book Project with Book Creator and Sphero Indi-transcript.txt](./260305-grade-2-callon-indi-book.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

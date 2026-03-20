@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [03-02 Lecture_ Classroom Technology Guidance and Robot Construction Project-transcript.txt](./03-02 Lecture_ Classroom Technology Guidance and Robot Construction Project-transcript.txt)
+- 📄 **Source TXT:** [03-02 Lecture_ Classroom Technology Guidance and Robot Construction Project-transcript.txt](./260302-mixed-shared-robot-guidance.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

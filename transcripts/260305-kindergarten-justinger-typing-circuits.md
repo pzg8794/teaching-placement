@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [03-05 Lecture_ Keyboard Typing Skills and Introductory Electricity Circuits with Play-Doh (K–5 Classroom)-transcript.txt](./03-05 Lecture_ Keyboard Typing Skills and Introductory Electricity Circuits with Play-Doh (K–5 Classroom)-transcript.txt)
+- 📄 **Source TXT:** [03-05 Lecture_ Keyboard Typing Skills and Introductory Electricity Circuits with Play-Doh (K–5 Classroom)-transcript.txt](./260305-kindergarten-justinger-typing-circuits.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

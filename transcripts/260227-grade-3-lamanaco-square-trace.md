@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [02-27 Lecture_ Programming a Robot to Trace a Square with Movement Blocks-transcript.txt](./02-27 Lecture_ Programming a Robot to Trace a Square with Movement Blocks-transcript.txt)
+- 📄 **Source TXT:** [02-27 Lecture_ Programming a Robot to Trace a Square with Movement Blocks-transcript.txt](./260227-grade-3-lamanaco-square-trace.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

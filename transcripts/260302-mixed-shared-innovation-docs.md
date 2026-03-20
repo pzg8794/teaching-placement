@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [03-02 Lecture_ Invention vs. Innovation, Creative Brainstorming, and Google Docs Workflow-transcript.txt](./03-02 Lecture_ Invention vs. Innovation, Creative Brainstorming, and Google Docs Workflow-transcript.txt)
+- 📄 **Source TXT:** [03-02 Lecture_ Invention vs. Innovation, Creative Brainstorming, and Google Docs Workflow-transcript.txt](./260302-mixed-shared-innovation-docs.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

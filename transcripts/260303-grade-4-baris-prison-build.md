@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [03-03 Consistent Rules and Clear Brief for Hands-On Prison Build Classroom Activity-transcript.txt](./03-03 Consistent Rules and Clear Brief for Hands-On Prison Build Classroom Activity-transcript.txt)
+- 📄 **Source TXT:** [03-03 Consistent Rules and Clear Brief for Hands-On Prison Build Classroom Activity-transcript.txt](./260303-grade-4-baris-prison-build.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

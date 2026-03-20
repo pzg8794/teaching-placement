@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [02-26 Lecture_ Coding Education, Project Management, and Robotics for Young Students-transcript.txt](./02-26 Lecture_ Coding Education, Project Management, and Robotics for Young Students-transcript.txt)
+- 📄 **Source TXT:** [02-26 Lecture_ Coding Education, Project Management, and Robotics for Young Students-transcript.txt](./260226-mixed-shared-robotics-plan.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

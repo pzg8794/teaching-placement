@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [03-12 Workshop_ Minecraft Education Coding Challenge — Agent Pathfinding, Timed Dual Plate Activation, Debugging, and Loops-transcript.txt](./03-12 Workshop_ Minecraft Education Coding Challenge — Agent Pathfinding, Timed Dual Plate Activation, Debugging, and Loops-transcript.txt)
+- 📄 **Source TXT:** [03-12 Workshop_ Minecraft Education Coding Challenge — Agent Pathfinding, Timed Dual Plate Activation, Debugging, and Loops-transcript.txt](./260312-grade-4-baris-agent-challenge.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

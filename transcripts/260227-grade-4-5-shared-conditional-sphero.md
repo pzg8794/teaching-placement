@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [02-27 Lecture_ Conditional Coding with Sphero Robots for Grades 4–5-transcript.txt](./02-27 Lecture_ Conditional Coding with Sphero Robots for Grades 4–5-transcript.txt)
+- 📄 **Source TXT:** [02-27 Lecture_ Conditional Coding with Sphero Robots for Grades 4–5-transcript.txt](./260227-grade-4-5-shared-conditional-sphero.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

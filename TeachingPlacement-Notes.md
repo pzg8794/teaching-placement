@@ -10,8 +10,6 @@
 
 ## 🎨 Color + Icon Legend
 
-- `🔒` private workspace
-- `🌐` shared workspace
 - `🟣` expectations / formal paperwork
 - `🔵` communications
 - `🟦` coursework or Grade 4 / Monday-type blue grouping when used in schedules
@@ -21,8 +19,6 @@
 - `🟫` snapshots / presentations
 - `🟤` tasks / action items
 - `⚪` transcripts
-- `🟥` SBTE-facing shared material
-- `🟪` collaborator-facing shared material
 - `📅` schedule / timing
 - `🎯` objective / main purpose
 - `🛠️` materials / tools
@@ -35,8 +31,7 @@
 - [🟢 Lessons](./lessons/Lessons-Notes.md)
 - [🔴 School / Placement](./school/School-Notes.md)
 - [⚪ Transcripts](./transcripts/Transcripts-Notes.md)
-- [🟥 SBTE Materials](./sbte/SBTE-Notes.md)
-- [🟪 Collaborator Materials](./collaborators/Collaborators-Notes.md)
+- [🟫 Snapshots](./snapshots/Snapshots-Notes.md)
 
 ---
 
@@ -51,8 +46,6 @@
 - [🟫 Snapshots](./snapshots/Snapshots-Notes.md)
 - [🟤 Tasks](./tasks/Tasks-Notes.md)
 - [⚪ Transcripts](./transcripts/Transcripts-Notes.md)
-- [🟥 SBTE Materials](./sbte/SBTE-Notes.md)
-- [🟪 Collaborator Materials](./collaborators/Collaborators-Notes.md)
 
 ---
 
@@ -61,5 +54,4 @@
 - If you are looking for **what happened in class**, start in [⚪ Transcripts](./transcripts/Transcripts-Notes.md).
 - If you are looking for **what to teach next**, start in [🟢 Lessons](./lessons/Lessons-Notes.md).
 - If you are looking for **when or with which class**, start in [🔴 School / Placement](./school/School-Notes.md).
-- If you are looking for **what can be shared with Derek**, start in [🟥 SBTE Materials](./sbte/SBTE-Notes.md).
-- If you are looking for **what can be shared with collaborators**, start in [🟪 Collaborator Materials](./collaborators/Collaborators-Notes.md).
+- If you want to **share something**, send the link to the real folder or file itself instead of using a duplicate share directory.

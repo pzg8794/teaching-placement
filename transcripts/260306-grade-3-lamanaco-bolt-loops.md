@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [03-06 Lesson_ Sphero BOLT Block-Coding — Aiming, Angles, Loops, and Classroom Management-transcript.txt](./03-06 Lesson_ Sphero BOLT Block-Coding — Aiming, Angles, Loops, and Classroom Management-transcript.txt)
+- 📄 **Source TXT:** [03-06 Lesson_ Sphero BOLT Block-Coding — Aiming, Angles, Loops, and Classroom Management-transcript.txt](./260306-grade-3-lamanaco-bolt-loops.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

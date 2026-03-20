@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [03-03 Class Review_ Hands-on Building, Functional Design, and Event-Driven Coding (Sphero, Code.org, Typing Agent)-transcript.txt](./03-03 Class Review_ Hands-on Building, Functional Design, and Event-Driven Coding (Sphero, Code.org, Typing Agent)-transcript.txt)
+- 📄 **Source TXT:** [03-03 Class Review_ Hands-on Building, Functional Design, and Event-Driven Coding (Sphero, Code.org, Typing Agent)-transcript.txt](./260303-mixed-shared-build-rotation.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

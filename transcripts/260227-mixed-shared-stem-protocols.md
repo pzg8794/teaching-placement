@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [02-27 Stabilizing Dismissal Flow and STEM Asset Control_ Immediate Protocols for Student Movement, Transportation, and Device Inventory-transcript.txt](./02-27 Stabilizing Dismissal Flow and STEM Asset Control_ Immediate Protocols for Student Movement, Transportation, and Device Inventory-transcript.txt)
+- 📄 **Source TXT:** [02-27 Stabilizing Dismissal Flow and STEM Asset Control_ Immediate Protocols for Student Movement, Transportation, and Device Inventory-transcript.txt](./260227-mixed-shared-stem-protocols.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

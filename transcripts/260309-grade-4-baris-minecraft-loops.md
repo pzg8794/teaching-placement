@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [03-09 Class Session_ Code.org Navigation, Minecraft Education While Loops, and Classroom Pairing Strategies-transcript.txt](./03-09 Class Session_ Code.org Navigation, Minecraft Education While Loops, and Classroom Pairing Strategies-transcript.txt)
+- 📄 **Source TXT:** [03-09 Class Session_ Code.org Navigation, Minecraft Education While Loops, and Classroom Pairing Strategies-transcript.txt](./260309-grade-4-baris-minecraft-loops.txt)
 - 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 
