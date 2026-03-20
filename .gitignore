@@ -1,0 +1,9 @@
+# Ignore everything by default.
+*
+
+# Keep Git metadata and this ignore file.
+!.gitignore
+
+# Allow the shared tree.
+!shared/
+!shared/**
