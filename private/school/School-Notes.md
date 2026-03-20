@@ -12,8 +12,8 @@
 
 - [📅 Teaching schedule](./Spring2026_TeachingSchedule_Derek.md)
 - [🗂️ IGNITE curriculum workbook](./Teaching_Placement-IGNITE%20Curriculum_%20GCSD25-26.xlsx)
-- [🧩 Grade-based lesson hub](../lesson-packets/Lesson-Packets-Notes.md)
-- [⚪ Transcript-derived lessons index](../lesson-evidence/Lesson-Evidence-Notes.md)
+- [🧩 Grade-based lesson hub](../lessons/Lessons-Notes.md)
+- [⚪ Transcript-derived lessons index](../lessons/evidence/Evidence-Notes.md)
 - [🎉 Student teacher welcome celebration invitation](./Student%20TeacherIntern%20Welcome%20Celebration%20Invitation%20%285%29.pdf)
 - [📊 Attendance Google Sheet shortcut](./CS%20Teaching%20Placement%20Attendance.gsheet)
 - [📄 Internship graphic model](./Teaching_Placement-Internship_Graphic_Model.pdf)

@@ -15,13 +15,14 @@ private/communications/*
 !private/communications/*.md
 
 # Keep lesson evidence directory markdown-only in Git.
-private/lesson-evidence/*
-!private/lesson-evidence/*.md
+private/lessons/evidence/*
+!private/lessons/evidence/*.md
 
 # Keep raw transcripts markdown-only in Git.
 private/transcripts/*
 !private/transcripts/*.md
 
-# Keep compiled lesson PDFs only inside lesson packet artifacts folders.
-private/lesson-packets/*/*/*.pdf
-!private/lesson-packets/*/*/artifacts/*.pdf
+# Keep compiled lesson PDFs only inside lesson artifacts folders.
+private/lessons/*/*/*.pdf
+!private/lessons/*/*/artifacts/*.pdf
+!private/lessons/source-materials/*/*.pdf

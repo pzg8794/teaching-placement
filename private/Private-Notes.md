@@ -13,9 +13,7 @@
 - [🟣 Admin](./admin/Admin-Notes.md)
 - [🔵 Communications](./communications/Communications-Notes.md)
 - [🟦 Coursework](./coursework/Coursework-Notes.md)
-- [🟢 Lesson Sources](./lesson-sources/Lesson-Sources-Notes.md)
-- [🧩 Lesson Packets](./lesson-packets/Lesson-Packets-Notes.md)
-- [⚪ Lesson Evidence](./lesson-evidence/Lesson-Evidence-Notes.md)
+- [🟢 Lessons](./lessons/Lessons-Notes.md)
 - [🟠 Personal](./personal/Personal-Notes.md)
 - [🟡 References](./reference/Reference-Notes.md)
 - [🔴 School / Placement](./school/School-Notes.md)
@@ -28,9 +26,7 @@
 ## 🧠 Fast Find Guide
 
 - Need **calendar / classes / roster**: [🔴 School / Placement](./school/School-Notes.md)
-- Need **grade-organized packets**: [🧩 Lesson Packets](./lesson-packets/Lesson-Packets-Notes.md)
-- Need **existing lesson artifacts**: [🟢 Lesson Sources](./lesson-sources/Lesson-Sources-Notes.md)
-- Need **transcript-based proof notes**: [⚪ Lesson Evidence](./lesson-evidence/Lesson-Evidence-Notes.md)
+- Need **lesson packets, source materials, or evidence**: [🟢 Lessons](./lessons/Lessons-Notes.md)
 - Need **class evidence / what was said**: [⚪ Transcripts](./transcripts/Transcripts-Notes.md)
 - Need **next steps**: [🟤 Tasks](./tasks/Tasks-Notes.md)
 - Need **formal files**: [🟣 Admin](./admin/Admin-Notes.md)

@@ -11,7 +11,7 @@
 ## ⚡ Quick Scan
 
 - 📄 **Source TXT:** [03-09 Class Session_ Code.org Navigation, Minecraft Education While Loops, and Classroom Pairing Strategies-transcript.txt](./03-09 Class Session_ Code.org Navigation, Minecraft Education While Loops, and Classroom Pairing Strategies-transcript.txt)
-- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Lesson-Sources-Notes.md](../lesson-evidence/Lesson-Evidence-Notes.md)
+- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 
 ## 📝 Transcript

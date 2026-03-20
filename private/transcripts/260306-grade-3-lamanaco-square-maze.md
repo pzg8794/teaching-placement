@@ -11,7 +11,7 @@
 ## ⚡ Quick Scan
 
 - 📄 **Source TXT:** [03-06 Lecture_ Sphero Robotics—Square Path Programming and Maze Navigation-transcript.txt](./03-06 Lecture_ Sphero Robotics—Square Path Programming and Maze Navigation-transcript.txt)
-- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Lesson-Sources-Notes.md](../lesson-evidence/Lesson-Evidence-Notes.md)
+- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/evidence/Evidence-Notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 
 ## 📝 Transcript
