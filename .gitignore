@@ -16,3 +16,7 @@ private/communications/*
 # Keep transcript-derived lessons markdown-only in Git.
 private/transcript-derived-lessons/*
 !private/transcript-derived-lessons/*.md
+
+# Keep raw transcripts markdown-only in Git.
+private/transcripts/*
+!private/transcripts/*.md
