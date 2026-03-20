@@ -59,11 +59,11 @@
 
 ## 📌 Evidence / Proof of Instruction
 
-- 📌 **Transcript-derived note:** [260225 Grade 2 Callon Sphero Book](../../lessons/evidence/260225-grade-2-callon-sphero-book.md)  
+- 📌 **Transcript-derived note:** [260225 Grade 2 Callon Sphero Book](../../lessons/evidence/260225-grade-2-callon-sphero-book-evidence.md)  
   The main note links the lesson directly to Sphero Indi and Book Creator as paired parts of the same class experience.
-- 📌 **Transcript-derived note:** [260227 Grade 2 Callon Creator Onboarding](../../lessons/evidence/260227-grade-2-callon-creator-onboarding.md)  
+- 📌 **Transcript-derived note:** [260227 Grade 2 Callon Creator Onboarding](../../lessons/evidence/260227-grade-2-callon-creator-onboarding-evidence.md)  
   Follow-up onboarding and library verification notes show that the digital book workflow was actively taught, not merely assigned.
-- 📌 **Transcript-derived note:** [260225 Grade 2 Callon Book Circle](../../lessons/evidence/260225-grade-2-callon-book-circle.md)  
+- 📌 **Transcript-derived note:** [260225 Grade 2 Callon Book Circle](../../lessons/evidence/260225-grade-2-callon-book-circle-evidence.md)  
   The class review indicates that explanation, reflection, and classroom discussion were part of how students processed the task.
 - 📌 **Likely student proof:** Robot paths, Book Creator pages, screenshots, or student explanation pages all count as lesson evidence.
 

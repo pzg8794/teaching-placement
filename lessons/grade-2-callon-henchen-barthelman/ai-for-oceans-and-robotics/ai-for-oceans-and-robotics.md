@@ -59,11 +59,11 @@
 
 ## 📌 Evidence / Proof of Instruction
 
-- 📌 **Transcript-derived note:** [260211 Grade 2 Callon Ai Oceans](../../lessons/evidence/260211-grade-2-callon-ai-oceans.md)  
+- 📌 **Transcript-derived note:** [260211 Grade 2 Callon Ai Oceans](../../lessons/evidence/260211-grade-2-callon-ai-oceans-evidence.md)  
   The lesson note shows that the class explicitly introduced AI, machine learning, and the AI for Oceans task.
-- 📌 **Transcript-derived note:** [260212 Grade 2 Callon Codeorg Ai](../../lessons/evidence/260212-grade-2-callon-codeorg-ai.md)  
+- 📌 **Transcript-derived note:** [260212 Grade 2 Callon Codeorg Ai](../../lessons/evidence/260212-grade-2-callon-codeorg-ai-evidence.md)  
   The follow-up note documents login support and direct teaching about how students would train the model.
-- 📌 **Source transcript:** [260212 Grade 2 Callon Codeorg Ai](../../transcripts/260212-grade-2-callon-codeorg-ai.md)  
+- 📌 **Source transcript:** [260212 Grade 2 Callon Codeorg Ai](../../transcripts/260212-grade-2-callon-codeorg-ai-evidence.md)  
   The source transcript records the teacher saying students would “train an AI bot” and move between video, discussion, and guided activity.
 - 📌 **Likely student proof:** Completed AI for Oceans tasks, correct category choices, student explanations of why an item belongs in a group, and discussion of mistakes all count as proof of instruction.
 

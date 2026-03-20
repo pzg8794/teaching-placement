@@ -59,9 +59,9 @@
 
 ## 📌 Evidence / Proof of Instruction
 
-- 📌 **Transcript-derived note:** [260226 Grade 3 Lamanaco Ai Canva](../../lessons/evidence/260226-grade-3-lamanaco-ai-canva.md)  
+- 📌 **Transcript-derived note:** [260226 Grade 3 Lamanaco Ai Canva](../../lessons/evidence/260226-grade-3-lamanaco-ai-canva-evidence.md)  
   The note ties responsible AI directly to Canva workflows and book-promotion style products.
-- 📌 **Source transcript:** [260226 Grade 3 Lamanaco Ai Canva](../../transcripts/260226-grade-3-lamanaco-ai-canva.md)  
+- 📌 **Source transcript:** [260226 Grade 3 Lamanaco Ai Canva](../../transcripts/260226-grade-3-lamanaco-ai-canva-evidence.md)  
   The source transcript documents teacher emphasis on AI responsibility, publishing choices, and product workflow.
 - 📌 **Observed teacher moves:** The lesson evidence includes guided discussion about acceptable tool use, product expectations, and how students present their work.
 - 📌 **Likely student proof:** Completed Canva pages, promotional designs, and student explanations of why a design is responsible and clear count as proof.

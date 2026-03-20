@@ -59,13 +59,13 @@
 
 ## 📌 Evidence / Proof of Instruction
 
-- 📌 **Transcript-derived note:** [260227 Grade 3 Lamanaco Sphero Loops](../../lessons/evidence/260227-grade-3-lamanaco-sphero-loops.md)  
+- 📌 **Transcript-derived note:** [260227 Grade 3 Lamanaco Sphero Loops](../../lessons/evidence/260227-grade-3-lamanaco-sphero-loops-evidence.md)  
   The lesson note explicitly names pairing, loops, square movement, aiming, and safety.
-- 📌 **Transcript-derived note:** [260227 Grade 3 Lamanaco Block Coding](../../lessons/evidence/260227-grade-3-lamanaco-block-coding.md)  
+- 📌 **Transcript-derived note:** [260227 Grade 3 Lamanaco Block Coding](../../lessons/evidence/260227-grade-3-lamanaco-block-coding-evidence.md)  
   The additional note shows the same lesson family emphasized core block coding rather than one isolated challenge.
-- 📌 **Transcript-derived note:** [260306 Grade 3 Lamanaco Square Maze](../../lessons/evidence/260306-grade-3-lamanaco-square-maze.md)  
+- 📌 **Transcript-derived note:** [260306 Grade 3 Lamanaco Square Maze](../../lessons/evidence/260306-grade-3-lamanaco-square-maze-evidence.md)  
   Later transcripts show students applying the same logic to more precise route and maze navigation tasks.
-- 📌 **Source transcript:** [260227 Grade 3 Lamanaco Sphero Loops](../../transcripts/260227-grade-3-lamanaco-sphero-loops.md)  
+- 📌 **Source transcript:** [260227 Grade 3 Lamanaco Sphero Loops](../../transcripts/260227-grade-3-lamanaco-sphero-loops-evidence.md)  
   The source transcript records teacher language around loops, pairing, and safety while students work in robot pairs.
 - 📌 **Likely student proof:** Working square paths, looped code blocks, debug revisions, and safe partner management are direct evidence of instruction.
 

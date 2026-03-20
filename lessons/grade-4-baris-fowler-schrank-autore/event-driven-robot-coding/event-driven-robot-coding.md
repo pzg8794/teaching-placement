@@ -59,11 +59,11 @@
 
 ## 📌 Evidence / Proof of Instruction
 
-- 📌 **Transcript-derived note:** [260303 Grade 4 Baris Event Sensors](../../lessons/evidence/260303-grade-4-baris-event-sensors.md)  
+- 📌 **Transcript-derived note:** [260303 Grade 4 Baris Event Sensors](../../lessons/evidence/260303-grade-4-baris-event-sensors-evidence.md)  
   The note directly names ambient light sensors and flashlight-triggered coding.
-- 📌 **Transcript-derived note:** [260312 Grade 4 Baris Agent Challenge](../../lessons/evidence/260312-grade-4-baris-agent-challenge.md)  
+- 📌 **Transcript-derived note:** [260312 Grade 4 Baris Agent Challenge](../../lessons/evidence/260312-grade-4-baris-agent-challenge-evidence.md)  
   Later challenge work shows students applying similar event/debug logic in a more complex environment.
-- 📌 **Source transcript:** [260303 Grade 4 Baris Event Sensors](../../transcripts/260303-grade-4-baris-event-sensors.md)  
+- 📌 **Source transcript:** [260303 Grade 4 Baris Event Sensors](../../transcripts/260303-grade-4-baris-event-sensors-evidence.md)  
   The source transcript records discussion of events, sensors, and New York-required learning in this kind of class.
 - 📌 **Likely student proof:** Working event-triggered programs, failed attempts with documented fixes, and sensor-response demonstrations all count as proof.
 

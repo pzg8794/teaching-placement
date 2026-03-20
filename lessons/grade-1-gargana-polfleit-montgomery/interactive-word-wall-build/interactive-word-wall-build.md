@@ -59,11 +59,11 @@
 
 ## 📌 Evidence / Proof of Instruction
 
-- 📌 **Transcript-derived note:** [260211 Grade 1 Gargana Word Wall](../../lessons/evidence/260211-grade-1-gargana-word-wall.md)  
+- 📌 **Transcript-derived note:** [260211 Grade 1 Gargana Word Wall](../../lessons/evidence/260211-grade-1-gargana-word-wall-evidence.md)  
   The lesson note captures the Google Vids / QR word wall setup as an instructional design choice, not a casual craft activity.
-- 📌 **Transcript-derived note:** [260212 Grade 1 Gargana Lego Wall](../../lessons/evidence/260212-grade-1-gargana-lego-wall.md)  
+- 📌 **Transcript-derived note:** [260212 Grade 1 Gargana Lego Wall](../../lessons/evidence/260212-grade-1-gargana-lego-wall-evidence.md)  
   The second note shows that the word wall idea persisted as a structured project across sessions.
-- 📌 **Source transcript:** [260211 Grade 1 Gargana Word Wall](../../transcripts/260211-grade-1-gargana-word-wall.md)  
+- 📌 **Source transcript:** [260211 Grade 1 Gargana Word Wall](../../transcripts/260211-grade-1-gargana-word-wall-evidence.md)  
   The transcript mentions objectives, LEGO-linked word wall pieces, and teacher concern about giving students explicit directions and outcomes.
 - 📌 **Likely student proof:** Built vocabulary pieces, QR-linked media, recorded explanations, and the finished wall display all serve as evidence of teaching and learning.
 

@@ -60,15 +60,15 @@
 
 ## 📌 Evidence / Proof of Instruction
 
-- 📌 **Transcript-derived note:** [260302 Grade 4 Baris Minecraft Test](../../lessons/evidence/260302-grade-4-baris-minecraft-test.md)  
+- 📌 **Transcript-derived note:** [260302 Grade 4 Baris Minecraft Test](../../lessons/evidence/260302-grade-4-baris-minecraft-test-evidence.md)  
   The note shows the teacher explicitly explaining that Minecraft time should move from building to standards-based coding lessons.
-- 📌 **Transcript-derived note:** [260313 Grade 4 Baris Minecraft Fundamentals](../../lessons/evidence/260313-grade-4-baris-minecraft-fundamentals.md)  
+- 📌 **Transcript-derived note:** [260313 Grade 4 Baris Minecraft Fundamentals](../../lessons/evidence/260313-grade-4-baris-minecraft-fundamentals-evidence.md)  
   The lesson note captures the coding-world entry path, agent control, and repeated troubleshooting moves.
-- 📌 **Transcript-derived note:** [260312 Grade 4 Baris Agent Challenge](../../lessons/evidence/260312-grade-4-baris-agent-challenge.md)  
+- 📌 **Transcript-derived note:** [260312 Grade 4 Baris Agent Challenge](../../lessons/evidence/260312-grade-4-baris-agent-challenge-evidence.md)  
   The challenge note documents timed dual-plate activation, debugging, and loop-based progression.
-- 📌 **Source transcript:** [260313 Grade 4 Baris Minecraft Fundamentals](../../transcripts/260313-grade-4-baris-minecraft-fundamentals.md)  
+- 📌 **Source transcript:** [260313 Grade 4 Baris Minecraft Fundamentals](../../transcripts/260313-grade-4-baris-minecraft-fundamentals-evidence.md)  
   The transcript records menu navigation to Computer Science > Block Coding > Upper Primary > Coding Fundamentals 1, along with repeated reminders to read directions and follow the lesson world.
-- 📌 **Source transcript:** [260302 Grade 4 Baris Minecraft Test](../../transcripts/260302-grade-4-baris-minecraft-test.md)  
+- 📌 **Source transcript:** [260302 Grade 4 Baris Minecraft Test](../../transcripts/260302-grade-4-baris-minecraft-test-evidence.md)  
   The transcript records the teacher saying the goal is to use Minecraft to teach coding, internet safety, and standards, not simply to let students build.
 - 📌 **Likely student proof:** World-entry success, completed agent challenges, debugged code, screenshots, and level completion all serve as proof that the CS content was taught.
 
