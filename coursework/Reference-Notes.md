@@ -17,5 +17,5 @@
 - [Warner School CPAST rubric](./WarnerSchool_CPAST_Rubric.docx)
 - [Field experience evaluation](./fieldexperience_eval.docx)
 - Handbook extracts:
-  [PDF copy](./handbook/StudentTeachingHandbook-2025-26.pdf),
+  [PDF](./StudentTeachingHandbook%20-%202025-26.pdf),
   [text extract](./handbook/StudentTeachingHandbook-2025-26.txt)

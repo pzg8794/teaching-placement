@@ -9,5 +9,5 @@
 
 ---
 
-- [Handbook PDF](./StudentTeachingHandbook-2025-26.pdf)
+- [Handbook PDF](../StudentTeachingHandbook%20-%202025-26.pdf)
 - [Handbook text extract](./StudentTeachingHandbook-2025-26.txt)

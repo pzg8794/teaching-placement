@@ -9,6 +9,6 @@
 
 ---
 
-- [Notes](./23.Block%20Coding%20with%20Bees.md)
-- [PDF](./23-Block-Coding-with-Bees.pdf)
-- [LaTeX source](./23-Block-Coding-with-Bees.tex)
+- [Notes](../../../lessons/source-materials/23-Block-Coding-with-Bees/23.Block%20Coding%20with%20Bees.md)
+- [PDF](../../../lessons/source-materials/23-Block-Coding-with-Bees/23-Block-Coding-with-Bees.pdf)
+- [LaTeX source](../../../lessons/source-materials/23-Block-Coding-with-Bees/23-Block-Coding-with-Bees.tex)

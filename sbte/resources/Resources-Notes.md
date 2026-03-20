@@ -9,5 +9,5 @@
 
 ---
 
-- [Student Teaching Handbook](./StudentTeachingHandbook%20-%202025-26.pdf)
-- [Internship graphic model](./Teaching_Placement-Internship_Graphic_Model.pdf)
+- [Student Teaching Handbook](../../coursework/StudentTeachingHandbook%20-%202025-26.pdf)
+- [Internship graphic model](../../school/Teaching_Placement-Internship_Graphic_Model.pdf)

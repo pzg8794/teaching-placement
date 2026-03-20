@@ -9,5 +9,5 @@
 
 ---
 
-- [Letter of Expectations draft](./Letter_of_Expectations_Spring2026.md)
-- [Letter of Expectations PDF](./Letter_of_Expectations_Spring2026_template.pdf)
+- [Letter of Expectations draft](../../expectations/Letter_of_Expectations_Spring2026.md)
+- [Letter of Expectations PDF](../../expectations/Letter_of_Expectations_Spring2026_template.pdf)

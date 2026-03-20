@@ -11,3 +11,4 @@
 
 
 - [ED415 discussion selection wheel notebook](./ED415_Discussion_Selection_Wheel.ipynb)
+- [Coursework reference materials](./Reference-Notes.md)

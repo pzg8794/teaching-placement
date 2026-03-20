@@ -15,8 +15,8 @@ This folder is reserved for documents appropriate to share with your SBTE.
 ## Expectations
 
 - [Expectations directory notes](./expectations/Expectations-Notes.md)
-- [Letter of Expectations draft](./expectations/Letter_of_Expectations_Spring2026.md)
-- [Letter of Expectations PDF](./expectations/Letter_of_Expectations_Spring2026_template.pdf)
+- [Letter of Expectations draft](../expectations/Letter_of_Expectations_Spring2026.md)
+- [Letter of Expectations PDF](../expectations/Letter_of_Expectations_Spring2026_template.pdf)
 
 ## Schedules
 
@@ -29,12 +29,12 @@ This folder is reserved for documents appropriate to share with your SBTE.
 
 - [Lesson plans directory notes](./lesson-plans/Lesson-Plans-Notes.md)
 - [Minecraft lesson directory notes](./lesson-plans/minecraft_cs_module_warner/Minecraft-CS-Module-Share-Notes.md)
-- [DOCX](./lesson-plans/minecraft_cs_module_warner/minecraft_cs_module_warner.docx)
-- [PDF](./lesson-plans/minecraft_cs_module_warner/minecraft_cs_module_warner.pdf)
-- [LaTeX source](./lesson-plans/minecraft_cs_module_warner/minecraft_cs_module_warner.tex)
+- [DOCX](../lessons/grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/source-materials/minecraft_cs_module_warner/minecraft_cs_module_warner.docx)
+- [PDF](../lessons/grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/source-materials/minecraft_cs_module_warner/minecraft_cs_module_warner.pdf)
+- [LaTeX source](../lessons/grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/source-materials/minecraft_cs_module_warner/minecraft_cs_module_warner.tex)
 
 ## Reference packet
 
 - [Resources directory notes](./resources/Resources-Notes.md)
-- [Internship graphic model](./resources/Teaching_Placement-Internship_Graphic_Model.pdf)
-- [Student Teaching Handbook](./resources/StudentTeachingHandbook%20-%202025-26.pdf)
+- [Internship graphic model](../school/Teaching_Placement-Internship_Graphic_Model.pdf)
+- [Student Teaching Handbook](../coursework/StudentTeachingHandbook%20-%202025-26.pdf)

@@ -12,12 +12,12 @@
 
 - `🔒` private workspace
 - `🌐` shared workspace
-- `🟣` admin / formal paperwork
+- `🟣` expectations / formal paperwork
 - `🔵` communications
 - `🟦` coursework or Grade 4 / Monday-type blue grouping when used in schedules
 - `🟢` lessons / teaching materials
 - `🟠` personal items
-- `🟡` reference / support docs
+- `🟡` coursework support docs
 - `🔴` school / placement logistics
 - `🟤` tasks / action items
 - `⚪` transcripts
@@ -42,12 +42,12 @@
 
 ## 📍 Jump To A Section
 
-- [🟣 Admin](./admin/Admin-Notes.md)
+- [🟣 Expectations](./expectations/Expectations-Notes.md)
 - [🔵 Communications](./communications/Communications-Notes.md)
 - [🟦 Coursework](./coursework/Coursework-Notes.md)
 - [🟢 Lessons](./lessons/Lessons-Notes.md)
 - [🟠 Personal](./personal/Personal-Notes.md)
-- [🟡 References](./reference/Reference-Notes.md)
+- [🟡 Coursework References](./coursework/Reference-Notes.md)
 - [🔴 School / Placement](./school/School-Notes.md)
 - [🟤 Tasks](./tasks/Tasks-Notes.md)
 - [⚪ Transcripts](./transcripts/Transcripts-Notes.md)

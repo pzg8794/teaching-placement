@@ -9,6 +9,6 @@
 
 ---
 
-- [DOCX](./minecraft_cs_module_warner.docx)
-- [PDF](./minecraft_cs_module_warner.pdf)
-- [LaTeX source](./minecraft_cs_module_warner.tex)
+- [DOCX](../../../lessons/grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/source-materials/minecraft_cs_module_warner/minecraft_cs_module_warner.docx)
+- [PDF](../../../lessons/grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/source-materials/minecraft_cs_module_warner/minecraft_cs_module_warner.pdf)
+- [LaTeX source](../../../lessons/grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/source-materials/minecraft_cs_module_warner/minecraft_cs_module_warner.tex)
