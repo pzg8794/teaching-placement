@@ -1,20 +1,29 @@
-# Shared Notes
+# 🌐 Shared Hub
 
 **Color Code:** 🌐 Shared Workspace
 
-> **Page Type:** Shared index
-> **Purpose:** Navigation for shareable material.
-> **Audience:** You and anyone you share with.
-> **Use This When:** Find the correct sharing branch or folder.
+> **📌 What This Is:** Main entry point for outward-facing shared material.
+> **🧭 Start Here When:** You need to know which branch or audience folder to use.
+> **👀 Best Use:** Choose the audience first, then open the folder notes.
 
 ---
 
+## 🚦 Choose The Audience
 
-Only this `shared/` tree is intended for Git tracking and outward distribution.
+### 🟥 SBTE
 
-- [SBTE share folder](./sbte/SBTE-Notes.md)
-- [Classmates, professors, and contributors share folder](./collaborators/Collaborators-Notes.md)
+- [SBTE Hub](./sbte/SBTE-Notes.md)
+- Use for placement-facing schedules, expectations, lesson packets, and support docs.
 
-Shared lesson overlap:
+### 🟪 Classmates / Professors / Contributors
 
-- The Minecraft lesson is available in both share spaces so it can be sent to SBTE and broader collaborators without leaving the tracked area.
+- [Collaborators Hub](./collaborators/Collaborators-Notes.md)
+- Use for broader lesson sharing and collaborator-facing resources.
+
+---
+
+## 📍 Fast Rules
+
+- Put something in `sbte/` when it is mainly for Derek or placement supervision.
+- Put something in `collaborators/` when it is meant for peers, professors, or contributors.
+- If something belongs in both places, keep the file structure parallel so it is easy to find twice.
