@@ -18,7 +18,6 @@
 - 📏 **CS Alignment Strength:** Moderate CS lesson with strong digital citizenship component
 - 🧾 **LaTeX Source:** [responsible-ai-and-canva-publishing.tex](./responsible-ai-and-canva-publishing.tex)
 - 📚 **Bib File:** [responsible-ai-and-canva-publishing.bib](./responsible-ai-and-canva-publishing.bib)
-- 📂 **Artifacts Folder:** [artifacts/](./artifacts/)
 
 ## 🪪 Lesson Identity
 
@@ -100,7 +99,7 @@
 - 🔧 Add an AI use disclosure sentence to the final artifact template.
 - 🔧 Include a peer-feedback protocol focused on clarity and fairness.
 - 🔧 Provide a lower-reading version of the checklist with icons.
-- 🔧 Save exemplar drafts and final versions in `artifacts/` to show revision evidence.
+- 🔧 Save exemplar drafts and final versions in this lesson folder to show revision evidence.
 
 ## 🛠️ Materials and Setup
 
@@ -141,7 +140,7 @@
 
 ## 📂 Artifacts Checklist
 
-- 📄 Compiled lesson PDF in `artifacts/`
+- 📄 Compiled lesson PDF in this lesson folder
 - 🖼️ At least one screenshot, student example, or setup photo
 - 🧾 One short assessment or observation record
 - 📚 Updated standards/source bibliography once the `.bib` file is revised

@@ -18,7 +18,6 @@
 - 📏 **CS Alignment Strength:** Moderate CS / computational artifact design
 - 🧾 **LaTeX Source:** [tinkercad-design-and-revision.tex](./tinkercad-design-and-revision.tex)
 - 📚 **Bib File:** [tinkercad-design-and-revision.bib](./tinkercad-design-and-revision.bib)
-- 📂 **Artifacts Folder:** [artifacts/](./artifacts/)
 
 ## 🪪 Lesson Identity
 
@@ -98,7 +97,7 @@
 ## 🔧 How to Improve Inclusion Next Time
 
 - 🔧 Add a printed icon guide for move, rotate, group, hole, and workplane.
-- 🔧 Capture before/after screenshots in `artifacts/` to prove revision.
+- 🔧 Capture before/after screenshots in this lesson folder to prove revision.
 - 🔧 Create a two-level challenge: basic shape composition and advanced grouped design.
 - 🔧 Add a quick oral checkpoint where students explain their design plan before building.
 
@@ -140,7 +139,7 @@
 
 ## 📂 Artifacts Checklist
 
-- 📄 Compiled lesson PDF in `artifacts/`
+- 📄 Compiled lesson PDF in this lesson folder
 - 🖼️ At least one screenshot, student example, or setup photo
 - 🧾 One short assessment or observation record
 - 📚 Updated standards/source bibliography once the `.bib` file is revised

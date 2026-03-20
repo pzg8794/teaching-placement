@@ -18,7 +18,6 @@
 - 📏 **CS Alignment Strength:** Strong CS lesson with literacy integration
 - 🧾 **LaTeX Source:** [robotics-and-digital-book-project.tex](./robotics-and-digital-book-project.tex)
 - 📚 **Bib File:** [robotics-and-digital-book-project.bib](./robotics-and-digital-book-project.bib)
-- 📂 **Artifacts Folder:** [artifacts/](./artifacts/)
 
 ## 🪪 Lesson Identity
 
@@ -100,7 +99,7 @@
 
 - 🔧 Add a one-page route planner students complete before touching the robot.
 - 🔧 Prepare a low-text book template with image-first boxes.
-- 🔧 Collect one exemplar page and one exemplar route photo in `artifacts/`.
+- 🔧 Collect one exemplar page and one exemplar route photo in this lesson folder.
 - 🔧 Build in a final comparison step: what the robot did versus what the page says it did.
 
 ## 🛠️ Materials and Setup
@@ -142,7 +141,7 @@
 
 ## 📂 Artifacts Checklist
 
-- 📄 Compiled lesson PDF in `artifacts/`
+- 📄 Compiled lesson PDF in this lesson folder
 - 🖼️ At least one screenshot, student example, or setup photo
 - 🧾 One short assessment or observation record
 - 📚 Updated standards/source bibliography once the `.bib` file is revised

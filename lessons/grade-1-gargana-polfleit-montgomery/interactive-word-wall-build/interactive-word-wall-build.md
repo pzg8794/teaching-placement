@@ -18,7 +18,6 @@
 - 📏 **CS Alignment Strength:** CS-adjacent digital communication and information representation
 - 🧾 **LaTeX Source:** [interactive-word-wall-build.tex](./interactive-word-wall-build.tex)
 - 📚 **Bib File:** [interactive-word-wall-build.bib](./interactive-word-wall-build.bib)
-- 📂 **Artifacts Folder:** [artifacts/](./artifacts/)
 
 ## 🪪 Lesson Identity
 
@@ -101,7 +100,7 @@
 - 🔧 Add a one-page visual build checklist at each table.
 - 🔧 Provide bilingual vocabulary cards and recorded directions.
 - 🔧 Offer a no-QR fallback path where students can point to a recorded explanation instead of scanning independently.
-- 🔧 Save sample student pieces in `artifacts/` to strengthen proof of instruction.
+- 🔧 Save sample student pieces in this lesson folder to strengthen proof of instruction.
 
 ## 🛠️ Materials and Setup
 
@@ -143,7 +142,7 @@
 
 ## 📂 Artifacts Checklist
 
-- 📄 Compiled lesson PDF in `artifacts/`
+- 📄 Compiled lesson PDF in this lesson folder
 - 🖼️ At least one screenshot, student example, or setup photo
 - 🧾 One short assessment or observation record
 - 📚 Updated standards/source bibliography once the `.bib` file is revised

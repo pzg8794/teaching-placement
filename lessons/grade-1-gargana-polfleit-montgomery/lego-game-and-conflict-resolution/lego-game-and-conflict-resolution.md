@@ -18,7 +18,6 @@
 - 📏 **CS Alignment Strength:** Inclusive computing culture / collaboration support lesson
 - 🧾 **LaTeX Source:** [lego-game-and-conflict-resolution.tex](./lego-game-and-conflict-resolution.tex)
 - 📚 **Bib File:** [lego-game-and-conflict-resolution.bib](./lego-game-and-conflict-resolution.bib)
-- 📂 **Artifacts Folder:** [artifacts/](./artifacts/)
 
 ## 🪪 Lesson Identity
 
@@ -100,7 +99,7 @@
 - 🔧 Add explicit visual sentence stems for conflict repair.
 - 🔧 Record which roles consistently trigger conflict and redesign those role expectations.
 - 🔧 Prepare a calmer “restart routine” so students can rejoin without shame.
-- 🔧 Add a teacher observation checklist to `artifacts/` for documenting collaboration growth.
+- 🔧 Add a teacher observation checklist to this lesson folder for documenting collaboration growth.
 
 ## 🛠️ Materials and Setup
 
@@ -141,7 +140,7 @@
 
 ## 📂 Artifacts Checklist
 
-- 📄 Compiled lesson PDF in `artifacts/`
+- 📄 Compiled lesson PDF in this lesson folder
 - 🖼️ At least one screenshot, student example, or setup photo
 - 🧾 One short assessment or observation record
 - 📚 Updated standards/source bibliography once the `.bib` file is revised

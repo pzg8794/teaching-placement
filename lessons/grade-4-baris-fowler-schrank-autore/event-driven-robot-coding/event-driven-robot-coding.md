@@ -18,7 +18,6 @@
 - 📏 **CS Alignment Strength:** Strong CS lesson
 - 🧾 **LaTeX Source:** [event-driven-robot-coding.tex](./event-driven-robot-coding.tex)
 - 📚 **Bib File:** [event-driven-robot-coding.bib](./event-driven-robot-coding.bib)
-- 📂 **Artifacts Folder:** [artifacts/](./artifacts/)
 
 ## 🪪 Lesson Identity
 
@@ -100,7 +99,7 @@
 
 - 🔧 Add event-response anchor cards at every table.
 - 🔧 Prepare one low-floor sensor challenge and one stretch challenge.
-- 🔧 Capture short video clips of working triggers in `artifacts/` for proof and reteaching.
+- 🔧 Capture short video clips of working triggers in this lesson folder for proof and reteaching.
 - 🔧 Add a reflection prompt: what changed when the environment changed?
 
 ## 🛠️ Materials and Setup
@@ -142,7 +141,7 @@
 
 ## 📂 Artifacts Checklist
 
-- 📄 Compiled lesson PDF in `artifacts/`
+- 📄 Compiled lesson PDF in this lesson folder
 - 🖼️ At least one screenshot, student example, or setup photo
 - 🧾 One short assessment or observation record
 - 📚 Updated standards/source bibliography once the `.bib` file is revised

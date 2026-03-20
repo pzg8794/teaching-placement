@@ -18,7 +18,6 @@
 - 📏 **CS Alignment Strength:** Strong CS lesson
 - 🧾 **LaTeX Source:** [minecraft-coding-fundamentals.tex](./minecraft-coding-fundamentals.tex)
 - 📚 **Bib File:** [minecraft-coding-fundamentals.bib](./minecraft-coding-fundamentals.bib)
-- 📂 **Artifacts Folder:** [artifacts/](./artifacts/)
 
 ## 🪪 Lesson Identity
 
@@ -107,7 +106,7 @@
 - 🔧 Add printed startup cards with screenshots for the login and lesson path.
 - 🔧 Create one low-floor entry task and one stretch task inside the same packet so students do not bottleneck at the same point.
 - 🔧 Add a debug log page students can mark with “what I tried” and “what changed.”
-- 🔧 Save screenshots of completed levels, common bugs, and successful fixes in `artifacts/` as proof of teaching.
+- 🔧 Save screenshots of completed levels, common bugs, and successful fixes in this lesson folder as proof of teaching.
 
 ## 🛠️ Materials and Setup
 
@@ -151,7 +150,7 @@
 
 ## 📂 Artifacts Checklist
 
-- 📄 Compiled lesson PDF in `artifacts/`
+- 📄 Compiled lesson PDF in this lesson folder
 - 🖼️ At least one screenshot, student example, or setup photo
 - 🧾 One short assessment or observation record
 - 📚 Updated standards/source bibliography once the `.bib` file is revised

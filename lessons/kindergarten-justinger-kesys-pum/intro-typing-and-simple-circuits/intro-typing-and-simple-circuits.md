@@ -18,7 +18,6 @@
 - 📏 **CS Alignment Strength:** Foundational CS + physical computing bridge
 - 🧾 **LaTeX Source:** [intro-typing-and-simple-circuits.tex](./intro-typing-and-simple-circuits.tex)
 - 📚 **Bib File:** [intro-typing-and-simple-circuits.bib](./intro-typing-and-simple-circuits.bib)
-- 📂 **Artifacts Folder:** [artifacts/](./artifacts/)
 
 ## 🪪 Lesson Identity
 
@@ -144,7 +143,7 @@
 
 ## 📂 Artifacts Checklist
 
-- 📄 Compiled lesson PDF in `artifacts/`
+- 📄 Compiled lesson PDF in this lesson folder
 - 🖼️ At least one screenshot, student example, or setup photo
 - 🧾 One short assessment or observation record
 - 📚 Updated standards/source bibliography once the `.bib` file is revised

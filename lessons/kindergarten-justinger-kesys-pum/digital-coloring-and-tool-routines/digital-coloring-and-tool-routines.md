@@ -18,7 +18,6 @@
 - 📏 **CS Alignment Strength:** Foundational CS / digital fluency
 - 🧾 **LaTeX Source:** [digital-coloring-and-tool-routines.tex](./digital-coloring-and-tool-routines.tex)
 - 📚 **Bib File:** [digital-coloring-and-tool-routines.bib](./digital-coloring-and-tool-routines.bib)
-- 📂 **Artifacts Folder:** [artifacts/](./artifacts/)
 
 ## 🪪 Lesson Identity
 
@@ -100,7 +99,7 @@
 - 🔧 Add picture step cards at tables so students can self-recover without waiting.
 - 🔧 Prepare a sensory-light version with fewer on-screen choices for students who become overstimulated.
 - 🔧 Create bilingual tool cards and a “help me” nonverbal signal.
-- 🔧 Capture one finished exemplar in `artifacts/` as a visual success target.
+- 🔧 Capture one finished exemplar in this lesson folder as a visual success target.
 
 ## 🛠️ Materials and Setup
 
@@ -141,7 +140,7 @@
 
 ## 📂 Artifacts Checklist
 
-- 📄 Compiled lesson PDF in `artifacts/`
+- 📄 Compiled lesson PDF in this lesson folder
 - 🖼️ At least one screenshot, student example, or setup photo
 - 🧾 One short assessment or observation record
 - 📚 Updated standards/source bibliography once the `.bib` file is revised

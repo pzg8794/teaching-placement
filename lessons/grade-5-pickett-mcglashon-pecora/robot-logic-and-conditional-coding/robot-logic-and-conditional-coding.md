@@ -18,7 +18,6 @@
 - 📏 **CS Alignment Strength:** Strong CS lesson
 - 🧾 **LaTeX Source:** [robot-logic-and-conditional-coding.tex](./robot-logic-and-conditional-coding.tex)
 - 📚 **Bib File:** [robot-logic-and-conditional-coding.bib](./robot-logic-and-conditional-coding.bib)
-- 📂 **Artifacts Folder:** [artifacts/](./artifacts/)
 
 ## 🪪 Lesson Identity
 
@@ -100,7 +99,7 @@
 
 - 🔧 Add a branch organizer so students record both possible outcomes before launch.
 - 🔧 Create one simplified conditional task and one enrichment task in the same packet.
-- 🔧 Capture a short video of a working true/false branch in `artifacts/`.
+- 🔧 Capture a short video of a working true/false branch in this lesson folder.
 - 🔧 Add sentence stems for students explaining why the robot chose one action instead of another.
 
 ## 🛠️ Materials and Setup
@@ -141,7 +140,7 @@
 
 ## 📂 Artifacts Checklist
 
-- 📄 Compiled lesson PDF in `artifacts/`
+- 📄 Compiled lesson PDF in this lesson folder
 - 🖼️ At least one screenshot, student example, or setup photo
 - 🧾 One short assessment or observation record
 - 📚 Updated standards/source bibliography once the `.bib` file is revised

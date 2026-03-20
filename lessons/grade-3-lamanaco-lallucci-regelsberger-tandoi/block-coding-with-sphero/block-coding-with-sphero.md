@@ -18,7 +18,6 @@
 - 📏 **CS Alignment Strength:** Strong CS lesson
 - 🧾 **LaTeX Source:** [block-coding-with-sphero.tex](./block-coding-with-sphero.tex)
 - 📚 **Bib File:** [block-coding-with-sphero.bib](./block-coding-with-sphero.bib)
-- 📂 **Artifacts Folder:** [artifacts/](./artifacts/)
 
 ## 🪪 Lesson Identity
 
@@ -103,7 +102,7 @@
 - 🔧 Add route mats with start/end icons and numbered steps.
 - 🔧 Create a quiet-observer role for students who need to participate without launching every round.
 - 🔧 Build a common error wall with examples like overshoot, wrong angle, and unpaired robot.
-- 🔧 Store route photos and code screenshots in `artifacts/` as proof.
+- 🔧 Store route photos and code screenshots in this lesson folder as proof.
 
 ## 🛠️ Materials and Setup
 
@@ -143,7 +142,7 @@
 
 ## 📂 Artifacts Checklist
 
-- 📄 Compiled lesson PDF in `artifacts/`
+- 📄 Compiled lesson PDF in this lesson folder
 - 🖼️ At least one screenshot, student example, or setup photo
 - 🧾 One short assessment or observation record
 - 📚 Updated standards/source bibliography once the `.bib` file is revised

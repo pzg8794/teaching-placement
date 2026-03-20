@@ -18,7 +18,6 @@
 - 📏 **CS Alignment Strength:** Strong CS lesson
 - 🧾 **LaTeX Source:** [ai-for-oceans-and-robotics.tex](./ai-for-oceans-and-robotics.tex)
 - 📚 **Bib File:** [ai-for-oceans-and-robotics.bib](./ai-for-oceans-and-robotics.bib)
-- 📂 **Artifacts Folder:** [artifacts/](./artifacts/)
 
 ## 🪪 Lesson Identity
 
@@ -101,7 +100,7 @@
 - 🔧 Add picture-supported category cards for students who need more off-screen scaffolding.
 - 🔧 Include a bias/error conversation using one intentionally tricky example.
 - 🔧 Prepare sentence stems such as “I put it here because…” and “The computer guessed wrong because…”
-- 🔧 Save screenshots of correct and incorrect classifications in `artifacts/` as evidence examples.
+- 🔧 Save screenshots of correct and incorrect classifications in this lesson folder as evidence examples.
 
 ## 🛠️ Materials and Setup
 
@@ -141,7 +140,7 @@
 
 ## 📂 Artifacts Checklist
 
-- 📄 Compiled lesson PDF in `artifacts/`
+- 📄 Compiled lesson PDF in this lesson folder
 - 🖼️ At least one screenshot, student example, or setup photo
 - 🧾 One short assessment or observation record
 - 📚 Updated standards/source bibliography once the `.bib` file is revised

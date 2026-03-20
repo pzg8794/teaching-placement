@@ -25,5 +25,5 @@
 ## ✅ What To Keep Improving
 
 - ✅ Strengthen each packet’s standards alignment with the paired `.tex` and `.bib` files next.
-- ✅ Keep storing real evidence in `artifacts/`, not only compiled PDFs.
+- ✅ Keep storing real evidence in this lesson folder, not only compiled PDFs.
 - ✅ Treat transcript evidence as the proof spine for what was actually taught.
