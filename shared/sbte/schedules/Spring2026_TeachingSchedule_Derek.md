@@ -24,9 +24,24 @@ This schedule reflects a strategic revision to optimize teaching quality, reduce
 
 ---
 
+## DAY COLOR LEGEND
+
+- `🟦 Monday`: RIT + afternoon teaching
+- `🟩 Tuesday`: full-day Pine Brook teaching
+- `🟪 Wednesday`: RIT + afternoon teaching
+- `🟨 Thursday`: full-day Pine Brook teaching
+- `🟥 Friday`: full-day Pine Brook teaching
+
+### QUICK PATTERN
+
+- `🟦 Monday` and `🟪 Wednesday`: lighter placement days with afternoon-only teaching
+- `🟩 Tuesday`, `🟨 Thursday`, and `🟥 Friday`: core full-day teaching days
+
+---
+
 ## REVISED WEEKLY TEACHING SCHEDULE
 
-### **MONDAY (Day 1 of Pine Brook Rotation)**
+### 🟦 **MONDAY (Day 1 of Pine Brook Rotation)**
 
 | Time | Activity | Location | Notes |
 |------|----------|----------|-------|
@@ -40,7 +55,7 @@ This schedule reflects a strategic revision to optimize teaching quality, reduce
 | 4:50-7:30 PM | EDU 442 Seminar | UofR (LeChase 161) | **LINCHPIN COURSE** |
 | 7:30-7:50 PM | Travel home | Transit | 20-min drive |
 
-**Monday Summary:**
+**🟦 Monday Summary:**
 - Teaching time: 2 hours (afternoon block)
 - No morning teaching (eliminates double commute to RIT + Pine Brook)
 - Maintains critical afternoon instruction block
@@ -48,7 +63,7 @@ This schedule reflects a strategic revision to optimize teaching quality, reduce
 
 ---
 
-### **TUESDAY (Day 2 of Pine Brook Rotation)**
+### 🟩 **TUESDAY (Day 2 of Pine Brook Rotation)**
 
 | Time | Activity | Location | Notes |
 |------|----------|----------|-------|
@@ -58,7 +73,7 @@ This schedule reflects a strategic revision to optimize teaching quality, reduce
 | 4:30-4:55 PM | Transit/return | Transit | 25-min drive |
 | 4:55-7:00 PM | Coursework/Reflection | Home/UofR | Light prep work |
 
-**Tuesday Summary:**
+**🟩 Tuesday Summary:**
 - Teaching time: 6+ hours (full day)
 - **Primary teaching day**
 - Minimal other commitments
@@ -66,7 +81,7 @@ This schedule reflects a strategic revision to optimize teaching quality, reduce
 
 ---
 
-### **WEDNESDAY (Day 3 of Pine Brook Rotation)**
+### 🟪 **WEDNESDAY (Day 3 of Pine Brook Rotation)**
 
 | Time | Activity | Location | Notes |
 |------|----------|----------|-------|
@@ -76,7 +91,7 @@ This schedule reflects a strategic revision to optimize teaching quality, reduce
 | 3:10-3:30 PM | Travel home/RIT | Transit | 30-min drive |
 | Evening | Coursework prep | Home/UofR | BIOL 650 lab prep, ED 452B |
 
-**Wednesday Summary:**
+**🟪 Wednesday Summary:**
 - Teaching time: 2 hours (afternoon block)
 - No morning teaching (eliminates hazardous double commute)
 - Maintains RIT course attendance earlier in day
@@ -84,7 +99,7 @@ This schedule reflects a strategic revision to optimize teaching quality, reduce
 
 ---
 
-### **THURSDAY (Day 4 of Pine Brook Rotation)**
+### 🟨 **THURSDAY (Day 4 of Pine Brook Rotation)**
 
 | Time | Activity | Location | Notes |
 |------|----------|----------|-------|
@@ -95,7 +110,7 @@ This schedule reflects a strategic revision to optimize teaching quality, reduce
 | 3:40-4:40 PM | ED 452B Seminar | Zoom (Online) | Inclusive strategies |
 | 4:45-7:00 PM | Coursework/Reflection | Home | ED 452B reflections due Sunday |
 
-**Thursday Summary:**
+**🟨 Thursday Summary:**
 - Teaching time: 6+ hours (full day)
 - **Primary teaching day**
 - Zoom workshop fits within teaching block
@@ -103,7 +118,7 @@ This schedule reflects a strategic revision to optimize teaching quality, reduce
 
 ---
 
-### **FRIDAY (Day 5 of Pine Brook Rotation)**
+### 🟥 **FRIDAY (Day 5 of Pine Brook Rotation)**
 
 | Time | Activity | Location | Notes |
 |------|----------|----------|-------|
@@ -112,7 +127,7 @@ This schedule reflects a strategic revision to optimize teaching quality, reduce
 | 3:10-3:30 PM | Travel to RIT/UofR/home | Transit | 30-min drive |
 | 4:00-7:00 PM | ED 400A or EDE 498C | UofR (select Fridays) | Monthly Friday sessions only |
 
-**Friday Summary:**
+**🟥 Friday Summary:**
 - Teaching time: 6 hours (full day)
 - **Primary teaching day**
 - Select Friday sessions (4 dates total in semester)
@@ -124,11 +139,11 @@ This schedule reflects a strategic revision to optimize teaching quality, reduce
 
 | Day | Teaching Hours | Type | Hazard Level |
 |-----|-----------------|------|--------------|
-| **Monday** | 2 hours | Afternoon block | Reduced (afternoon only) |
-| **Tuesday** | 6+ hours | Full day | Safe (single commute) |
-| **Wednesday** | 2 hours | Afternoon block | Reduced (afternoon only) |
-| **Thursday** | 6+ hours | Full day | Safe (single commute) |
-| **Friday** | 6 hours | Full day | Safe (single commute) |
+| **🟦 Monday** | 2 hours | Afternoon block | Reduced (afternoon only) |
+| **🟩 Tuesday** | 6+ hours | Full day | Safe (single commute) |
+| **🟪 Wednesday** | 2 hours | Afternoon block | Reduced (afternoon only) |
+| **🟨 Thursday** | 6+ hours | Full day | Safe (single commute) |
+| **🟥 Friday** | 6 hours | Full day | Safe (single commute) |
 | **TOTAL** | **22+ hours/week** | Mixed | **SAFER overall** |
 
 ---
@@ -219,11 +234,11 @@ This schedule reflects a strategic revision to optimize teaching quality, reduce
 ### **Piter's Presence at Pine Brook:**
 
 **Weekly:**
-- **Monday:** 1:10-3:10 PM (Afternoon block)
-- **Tuesday:** 9:00-3:20 PM (Full day)
-- **Wednesday:** 1:10-3:10 PM (Afternoon block)
-- **Thursday:** 9:00-3:20 PM (Full day)
-- **Friday:** 9:10-3:10 PM (Full day)
+- **🟦 Monday:** 1:10-3:10 PM (Afternoon block)
+- **🟩 Tuesday:** 9:00-3:20 PM (Full day)
+- **🟪 Wednesday:** 1:10-3:10 PM (Afternoon block)
+- **🟨 Thursday:** 9:00-3:20 PM (Full day)
+- **🟥 Friday:** 9:10-3:10 PM (Full day)
 
 **Total:** ~22 hours/week in classroom
 
