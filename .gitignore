@@ -10,19 +10,19 @@
 *.synctex.gz
 ~$*
 
-# Keep private communications directory markdown-only in Git.
-private/communications/*
-!private/communications/*.md
+# Keep communications directory markdown-only in Git.
+communications/*
+!communications/*.md
 
 # Keep lesson evidence directory markdown-only in Git.
-private/lessons/evidence/*
-!private/lessons/evidence/*.md
+lessons/evidence/*
+!lessons/evidence/*.md
 
 # Keep raw transcripts markdown-only in Git.
-private/transcripts/*
-!private/transcripts/*.md
+transcripts/*
+!transcripts/*.md
 
 # Keep compiled lesson PDFs only inside lesson artifacts folders.
-private/lessons/*/*/*.pdf
-!private/lessons/*/*/artifacts/*.pdf
-!private/lessons/source-materials/*/*.pdf
+lessons/*/*/*.pdf
+!lessons/*/*/artifacts/*.pdf
+!lessons/source-materials/*/*.pdf
