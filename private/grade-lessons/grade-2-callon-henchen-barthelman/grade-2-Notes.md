@@ -25,19 +25,19 @@
 ## 📘 Lesson Packets
 
 - 📘 [AI for Oceans and Robotics](./ai-for-oceans-and-robotics/ai-for-oceans-and-robotics.md)
-  Transcript notes: [2026 02 11 Lecture Ai For Oceans Machine Learning And Lego Robotics](../../transcript-derived-lessons/2026-02-11-lecture-ai-for-oceans-machine-learning-and-lego-robotics.md), [2026 02 12 Lecture Code Org Login And Intro To Ai Machine Learning For Second Grade](../../transcript-derived-lessons/2026-02-12-lecture-code-org-login-and-intro-to-ai-machine-learning-for-second-grade.md)
+  Transcript notes: [2026 02 11 Lecture Ai For Oceans Machine Learning And Lego Robotics](../../transcript-derived-lessons/260211-grade-2-callon-ai-oceans.md), [2026 02 12 Lecture Code Org Login And Intro To Ai Machine Learning For Second Grade](../../transcript-derived-lessons/260212-grade-2-callon-codeorg-ai.md)
   Formal starting point: [Code.org AI for Oceans](https://code.org/hour-of-ai)
 - 📘 [Robotics and Digital Book Project](./robotics-and-digital-book-project/robotics-and-digital-book-project.md)
-  Transcript notes: [2026 02 25 Lecture Robotics Project With Sphero Indy And Book Creator](../../transcript-derived-lessons/2026-02-25-lecture-robotics-project-with-sphero-indy-and-book-creator.md), [2026 02 27 Class Review Book Creator Onboarding Library Verification And Classroom Management](../../transcript-derived-lessons/2026-02-27-class-review-book-creator-onboarding-library-verification-and-classroom-management.md), [2026 03 05 Lecture Second Grade Robotics And Digital Book Project With Book Creator And Sphero Indi](../../transcript-derived-lessons/2026-03-05-lecture-second-grade-robotics-and-digital-book-project-with-book-creator-and-sphero-indi.md)
+  Transcript notes: [2026 02 25 Lecture Robotics Project With Sphero Indy And Book Creator](../../transcript-derived-lessons/260225-grade-2-callon-sphero-book.md), [2026 02 27 Class Review Book Creator Onboarding Library Verification And Classroom Management](../../transcript-derived-lessons/260227-grade-2-callon-creator-onboarding.md), [2026 03 05 Lecture Second Grade Robotics And Digital Book Project With Book Creator And Sphero Indi](../../transcript-derived-lessons/260305-grade-2-callon-indi-book.md)
   Formal starting point: [Sphero Edu K-12 Teacher Resource Guide](https://dmmedia.sphero.com/email-marketing/Sphero-Edu/SpheroEdu-k12-teacher-resource-guide-v1_updated050818.pdf)
 
 ## ⚪ Transcript Notes Used By This Grade
 
-- ⚪ [2026 02 11 Lecture Ai For Oceans Machine Learning And Lego Robotics](../../transcript-derived-lessons/2026-02-11-lecture-ai-for-oceans-machine-learning-and-lego-robotics.md)
-- ⚪ [2026 02 12 Lecture Code Org Login And Intro To Ai Machine Learning For Second Grade](../../transcript-derived-lessons/2026-02-12-lecture-code-org-login-and-intro-to-ai-machine-learning-for-second-grade.md)
-- ⚪ [2026 02 25 Lecture Robotics Project With Sphero Indy And Book Creator](../../transcript-derived-lessons/2026-02-25-lecture-robotics-project-with-sphero-indy-and-book-creator.md)
-- ⚪ [2026 02 27 Class Review Book Creator Onboarding Library Verification And Classroom Management](../../transcript-derived-lessons/2026-02-27-class-review-book-creator-onboarding-library-verification-and-classroom-management.md)
-- ⚪ [2026 03 05 Lecture Second Grade Robotics And Digital Book Project With Book Creator And Sphero Indi](../../transcript-derived-lessons/2026-03-05-lecture-second-grade-robotics-and-digital-book-project-with-book-creator-and-sphero-indi.md)
+- ⚪ [2026 02 11 Lecture Ai For Oceans Machine Learning And Lego Robotics](../../transcript-derived-lessons/260211-grade-2-callon-ai-oceans.md)
+- ⚪ [2026 02 12 Lecture Code Org Login And Intro To Ai Machine Learning For Second Grade](../../transcript-derived-lessons/260212-grade-2-callon-codeorg-ai.md)
+- ⚪ [2026 02 25 Lecture Robotics Project With Sphero Indy And Book Creator](../../transcript-derived-lessons/260225-grade-2-callon-sphero-book.md)
+- ⚪ [2026 02 27 Class Review Book Creator Onboarding Library Verification And Classroom Management](../../transcript-derived-lessons/260227-grade-2-callon-creator-onboarding.md)
+- ⚪ [2026 03 05 Lecture Second Grade Robotics And Digital Book Project With Book Creator And Sphero Indi](../../transcript-derived-lessons/260305-grade-2-callon-indi-book.md)
 
 ## ✅ Use This Folder When
 

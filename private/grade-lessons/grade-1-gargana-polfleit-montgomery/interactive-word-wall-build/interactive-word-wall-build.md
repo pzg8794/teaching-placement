@@ -40,8 +40,8 @@
 
 ## ⚪ Transcript Lesson Notes
 
-- ⚪ [2026 02 11 Interactive Vocabulary Videos With Google Vids And Qr Lego Word Wall](../../transcript-derived-lessons/2026-02-11-lecture-interactive-vocabulary-videos-with-google-vids-and-qr-lego-word-wall.md)
-- ⚪ [2026 02 12 Interactive Lego Word Wall Project](../../transcript-derived-lessons/2026-02-12-lecture-interactive-lego-word-wall-project.md)
+- ⚪ [2026 02 11 Interactive Vocabulary Videos With Google Vids And Qr Lego Word Wall](../../transcript-derived-lessons/260211-grade-1-gargana-word-wall.md)
+- ⚪ [2026 02 12 Interactive Lego Word Wall Project](../../transcript-derived-lessons/260212-grade-1-gargana-lego-wall.md)
 
 ## 🔗 Related Local Materials
 

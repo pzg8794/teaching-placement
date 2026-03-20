@@ -40,8 +40,8 @@
 
 ## ⚪ Transcript Lesson Notes
 
-- ⚪ [2026 03 03 Sphero Event Driven Block Coding With Ambient Light Sensors And Flashlight Tag](../../transcript-derived-lessons/2026-03-03-lecture-sphero-event-driven-block-coding-with-ambient-light-sensors-and-flashlight-tag.md)
-- ⚪ [2026 03 12 Bb 8 Programming Puzzle And Classroom Management](../../transcript-derived-lessons/2026-03-12-workshop-bb-8-programming-puzzle-and-classroom-management.md)
+- ⚪ [2026 03 03 Sphero Event Driven Block Coding With Ambient Light Sensors And Flashlight Tag](../../transcript-derived-lessons/260303-grade-4-baris-event-sensors.md)
+- ⚪ [2026 03 12 Bb 8 Programming Puzzle And Classroom Management](../../transcript-derived-lessons/260312-grade-3-lamanaco-bb8.md)
 
 ## 🔗 Related Local Materials
 

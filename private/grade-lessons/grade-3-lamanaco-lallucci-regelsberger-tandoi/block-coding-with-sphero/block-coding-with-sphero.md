@@ -40,10 +40,10 @@
 
 ## ⚪ Transcript Lesson Notes
 
-- ⚪ [2026 02 27 Sphero Block Coding For Third Graders Pairing Loops Square Movement Aiming And Safety](../../transcript-derived-lessons/2026-02-27-lecture-sphero-block-coding-for-third-graders-pairing-loops-square-movement-aiming-and-safety.md)
-- ⚪ [2026 02 27 Sphero Robot Block Based Coding](../../transcript-derived-lessons/2026-02-27-lecture-sphero-robot-block-based-coding.md)
-- ⚪ [2026 03 06 Sphero Robotics Square Path Programming And Maze Navigation](../../transcript-derived-lessons/2026-03-06-lecture-sphero-robotics-square-path-programming-and-maze-navigation.md)
-- ⚪ [2026 03 06 Lesson Sphero Bolt Block Coding Aiming Angles Loops And Classroom Management](../../transcript-derived-lessons/2026-03-06-lesson-sphero-bolt-block-coding-aiming-angles-loops-and-classroom-management.md)
+- ⚪ [2026 02 27 Sphero Block Coding For Third Graders Pairing Loops Square Movement Aiming And Safety](../../transcript-derived-lessons/260227-grade-3-lamanaco-sphero-loops.md)
+- ⚪ [2026 02 27 Sphero Robot Block Based Coding](../../transcript-derived-lessons/260227-grade-3-lamanaco-block-coding.md)
+- ⚪ [2026 03 06 Sphero Robotics Square Path Programming And Maze Navigation](../../transcript-derived-lessons/260306-grade-3-lamanaco-square-maze.md)
+- ⚪ [2026 03 06 Lesson Sphero Bolt Block Coding Aiming Angles Loops And Classroom Management](../../transcript-derived-lessons/260306-grade-3-lamanaco-bolt-loops.md)
 
 ## 🔗 Related Local Materials
 

@@ -40,7 +40,7 @@
 
 ## ⚪ Transcript Lesson Notes
 
-- ⚪ [2026 03 04 Tinkercad Basics Via Google Classroom Shape Placement Planes Grouping And Hole Creation](../../transcript-derived-lessons/2026-03-04-class-session-tinkercad-basics-via-google-classroom-shape-placement-planes-grouping-and-hole-creation.md)
+- ⚪ [2026 03 04 Tinkercad Basics Via Google Classroom Shape Placement Planes Grouping And Hole Creation](../../transcript-derived-lessons/260304-grade-5-pickett-tinkercad.md)
 
 ## 🔗 Related Local Materials
 

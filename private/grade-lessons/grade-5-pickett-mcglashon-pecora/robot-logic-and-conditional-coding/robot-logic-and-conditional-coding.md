@@ -40,8 +40,8 @@
 
 ## ⚪ Transcript Lesson Notes
 
-- ⚪ [2026 02 27 Conditional Coding With Sphero Robots For Grades 4 5](../../transcript-derived-lessons/2026-02-27-lecture-conditional-coding-with-sphero-robots-for-grades-4-5.md)
-- ⚪ [2026 03 13 Sphero Robot Programming Events And Minecraft](../../transcript-derived-lessons/2026-03-13-lecture-sphero-robot-programming-events-and-minecraft.md)
+- ⚪ [2026 02 27 Conditional Coding With Sphero Robots For Grades 4 5](../../transcript-derived-lessons/260227-grade-4-5-shared-conditional-sphero.md)
+- ⚪ [2026 03 13 Sphero Robot Programming Events And Minecraft](../../transcript-derived-lessons/260313-mixed-shared-sphero-minecraft.md)
 
 ## 🔗 Related Local Materials
 

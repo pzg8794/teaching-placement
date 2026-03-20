@@ -25,17 +25,17 @@
 ## 📘 Lesson Packets
 
 - 📘 [Digital Coloring and Tool Routines](./digital-coloring-and-tool-routines/digital-coloring-and-tool-routines.md)
-  Transcript notes: [2026 03 18 Lecture Digital Coloring And Introduction To Robotics](../../transcript-derived-lessons/2026-03-18-lecture-digital-coloring-and-introduction-to-robotics.md)
+  Transcript notes: [2026 03 18 Lecture Digital Coloring And Introduction To Robotics](../../transcript-derived-lessons/260318-kindergarten-justinger-coloring-robotics.md)
   Formal starting point: [Seesaw creative activity ideas](https://web.seesaw.me/)
 - 📘 [Intro Typing and Simple Circuits](./intro-typing-and-simple-circuits/intro-typing-and-simple-circuits.md)
-  Transcript notes: [2026 03 05 Lecture Summary Elementary Circuit Activity Planning And Kindergarten Typing Session](../../transcript-derived-lessons/2026-03-05-lecture-summary-elementary-circuit-activity-planning-and-kindergarten-typing-session.md), [2026 03 05 Lecture Keyboard Typing Skills And Introductory Electricity Circuits With Play Doh K 5 Classroom](../../transcript-derived-lessons/2026-03-05-lecture-keyboard-typing-skills-and-introductory-electricity-circuits-with-play-doh-k-5-classroom.md)
+  Transcript notes: [2026 03 05 Lecture Summary Elementary Circuit Activity Planning And Kindergarten Typing Session](../../transcript-derived-lessons/260305-kindergarten-justinger-circuits-summary.md), [2026 03 05 Lecture Keyboard Typing Skills And Introductory Electricity Circuits With Play Doh K 5 Classroom](../../transcript-derived-lessons/260305-kindergarten-justinger-typing-circuits.md)
   Formal starting point: [Code.org elementary curriculum](https://code.org/curriculum/elementary-school)
 
 ## ⚪ Transcript Notes Used By This Grade
 
-- ⚪ [2026 03 18 Lecture Digital Coloring And Introduction To Robotics](../../transcript-derived-lessons/2026-03-18-lecture-digital-coloring-and-introduction-to-robotics.md)
-- ⚪ [2026 03 05 Lecture Summary Elementary Circuit Activity Planning And Kindergarten Typing Session](../../transcript-derived-lessons/2026-03-05-lecture-summary-elementary-circuit-activity-planning-and-kindergarten-typing-session.md)
-- ⚪ [2026 03 05 Lecture Keyboard Typing Skills And Introductory Electricity Circuits With Play Doh K 5 Classroom](../../transcript-derived-lessons/2026-03-05-lecture-keyboard-typing-skills-and-introductory-electricity-circuits-with-play-doh-k-5-classroom.md)
+- ⚪ [2026 03 18 Lecture Digital Coloring And Introduction To Robotics](../../transcript-derived-lessons/260318-kindergarten-justinger-coloring-robotics.md)
+- ⚪ [2026 03 05 Lecture Summary Elementary Circuit Activity Planning And Kindergarten Typing Session](../../transcript-derived-lessons/260305-kindergarten-justinger-circuits-summary.md)
+- ⚪ [2026 03 05 Lecture Keyboard Typing Skills And Introductory Electricity Circuits With Play Doh K 5 Classroom](../../transcript-derived-lessons/260305-kindergarten-justinger-typing-circuits.md)
 
 ## ✅ Use This Folder When
 

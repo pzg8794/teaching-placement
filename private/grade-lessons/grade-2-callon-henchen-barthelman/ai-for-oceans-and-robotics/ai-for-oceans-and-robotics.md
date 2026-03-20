@@ -40,8 +40,8 @@
 
 ## ⚪ Transcript Lesson Notes
 
-- ⚪ [2026 02 11 Ai For Oceans Machine Learning And Lego Robotics](../../transcript-derived-lessons/2026-02-11-lecture-ai-for-oceans-machine-learning-and-lego-robotics.md)
-- ⚪ [2026 02 12 Code Org Login And Intro To Ai Machine Learning For Second Grade](../../transcript-derived-lessons/2026-02-12-lecture-code-org-login-and-intro-to-ai-machine-learning-for-second-grade.md)
+- ⚪ [2026 02 11 Ai For Oceans Machine Learning And Lego Robotics](../../transcript-derived-lessons/260211-grade-2-callon-ai-oceans.md)
+- ⚪ [2026 02 12 Code Org Login And Intro To Ai Machine Learning For Second Grade](../../transcript-derived-lessons/260212-grade-2-callon-codeorg-ai.md)
 
 ## 🔗 Related Local Materials
 

@@ -26,19 +26,19 @@
 ## 📘 Lesson Packets
 
 - 📘 [Block Coding with Sphero](./block-coding-with-sphero/block-coding-with-sphero.md)
-  Transcript notes: [2026 02 27 Lecture Sphero Block Coding For Third Graders Pairing Loops Square Movement Aiming And Safety](../../transcript-derived-lessons/2026-02-27-lecture-sphero-block-coding-for-third-graders-pairing-loops-square-movement-aiming-and-safety.md), [2026 02 27 Lecture Sphero Robot Block Based Coding](../../transcript-derived-lessons/2026-02-27-lecture-sphero-robot-block-based-coding.md), [2026 03 06 Lecture Sphero Robotics Square Path Programming And Maze Navigation](../../transcript-derived-lessons/2026-03-06-lecture-sphero-robotics-square-path-programming-and-maze-navigation.md), [2026 03 06 Lesson Sphero Bolt Block Coding Aiming Angles Loops And Classroom Management](../../transcript-derived-lessons/2026-03-06-lesson-sphero-bolt-block-coding-aiming-angles-loops-and-classroom-management.md)
+  Transcript notes: [2026 02 27 Lecture Sphero Block Coding For Third Graders Pairing Loops Square Movement Aiming And Safety](../../transcript-derived-lessons/260227-grade-3-lamanaco-sphero-loops.md), [2026 02 27 Lecture Sphero Robot Block Based Coding](../../transcript-derived-lessons/260227-grade-3-lamanaco-block-coding.md), [2026 03 06 Lecture Sphero Robotics Square Path Programming And Maze Navigation](../../transcript-derived-lessons/260306-grade-3-lamanaco-square-maze.md), [2026 03 06 Lesson Sphero Bolt Block Coding Aiming Angles Loops And Classroom Management](../../transcript-derived-lessons/260306-grade-3-lamanaco-bolt-loops.md)
   Formal starting point: [Sphero Edu K-12 Teacher Resource Guide](https://dmmedia.sphero.com/email-marketing/Sphero-Edu/SpheroEdu-k12-teacher-resource-guide-v1_updated050818.pdf)
 - 📘 [Responsible AI and Canva Publishing](./responsible-ai-and-canva-publishing/responsible-ai-and-canva-publishing.md)
-  Transcript notes: [2026 02 26 Workshop Third Grade Responsible Ai Canva Workflows And Book Promotion Projects](../../transcript-derived-lessons/2026-02-26-workshop-third-grade-responsible-ai-canva-workflows-and-book-promotion-projects.md)
+  Transcript notes: [2026 02 26 Workshop Third Grade Responsible Ai Canva Workflows And Book Promotion Projects](../../transcript-derived-lessons/260226-grade-3-lamanaco-ai-canva.md)
   Formal starting point: [Canva lesson creator resources](https://www.canva.com/education/teaching-resources/lessons/)
 
 ## ⚪ Transcript Notes Used By This Grade
 
-- ⚪ [2026 02 27 Lecture Sphero Block Coding For Third Graders Pairing Loops Square Movement Aiming And Safety](../../transcript-derived-lessons/2026-02-27-lecture-sphero-block-coding-for-third-graders-pairing-loops-square-movement-aiming-and-safety.md)
-- ⚪ [2026 02 27 Lecture Sphero Robot Block Based Coding](../../transcript-derived-lessons/2026-02-27-lecture-sphero-robot-block-based-coding.md)
-- ⚪ [2026 03 06 Lecture Sphero Robotics Square Path Programming And Maze Navigation](../../transcript-derived-lessons/2026-03-06-lecture-sphero-robotics-square-path-programming-and-maze-navigation.md)
-- ⚪ [2026 03 06 Lesson Sphero Bolt Block Coding Aiming Angles Loops And Classroom Management](../../transcript-derived-lessons/2026-03-06-lesson-sphero-bolt-block-coding-aiming-angles-loops-and-classroom-management.md)
-- ⚪ [2026 02 26 Workshop Third Grade Responsible Ai Canva Workflows And Book Promotion Projects](../../transcript-derived-lessons/2026-02-26-workshop-third-grade-responsible-ai-canva-workflows-and-book-promotion-projects.md)
+- ⚪ [2026 02 27 Lecture Sphero Block Coding For Third Graders Pairing Loops Square Movement Aiming And Safety](../../transcript-derived-lessons/260227-grade-3-lamanaco-sphero-loops.md)
+- ⚪ [2026 02 27 Lecture Sphero Robot Block Based Coding](../../transcript-derived-lessons/260227-grade-3-lamanaco-block-coding.md)
+- ⚪ [2026 03 06 Lecture Sphero Robotics Square Path Programming And Maze Navigation](../../transcript-derived-lessons/260306-grade-3-lamanaco-square-maze.md)
+- ⚪ [2026 03 06 Lesson Sphero Bolt Block Coding Aiming Angles Loops And Classroom Management](../../transcript-derived-lessons/260306-grade-3-lamanaco-bolt-loops.md)
+- ⚪ [2026 02 26 Workshop Third Grade Responsible Ai Canva Workflows And Book Promotion Projects](../../transcript-derived-lessons/260226-grade-3-lamanaco-ai-canva.md)
 
 ## ✅ Use This Folder When
 

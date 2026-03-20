@@ -25,17 +25,17 @@
 ## 📘 Lesson Packets
 
 - 📘 [Interactive Word Wall Build](./interactive-word-wall-build/interactive-word-wall-build.md)
-  Transcript notes: [2026 02 11 Lecture Interactive Vocabulary Videos With Google Vids And Qr Lego Word Wall](../../transcript-derived-lessons/2026-02-11-lecture-interactive-vocabulary-videos-with-google-vids-and-qr-lego-word-wall.md), [2026 02 12 Lecture Interactive Lego Word Wall Project](../../transcript-derived-lessons/2026-02-12-lecture-interactive-lego-word-wall-project.md)
+  Transcript notes: [2026 02 11 Lecture Interactive Vocabulary Videos With Google Vids And Qr Lego Word Wall](../../transcript-derived-lessons/260211-grade-1-gargana-word-wall.md), [2026 02 12 Lecture Interactive Lego Word Wall Project](../../transcript-derived-lessons/260212-grade-1-gargana-lego-wall.md)
   Formal starting point: [Code.org elementary curriculum](https://code.org/curriculum/elementary-school)
 - 📘 [LEGO Game and Conflict Resolution](./lego-game-and-conflict-resolution/lego-game-and-conflict-resolution.md)
-  Transcript notes: [2026 02 11 Class Review Lego Game And Conflict Resolution](../../transcript-derived-lessons/2026-02-11-class-review-lego-game-and-conflict-resolution.md)
+  Transcript notes: [2026 02 11 Class Review Lego Game And Conflict Resolution](../../transcript-derived-lessons/260211-grade-1-gargana-lego-conflict.md)
   Formal starting point: [LEGO Education lesson search](https://education.lego.com/en-us/)
 
 ## ⚪ Transcript Notes Used By This Grade
 
-- ⚪ [2026 02 11 Lecture Interactive Vocabulary Videos With Google Vids And Qr Lego Word Wall](../../transcript-derived-lessons/2026-02-11-lecture-interactive-vocabulary-videos-with-google-vids-and-qr-lego-word-wall.md)
-- ⚪ [2026 02 12 Lecture Interactive Lego Word Wall Project](../../transcript-derived-lessons/2026-02-12-lecture-interactive-lego-word-wall-project.md)
-- ⚪ [2026 02 11 Class Review Lego Game And Conflict Resolution](../../transcript-derived-lessons/2026-02-11-class-review-lego-game-and-conflict-resolution.md)
+- ⚪ [2026 02 11 Lecture Interactive Vocabulary Videos With Google Vids And Qr Lego Word Wall](../../transcript-derived-lessons/260211-grade-1-gargana-word-wall.md)
+- ⚪ [2026 02 12 Lecture Interactive Lego Word Wall Project](../../transcript-derived-lessons/260212-grade-1-gargana-lego-wall.md)
+- ⚪ [2026 02 11 Class Review Lego Game And Conflict Resolution](../../transcript-derived-lessons/260211-grade-1-gargana-lego-conflict.md)
 
 ## ✅ Use This Folder When
 

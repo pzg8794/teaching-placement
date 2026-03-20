@@ -40,7 +40,7 @@
 
 ## ⚪ Transcript Lesson Notes
 
-- ⚪ [2026 02 26 Third Grade Responsible Ai Canva Workflows And Book Promotion Projects](../../transcript-derived-lessons/2026-02-26-workshop-third-grade-responsible-ai-canva-workflows-and-book-promotion-projects.md)
+- ⚪ [2026 02 26 Third Grade Responsible Ai Canva Workflows And Book Promotion Projects](../../transcript-derived-lessons/260226-grade-3-lamanaco-ai-canva.md)
 
 ## 🔗 Related Local Materials
 

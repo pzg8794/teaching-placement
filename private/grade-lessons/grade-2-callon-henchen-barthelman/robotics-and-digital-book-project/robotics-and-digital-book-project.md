@@ -40,9 +40,9 @@
 
 ## ⚪ Transcript Lesson Notes
 
-- ⚪ [2026 02 25 Robotics Project With Sphero Indy And Book Creator](../../transcript-derived-lessons/2026-02-25-lecture-robotics-project-with-sphero-indy-and-book-creator.md)
-- ⚪ [2026 02 27 Book Creator Onboarding Library Verification And Classroom Management](../../transcript-derived-lessons/2026-02-27-class-review-book-creator-onboarding-library-verification-and-classroom-management.md)
-- ⚪ [2026 03 05 Second Grade Robotics And Digital Book Project With Book Creator And Sphero Indi](../../transcript-derived-lessons/2026-03-05-lecture-second-grade-robotics-and-digital-book-project-with-book-creator-and-sphero-indi.md)
+- ⚪ [2026 02 25 Robotics Project With Sphero Indy And Book Creator](../../transcript-derived-lessons/260225-grade-2-callon-sphero-book.md)
+- ⚪ [2026 02 27 Book Creator Onboarding Library Verification And Classroom Management](../../transcript-derived-lessons/260227-grade-2-callon-creator-onboarding.md)
+- ⚪ [2026 03 05 Second Grade Robotics And Digital Book Project With Book Creator And Sphero Indi](../../transcript-derived-lessons/260305-grade-2-callon-indi-book.md)
 
 ## 🔗 Related Local Materials
 

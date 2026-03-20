@@ -40,16 +40,16 @@
 
 ## ⚪ Transcript Lesson Notes
 
-- ⚪ [2026 03 02 Minecraft Education Coding Test Lesson And Video Creation Workflow](../../transcript-derived-lessons/2026-03-02-class-review-minecraft-education-coding-test-lesson-and-video-creation-workflow.md)
-- ⚪ [2026 03 03 Minecraft Education Integration Hosting And Standards Aligned Lessons](../../transcript-derived-lessons/2026-03-03-lecture-minecraft-education-integration-hosting-and-standards-aligned-lessons.md)
-- ⚪ [2026 03 05 Minecraft Education Coding Fundamentals And Student Counseling Plan](../../transcript-derived-lessons/2026-03-05-lesson-summary-minecraft-education-coding-fundamentals-and-student-counseling-plan.md)
-- ⚪ [2026 03 09 Code Org Navigation Minecraft Education While Loops And Classroom Pairing Strategies](../../transcript-derived-lessons/2026-03-09-class-session-code-org-navigation-minecraft-education-while-loops-and-classroom-pairing-strategies.md)
-- ⚪ [2026 03 12 Minecraft Education Coding Challenge Agent Pathfinding Timed Dual Plate Activation Debugging And Loops](../../transcript-derived-lessons/2026-03-12-workshop-minecraft-education-coding-challenge-agent-pathfinding-timed-dual-plate-activation-debugging-and-loops.md)
-- ⚪ [2026 03 13 Minecraft Coding Fundamentals](../../transcript-derived-lessons/2026-03-13-lecture-minecraft-coding-fundamentals.md)
-- ⚪ [2026 03 13 Minecraft Installation Sign In Safety And Collaborative Team Build Procedures](../../transcript-derived-lessons/2026-03-13-lecture-minecraft-installation-sign-in-safety-and-collaborative-team-build-procedures.md)
-- ⚪ [2026 03 17 Coding Fundamentals And Block One Tutorial](../../transcript-derived-lessons/2026-03-17-lecture-coding-fundamentals-and-block-one-tutorial.md)
-- ⚪ [2026 03 17 Programming Puzzles And Agent Control](../../transcript-derived-lessons/2026-03-17-workshop-programming-puzzles-and-agent-control.md)
-- ⚪ [2026 03 18 Minecraft Education Coding Challenge Boss Level Timing Agent Movement And Progression To Turtle Rescue](../../transcript-derived-lessons/2026-03-18-class-session-minecraft-education-coding-challenge-boss-level-timing-agent-movement-and-progression-to-turtle-rescue.md)
+- ⚪ [2026 03 02 Minecraft Education Coding Test Lesson And Video Creation Workflow](../../transcript-derived-lessons/260302-grade-4-baris-minecraft-test.md)
+- ⚪ [2026 03 03 Minecraft Education Integration Hosting And Standards Aligned Lessons](../../transcript-derived-lessons/260303-grade-4-baris-minecraft-integration.md)
+- ⚪ [2026 03 05 Minecraft Education Coding Fundamentals And Student Counseling Plan](../../transcript-derived-lessons/260305-grade-4-baris-minecraft-summary.md)
+- ⚪ [2026 03 09 Code Org Navigation Minecraft Education While Loops And Classroom Pairing Strategies](../../transcript-derived-lessons/260309-grade-4-baris-minecraft-loops.md)
+- ⚪ [2026 03 12 Minecraft Education Coding Challenge Agent Pathfinding Timed Dual Plate Activation Debugging And Loops](../../transcript-derived-lessons/260312-grade-4-baris-agent-challenge.md)
+- ⚪ [2026 03 13 Minecraft Coding Fundamentals](../../transcript-derived-lessons/260313-grade-4-baris-minecraft-fundamentals.md)
+- ⚪ [2026 03 13 Minecraft Installation Sign In Safety And Collaborative Team Build Procedures](../../transcript-derived-lessons/260313-grade-4-baris-minecraft-signin.md)
+- ⚪ [2026 03 17 Coding Fundamentals And Block One Tutorial](../../transcript-derived-lessons/260317-grade-4-baris-block-one.md)
+- ⚪ [2026 03 17 Programming Puzzles And Agent Control](../../transcript-derived-lessons/260317-grade-4-baris-agent-puzzles.md)
+- ⚪ [2026 03 18 Minecraft Education Coding Challenge Boss Level Timing Agent Movement And Progression To Turtle Rescue](../../transcript-derived-lessons/260318-grade-4-baris-turtle-rescue.md)
 
 ## 🔗 Related Local Materials
 

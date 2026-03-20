@@ -40,7 +40,7 @@
 
 ## ⚪ Transcript Lesson Notes
 
-- ⚪ [2026 02 11 Lego Game And Conflict Resolution](../../transcript-derived-lessons/2026-02-11-class-review-lego-game-and-conflict-resolution.md)
+- ⚪ [2026 02 11 Lego Game And Conflict Resolution](../../transcript-derived-lessons/260211-grade-1-gargana-lego-conflict.md)
 
 ## 🔗 Related Local Materials
 

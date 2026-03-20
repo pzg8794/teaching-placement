@@ -40,8 +40,8 @@
 
 ## ⚪ Transcript Lesson Notes
 
-- ⚪ [2026 03 05 Summary Elementary Circuit Activity Planning And Kindergarten Typing Session](../../transcript-derived-lessons/2026-03-05-lecture-summary-elementary-circuit-activity-planning-and-kindergarten-typing-session.md)
-- ⚪ [2026 03 05 Keyboard Typing Skills And Introductory Electricity Circuits With Play Doh K 5 Classroom](../../transcript-derived-lessons/2026-03-05-lecture-keyboard-typing-skills-and-introductory-electricity-circuits-with-play-doh-k-5-classroom.md)
+- ⚪ [2026 03 05 Summary Elementary Circuit Activity Planning And Kindergarten Typing Session](../../transcript-derived-lessons/260305-kindergarten-justinger-circuits-summary.md)
+- ⚪ [2026 03 05 Keyboard Typing Skills And Introductory Electricity Circuits With Play Doh K 5 Classroom](../../transcript-derived-lessons/260305-kindergarten-justinger-typing-circuits.md)
 
 ## 🔗 Related Local Materials
 

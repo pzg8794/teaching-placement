@@ -40,7 +40,7 @@
 
 ## ⚪ Transcript Lesson Notes
 
-- ⚪ [2026 03 18 Digital Coloring And Introduction To Robotics](../../transcript-derived-lessons/2026-03-18-lecture-digital-coloring-and-introduction-to-robotics.md)
+- ⚪ [2026 03 18 Digital Coloring And Introduction To Robotics](../../transcript-derived-lessons/260318-kindergarten-justinger-coloring-robotics.md)
 
 ## 🔗 Related Local Materials
 
