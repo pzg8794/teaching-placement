@@ -8,3 +8,7 @@
 *.xdv
 *.synctex.gz
 ~$*
+
+# Keep private communications directory markdown-only in Git.
+private/communications/*
+!private/communications/*.md
