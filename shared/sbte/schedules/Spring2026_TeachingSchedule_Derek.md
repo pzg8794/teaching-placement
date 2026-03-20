@@ -14,75 +14,92 @@ This schedule reflects a strategic revision to optimize teaching quality, reduce
 
 ---
 
+## COLOR LEGEND
+
+- `🟦 Monday / Day 1`
+- `🟩 Tuesday / Day 2`
+- `🟪 Wednesday / Day 3`
+- `🟨 Thursday / Day 4`
+- `🟥 Friday / Day 5`
+- `🟫 Grade 1`
+- `🟧 Grade 2`
+- `🟩 Grade 3`
+- `🟦 Grade 4`
+- `🟪 Grade 5`
+- `⬜ Kindergarten`
+- `⬛ Flex / planning / PLC / lunch / 12:1+(3:1)`
+
+---
+
 ## PINE BROOK ROTATION ROSTER BY HOUR
 
 This roster is transcribed from the local PowerPoint schedule and is included here so each transcript or lesson note can be matched back to its likely class block by **date + weekday + hour + grade/topic cues**.
 
-### MONDAY / DAY 1
+### 🟦 MONDAY / DAY 1
 
 | Time | Class Block |
 |------|-------------|
-| 9:00-9:50 | Flex Block |
-| 9:50-10:40 | 12:1+(3:1) |
-| 10:45-11:35 | Callon (Grade 2) |
-| 11:35-12:25 | Lunch |
-| 12:25-1:15 | Justinger (Kindergarten) |
-| 1:15-2:10 | Baris (Grade 4) |
-| 2:15-3:05 | Henchen (Grade 2) |
+| 9:00-9:50 | ⬛ Flex Block |
+| 9:50-10:40 | ⬛ 12:1+(3:1) |
+| 10:45-11:35 | 🟧 Callon (Grade 2) |
+| 11:35-12:25 | ⬛ Lunch |
+| 12:25-1:15 | ⬜ Justinger (Kindergarten) |
+| 1:15-2:10 | 🟦 Baris (Grade 4) |
+| 2:15-3:05 | 🟧 Henchen (Grade 2) |
 
-### TUESDAY / DAY 2
-
-| Time | Class Block |
-|------|-------------|
-| 9:00-9:50 | Flex Block |
-| 9:50-10:40 | 12:1+(3:1) |
-| 10:45-11:35 | Pickett (Grade 5) |
-| 11:35-12:25 | Lunch |
-| 12:25-1:15 | Kesys (Kindergarten) |
-| 1:15-2:10 | Fowler (Grade 4) |
-| 2:15-3:05 | Planning |
-
-### WEDNESDAY / DAY 3
+### 🟩 TUESDAY / DAY 2
 
 | Time | Class Block |
 |------|-------------|
-| 9:00-9:50 | Flex Block |
-| 9:50-10:40 | Lamanaco (Grade 3) |
-| 10:45-11:35 | McGlashon (Grade 5) |
-| 11:35-12:25 | Lunch |
-| 12:25-1:15 | Gargana (Grade 1) |
-| 1:15-2:10 | Schrank (Grade 4) |
-| 2:15-3:05 | Polfleit (Grade 1) |
+| 9:00-9:50 | ⬛ Flex Block |
+| 9:50-10:40 | ⬛ 12:1+(3:1) |
+| 10:45-11:35 | 🟪 Pickett (Grade 5) |
+| 11:35-12:25 | ⬛ Lunch |
+| 12:25-1:15 | ⬜ Kesys (Kindergarten) |
+| 1:15-2:10 | 🟦 Fowler (Grade 4) |
+| 2:15-3:05 | ⬛ Planning |
 
-### THURSDAY / DAY 4
-
-| Time | Class Block |
-|------|-------------|
-| 9:00-9:50 | Flex Block |
-| 9:50-10:40 | Lallucci (Grade 3) |
-| 10:45-11:35 | Barthelman (Grade 2) |
-| 11:35-12:25 | Lunch |
-| 12:25-1:15 | Pum (Kindergarten) |
-| 1:15-2:10 | Autore (Grade 4) |
-| 2:15-3:05 | PLC Block |
-
-### FRIDAY / DAY 5
+### 🟪 WEDNESDAY / DAY 3
 
 | Time | Class Block |
 |------|-------------|
-| 9:00-9:50 | Flex Block |
-| 9:50-10:40 | Regelsberger (Grade 3) |
-| 10:45-11:35 | Pecora (Grade 5) |
-| 11:35-12:25 | Lunch |
-| 12:25-1:15 | Montgomery (Grade 1) |
-| 1:15-2:10 | Planning |
-| 2:15-3:05 | Tandoi (Grade 3) |
+| 9:00-9:50 | ⬛ Flex Block |
+| 9:50-10:40 | 🟩 Lamanaco (Grade 3) |
+| 10:45-11:35 | 🟪 McGlashon (Grade 5) |
+| 11:35-12:25 | ⬛ Lunch |
+| 12:25-1:15 | 🟫 Gargana (Grade 1) |
+| 1:15-2:10 | 🟦 Schrank (Grade 4) |
+| 2:15-3:05 | 🟫 Polfleit (Grade 1) |
+
+### 🟨 THURSDAY / DAY 4
+
+| Time | Class Block |
+|------|-------------|
+| 9:00-9:50 | ⬛ Flex Block |
+| 9:50-10:40 | 🟩 Lallucci (Grade 3) |
+| 10:45-11:35 | 🟧 Barthelman (Grade 2) |
+| 11:35-12:25 | ⬛ Lunch |
+| 12:25-1:15 | ⬜ Pum (Kindergarten) |
+| 1:15-2:10 | 🟦 Autore (Grade 4) |
+| 2:15-3:05 | ⬛ PLC Block |
+
+### 🟥 FRIDAY / DAY 5
+
+| Time | Class Block |
+|------|-------------|
+| 9:00-9:50 | ⬛ Flex Block |
+| 9:50-10:40 | 🟩 Regelsberger (Grade 3) |
+| 10:45-11:35 | 🟪 Pecora (Grade 5) |
+| 11:35-12:25 | ⬛ Lunch |
+| 12:25-1:15 | 🟫 Montgomery (Grade 1) |
+| 1:15-2:10 | ⬛ Planning |
+| 2:15-3:05 | 🟩 Tandoi (Grade 3) |
 
 ---
 
 ## REVISED WEEKLY TEACHING SCHEDULE
 
-### **MONDAY (Day 1 of Pine Brook Rotation)**
+### 🟦 **MONDAY (Day 1 of Pine Brook Rotation)**
 
 | Time | Activity | Location | Notes |
 |------|----------|----------|-------|
@@ -96,7 +113,7 @@ This roster is transcribed from the local PowerPoint schedule and is included he
 | 4:50-7:30 PM | EDU 442 Seminar | UofR (LeChase 161) | **LINCHPIN COURSE** |
 | 7:30-7:50 PM | Travel home | Transit | 20-min drive |
 
-**Monday Summary:**
+**🟦 Monday Summary:**
 - Teaching time: 2 hours (afternoon block)
 - No morning teaching (eliminates double commute to RIT + Pine Brook)
 - Maintains critical afternoon instruction block
@@ -104,7 +121,7 @@ This roster is transcribed from the local PowerPoint schedule and is included he
 
 ---
 
-### **TUESDAY (Day 2 of Pine Brook Rotation)**
+### 🟩 **TUESDAY (Day 2 of Pine Brook Rotation)**
 
 | Time | Activity | Location | Notes |
 |------|----------|----------|-------|
@@ -114,7 +131,7 @@ This roster is transcribed from the local PowerPoint schedule and is included he
 | 4:30-4:55 PM | Transit/return | Transit | 25-min drive |
 | 4:55-7:00 PM | Coursework/Reflection | Home/UofR | Light prep work |
 
-**Tuesday Summary:**
+**🟩 Tuesday Summary:**
 - Teaching time: 6+ hours (full day)
 - **Primary teaching day**
 - Minimal other commitments
@@ -122,7 +139,7 @@ This roster is transcribed from the local PowerPoint schedule and is included he
 
 ---
 
-### **WEDNESDAY (Day 3 of Pine Brook Rotation)**
+### 🟪 **WEDNESDAY (Day 3 of Pine Brook Rotation)**
 
 | Time | Activity | Location | Notes |
 |------|----------|----------|-------|
@@ -132,7 +149,7 @@ This roster is transcribed from the local PowerPoint schedule and is included he
 | 3:10-3:30 PM | Travel home/RIT | Transit | 30-min drive |
 | Evening | Coursework prep | Home/UofR | BIOL 650 lab prep, ED 452B |
 
-**Wednesday Summary:**
+**🟪 Wednesday Summary:**
 - Teaching time: 2 hours (afternoon block)
 - No morning teaching (eliminates hazardous double commute)
 - Maintains RIT course attendance earlier in day
@@ -140,7 +157,7 @@ This roster is transcribed from the local PowerPoint schedule and is included he
 
 ---
 
-### **THURSDAY (Day 4 of Pine Brook Rotation)**
+### 🟨 **THURSDAY (Day 4 of Pine Brook Rotation)**
 
 | Time | Activity | Location | Notes |
 |------|----------|----------|-------|
@@ -151,7 +168,7 @@ This roster is transcribed from the local PowerPoint schedule and is included he
 | 3:40-4:40 PM | ED 452B Seminar | Zoom (Online) | Inclusive strategies |
 | 4:45-7:00 PM | Coursework/Reflection | Home | ED 452B reflections due Sunday |
 
-**Thursday Summary:**
+**🟨 Thursday Summary:**
 - Teaching time: 6+ hours (full day)
 - **Primary teaching day**
 - Zoom workshop fits within teaching block
@@ -159,7 +176,7 @@ This roster is transcribed from the local PowerPoint schedule and is included he
 
 ---
 
-### **FRIDAY (Day 5 of Pine Brook Rotation)**
+### 🟥 **FRIDAY (Day 5 of Pine Brook Rotation)**
 
 | Time | Activity | Location | Notes |
 |------|----------|----------|-------|
@@ -168,7 +185,7 @@ This roster is transcribed from the local PowerPoint schedule and is included he
 | 3:10-3:30 PM | Travel to RIT/UofR/home | Transit | 30-min drive |
 | 4:00-7:00 PM | ED 400A or EDE 498C | UofR (select Fridays) | Monthly Friday sessions only |
 
-**Friday Summary:**
+**🟥 Friday Summary:**
 - Teaching time: 6 hours (full day)
 - **Primary teaching day**
 - Select Friday sessions (4 dates total in semester)
@@ -180,11 +197,11 @@ This roster is transcribed from the local PowerPoint schedule and is included he
 
 | Day | Teaching Hours | Type | Hazard Level |
 |-----|-----------------|------|--------------|
-| **Monday** | 2 hours | Afternoon block | Reduced (afternoon only) |
-| **Tuesday** | 6+ hours | Full day | Safe (single commute) |
-| **Wednesday** | 2 hours | Afternoon block | Reduced (afternoon only) |
-| **Thursday** | 6+ hours | Full day | Safe (single commute) |
-| **Friday** | 6 hours | Full day | Safe (single commute) |
+| **🟦 Monday** | 2 hours | Afternoon block | Reduced (afternoon only) |
+| **🟩 Tuesday** | 6+ hours | Full day | Safe (single commute) |
+| **🟪 Wednesday** | 2 hours | Afternoon block | Reduced (afternoon only) |
+| **🟨 Thursday** | 6+ hours | Full day | Safe (single commute) |
+| **🟥 Friday** | 6 hours | Full day | Safe (single commute) |
 | **TOTAL** | **22+ hours/week** | Mixed | **SAFER overall** |
 
 ---
