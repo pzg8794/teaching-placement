@@ -2,6 +2,14 @@
 
 **Color Code:** 🟥 Shared with SBTE
 
+> **Page Type:** Index
+> **Purpose:** Material intended for your sbte.
+> **Audience:** Sbte and you.
+> **Use This When:** Share or review sbte-facing material.
+
+---
+
+
 This folder is reserved for documents appropriate to share with your SBTE.
 
 ## Expectations

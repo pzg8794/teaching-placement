@@ -2,6 +2,14 @@
 
 **Color Code:** 🟥 Shared with SBTE
 
+> **Page Type:** Shared document
+> **Purpose:** Material intended for your sbte.
+> **Audience:** Sbte and you.
+> **Use This When:** Share or review sbte-facing material.
+
+---
+
+
 **Candidate:** Piter Garcia (Computer Science & Inclusion Certification)
 
 **Placement Site:** Pine Brook Elementary (Greece Central School District) — IGNITE Program

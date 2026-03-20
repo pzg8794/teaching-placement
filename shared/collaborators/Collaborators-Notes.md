@@ -2,6 +2,14 @@
 
 **Color Code:** 🟪 Shared with Collaborators
 
+> **Page Type:** Index
+> **Purpose:** Material intended for collaborators.
+> **Audience:** Classmates, professors, contributors, and you.
+> **Use This When:** Share or review collaborator-facing material.
+
+---
+
+
 This folder is reserved for items you can share with classmates, professors, and contributors.
 
 ## Lesson Plans

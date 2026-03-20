@@ -2,6 +2,14 @@
 
 **Color Code:** 🌐 Shared Workspace
 
+> **Page Type:** Shared index
+> **Purpose:** Navigation for shareable material.
+> **Audience:** You and anyone you share with.
+> **Use This When:** Find the correct sharing branch or folder.
+
+---
+
+
 Only this `shared/` tree is intended for Git tracking and outward distribution.
 
 - [SBTE share folder](./sbte/SBTE-Notes.md)

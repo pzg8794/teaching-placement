@@ -2,6 +2,14 @@
 
 **Color Code:** 🟪 Shared with Collaborators
 
+> **Page Type:** Shared document
+> **Purpose:** Material intended for collaborators.
+> **Audience:** Classmates, professors, contributors, and you.
+> **Use This When:** Share or review collaborator-facing material.
+
+---
+
+
 ### ***Sample Prompts for Stages 1–3 \+ Iterative Design***
 
 We will explore using AI as a thought partner in the redesign of a unit that takes advantage of technology to support learning. Specifically, we will use HiTA a tool developed by researchers at the University of Colorado Mining School. To access HiTA you will need to follow these steps:
@@ -78,4 +86,3 @@ Below are examples of how you can use our course AI agent as a collaborative par
 
 **15\. Anticipate classroom realities**  
  *“Given my redesigned unit, what challenges might students encounter—technically, socially, academically? Suggest contingency plans or adjustments.”*
-
