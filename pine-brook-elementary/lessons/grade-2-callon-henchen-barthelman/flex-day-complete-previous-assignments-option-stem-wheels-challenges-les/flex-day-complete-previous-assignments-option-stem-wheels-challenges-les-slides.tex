@@ -3,112 +3,136 @@
 \usepackage{lmodern}
 \usepackage{tikz}
 \usepackage{hyperref}
-\definecolor{pbprimary}{HTML}{2F80ED}
-\definecolor{pbsecondary}{HTML}{DCEBFF}
-\setbeamercolor{palette primary}{bg=pbprimary, fg=white}
-\setbeamercolor{frametitle}{fg=pbprimary}
-\setbeamercolor{title}{fg=pbprimary}
-\setbeamercolor{block title}{bg=pbprimary, fg=white}
-\setbeamercolor{block body}{bg=pbsecondary, fg=black}
-\setbeamercolor{alertblock title}{bg=pbprimary, fg=white}
-\setbeamercolor{alertblock body}{bg=pbsecondary!80, fg=black}
+\usetikzlibrary{positioning,arrows.meta,calc}
+\definecolor{tealpop}{HTML}{14B8A6}
+\definecolor{goldpop}{HTML}{F4B400}
+\definecolor{berrypop}{HTML}{E85D75}
+\definecolor{indigopop}{HTML}{5B6CFF}
+\definecolor{ink}{HTML}{1F2937}
+\definecolor{fog}{HTML}{F7FAFC}
 \setbeamertemplate{navigation symbols}{}
-\setbeamertemplate{itemize item}{\color{pbprimary}\Large$\blacktriangleright$}
+\setbeamercolor{normal text}{fg=ink,bg=white}
+\setbeamercolor{frametitle}{fg=ink,bg=white}
+\setbeamercolor{block title}{fg=white,bg=indigopop}
+\setbeamercolor{block body}{fg=ink,bg=fog}
+\setbeamertemplate{itemize item}{\color{berrypop}$\blacktriangleright$}
+\setbeameroption{hide notes}
 \title{Flex Day - Complete Previous Assignments | Option: | STEM Wheels Challenges Lessons}
-\subtitle{Student Guide Deck}
+\subtitle{Student Mission Deck}
 \author{Pine Brook IGNITE}
 \date{Spring 2026}
 \begin{document}
+
 \begin{frame}[plain]
+\begin{tikzpicture}[remember picture,overlay]
+\fill[fog] (current page.south west) rectangle (current page.north east);
+\fill[tealpop!15] (0.2,0.5) rectangle (13.2,6.9);
+\draw[line width=8pt, color=berrypop] (0.5,6.8) -- (12.7,6.8);
+\draw[line width=8pt, color=goldpop] (0.5,0.7) -- (12.7,0.7);
+\end{tikzpicture}
+\vspace{0.55cm}
 \begin{center}
-{\usebeamerfont{title}\color{pbprimary}\Huge Flex Day - Complete Previous Assignments | Option: | STEM Wheels Challenges Lessons\par}
+{\Huge\bfseries\color{ink} Flex Day - Complete Previous Assignments | Option: | STEM Wheels Challenges Lessons\par}
+\vspace{0.15cm}
+{\Large\color{indigopop} Mission Mode: Build and Explain.\par}
 \vspace{0.3cm}
-{\Large Today we will learn, build, test, and show our thinking.\par}
-\vspace{0.35cm}
 \begin{tikzpicture}
-\fill[pbprimary!18, rounded corners=10pt] (0,0) rectangle (11,1.3);
-\node[anchor=west, text width=10.2cm] at (0.35,0.68) {\large Grade 2 learners: big steps, clear checks, and one thing at a time.};
+\node[rounded corners=18pt, fill=white, draw=indigopop, line width=1.4pt, minimum width=10.6cm, minimum height=1.55cm, text width=9.8cm, align=center]
+{\Large\bfseries This class benefits from visual structure, explicit checkpoints, and help routines that keep momentum going.};
+\end{tikzpicture}
+\vspace{0.35cm}
+\begin{tikzpicture}[node distance=0.5cm]
+\node[rounded corners=12pt, fill=berrypop!15, draw=berrypop!80, minimum width=3.2cm, minimum height=1.1cm, align=center] (a) {\large\bfseries Notice};
+\node[rounded corners=12pt, fill=goldpop!18, draw=goldpop!80!black, minimum width=3.2cm, minimum height=1.1cm, align=center, right=of a] (b) {\large\bfseries Build};
+\node[rounded corners=12pt, fill=tealpop!18, draw=tealpop!80!black, minimum width=3.2cm, minimum height=1.1cm, align=center, right=of b] (c) {\large\bfseries Explain};
 \end{tikzpicture}
 \end{center}
+\note{Today we are working on flex day - complete}
 \end{frame}
-\begin{frame}{Todays Goal}
-\begin{itemize}
+
+\begin{frame}[plain]
+\frametitle{Mission Goal}
+\begin{columns}[T,totalwidth=\textwidth]
+\column{0.56\textwidth}
+\begin{block}{Today we will}
+\Large "I can design and build a contraption that will meet the requirements of the assignment and fit in the required work area.
+\end{block}
+\begin{itemize}\large
 \item "I can design and build a contraption that will meet the requirements of the assignment and fit in the required work area.
 \item I can rethink my ideas to improve my design.
 \item I can communicate my ideas.
 \end{itemize}
-\begin{block}{Remember}
-We do not have to be perfect right away. We take one step, then the next step, then we check.
-\end{block}
+\column{0.4\textwidth}
+\begin{tikzpicture}[x=1cm,y=1cm]
+\draw[rounded corners=14pt, fill=white, draw=indigopop, line width=1.2pt] (0,0) rectangle (4.6,4.6);
+\node[draw=berrypop!80, fill=berrypop!14, rounded corners=10pt, minimum width=3.4cm, minimum height=0.9cm] at (2.3,3.7) {\bfseries Grade 2};
+\node[draw=goldpop!80!black, fill=goldpop!16, rounded corners=10pt, minimum width=3.4cm, minimum height=1.0cm, text width=3.0cm, align=center] at (2.3,2.35) {\small Growing independent learners who can handle more tool variety when routines and choices stay well scaffolded.};
+\node[draw=tealpop!80!black, fill=tealpop!14, rounded corners=10pt, minimum width=3.4cm, minimum height=0.9cm, text width=3.0cm, align=center] at (2.3,0.95) {\scriptsize Day 1 `10:45-11:35` Callon, Day 1 `2:15-3:05` Henchen, Day 4 `10:45-11:35` Barthelman};
+\end{tikzpicture}
+\end{columns}
+\note{Today we are working on flex day - complete}
 \end{frame}
-\begin{frame}{What You Need}
-\begin{itemize}
-\item Your class materials
-\item The digital tool or build materials for today
-\item A partner voice and your thinking
+
+\begin{frame}[plain]
+\frametitle{Mission Map}
+\begin{center}
+\begin{tikzpicture}[node distance=0.65cm]
+\node[rounded corners=14pt, fill=berrypop!14, draw=berrypop!85, minimum width=3.1cm, minimum height=2.0cm, text width=2.4cm, align=center] (s1) {\Large\bfseries STEP 1\\[4pt]Break the design process into plan, build,};
+\node[rounded corners=14pt, fill=goldpop!18, draw=goldpop!80!black, minimum width=3.1cm, minimum height=2.0cm, text width=2.4cm, align=center, right=of s1] (s2) {\Large\bfseries STEP 2\\[4pt]Work one part at a time};
+\node[rounded corners=14pt, fill=tealpop!16, draw=tealpop!80!black, minimum width=3.1cm, minimum height=2.0cm, text width=2.4cm, align=center, right=of s2] (s3) {\Large\bfseries STEP 3\\[4pt]Show what you made};
+\draw[-{Latex[length=4mm,width=3mm]}, line width=1.6pt, color=indigopop] (s1) -- (s2);
+\draw[-{Latex[length=4mm,width=3mm]}, line width=1.6pt, color=indigopop] (s2) -- (s3);
+\end{tikzpicture}
+\end{center}
+\vspace{0.28cm}
+\begin{block}{Tools and setup}
+\begin{itemize}\large
+\item Begin by naming the lesson purpose and the success condition
+\item Model the first step before independent or partner work starts
+\item Pause once mid-lesson for a quick debug, reflection, or reset
 \end{itemize}
-\begin{block}{Partner Norms}
-Look. Listen. Try. Talk. Help without taking over.
 \end{block}
+\note{Use the help routine before you panic}
 \end{frame}
-\begin{frame}{Step 1}
-\begin{block}{Look at the challenge and name the goal.}
-Look at the challenge and name the goal.
-\end{block}
-\begin{itemize}
-\item Point to the part that tells you what success means.
-\item Make the challenge criteria visible from the first slide through cleanup.
-\end{itemize}
-\centering\large\color{pbprimary} Pause. Check. Then move on.
-\end{frame}
-\begin{frame}{Step 2}
-\begin{block}{Build, test, and notice what happens.}
-Build, test, and notice what happens.
-\end{block}
-\begin{itemize}
-\item Change one thing at a time so your next move is clear.
-\item Break the design process into plan, build, test, and improve rather than one big make.
-\end{itemize}
-\centering\large\color{pbprimary} Pause. Check. Then move on.
-\end{frame}
-\begin{frame}{Step 3}
-\begin{block}{Improve your design and explain your thinking.}
-Improve your design and explain your thinking.
-\end{block}
-\begin{itemize}
-\item Tell what worked, what did not yet work, and what you tried next.
-\item Use teacher talk that celebrates revision so early failure feels normal.
-\end{itemize}
-\centering\large\color{pbprimary} Pause. Check. Then move on.
-\end{frame}
-\begin{frame}{If You Get Stuck}
-\begin{enumerate}
-\item Read the directions on your screen or slide one more time.
-\item Check the example, the checklist, or your partner role.
-\item Try one small change before asking for a full rescue.
-\item Students may rush into building before naming the target or the constraint.
+
+\begin{frame}[plain]
+\frametitle{Checkpoint and Help Moves}
+\begin{columns}[T,totalwidth=\textwidth]
+\column{0.52\textwidth}
+\begin{block}{If something feels hard}
+\begin{enumerate}\large
+\item Check the mission map.
+\item Re-read the direction.
+\item Ask your partner what step you are on.
+\item Ask one clear question.
 \end{enumerate}
-\begin{alertblock}{Help Routine}
-Stop. Breathe. Point to where you are stuck. Ask a specific question.
-\end{alertblock}
-\end{frame}
-\begin{frame}{Show Your Learning}
-\begin{itemize}
-\item I stayed with the steps and used the help routine when I needed it.
-\item I made, coded, explained, or revised something that matches the lesson goal.
-\item I can point to one choice, fix, or idea I learned today.
-\end{itemize}
-\begin{block}{Before You Leave}
-Save it, share it, explain it, or demonstrate it.
 \end{block}
+\column{0.43\textwidth}
+\begin{tikzpicture}[x=1cm,y=1cm]
+\draw[rounded corners=14pt, fill=white, draw=indigopop, line width=1.2pt] (0,0) rectangle (4.8,4.8);
+\foreach \y/\txt/\col in {3.85/Some groups need support organizing materials and sticking with one plan/berrypop,2.7/Explaining the design can be harder than making it without sentence/goldpop,1.55/Students may not know they are done/tealpop} {
+  \draw[rounded corners=8pt, fill=\col!15, draw=\col!80!black] (0.45,\y-0.35) rectangle (4.35,\y+0.35);
+  \node[text width=3.3cm, align=center] at (2.4,\y) {\small \txt};
+}
+\end{tikzpicture}
+\end{columns}
+\note{Use the help routine before you panic}
 \end{frame}
-\begin{frame}{Teacher Voiceover Cues}
-\footnotesize
-\begin{itemize}
-\item Today we are working on flex day - complete previous assignments | option: | stem wheels challenges lessons. Watch first, then try it with me.
-\item If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
-\item Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
-\end{itemize}
-\color{gray}This slide can be removed before student use if you only want the visual deck.
+
+\begin{frame}[plain]
+\frametitle{Show Your Learning}
+\begin{center}
+\begin{tikzpicture}[node distance=0.45cm]
+\node[rounded corners=12pt, fill=berrypop!14, draw=berrypop!80, minimum width=10.9cm, minimum height=1.05cm, align=center] (a) {\Large\bfseries I finished an important part};
+\node[rounded corners=12pt, fill=goldpop!18, draw=goldpop!80!black, minimum width=10.9cm, minimum height=1.05cm, align=center, below=of a] (b) {\Large\bfseries I can explain one choice};
+\node[rounded corners=12pt, fill=tealpop!16, draw=tealpop!80!black, minimum width=10.9cm, minimum height=1.05cm, align=center, below=of b] (c) {\Large\bfseries I can show my work};
+\end{tikzpicture}
+\end{center}
+\vspace{0.3cm}
+\begin{block}{End-of-lesson move}
+\Large Save it, show it, point to it, or explain it in your own words.
+\end{block}
+\note{Show what you learned at the end}
 \end{frame}
+
 \end{document}

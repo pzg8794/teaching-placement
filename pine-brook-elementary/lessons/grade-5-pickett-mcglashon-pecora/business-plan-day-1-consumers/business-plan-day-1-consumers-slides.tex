@@ -3,112 +3,136 @@
 \usepackage{lmodern}
 \usepackage{tikz}
 \usepackage{hyperref}
-\definecolor{pbprimary}{HTML}{D63031}
-\definecolor{pbsecondary}{HTML}{FFE3E3}
-\setbeamercolor{palette primary}{bg=pbprimary, fg=white}
-\setbeamercolor{frametitle}{fg=pbprimary}
-\setbeamercolor{title}{fg=pbprimary}
-\setbeamercolor{block title}{bg=pbprimary, fg=white}
-\setbeamercolor{block body}{bg=pbsecondary, fg=black}
-\setbeamercolor{alertblock title}{bg=pbprimary, fg=white}
-\setbeamercolor{alertblock body}{bg=pbsecondary!80, fg=black}
+\usetikzlibrary{positioning,arrows.meta}
+\definecolor{neonblue}{HTML}{2F80ED}
+\definecolor{mango}{HTML}{F2994A}
+\definecolor{violet}{HTML}{7B61FF}
+\definecolor{mint}{HTML}{27AE60}
+\definecolor{ink}{HTML}{17212F}
+\definecolor{panel}{HTML}{F6F9FF}
 \setbeamertemplate{navigation symbols}{}
-\setbeamertemplate{itemize item}{\color{pbprimary}\Large$\blacktriangleright$}
+\setbeamercolor{normal text}{fg=ink,bg=white}
+\setbeamercolor{frametitle}{fg=ink,bg=white}
+\setbeamercolor{block title}{fg=white,bg=violet}
+\setbeamercolor{block body}{fg=ink,bg=panel}
+\setbeamertemplate{itemize item}{\color{neonblue}$\blacktriangleright$}
+\setbeameroption{hide notes}
 \title{Business Plan Day 1: Consumers}
-\subtitle{Student Guide Deck}
+\subtitle{Student Mission Deck}
 \author{Pine Brook IGNITE}
 \date{Spring 2026}
 \begin{document}
+
 \begin{frame}[plain]
+\begin{tikzpicture}[remember picture,overlay]
+\fill[panel] (current page.south west) rectangle (current page.north east);
+\fill[violet!16] (0.3,0.6) rectangle (13.0,6.9);
+\draw[line width=7pt, color=neonblue] (0.55,6.65) -- (12.75,6.65);
+\draw[line width=7pt, color=mango] (0.55,0.85) -- (12.75,0.85);
+\end{tikzpicture}
+\vspace{0.5cm}
 \begin{center}
-{\usebeamerfont{title}\color{pbprimary}\Huge Business Plan Day 1: Consumers\par}
-\vspace{0.3cm}
-{\Large Today we will learn, build, test, and show our thinking.\par}
-\vspace{0.35cm}
+{\Huge\bfseries\color{ink} Business Plan Day 1: Consumers\par}
+\vspace{0.18cm}
+{\Large\color{violet} Design, Debug, Present.\par}
+\vspace{0.28cm}
 \begin{tikzpicture}
-\fill[pbprimary!18, rounded corners=10pt] (0,0) rectangle (11,1.3);
-\node[anchor=west, text width=10.2cm] at (0.35,0.68) {\large Grade 5 learners: big steps, clear checks, and one thing at a time.};
+\node[rounded corners=18pt, fill=white, draw=neonblue, line width=1.4pt, minimum width=10.8cm, minimum height=1.5cm, text width=9.9cm, align=center]
+{\Large\bfseries Upper elementary students can carry more independence when criteria, checkpoints, and troubleshooting are easy to re-find.};
+\end{tikzpicture}
+\vspace{0.32cm}
+\begin{tikzpicture}[node distance=0.55cm]
+\node[rounded corners=12pt, fill=neonblue!14, draw=neonblue!80, minimum width=3.1cm, minimum height=1.0cm, align=center] (a) {\large\bfseries Learn};
+\node[rounded corners=12pt, fill=mango!18, draw=mango!80!black, minimum width=3.1cm, minimum height=1.0cm, align=center, right=of a] (b) {\large\bfseries Test};
+\node[rounded corners=12pt, fill=mint!16, draw=mint!80!black, minimum width=3.1cm, minimum height=1.0cm, align=center, right=of b] (c) {\large\bfseries Improve};
 \end{tikzpicture}
 \end{center}
+\note{Today we are working on business plan day 1:}
 \end{frame}
-\begin{frame}{Todays Goal}
-\begin{itemize}
-\item I can follow the lesson steps and stay with the class routine.
-\item I can try, test, and improve my work.
-\item I can show one piece of evidence that I learned something new.
-\end{itemize}
-\begin{block}{Remember}
-We do not have to be perfect right away. We take one step, then the next step, then we check.
+
+\begin{frame}[plain]
+\frametitle{Mission Brief}
+\begin{columns}[T,totalwidth=\textwidth]
+\column{0.55\textwidth}
+\begin{block}{Your mission today}
+\Large I can follow the steps.
 \end{block}
-\end{frame}
-\begin{frame}{What You Need}
-\begin{itemize}
-\item Your class materials
-\item The digital tool or build materials for today
-\item A partner voice and your thinking
+\begin{itemize}\large
+\item I can follow the steps.
+\item I can make or improve something.
+\item I can show my learning.
 \end{itemize}
-\begin{block}{Partner Norms}
-Look. Listen. Try. Talk. Help without taking over.
-\end{block}
+\column{0.4\textwidth}
+\begin{tikzpicture}[x=1cm,y=1cm]
+\draw[rounded corners=14pt, fill=white, draw=violet, line width=1.2pt] (0,0) rectangle (4.8,4.8);
+\node[draw=neonblue!75, fill=neonblue!10, rounded corners=9pt, minimum width=3.45cm, minimum height=0.9cm] at (2.4,3.9) {\bfseries Grade 5};
+\node[draw=mango!80!black, fill=mango!14, rounded corners=9pt, minimum width=3.45cm, minimum height=1.05cm, text width=3.1cm, align=center] at (2.4,2.35) {\small Older elementary learners who can manage autonomy and longer projects when expectations, accountability, and revision structures stay visible.};
+\node[draw=mint!80!black, fill=mint!14, rounded corners=9pt, minimum width=3.45cm, minimum height=0.95cm, text width=3.1cm, align=center] at (2.4,0.95) {\scriptsize Day 2 `10:45-11:35` Pickett, Day 3 `10:45-11:35` McGlashon, Day 5 `10:45-11:35` Pecora};
+\end{tikzpicture}
+\end{columns}
+\note{Today we are working on business plan day 1:}
 \end{frame}
-\begin{frame}{Step 1}
-\begin{block}{Read todays goal and make a simple plan.}
-Read todays goal and make a simple plan.
-\end{block}
-\begin{itemize}
-\item Decide what you will finish first, next, and last.
-\item Name the goal in student language before materials or devices create extra noise.
+
+\begin{frame}[plain]
+\frametitle{Mission Flow}
+\begin{center}
+\begin{tikzpicture}[node distance=0.6cm]
+\node[rounded corners=14pt, fill=neonblue!12, draw=neonblue!80, minimum width=3.05cm, minimum height=2.0cm, text width=2.3cm, align=center] (s1) {\Large\bfseries 1\\[4pt]Pick one clear idea};
+\node[rounded corners=14pt, fill=mango!17, draw=mango!80!black, minimum width=3.05cm, minimum height=2.0cm, text width=2.3cm, align=center, right=of s1] (s2) {\Large\bfseries 2\\[4pt]Work one part at a time};
+\node[rounded corners=14pt, fill=mint!16, draw=mint!80!black, minimum width=3.05cm, minimum height=2.0cm, text width=2.3cm, align=center, right=of s2] (s3) {\Large\bfseries 3\\[4pt]Show what you made};
+\draw[-{Latex[length=4mm,width=3mm]}, line width=1.8pt, color=violet] (s1) -- (s2);
+\draw[-{Latex[length=4mm,width=3mm]}, line width=1.8pt, color=violet] (s2) -- (s3);
+\end{tikzpicture}
+\end{center}
+\vspace{0.3cm}
+\begin{block}{Tools and setup}
+\begin{itemize}\large
+\item Begin by naming the lesson purpose and the success condition
+\item Model the first step before independent or partner work starts
+\item Pause once mid-lesson for a quick debug, reflection, or reset
 \end{itemize}
-\centering\large\color{pbprimary} Pause. Check. Then move on.
-\end{frame}
-\begin{frame}{Step 2}
-\begin{block}{Work through your checklist and pause for help when needed.}
-Work through your checklist and pause for help when needed.
 \end{block}
-\begin{itemize}
-\item Do not wait until the end to ask if you are stuck.
-\item Keep one visible checklist or example on screen during work time.
-\end{itemize}
-\centering\large\color{pbprimary} Pause. Check. Then move on.
+\note{Use the help routine before you panic}
 \end{frame}
-\begin{frame}{Step 3}
-\begin{block}{Share, reflect, or present your progress.}
-Share, reflect, or present your progress.
-\end{block}
-\begin{itemize}
-\item Be ready to explain one choice you made and why.
-\item Pause once to help students reflect and reset before the final task push.
-\end{itemize}
-\centering\large\color{pbprimary} Pause. Check. Then move on.
-\end{frame}
-\begin{frame}{If You Get Stuck}
-\begin{enumerate}
-\item Read the directions on your screen or slide one more time.
-\item Check the example, the checklist, or your partner role.
-\item Try one small change before asking for a full rescue.
-\item Students may lose the main goal if the task has too many moving parts.
+
+\begin{frame}[plain]
+\frametitle{Debug and Get Unstuck}
+\begin{columns}[T,totalwidth=\textwidth]
+\column{0.53\textwidth}
+\begin{block}{Use this order}
+\begin{enumerate}\large
+\item Re-check the goal.
+\item Re-check the current step.
+\item Test one small change.
+\item Ask one specific question.
 \end{enumerate}
-\begin{alertblock}{Help Routine}
-Stop. Breathe. Point to where you are stuck. Ask a specific question.
-\end{alertblock}
-\end{frame}
-\begin{frame}{Show Your Learning}
-\begin{itemize}
-\item I stayed with the steps and used the help routine when I needed it.
-\item I made, coded, explained, or revised something that matches the lesson goal.
-\item I can point to one choice, fix, or idea I learned today.
-\end{itemize}
-\begin{block}{Before You Leave}
-Save it, share it, explain it, or demonstrate it.
 \end{block}
+\column{0.42\textwidth}
+\begin{tikzpicture}[x=1cm,y=1cm]
+\draw[rounded corners=14pt, fill=white, draw=violet, line width=1.2pt] (0,0) rectangle (4.9,4.9);
+\foreach \y/\txt/\col in {3.9/Hidden assumptions in the directions can make support requests pile up/neonblue,2.65/Directions can feel hidden/mango,1.4/Students may not know they are done/mint} {
+  \draw[rounded corners=8pt, fill=\col!14, draw=\col!80!black] (0.45,\y-0.35) rectangle (4.45,\y+0.35);
+  \node[text width=3.4cm, align=center] at (2.45,\y) {\small \txt};
+}
+\end{tikzpicture}
+\end{columns}
+\note{Use the help routine before you panic}
 \end{frame}
-\begin{frame}{Teacher Voiceover Cues}
-\footnotesize
-\begin{itemize}
-\item Today we are working on business plan day 1: consumers. Watch first, then try it with me.
-\item If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
-\item Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
-\end{itemize}
-\color{gray}This slide can be removed before student use if you only want the visual deck.
+
+\begin{frame}[plain]
+\frametitle{Proof of Learning}
+\begin{center}
+\begin{tikzpicture}[node distance=0.45cm]
+\node[rounded corners=12pt, fill=neonblue!12, draw=neonblue!80, minimum width=10.8cm, minimum height=1.05cm, align=center] (a) {\Large\bfseries I finished an important part};
+\node[rounded corners=12pt, fill=mango!18, draw=mango!80!black, minimum width=10.8cm, minimum height=1.05cm, align=center, below=of a] (b) {\Large\bfseries I can explain one choice};
+\node[rounded corners=12pt, fill=mint!16, draw=mint!80!black, minimum width=10.8cm, minimum height=1.05cm, align=center, below=of b] (c) {\Large\bfseries I can show my work};
+\end{tikzpicture}
+\end{center}
+\vspace{0.3cm}
+\begin{block}{Before you leave}
+\Large Save it, share it, explain it, or demonstrate it.
+\end{block}
+\note{Show what you learned at the end}
 \end{frame}
+
 \end{document}
