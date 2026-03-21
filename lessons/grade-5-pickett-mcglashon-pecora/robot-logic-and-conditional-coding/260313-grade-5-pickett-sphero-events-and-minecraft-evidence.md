@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 5
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-13 Lecture_ Sphero Robot Programming, Events, and Minecraft-transcript.txt](../transcripts/03-13%20Lecture_%20Sphero%20Robot%20Programming,%20Events,%20and%20Minecraft-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260313-grade-5-pickett-sphero-events-and-minecraft.md](../../../transcripts/260313-grade-5-pickett-sphero-events-and-minecraft.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,8 @@ Minecraft Education coding workflow, agent commands, and classroom troubleshooti
 - Projected modeling screen
 
 ## 🔗 Related Local Materials
-- [Minecraft CS module materials](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 
+- [Lesson packet](./robot-logic-and-conditional-coding.md)
 ## 🧠 Evidence Cues
 - `loop` appears in the transcript and likely shaped the lesson moves.
 - `debug` appears in the transcript and likely shaped the lesson moves.

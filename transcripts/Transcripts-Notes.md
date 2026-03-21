@@ -53,7 +53,7 @@
 - [03-06 Robotics Class on Sphero Programming and Subsequent Adult Conversations](../lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-sphero/260306-grade-3-lamanaco-sphero-class-review-evidence.md)
 - [03-09 Class Session: Code.org Navigation, Minecraft Education While Loops, and Classroom Pairing Strategies](../lessons/grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/260309-grade-4-baris-minecraft-loops-evidence.md)
 - [03-09 Classroom Workshop: Foundational Coding with Directional Sequencing, Loops, and Classroom Management](../lessons/grade-1-gargana-polfleit-montgomery/foundational-coding-and-directional-loops/260309-grade-1-gargana-directional-loops-evidence.md)
-- [03-10 Standardizing a Classroom Robotics Arch Challenge: Rules, Specs, and Workflow Decisions](../lessons/grade-5-pickett-mcglashon-pecora/robot-logic-and-conditional-coding/260310-grade-5-pickett-arch-challenge-evidence.md)
+- [03-10 Standardizing a Classroom Robotics Arch Challenge: Rules, Specs, and Workflow Decisions](./260310-grade-5-pickett-arch-challenge.md)
 - [03-11 Lecture: Basic Electrical Circuits](../lessons/kindergarten-justinger-kesys-pum/intro-typing-and-simple-circuits/260311-kindergarten-justinger-basic-circuits-evidence.md)
 - [03-11 Lecture: Cordables Activity and Classroom Management](../lessons/kindergarten-justinger-kesys-pum/intro-typing-and-simple-circuits/260311-kindergarten-justinger-cordables-evidence.md)
 - [03-12 Lecture: Game-Based Learning and Problem-Solving](../lessons/grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/260312-grade-4-baris-game-based-learning-evidence.md)

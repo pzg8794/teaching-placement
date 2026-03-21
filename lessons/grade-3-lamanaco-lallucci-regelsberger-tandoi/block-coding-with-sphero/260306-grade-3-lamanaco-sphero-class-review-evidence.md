@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 5
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-06 Robotics Class on Sphero Programming and Subsequent Adult Conversations-transcript.txt](../transcripts/03-06%20Robotics%20Class%20on%20Sphero%20Programming%20and%20Subsequent%20Adult%20Conversations-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260306-grade-3-lamanaco-sphero-class-review.md](../../../transcripts/260306-grade-3-lamanaco-sphero-class-review.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,8 @@ Robot programming through movement, loops, aiming, events, and safe hardware use
 - Challenge path or floor/course setup
 
 ## 🔗 Related Local Materials
-- [Block Coding with Bees materials](./source-materials/23-Block-Coding-with-Bees/23-block-coding-with-bees-notes.md)
 
+- [Lesson packet](./block-coding-with-sphero.md)
 ## 🧠 Evidence Cues
 - `loop` appears in the transcript and likely shaped the lesson moves.
 - `sphero` appears in the transcript and likely shaped the lesson moves.

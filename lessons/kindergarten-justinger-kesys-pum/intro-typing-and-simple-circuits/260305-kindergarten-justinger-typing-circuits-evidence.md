@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 4
 - 👥 **Grade Cue:** Kindergarten canonical home
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-05 Lecture_ Keyboard Typing Skills and Introductory Electricity Circuits with Play-Doh (K–5 Classroom)-transcript.txt](../transcripts/03-05%20Lecture_%20Keyboard%20Typing%20Skills%20and%20Introductory%20Electricity%20Circuits%20with%20Play-Doh%20(K–5%20Classroom)-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260305-kindergarten-justinger-typing-circuits.md](../../../transcripts/260305-kindergarten-justinger-typing-circuits.md)-transcript.txt)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -43,8 +43,8 @@ Hands-on electrical circuit building with batteries, switches, conductors, and b
 - Switch component
 
 ## 🔗 Related Local Materials
-- No direct local lesson packet matched automatically.
 
+- [Lesson packet](./intro-typing-and-simple-circuits.md)
 ## 🧠 Evidence Cues
 - `agent` appears in the transcript and likely shaped the lesson moves.
 - `minecraft` appears in the transcript and likely shaped the lesson moves.

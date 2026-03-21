@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 2
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-03 Lecture_ Sphero Event-Driven Block Coding with Ambient Light Sensors and Flashlight Tag-transcript.txt](../transcripts/03-03%20Lecture_%20Sphero%20Event-Driven%20Block%20Coding%20with%20Ambient%20Light%20Sensors%20and%20Flashlight%20Tag-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260303-grade-4-baris-event-sensors.md](../../../transcripts/260303-grade-4-baris-event-sensors.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,8 @@ Robot programming through movement, loops, aiming, events, and safe hardware use
 - Challenge path or floor/course setup
 
 ## 🔗 Related Local Materials
-- [Block Coding with Bees materials](./source-materials/23-Block-Coding-with-Bees/23-block-coding-with-bees-notes.md)
 
+- [Lesson packet](./event-driven-robot-coding.md)
 ## 🧠 Evidence Cues
 - `minecraft` appears in the transcript and likely shaped the lesson moves.
 - `sphero` appears in the transcript and likely shaped the lesson moves.

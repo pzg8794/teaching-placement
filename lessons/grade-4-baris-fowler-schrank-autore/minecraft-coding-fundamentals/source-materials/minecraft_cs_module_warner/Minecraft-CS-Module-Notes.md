@@ -2,22 +2,12 @@
 
 **Color Code:** 🟢 Lessons
 
-> **Page Type:** Index
-> **Purpose:** One folder for the full Minecraft CS module packet.
+> **Page Type:** Source notes
+> **Purpose:** Quick entry point to the local Minecraft module source files used by the Grade 4 packet.
 > **Audience:** You.
-> **Use This When:** Open the source, exports, or build artifacts for this lesson.
+> **Use This When:** You need the original local source bundle that supports the Minecraft lesson family.
 
 ---
 
 - [LaTeX source](./minecraft_cs_module_warner.tex)
-- [DOCX export](./minecraft_cs_module_warner.docx)
-- [PDF export](./minecraft_cs_module_warner.pdf)
-- Build files:
-  [aux](./minecraft_cs_module_warner.aux),
-  [fdb_latexmk](./minecraft_cs_module_warner.fdb_latexmk),
-  [fls](./minecraft_cs_module_warner.fls),
-  [log](./minecraft_cs_module_warner.log),
-  [out](./minecraft_cs_module_warner.out),
-  [synctex](./minecraft_cs_module_warner.synctex.gz),
-  [toc](./minecraft_cs_module_warner.toc),
-  [xdv](./minecraft_cs_module_warner.xdv)
+- [Compiled PDF](./minecraft_cs_module_warner.pdf)

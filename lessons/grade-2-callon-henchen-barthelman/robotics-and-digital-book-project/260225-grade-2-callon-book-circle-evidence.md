@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 3
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [02-25 Class Review_ Book Creator Assignment and Peace Circle-transcript.txt](../transcripts/02-25%20Class%20Review_%20Book%20Creator%20Assignment%20and%20Peace%20Circle-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260225-grade-2-callon-book-circle.md](../../../transcripts/260225-grade-2-callon-book-circle.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,8 @@ Robot programming through movement, loops, aiming, events, and safe hardware use
 - Challenge path or floor/course setup
 
 ## 🔗 Related Local Materials
-- No direct local lesson packet matched automatically.
 
+- [Lesson packet](./robotics-and-digital-book-project.md)
 ## 🧠 Evidence Cues
 - `robot` appears in the transcript and likely shaped the lesson moves.
 - `book creator` appears in the transcript and likely shaped the lesson moves.

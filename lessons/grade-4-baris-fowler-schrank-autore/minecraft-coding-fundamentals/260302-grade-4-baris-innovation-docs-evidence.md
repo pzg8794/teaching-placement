@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 1
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-02 Lecture_ Invention vs. Innovation, Creative Brainstorming, and Google Docs Workflow-transcript.txt](../transcripts/03-02%20Lecture_%20Invention%20vs.%20Innovation,%20Creative%20Brainstorming,%20and%20Google%20Docs%20Workflow-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260302-grade-4-baris-innovation-docs.md](../../../transcripts/260302-grade-4-baris-innovation-docs.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,9 @@ Digital creation workflow using media tools, publishing steps, and classroom pro
 - Any templates or sample products
 
 ## 🔗 Related Local Materials
-- No direct local lesson packet matched automatically.
 
+- [Lesson packet](./minecraft-coding-fundamentals.md)
+- [minecraft-cs-module-notes.md](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 ## 🧠 Evidence Cues
 - `minecraft` appears in the transcript and likely shaped the lesson moves.
 - `partner` appears in the transcript and likely shaped the lesson moves.

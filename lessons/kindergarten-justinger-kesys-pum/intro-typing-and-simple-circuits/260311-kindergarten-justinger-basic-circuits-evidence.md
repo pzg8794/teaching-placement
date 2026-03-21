@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 3
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-11 Lecture_ Basic Electrical Circuits-transcript.txt](../transcripts/03-11%20Lecture_%20Basic%20Electrical%20Circuits-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260311-kindergarten-justinger-basic-circuits.md](../../../transcripts/260311-kindergarten-justinger-basic-circuits.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -42,8 +42,8 @@ Hands-on electrical circuit building with batteries, switches, conductors, and b
 - Switch component
 
 ## 🔗 Related Local Materials
-- No direct local lesson packet matched automatically.
 
+- [Lesson packet](./intro-typing-and-simple-circuits.md)
 ## 🧠 Evidence Cues
 - `minecraft` appears in the transcript and likely shaped the lesson moves.
 - `battery` appears in the transcript and likely shaped the lesson moves.

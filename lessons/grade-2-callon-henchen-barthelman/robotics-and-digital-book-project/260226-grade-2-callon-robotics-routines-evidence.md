@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 4
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [02-26 Lecture_ Coding Education, Project Management, and Robotics for Young Students-transcript.txt](../transcripts/02-26%20Lecture_%20Coding%20Education,%20Project%20Management,%20and%20Robotics%20for%20Young%20Students-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260226-grade-2-callon-robotics-routines.md](../../../transcripts/260226-grade-2-callon-robotics-routines.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,8 @@ Robot programming through movement, loops, aiming, events, and safe hardware use
 - Challenge path or floor/course setup
 
 ## 🔗 Related Local Materials
-- No direct local lesson packet matched automatically.
 
+- [Lesson packet](./robotics-and-digital-book-project.md)
 ## 🧠 Evidence Cues
 - `minecraft` appears in the transcript and likely shaped the lesson moves.
 - `sphero` appears in the transcript and likely shaped the lesson moves.

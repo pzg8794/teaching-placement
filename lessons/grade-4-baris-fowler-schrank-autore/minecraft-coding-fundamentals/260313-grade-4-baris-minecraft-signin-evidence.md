@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 5
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-13 Lecture_ Minecraft Installation, Sign-in Safety, and Collaborative Team Build Procedures-transcript.txt](../transcripts/03-13%20Lecture_%20Minecraft%20Installation,%20Sign-in%20Safety,%20and%20Collaborative%20Team%20Build%20Procedures-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260313-grade-4-baris-minecraft-signin.md](../../../transcripts/260313-grade-4-baris-minecraft-signin.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,9 @@ Minecraft Education coding workflow, agent commands, and classroom troubleshooti
 - Projected modeling screen
 
 ## 🔗 Related Local Materials
-- [Minecraft CS module materials](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 
+- [Lesson packet](./minecraft-coding-fundamentals.md)
+- [minecraft-cs-module-notes.md](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 ## 🧠 Evidence Cues
 - `minecraft` appears in the transcript and likely shaped the lesson moves.
 - `typing` appears in the transcript and likely shaped the lesson moves.

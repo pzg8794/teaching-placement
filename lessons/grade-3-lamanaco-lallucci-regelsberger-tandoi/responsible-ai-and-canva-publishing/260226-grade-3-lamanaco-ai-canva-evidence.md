@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 4
 - 👥 **Grade Cue:** Grade 3
 - 📍 **Class Match Confidence:** medium
-- ⚪ **Canonical Transcript:** [02-26 Workshop_ Third-Grade Responsible AI, Canva Workflows, and Book-Promotion Projects-transcript.txt](../transcripts/02-26%20Workshop_%20Third-Grade%20Responsible%20AI,%20Canva%20Workflows,%20and%20Book-Promotion%20Projects-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260226-grade-3-lamanaco-ai-canva.md](../../../transcripts/260226-grade-3-lamanaco-ai-canva.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,8 @@ Minecraft Education coding workflow, agent commands, and classroom troubleshooti
 - Projected modeling screen
 
 ## 🔗 Related Local Materials
-- [Minecraft CS module materials](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 
+- [Lesson packet](./responsible-ai-and-canva-publishing.md)
 ## 🧠 Evidence Cues
 - `minecraft` appears in the transcript and likely shaped the lesson moves.
 - `canva` appears in the transcript and likely shaped the lesson moves.

@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 3
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-18 Lecture_ Digital Coloring and Introduction to Robotics-transcript.txt](../transcripts/03-18%20Lecture_%20Digital%20Coloring%20and%20Introduction%20to%20Robotics-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260318-kindergarten-justinger-coloring-robotics.md](../../../transcripts/260318-kindergarten-justinger-coloring-robotics.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,8 @@ Minecraft Education coding workflow, agent commands, and classroom troubleshooti
 - Projected modeling screen
 
 ## 🔗 Related Local Materials
-- [Minecraft CS module materials](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 
+- [Lesson packet](./digital-coloring-and-tool-routines.md)
 ## 🧠 Evidence Cues
 - `minecraft` appears in the transcript and likely shaped the lesson moves.
 - `robot` appears in the transcript and likely shaped the lesson moves.

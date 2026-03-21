@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 2
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-17 Lecture_ Coding Fundamentals & Block One Tutorial-transcript.txt](../transcripts/03-17%20Lecture_%20Coding%20Fundamentals%20&%20Block%20One%20Tutorial-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260317-grade-4-baris-block-one.md](../../../transcripts/260317-grade-4-baris-block-one.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -40,8 +40,9 @@ Introductory AI or machine-learning ideas through guided examples and discussion
 - Interactive platform or teacher model
 
 ## 🔗 Related Local Materials
-- No direct local lesson packet matched automatically.
 
+- [Lesson packet](./minecraft-coding-fundamentals.md)
+- [minecraft-cs-module-notes.md](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 ## 🧠 Evidence Cues
 - `agent` appears in the transcript and likely shaped the lesson moves.
 - `partner` appears in the transcript and likely shaped the lesson moves.

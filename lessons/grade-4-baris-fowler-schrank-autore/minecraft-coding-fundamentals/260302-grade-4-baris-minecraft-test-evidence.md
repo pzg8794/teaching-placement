@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 1
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-02 Class Review_ Minecraft Education Coding Test Lesson and Video Creation Workflow-transcript.txt](../transcripts/03-02%20Class%20Review_%20Minecraft%20Education%20Coding%20Test%20Lesson%20and%20Video%20Creation%20Workflow-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260302-grade-4-baris-minecraft-test.md](../../../transcripts/260302-grade-4-baris-minecraft-test.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,9 @@ Minecraft Education coding workflow, agent commands, and classroom troubleshooti
 - Projected modeling screen
 
 ## 🔗 Related Local Materials
-- [Minecraft CS module materials](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 
+- [Lesson packet](./minecraft-coding-fundamentals.md)
+- [minecraft-cs-module-notes.md](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 ## 🧠 Evidence Cues
 - `agent` appears in the transcript and likely shaped the lesson moves.
 - `minecraft` appears in the transcript and likely shaped the lesson moves.

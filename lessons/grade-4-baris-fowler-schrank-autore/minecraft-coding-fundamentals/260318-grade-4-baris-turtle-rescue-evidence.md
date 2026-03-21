@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 3
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-18 Class Session_ Minecraft Education Coding Challenge – Boss Level Timing, Agent Movement, and Progression to Turtle Rescue-transcript.txt](../transcripts/03-18%20Class%20Session_%20Minecraft%20Education%20Coding%20Challenge%20–%20Boss%20Level%20Timing,%20Agent%20Movement,%20and%20Progression%20to%20Turtle%20Rescue-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260318-grade-4-baris-turtle-rescue.md](../../../transcripts/260318-grade-4-baris-turtle-rescue.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,9 @@ Minecraft Education coding workflow, agent commands, and classroom troubleshooti
 - Projected modeling screen
 
 ## 🔗 Related Local Materials
-- [Minecraft CS module materials](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 
+- [Lesson packet](./minecraft-coding-fundamentals.md)
+- [minecraft-cs-module-notes.md](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 ## 🧠 Evidence Cues
 - `agent` appears in the transcript and likely shaped the lesson moves.
 - `minecraft` appears in the transcript and likely shaped the lesson moves.

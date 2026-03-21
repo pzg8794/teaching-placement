@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 2
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-17 Workshop_ Programming Puzzles & Agent Control-transcript.txt](../transcripts/03-17%20Workshop_%20Programming%20Puzzles%20&%20Agent%20Control-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260317-grade-4-baris-agent-puzzles.md](../../../transcripts/260317-grade-4-baris-agent-puzzles.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -40,8 +40,9 @@ Introductory AI or machine-learning ideas through guided examples and discussion
 - Interactive platform or teacher model
 
 ## 🔗 Related Local Materials
-- [Block Coding with Bees materials](./source-materials/23-Block-Coding-with-Bees/23-block-coding-with-bees-notes.md)
 
+- [Lesson packet](./minecraft-coding-fundamentals.md)
+- [minecraft-cs-module-notes.md](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 ## 🧠 Evidence Cues
 - `agent` appears in the transcript and likely shaped the lesson moves.
 - `typing` appears in the transcript and likely shaped the lesson moves.

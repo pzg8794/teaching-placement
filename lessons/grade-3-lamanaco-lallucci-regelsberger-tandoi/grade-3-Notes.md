@@ -1,31 +1,59 @@
-# 🟩 Grade 3 Lessons Hub
+# 🔵 Grade 3 Lessons
 
 **Color Code:** 🟢 Lessons
 
-> **📌 What This Is:** Grade 3 packets centered on robotics, loops, publishing workflows, and responsible technology use.
-> **🧭 Start Here When:** You know the grade first and want the strongest lesson packet to open next.
-> **👀 Best Use:** Open a lesson packet, read `Quick Scan`, then jump to `Evidence / Proof of Instruction` and `UDL and Inclusion Supports`.
+> **📌 What This Is:** Canonical lesson home for Grade 3.
+> **🧭 Start Here When:** You want the actual lesson folders for this grade, including packet families and workbook-aligned lessons.
 
 ---
 
-## 📍 Start Here
+## 📍 Quick Scan
 
-- 🐝 [Block Coding with Bees](./block-coding-with-bees/block-coding-with-bees.md)  
-  Foundational block-coding and loops lesson, also reusable for Grade 2.
-- 🤖 [Block Coding with Sphero](./block-coding-with-sphero/block-coding-with-sphero.md)  
-  Core CS packet with loops, route planning, and debugging.
-- 🧠 [Responsible AI and Canva Publishing](./responsible-ai-and-canva-publishing/responsible-ai-and-canva-publishing.md)  
-  Impacts of computing and digital artifact design.
+- **Workbook note:** [open workbook note](../../school/teaching-placement-ignite-curriculum-gcsd-25-26-grade-3-notes.md)
+- **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
+- **Class blocks:** Day 3 9:50-10:40 Lamanaco, Day 4 9:50-10:40 Lallucci, Day 5 9:50-10:40 Regelsberger, Day 5 2:15-3:05 Tandoi
+- **Lesson directories:** 35
 
-## 📚 Shared Reference Links
+## 📚 Lesson Directories
 
-- ⚪ [Transcript-derived lessons index](../evidence-notes.md)
-- ⚪ [Source transcripts index](../transcripts/transcripts-notes.md)
-- 📅 [Teaching schedule](../school/spring-2026-teaching-schedule-derek.md)
-- 📏 [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
+- [adding-persuasive-content-project-google-site](adding-persuasive-content-project-google-site/adding-persuasive-content-project-google-site.md)
+- [ai-for-oceans](ai-for-oceans/ai-for-oceans.md)
+- [block-coding-with-bees](block-coding-with-bees/block-coding-with-bees.md)
+- [block-coding-with-sphero](block-coding-with-sphero/block-coding-with-sphero.md)
+- [building-pages-and-adding-content-google-site](building-pages-and-adding-content-google-site/building-pages-and-adding-content-google-site.md)
+- [clickbait-and-kryptonite](clickbait-and-kryptonite/clickbait-and-kryptonite.md)
+- [code-a-square-farming-bots](code-a-square-farming-bots/code-a-square-farming-bots.md)
+- [code-your-own-sports-game](code-your-own-sports-game/code-your-own-sports-game.md)
+- [commonality-cards](commonality-cards/commonality-cards.md)
+- [conductors-vs-insulators](conductors-vs-insulators/conductors-vs-insulators.md)
+- [dream-treehouse](dream-treehouse/dream-treehouse.md)
+- [finalize-and-present-project](finalize-and-present-project/finalize-and-present-project.md)
+- [fire-drill-escape](fire-drill-escape/fire-drill-escape.md)
+- [flex](flex/flex.md)
+- [good-instructions-great-results](good-instructions-great-results/good-instructions-great-results.md)
+- [ice-cream-you-scream](ice-cream-you-scream/ice-cream-you-scream.md)
+- [introducing-choice-boards](introducing-choice-boards/introducing-choice-boards.md)
+- [introduction-to-yellowstone-and-wolves-google-sites](introduction-to-yellowstone-and-wolves-google-sites/introduction-to-yellowstone-and-wolves-google-sites.md)
+- [lunchtime-data](lunchtime-data/lunchtime-data.md)
+- [minecraft-cyber-safe-ai-digging-deeper](minecraft-cyber-safe-ai-digging-deeper/minecraft-cyber-safe-ai-digging-deeper.md)
+- [minecraft-cyber-safe-good-game](minecraft-cyber-safe-good-game/minecraft-cyber-safe-good-game.md)
+- [minecraft-cyber-security-home-sweet-hmmm](minecraft-cyber-security-home-sweet-hmmm/minecraft-cyber-security-home-sweet-hmmm.md)
+- [moving-sphero-farm-bots](moving-sphero-farm-bots/moving-sphero-farm-bots.md)
+- [persuasive-language-and-design-google-site](persuasive-language-and-design-google-site/persuasive-language-and-design-google-site.md)
+- [planning-your-site-project-google-site](planning-your-site-project-google-site/planning-your-site-project-google-site.md)
+- [protecting-your-secret-identity](protecting-your-secret-identity/protecting-your-secret-identity.md)
+- [research-and-note-taking-creating-a-google-site](research-and-note-taking-creating-a-google-site/research-and-note-taking-creating-a-google-site.md)
+- [researching-your-own-topic-creating-a-google-site](researching-your-own-topic-creating-a-google-site/researching-your-own-topic-creating-a-google-site.md)
+- [responsible-ai-and-canva-publishing](responsible-ai-and-canva-publishing/responsible-ai-and-canva-publishing.md)
+- [review-edit-and-share-google-site](review-edit-and-share-google-site/review-edit-and-share-google-site.md)
+- [sculpting-your-first-circuit](sculpting-your-first-circuit/sculpting-your-first-circuit.md)
+- [sphero-maze-navigation](sphero-maze-navigation/sphero-maze-navigation.md)
+- [squishy-circuits-projects](squishy-circuits-projects/squishy-circuits-projects.md)
+- [student-chosen-environmental-topic-project-creating-a-google-site](student-chosen-environmental-topic-project-creating-a-google-site/student-chosen-environmental-topic-project-creating-a-google-site.md)
+- [we-are-makers-castle](we-are-makers-castle/we-are-makers-castle.md)
 
-## ✅ What To Keep Improving
+## 🔗 Shared References
 
-- ✅ Strengthen each packet’s standards alignment with the paired `.tex` and `.bib` files next.
-- ✅ Keep storing real evidence in this lesson folder, not only compiled PDFs.
-- ✅ Treat transcript evidence as the proof spine for what was actually taught.
+- [Lessons hub](../lessons-notes.md)
+- [Lesson outline map](../lesson-outline-notes.md)
+- [Source transcripts index](../../transcripts/transcripts-notes.md)

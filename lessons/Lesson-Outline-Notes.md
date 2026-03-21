@@ -1,112 +1,16 @@
-# 🗺️ Lesson Outline Notes
+# 🗺️ Lesson Outline Map
 
 **Color Code:** 🟢 Lessons
 
-> **📌 What This Is:** Canonical outline of the lesson system for this workspace.
-> **🧭 Start Here When:** You want the full map before moving folders, creating lesson directories, or assigning new transcript material.
-> **👀 Best Use:** Treat this file as the planning skeleton for grade folders and lesson folders so the structure does not have to be rediscovered from raw transcripts every time.
+> **📌 What This Is:** Quick inventory of the grade lesson tree after the workbook-driven lesson expansion.
 
 ---
 
-## 📍 Start Here
+## 📍 Grade Inventory
 
-- [🟢 Lessons hub](./lessons-notes.md)
-- [⚪ Transcript hub](../transcripts/transcripts-notes.md)
-- [⚪ Evidence hub](./evidence-notes.md)
-- [📅 Teaching schedule](../school/spring-2026-teaching-schedule-derek.md)
-
----
-
-## ✅ Canonical Grade Outline
-
-### ⬜ Kindergarten · `kindergarten-justinger-kesys-pum`
-
-- `digital-coloring-and-tool-routines`
-- `intro-typing-and-simple-circuits`
-
-### 🟫 Grade 1 · `grade-1-gargana-polfleit-montgomery`
-
-- `foundational-coding-and-directional-loops`
-- `interactive-word-wall-build`
-- `lego-game-and-conflict-resolution`
-
-### 🟧 Grade 2 · `grade-2-callon-henchen-barthelman`
-
-- `ai-for-oceans-and-robotics`
-- `robotics-and-digital-book-project`
-
-### 🟩 Grade 3 · `grade-3-lamanaco-lallucci-regelsberger-tandoi`
-
-- `block-coding-with-bees`
-- `block-coding-with-sphero`
-- `responsible-ai-and-canva-publishing`
-
-### 🟦 Grade 4 · `grade-4-baris-fowler-schrank-autore`
-
-- `event-driven-robot-coding`
-- `minecraft-coding-fundamentals`
-
-### 🟪 Grade 5 · `grade-5-pickett-mcglashon-pecora`
-
-- `robot-logic-and-conditional-coding`
-- `tinkercad-design-and-revision`
-
----
-
-## 📚 Captured By Transcript Map
-
-These lesson families are already represented in [transcripts-notes.md](../transcripts/transcripts-notes.md) and connected to lesson folders.
-
-- ⬜ Kindergarten
-  - `digital-coloring-and-tool-routines`
-  - `intro-typing-and-simple-circuits`
-- 🟫 Grade 1
-  - `foundational-coding-and-directional-loops`
-  - `interactive-word-wall-build`
-  - `lego-game-and-conflict-resolution`
-- 🟧 Grade 2
-  - `ai-for-oceans-and-robotics`
-  - `robotics-and-digital-book-project`
-- 🟩 Grade 3
-  - `block-coding-with-bees`
-  - `block-coding-with-sphero`
-  - `responsible-ai-and-canva-publishing`
-- 🟦 Grade 4
-  - `event-driven-robot-coding`
-  - `minecraft-coding-fundamentals`
-- 🟪 Grade 5
-  - `robot-logic-and-conditional-coding`
-  - `tinkercad-design-and-revision`
-
----
-
-## ⚠️ Known Gaps Or Misplaced Items
-
-These are the items that prove `transcripts-notes.md` is not yet a full lesson inventory by itself.
-
-- `minecraft_cs_module_warner`
-  - currently nested inside Grade 4 Minecraft source materials
-  - it contains multi-grade source content, including `K-2` and `3-5`
-  - it is source material, not one clean lesson packet
-- some evidence files still carry cross-grade wording inside the document body
-  - example: Grade 5 conditional Sphero still mentions `Grades 4–5`
-  - the filename is now owned; the internal wording still needs cleanup
-
----
-
-## 🧱 Directory Rules
-
-- one canonical lesson folder per lesson family
-- no duplicate copies across grades
-- if a lesson spans multiple grades, pick one canonical grade home and mark the adjacent grade in the lesson notes
-- transcript-derived evidence should live inside the lesson folder it supports
-- source-only material should stay outside grade folders only when it is truly source support and not a finished lesson packet
-
----
-
-## 🛠️ Next Structural Moves
-
-- move `23-Block-Coding-with-Bees` into one grade folder
-- keep a note in that lesson saying it is also reusable for the adjacent grade
-- finish cleaning cross-grade wording inside renamed transcript/evidence `.md` files
-- use this outline before creating any new lesson folder so new work lands in the right grade home the first time
+- **Kindergarten:** 34 lesson directories -> [Kindergarten hub](kindergarten-justinger-kesys-pum/kindergarten-notes.md)
+- **Grade 1:** 32 lesson directories -> [Grade 1 hub](grade-1-gargana-polfleit-montgomery/grade-1-notes.md)
+- **Grade 2:** 34 lesson directories -> [Grade 2 hub](grade-2-callon-henchen-barthelman/grade-2-notes.md)
+- **Grade 3:** 35 lesson directories -> [Grade 3 hub](grade-3-lamanaco-lallucci-regelsberger-tandoi/grade-3-notes.md)
+- **Grade 4:** 31 lesson directories -> [Grade 4 hub](grade-4-baris-fowler-schrank-autore/grade-4-notes.md)
+- **Grade 5:** 35 lesson directories -> [Grade 5 hub](grade-5-pickett-mcglashon-pecora/grade-5-notes.md)

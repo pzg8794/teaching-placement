@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 4
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-12 Workshop_ Minecraft Education Coding Challenge — Agent Pathfinding, Timed Dual Plate Activation, Debugging, and Loops-transcript.txt](../transcripts/03-12%20Workshop_%20Minecraft%20Education%20Coding%20Challenge%20—%20Agent%20Pathfinding,%20Timed%20Dual%20Plate%20Activation,%20Debugging,%20and%20Loops-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260312-grade-4-baris-agent-challenge.md](../../../transcripts/260312-grade-4-baris-agent-challenge.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,9 @@ Minecraft Education coding workflow, agent commands, and classroom troubleshooti
 - Projected modeling screen
 
 ## 🔗 Related Local Materials
-- [Minecraft CS module materials](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 
+- [Lesson packet](./minecraft-coding-fundamentals.md)
+- [minecraft-cs-module-notes.md](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 ## 🧠 Evidence Cues
 - `loop` appears in the transcript and likely shaped the lesson moves.
 - `agent` appears in the transcript and likely shaped the lesson moves.

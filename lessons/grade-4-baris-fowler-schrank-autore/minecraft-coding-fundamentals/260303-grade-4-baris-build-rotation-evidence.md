@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 2
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-03 Class Review_ Hands-on Building, Functional Design, and Event-Driven Coding (Sphero, Code.org, Typing Agent)-transcript.txt](../transcripts/03-03%20Class%20Review_%20Hands-on%20Building,%20Functional%20Design,%20and%20Event-Driven%20Coding%20(Sphero,%20Code.org,%20Typing%20Agent)-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260303-grade-4-baris-build-rotation.md](../../../transcripts/260303-grade-4-baris-build-rotation.md)-transcript.txt)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,9 @@ Robot programming through movement, loops, aiming, events, and safe hardware use
 - Challenge path or floor/course setup
 
 ## 🔗 Related Local Materials
-- No direct local lesson packet matched automatically.
 
+- [Lesson packet](./minecraft-coding-fundamentals.md)
+- [minecraft-cs-module-notes.md](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 ## 🧠 Evidence Cues
 - `agent` appears in the transcript and likely shaped the lesson moves.
 - `minecraft` appears in the transcript and likely shaped the lesson moves.

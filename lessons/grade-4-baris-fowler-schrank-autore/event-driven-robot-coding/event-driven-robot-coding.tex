@@ -1,171 +1,33 @@
+\
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[margin=1in]{geometry}
 \usepackage{hyperref}
 \usepackage{enumitem}
-\hypersetup{colorlinks=true,linkcolor=black,urlcolor=blue,citecolor=blue}
 \title{Event-Driven Robot Coding}
 \author{Piter Garcia}
 \date{March 20, 2026}
 \begin{document}
 \maketitle
-\section*{Packet Use}
-This printable lesson packet is generated from the paired Markdown guide. The Markdown version remains the clickable, neurodivergent-friendly working copy; this PDF carries the same lesson substance in a formal handout format. Evidence claims in this packet are based on transcript-derived lesson notes and the cleaned transcript files in this workspace.
-
 \section*{Quick Scan}
 \begin{itemize}[leftmargin=*]
-\item \textbf{Grade:} Grade 4
-\item \textbf{Grade Hub:} Notes [../grade-4-Notes.md]
-\item \textbf{Schedule Reference:} Spring2026\_TeachingSchedule\_Derek.md [../../school/Spring2026\_TeachingSchedule\_Derek.md]
-\item \textbf{Workbook Sheet:} \texttt{4th} in \texttt{Teaching\_Placement-IGNITE Curriculum\_ GCSD25-26.xlsx}
-\item \textbf{Lesson Focus:} Students use Sphero sensor or event blocks to trigger robot behavior, then debug how input, environment, and code interact.
-\item \textbf{CS Alignment Strength:} Strong CS lesson
-\item \textbf{LaTeX Source:} event-driven-robot-coding.tex [./event-driven-robot-coding.tex]
-\item \textbf{Bib File:} event-driven-robot-coding.bib [./event-driven-robot-coding.bib]
-\item \textbf{Artifacts Folder:} artifacts/ [./artifacts/]
+\item Grade: Grade 4
+\item Packet focus: robot sensors, event-response logic, and debugging input-output behaviors
+\item Class blocks: Day 1 1:15-2:10 Baris, Day 2 1:15-2:10 Fowler, Day 3 1:15-2:10 Schrank, Day 4 1:15-2:10 Autore
+\item Reference file: event-driven-robot-coding.bib
 \end{itemize}
-
-\section*{Lesson Identity}
+\section*{School Planning Goals and Inclusion}
 \begin{itemize}[leftmargin=*]
-\item \textbf{Likely Class Blocks:} Day 1 -- 1:15-2:10 -- Baris, Day 2 -- 1:15-2:10 -- Fowler, Day 3 -- 1:15-2:10 -- Schrank, Day 4 -- 1:15-2:10 -- Autore
-\item \textbf{Main Lesson Family:} Event-Driven Robot Coding
-\item \textbf{Primary Evidence Base:} Transcript-derived notes plus source transcripts from this teaching-placement workspace.
-\item \textbf{Primary External Source Type:} Official curriculum/provider materials.
+\item What is expected: make the CS learning target, proof, and revision path visible.
+\item What we achieved: This packet is grounded in local evidence notes and cleaned transcripts from real teaching sessions.
+\item What needs improvement: clearer proof, sharper assessment, and fewer hidden assumptions in directions.
+\item How to improve: keep one artifact, one observation, and one revision note after reteaching.
+\item Inclusion focus: visual modeling, chunked directions, role clarity, and flexible pacing supports.
 \end{itemize}
-
-\section*{What We Are Teaching}
+\section*{Official References}
 \begin{itemize}[leftmargin=*]
-\item what an event is in block coding
-\item how sensor input changes program behavior
-\item how to predict trigger-result relationships
-\item how to test and debug event-driven code
+\item \url{https://csteachers.org/k12standards/interactive/}
+\item \url{https://dmmedia.sphero.com/email-marketing/Sphero-Edu/SpheroEdu-k12-teacher-resource-guide-v1_updated050818.pdf}
 \end{itemize}
-
-\section*{CS Standards Alignment}
-\begin{itemize}[leftmargin=*]
-\item \textbf{1B-AP-10}: Create programs that include sequences, events, loops, and conditionals. Why it fits here: Students explicitly build around event blocks and sensor-triggered behavior.
-\item \textbf{1B-AP-11}: Decompose problems into smaller, manageable subproblems. Why it fits here: Students isolate trigger, action, and environment as separate pieces of the task.
-\item \textbf{1B-AP-15}: Test and debug a program or algorithm to ensure it runs as intended. Why it fits here: Students must revise code and setup when the robot does not react correctly.
-\end{itemize}
-
-\section*{NYS / Local Curriculum Alignment}
-\begin{itemize}[leftmargin=*]
-\item Aligned to the local Grade 4 robotics progression in the workbook and schedule.
-\item Supports New York-facing technology goals through explicit computational problem solving, testing, and revision.
-\item This lesson is a strong CS lesson because event-driven logic is the core content, not a side feature.
-\end{itemize}
-
-\section*{Lesson Content and Concepts}
-\begin{itemize}[leftmargin=*]
-\item event
-\item sensor
-\item input
-\item output
-\item debugging
-\end{itemize}
-
-\section*{Evidence / Proof of Instruction}
-\begin{itemize}[leftmargin=*]
-\item \textbf{Transcript-derived note:} 260303 Grade 4 Baris Event Sensors [../../transcript-derived-lessons/260303-grade-4-baris-event-sensors.md] The note directly names ambient light sensors and flashlight-triggered coding.
-\item \textbf{Transcript-derived note:} 260312 Grade 4 Baris Agent Challenge [../../transcript-derived-lessons/260312-grade-4-baris-agent-challenge.md] Later challenge work shows students applying similar event/debug logic in a more complex environment.
-\item \textbf{Source transcript:} 260303 Grade 4 Baris Event Sensors [../../transcripts/260303-grade-4-baris-event-sensors.md] The source transcript records discussion of events, sensors, and New York-required learning in this kind of class.
-\item \textbf{Likely student proof:} Working event-triggered programs, failed attempts with documented fixes, and sensor-response demonstrations all count as proof.
-\end{itemize}
-
-\section*{Assessment Evidence}
-\begin{itemize}[leftmargin=*]
-\item Student can explain what event causes the robot action.
-\item Student can build or modify an event-driven block stack.
-\item Student can identify whether failure came from code, environment, or sensor setup.
-\end{itemize}
-
-\section*{UDL and Inclusion Supports}
-\subsection*{Multiple Representation}
-\begin{itemize}[leftmargin=*]
-\item Demonstrate the event with a visible physical trigger before showing the block code.
-\item Keep trigger and response language paired on a chart: when this happens, do this.
-\item Use one predictable test area for all students first.
-\end{itemize}
-
-\subsection*{Multiple Action / Expression}
-\begin{itemize}[leftmargin=*]
-\item Allow students to predict orally, with arrows, or in block form before launch.
-\item Use pair roles such as flashlight/controller and coder.
-\item Provide a debug checklist with three questions: trigger, code, environment.
-\end{itemize}
-
-\subsection*{Multiple Engagement}
-\begin{itemize}[leftmargin=*]
-\item Use immediate robot response as motivation for repeated testing.
-\item Frame unexpected behavior as a clue rather than failure.
-\item Keep challenges short enough for several iteration cycles.
-\end{itemize}
-
-\section*{How We Are Already Making It Inclusive}
-\begin{itemize}[leftmargin=*]
-\item The transcript evidence shows the class was already being taught as explicit CS, not just robot play.
-\item Physical triggers and sensor-based tasks give concrete access to abstract event language.
-\item Teacher framing connected the work to required learning, which strengthens legitimacy and purpose.
-\end{itemize}
-
-\section*{How to Improve Inclusion Next Time}
-\begin{itemize}[leftmargin=*]
-\item Add event-response anchor cards at every table.
-\item Prepare one low-floor sensor challenge and one stretch challenge.
-\item Capture short video clips of working triggers in \texttt{artifacts/} for proof and reteaching.
-\item Add a reflection prompt: what changed when the environment changed?
-\end{itemize}
-
-\section*{Materials and Setup}
-\begin{itemize}[leftmargin=*]
-\item Sphero robots with sensor features
-\item Student devices
-\item Flashlights or trigger objects
-\item Open test space
-\item Debug checklist
-\end{itemize}
-
-\section*{Teacher Moves / Script / Routines}
-\begin{itemize}[leftmargin=*]
-\item Physically demonstrate the event before naming the block.
-\item Ask students to predict first, then launch.
-\item Stop to compare one working event stack and one non-working stack.
-\item Close by having students name the trigger and the robot response.
-\end{itemize}
-
-\section*{Common Errors and Debugging}
-\begin{itemize}[leftmargin=*]
-\item Students may confuse repeated motion with event-driven behavior.
-\item Sensor placement or lighting conditions can cause inconsistent results.
-\item Students may change too many things at once while debugging.
-\end{itemize}
-
-\section*{Extensions and Simplifications}
-\begin{itemize}[leftmargin=*]
-\item Extension: compare two different event triggers for the same robot response.
-\item Simplification: use one event and one response only.
-\item Extension: add a condition or loop after the event logic works.
-\end{itemize}
-
-\section*{Related Local Materials}
-\begin{itemize}[leftmargin=*]
-\item No direct local lesson packet linked yet.
-\end{itemize}
-
-\section*{Artifacts Checklist}
-\begin{itemize}[leftmargin=*]
-\item Compiled lesson PDF in \texttt{artifacts/}
-\item At least one screenshot, student example, or setup photo
-\item One short assessment or observation record
-\item Updated standards/source bibliography once the \texttt{.bib} file is revised
-\item Any teacher reflection or revision notes after reteaching
-\end{itemize}
-
-\section*{Selected Official Sources}
-Selected official sources that informed this packet are listed below.
-ocite{*}
-
-\bibliographystyle{plain}
-\bibliography{event-driven-robot-coding}
 \end{document}

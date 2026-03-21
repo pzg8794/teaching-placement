@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 2
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-03 Lecture_ Minecraft Education Integration, Hosting, and Standards-Aligned Lessons-transcript.txt](../transcripts/03-03%20Lecture_%20Minecraft%20Education%20Integration,%20Hosting,%20and%20Standards-Aligned%20Lessons-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260303-grade-4-baris-minecraft-integration.md](../../../transcripts/260303-grade-4-baris-minecraft-integration.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,9 @@ Minecraft Education coding workflow, agent commands, and classroom troubleshooti
 - Projected modeling screen
 
 ## 🔗 Related Local Materials
-- [Minecraft CS module materials](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 
+- [Lesson packet](./minecraft-coding-fundamentals.md)
+- [minecraft-cs-module-notes.md](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 ## 🧠 Evidence Cues
 - `loop` appears in the transcript and likely shaped the lesson moves.
 - `agent` appears in the transcript and likely shaped the lesson moves.

@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 5
 - 👥 **Grade Cue:** Grade 5 canonical home
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [02-27 Lecture_ Conditional Coding with Sphero Robots for Grades 4–5-transcript.txt](../transcripts/02-27%20Lecture_%20Conditional%20Coding%20with%20Sphero%20Robots%20for%20Grades%204–5-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260227-grade-5-pickett-conditional-sphero.md](../../../transcripts/260227-grade-5-pickett-conditional-sphero.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -42,8 +42,8 @@ Robot programming through movement, loops, aiming, events, and safe hardware use
 - Challenge path or floor/course setup
 
 ## 🔗 Related Local Materials
-- No direct local lesson packet matched automatically.
 
+- [Lesson packet](./robot-logic-and-conditional-coding.md)
 ## 🧠 Evidence Cues
 - `sphero` appears in the transcript and likely shaped the lesson moves.
 - `robot` appears in the transcript and likely shaped the lesson moves.

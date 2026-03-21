@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 4
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-05 Workshop_ Digital Project and Video Book Recommendations-transcript.txt](../transcripts/03-05%20Workshop_%20Digital%20Project%20and%20Video%20Book%20Recommendations-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260305-grade-2-callon-book-recommendations.md](../../../transcripts/260305-grade-2-callon-book-recommendations.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,8 @@ Digital creation workflow using media tools, publishing steps, and classroom pro
 - Any templates or sample products
 
 ## 🔗 Related Local Materials
-- No direct local lesson packet matched automatically.
 
+- [Lesson packet](./robotics-and-digital-book-project.md)
 ## 🧠 Evidence Cues
 - `canva` appears in the transcript and likely shaped the lesson moves.
 

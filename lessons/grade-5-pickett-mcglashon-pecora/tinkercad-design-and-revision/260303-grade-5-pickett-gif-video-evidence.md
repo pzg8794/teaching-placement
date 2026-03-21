@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 2
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-03 Class Session_ Chromebook Camera, GIF Creation, TikTok-Style Videos, and Behavior Management-transcript.txt](../transcripts/03-03%20Class%20Session_%20Chromebook%20Camera,%20GIF%20Creation,%20TikTok-Style%20Videos,%20and%20Behavior%20Management-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260303-grade-5-pickett-gif-video.md](../../../transcripts/260303-grade-5-pickett-gif-video.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,8 @@ Digital creation workflow using media tools, publishing steps, and classroom pro
 - Any templates or sample products
 
 ## 🔗 Related Local Materials
-- No direct local lesson packet matched automatically.
 
+- [Lesson packet](./tinkercad-design-and-revision.md)
 ## 🧠 Evidence Cues
 - `agent` appears in the transcript and likely shaped the lesson moves.
 - `typing` appears in the transcript and likely shaped the lesson moves.

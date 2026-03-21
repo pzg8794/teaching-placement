@@ -1,31 +1,58 @@
-# 🟧 Grade 2 Lessons Hub
+# 🟢 Grade 2 Lessons
 
 **Color Code:** 🟢 Lessons
 
-> **📌 What This Is:** Grade 2 packets combining AI, robotics, and digital explanation work.
-> **🧭 Start Here When:** You know the grade first and want the strongest lesson packet to open next.
-> **👀 Best Use:** Open a lesson packet, read `Quick Scan`, then jump to `Evidence / Proof of Instruction` and `UDL and Inclusion Supports`.
+> **📌 What This Is:** Canonical lesson home for Grade 2.
+> **🧭 Start Here When:** You want the actual lesson folders for this grade, including packet families and workbook-aligned lessons.
 
 ---
 
-## 📍 Start Here
+## 📍 Quick Scan
 
-- 🌊 [AI for Oceans and Robotics](./ai-for-oceans-and-robotics/ai-for-oceans-and-robotics.md)  
-  Strong CS packet with data, sorting, and machine-learning ideas.
-- 🐝 [Block Coding with Bees](../grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-bees/block-coding-with-bees.md)  
-  Canonical home is Grade 3, but the lesson itself is built for Grades 2-3.
-- 📘 [Robotics and Digital Book Project](./robotics-and-digital-book-project/robotics-and-digital-book-project.md)  
-  Robotics plus digital storytelling and documentation.
+- **Workbook note:** [open workbook note](../../school/teaching-placement-ignite-curriculum-gcsd-25-26-grade-2-notes.md)
+- **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
+- **Class blocks:** Day 1 10:45-11:35 Callon, Day 1 2:15-3:05 Henchen, Day 4 10:45-11:35 Barthelman
+- **Lesson directories:** 34
 
-## 📚 Shared Reference Links
+## 📚 Lesson Directories
 
-- ⚪ [Transcript-derived lessons index](../evidence-notes.md)
-- ⚪ [Source transcripts index](../transcripts/transcripts-notes.md)
-- 📅 [Teaching schedule](../school/spring-2026-teaching-schedule-derek.md)
-- 📏 [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
+- [ai-for-oceans-and-robotics](ai-for-oceans-and-robotics/ai-for-oceans-and-robotics.md)
+- [block-coding-with-bees-intro-block-coding-and-loops](block-coding-with-bees-intro-block-coding-and-loops/block-coding-with-bees-intro-block-coding-and-loops.md)
+- [book-creator-day-1](book-creator-day-1/book-creator-day-1.md)
+- [book-creator-day-2](book-creator-day-2/book-creator-day-2.md)
+- [coding-review-and-explore](coding-review-and-explore/coding-review-and-explore.md)
+- [coding-rotation-hour-of-code-course-2-debugging](coding-rotation-hour-of-code-course-2-debugging/coding-rotation-hour-of-code-course-2-debugging.md)
+- [explain-6th-special-routine-structure-getting-to-know-you](explain-6th-special-routine-structure-getting-to-know-you/explain-6th-special-routine-structure-getting-to-know-you.md)
+- [flex-day-complete-previous-assignments-option-stem-wheels-challenges-les](flex-day-complete-previous-assignments-option-stem-wheels-challenges-les/flex-day-complete-previous-assignments-option-stem-wheels-challenges-les.md)
+- [getting-around-town-day-1](getting-around-town-day-1/getting-around-town-day-1.md)
+- [getting-around-town-day-2](getting-around-town-day-2/getting-around-town-day-2.md)
+- [google-slides-monopoly-day-1](google-slides-monopoly-day-1/google-slides-monopoly-day-1.md)
+- [google-slides-monopoly-day-2](google-slides-monopoly-day-2/google-slides-monopoly-day-2.md)
+- [grade-2-day-1-community-project](grade-2-day-1-community-project/grade-2-day-1-community-project.md)
+- [grade-2-day-2-community-project](grade-2-day-2-community-project/grade-2-day-2-community-project.md)
+- [grade-2-day-3-community-project](grade-2-day-3-community-project/grade-2-day-3-community-project.md)
+- [grade-2-day-4-community-project](grade-2-day-4-community-project/grade-2-day-4-community-project.md)
+- [hour-of-code-assign-course-2-lesson-3-sequencing](hour-of-code-assign-course-2-lesson-3-sequencing/hour-of-code-assign-course-2-lesson-3-sequencing.md)
+- [hour-of-code-assign-course-2-lesson-6-loops](hour-of-code-assign-course-2-lesson-6-loops/hour-of-code-assign-course-2-lesson-6-loops.md)
+- [indi-giving-directions-and-transition-word](indi-giving-directions-and-transition-word/indi-giving-directions-and-transition-word.md)
+- [indi-inputs-and-outputs](indi-inputs-and-outputs/indi-inputs-and-outputs.md)
+- [intro-to-coding](intro-to-coding/intro-to-coding.md)
+- [introducing-choice-boards](introducing-choice-boards/introducing-choice-boards.md)
+- [jobs-and-skills-in-computer-science](jobs-and-skills-in-computer-science/jobs-and-skills-in-computer-science.md)
+- [lesson-on-engineering-and-design-process-day-1-famous-landmarks-pebble-g](lesson-on-engineering-and-design-process-day-1-famous-landmarks-pebble-g/lesson-on-engineering-and-design-process-day-1-famous-landmarks-pebble-g.md)
+- [lesson-on-engineering-and-design-process-day-2](lesson-on-engineering-and-design-process-day-2/lesson-on-engineering-and-design-process-day-2.md)
+- [robotics-and-digital-book-project](robotics-and-digital-book-project/robotics-and-digital-book-project.md)
+- [tech-troubleshooting-digital-literacy-and-system-design](tech-troubleshooting-digital-literacy-and-system-design/tech-troubleshooting-digital-literacy-and-system-design.md)
+- [tech-troubleshooting-team-creating-a-troubleshooting-guide-in-google-sli](tech-troubleshooting-team-creating-a-troubleshooting-guide-in-google-sli/tech-troubleshooting-team-creating-a-troubleshooting-guide-in-google-sli.md)
+- [tech-troubleshooting-team-finalizing-and-sharing-out-product](tech-troubleshooting-team-finalizing-and-sharing-out-product/tech-troubleshooting-team-finalizing-and-sharing-out-product.md)
+- [tech-troubleshooting-team-identifying-computer-issues](tech-troubleshooting-team-identifying-computer-issues/tech-troubleshooting-team-identifying-computer-issues.md)
+- [tech-troubleshooting-team-solving-chromebook-issues](tech-troubleshooting-team-solving-chromebook-issues/tech-troubleshooting-team-solving-chromebook-issues.md)
+- [technology-changed-the-world](technology-changed-the-world/technology-changed-the-world.md)
+- [what-is-an-architect-engineer-and-design-process-quick-bridge-design](what-is-an-architect-engineer-and-design-process-quick-bridge-design/what-is-an-architect-engineer-and-design-process-quick-bridge-design.md)
+- [what-is-coding](what-is-coding/what-is-coding.md)
 
-## ✅ What To Keep Improving
+## 🔗 Shared References
 
-- ✅ Strengthen each packet’s standards alignment with the paired `.tex` and `.bib` files next.
-- ✅ Keep storing real evidence in this lesson folder, not only compiled PDFs.
-- ✅ Treat transcript evidence as the proof spine for what was actually taught.
+- [Lessons hub](../lessons-notes.md)
+- [Lesson outline map](../lesson-outline-notes.md)
+- [Source transcripts index](../../transcripts/transcripts-notes.md)

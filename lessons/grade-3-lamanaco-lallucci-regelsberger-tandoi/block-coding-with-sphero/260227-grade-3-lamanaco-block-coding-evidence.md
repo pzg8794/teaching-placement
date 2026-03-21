@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 5
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [02-27 Lecture_ Sphero Robot Block-Based Coding-transcript.txt](../transcripts/02-27%20Lecture_%20Sphero%20Robot%20Block-Based%20Coding-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260227-grade-3-lamanaco-block-coding.md](../../../transcripts/260227-grade-3-lamanaco-block-coding.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,8 @@ Robot programming through movement, loops, aiming, events, and safe hardware use
 - Challenge path or floor/course setup
 
 ## 🔗 Related Local Materials
-- No direct local lesson packet matched automatically.
 
+- [Lesson packet](./block-coding-with-sphero.md)
 ## 🧠 Evidence Cues
 - `sphero` appears in the transcript and likely shaped the lesson moves.
 - `robot` appears in the transcript and likely shaped the lesson moves.

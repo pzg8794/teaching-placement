@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 3
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [02-25 Lecture_ Robotics Project with Sphero Indy and Book Creator-transcript.txt](../transcripts/02-25%20Lecture_%20Robotics%20Project%20with%20Sphero%20Indy%20and%20Book%20Creator-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260225-grade-2-callon-sphero-book.md](../../../transcripts/260225-grade-2-callon-sphero-book.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,8 @@ Minecraft Education coding workflow, agent commands, and classroom troubleshooti
 - Projected modeling screen
 
 ## 🔗 Related Local Materials
-- No direct local lesson packet matched automatically.
 
+- [Lesson packet](./robotics-and-digital-book-project.md)
 ## 🧠 Evidence Cues
 - `minecraft` appears in the transcript and likely shaped the lesson moves.
 - `sphero` appears in the transcript and likely shaped the lesson moves.

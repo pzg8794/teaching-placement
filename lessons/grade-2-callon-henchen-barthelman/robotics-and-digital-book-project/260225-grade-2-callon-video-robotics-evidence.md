@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 3
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [02-25 Lecture_ Video Assignment and Robotics-transcript.txt](../transcripts/02-25%20Lecture_%20Video%20Assignment%20and%20Robotics-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260225-grade-2-callon-video-robotics.md](../../../transcripts/260225-grade-2-callon-video-robotics.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,8 @@ Minecraft Education coding workflow, agent commands, and classroom troubleshooti
 - Projected modeling screen
 
 ## 🔗 Related Local Materials
-- [Minecraft CS module materials](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 
+- [Lesson packet](./robotics-and-digital-book-project.md)
 ## 🧠 Evidence Cues
 - `loop` appears in the transcript and likely shaped the lesson moves.
 - `debug` appears in the transcript and likely shaped the lesson moves.

@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 4
 - 👥 **Grade Cue:** Kindergarten
 - 📍 **Class Match Confidence:** medium
-- ⚪ **Canonical Transcript:** [03-05 Lecture Summary_ Elementary Circuit Activity Planning and Kindergarten Typing Session-transcript.txt](../transcripts/03-05%20Lecture%20Summary_%20Elementary%20Circuit%20Activity%20Planning%20and%20Kindergarten%20Typing%20Session-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260305-kindergarten-justinger-circuits-summary.md](../../../transcripts/260305-kindergarten-justinger-circuits-summary.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,8 @@ Robot programming through movement, loops, aiming, events, and safe hardware use
 - Challenge path or floor/course setup
 
 ## 🔗 Related Local Materials
-- No direct local lesson packet matched automatically.
 
+- [Lesson packet](./intro-typing-and-simple-circuits.md)
 ## 🧠 Evidence Cues
 - `agent` appears in the transcript and likely shaped the lesson moves.
 - `robot` appears in the transcript and likely shaped the lesson moves.

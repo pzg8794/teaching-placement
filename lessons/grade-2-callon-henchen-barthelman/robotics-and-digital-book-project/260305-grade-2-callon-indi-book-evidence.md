@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 4
 - 👥 **Grade Cue:** Grade 2
 - 📍 **Class Match Confidence:** medium
-- ⚪ **Canonical Transcript:** [03-05 Lecture_ Second-Grade Robotics and Digital Book Project with Book Creator and Sphero Indi-transcript.txt](../transcripts/03-05%20Lecture_%20Second-Grade%20Robotics%20and%20Digital%20Book%20Project%20with%20Book%20Creator%20and%20Sphero%20Indi-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260305-grade-2-callon-indi-book.md](../../../transcripts/260305-grade-2-callon-indi-book.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,8 @@ Robot programming through movement, loops, aiming, events, and safe hardware use
 - Challenge path or floor/course setup
 
 ## 🔗 Related Local Materials
-- No direct local lesson packet matched automatically.
 
+- [Lesson packet](./robotics-and-digital-book-project.md)
 ## 🧠 Evidence Cues
 - `sphero` appears in the transcript and likely shaped the lesson moves.
 - `robot` appears in the transcript and likely shaped the lesson moves.

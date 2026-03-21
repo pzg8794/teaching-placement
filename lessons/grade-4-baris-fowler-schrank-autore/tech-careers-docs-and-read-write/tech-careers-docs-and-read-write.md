@@ -1,0 +1,53 @@
+# 🟣 Tech Careers, Docs, & Read Write
+
+**Color Code:** 🟢 Lessons
+
+> **📌 What This Is:** Workbook-backed lesson packet for a real IGNITE lesson under this grade.
+> **🧭 Start Here When:** You need the lesson expectation, local evidence links, official references, and next-step improvement moves in one place.
+> **🎯 Main Goal:** Use the school planning goals plus inclusion to document what this lesson is supposed to do, what evidence exists, and what needs to be improved next.
+
+---
+
+## ⚡ Quick Scan
+
+- **Grade:** Grade 4
+- **Grade hub:** [open grade hub](../grade-4-notes.md)
+- **Workbook note:** [open workbook note](../../../school/teaching-placement-ignite-curriculum-gcsd-25-26-grade-4-notes.md)
+- **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
+- **Workbook sessions:** `Session 13`
+- **Months:** December
+- **Class blocks:** Day 1 `1:15-2:10` Baris, Day 2 `1:15-2:10` Fowler, Day 3 `1:15-2:10` Schrank, Day 4 `1:15-2:10` Autore
+- **LaTeX source:** [tech-careers-docs-and-read-write.tex](./tech-careers-docs-and-read-write.tex)
+- **Bib file:** [tech-careers-docs-and-read-write.bib](./tech-careers-docs-and-read-write.bib)
+- **Learning targets:** - Summarize an article about a job involving computer science. | - Explore how to use Read & Write for Google Chrome as a learning aid. | - Utilize a variety of Google Docs features to create, revise, and share your article summary. | - Compare & evaluate the software used. | - Suggest ways to improve the usability of a software program.
+- **Special education considerations:** No grade-sheet note captured for this lesson.
+- **Cross-curricular context:** 4 - ARC: Animal Adaptations (Informational) | 9 Weeks | 4 - Science: Riding the Waves (Mid-Oct. - Mid-Nov.) | 4- Math: Multi Digit Operations and Measurement: Multiplication, Division, Perimeter, and Area | (Nov 28 - Jan 13)
+
+## 🔗 Transcript and Local Evidence
+
+- **Evidence note:** [260302-grade-4-baris-innovation-docs-evidence.md](../minecraft-coding-fundamentals/260302-grade-4-baris-innovation-docs-evidence.md)
+- **Transcript:** [260302-grade-4-baris-innovation-docs.md](../../../transcripts/260302-grade-4-baris-innovation-docs.md)
+
+## 🌐 Official Lesson / Reference
+
+- [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
+
+## 🛠️ Materials and Teaching Moves
+
+- Begin by naming the lesson purpose and the success condition in plain language.
+- Model the first step before independent or partner work starts.
+- Keep one visible checklist, anchor chart, or projected example available throughout the lesson.
+- Pause once mid-lesson for a quick debug, reflection, or reset point.
+- Close with one short proof task: explain, show, or save what was completed.
+
+## ✅ Assessment and Proof
+
+- Student completes the core task or an accessible version of it.
+- Student can explain at least one step, pattern, choice, or fix.
+- Teacher captures one proof item: screenshot, observation note, exit response, or student artifact.
+
+## 📌 Next Revision Moves
+
+- Add stronger transcript evidence when a direct class recording exists.
+- Save one student example in this lesson folder after reteaching.
+- Tighten the alignment between the workbook target and the actual product students create.

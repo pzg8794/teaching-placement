@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 3
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-04 Class Session_ Tinkercad Basics via Google Classroom — Shape Placement, Planes, Grouping, and Hole Creation-transcript.txt](../transcripts/03-04%20Class%20Session_%20Tinkercad%20Basics%20via%20Google%20Classroom%20—%20Shape%20Placement,%20Planes,%20Grouping,%20and%20Hole%20Creation-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260304-grade-5-pickett-tinkercad.md](../../../transcripts/260304-grade-5-pickett-tinkercad.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,8 @@ Minecraft Education coding workflow, agent commands, and classroom troubleshooti
 - Projected modeling screen
 
 ## 🔗 Related Local Materials
-- No direct local lesson packet matched automatically.
 
+- [Lesson packet](./tinkercad-design-and-revision.md)
 ## 🧠 Evidence Cues
 - `minecraft` appears in the transcript and likely shaped the lesson moves.
 - `robot` appears in the transcript and likely shaped the lesson moves.

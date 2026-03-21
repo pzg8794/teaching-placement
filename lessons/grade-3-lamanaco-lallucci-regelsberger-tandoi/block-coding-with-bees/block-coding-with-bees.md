@@ -1,31 +1,62 @@
-# 🐝 Block Coding with Bees
+# 🔵 Block Coding with Bees
 
 **Color Code:** 🟢 Lessons
 
-> **Page Type:** Lesson plan
-> **Purpose:** Lesson design and teaching materials.
-> **Audience:** You.
-> **Use This When:** Teach, revise, or reference a lesson.
+> **📌 What This Is:** Canonical lesson-family packet for this recurring placement lesson.
+> **🧭 Start Here When:** You want the teaching goal, proof trail, official source references, and revision notes in one place.
+> **🎯 Main Goal:** Use school expectations, transcript evidence, and inclusive teaching moves to keep this lesson teachable, documentable, and improvable.
 
 ---
 
-- `📍 Canonical Grade Home:` Grade 3
-- `🔁 Also Reusable For:` Grade 2
+## ⚡ Quick Scan
 
+- **Grade:** Grade 3
+- **Grade hub:** [open grade hub](../grade-3-notes.md)
+- **Workbook note:** [open workbook note](../../../school/teaching-placement-ignite-curriculum-gcsd-25-26-grade-3-notes.md)
+- **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
+- **Packet focus:** block coding, loops, and constraint-based planning in unplugged group tasks
+- **LaTeX source:** [block-coding-with-bees.tex](./block-coding-with-bees.tex)
+- **Bib file:** [block-coding-with-bees.bib](./block-coding-with-bees.bib)
+- **Compiled PDF:** [block-coding-with-bees.pdf](./block-coding-with-bees.pdf)
+- **Also reusable for:** Grade 2
 
-| Block Coding with Bees |  |
-| :---: | :---- |
-| **Pillar** | Computational Thinking |
-| **Grade** | 2-3 |
-| **Essential Questions**  | How can loops and block coding be used to simplify an algorithm? What is block coding?  How does block coding work? What is a loop? |
-| **Learning Targets (Standards)**  | I can decompose a problem into smaller steps, in multiple ways (2-3.CT.4) I can identify the essential information needed to get the Bee to the hive. (2-3.CT.5) I can code using fixed and changing pieces of information. (2-3.CT.7) I can document my plan to get the bee to the hive using block-coding (2-3.CT.10) |
-| **CASEL Competencies/  SEL Standards**  | Habit 2: Begin with the End in Mind Set a short-term goal and begin working towards it (1c.2a) Identify steps in reaching the goal (1c.2b) Habit 5: Seek First to Understand, then Be Understood Identify verbal, physical, and situational cues that indicate how others may feel (2A.2a) Communicate perceived understanding of the expressed feelings and perspectives of others (2A.2b) |
-| **Criteria**  | Code the bee to get it from its starting point to the beehive.  Use block coding to communicate the bee’s route to others. |
-| **Constraints**  | The bee must pollinate all of the flowers The bee must avoid the pesticide Use at least 1 loop in your code |
-| **Group Size** | 2-3 |
-| **Materials**  | [Lesson slides](https://docs.google.com/presentation/d/1G4IpqZIOp2TA8rVbL_0ee6OcGJEQgzUFjs5EIqG4TUI/edit?usp=drive_link) Scissors Pencils 1 set per group of each of the following: Grid (large poster floor grid or painter’s tape grid) Arrow cards from previous floor coding lessons [Grid Image Cards](https://drive.google.com/file/d/1ClL1QXeXpdP8ZqEM5PqSFkxkPQmzM-Ar/view?usp=drive_link) [Coding Blocks](https://drive.google.com/file/d/1CcwKTvvuaAUUFdJQmUwmJLqmrSo3At6b/view?usp=drive_link) |
-| **Lesson Structure** |  |
-| **Ignite Thinking 10 mins**  | Show students images of bees Image 1: Bee pollinating a flower Image 2: Danger of pesticides Ask students what they notice and know about these pictures? Tell students that today, they are going to use their coding knowledge to help the bees navigate through an ecosystem full of flowers and pesticides.  Review: Learning targets |
-| **Work Time 30-35 mins**  | Task 1: Arrow Coding Review (\~5-7 minutes) Have students set-up their floor grids to match the image on the smartboard. Students work in their groups, using arrow cards to get the bee to the hive (keeping in mind constraints). Introducing Block Coding (\~ 5 minutes) Today we are going to learn about another type of coding called block coding. Describe block coding. How often did you have a step/arrow repeat? This is called a loop. Review essential questions for today and vocabulary terms. Task 2: Turn Arrow Coding into Block Coding (\~5 minutes) Whole-group: Model changing our arrow codes into blocks with loops. Introduce Run and End commands. Task 3: Block Coding (\~15-20 minutes) Students set-up their floor grids to match the image on the smartboard.  Students work in their groups, using block coding to get the bee to the hive. If time, have groups switch places and run each other's program to see if it works or if there are any bugs.  |
-| **Look Fors/ Document**  | Students using talking points/ actively listening to each other, taking turns, hearing other perspectives. Groups that handle conflict well. Examples of programs using block coding accurately or with bugs that need to be fixed.  |
-| **Reflection Time/ Possible Questions 10 mins (Use Look Fors/ Documentation as part of reflection discussion)**  | How did you feel about block coding? What went well in your group? How did you make sure that everyone’s perspectives were heard in your group? Anything from the look-fors |
+## 🎯 School Planning Goals + Inclusion
+
+- **What is expected:** The lesson should make the CS thinking visible, keep students producing an observable task, and make teacher moves explicit enough to revisit or reteach.
+- **What we achieved:** This packet is currently workbook-backed and should be enriched with classroom evidence as it becomes available.
+- **What needs improvement:** Save clearer proof of student products, keep the assessment move sharper, and reduce hidden assumptions in directions.
+- **How to improve:** Add one student artifact or observation note after each reteach and tighten the success criteria at the top of the packet.
+- **Inclusion focus:** Use chunked steps, visual modeling, role clarity, repeated routines, and flexible entry points so the lesson is usable for students who need more structure, language support, or pacing support.
+
+## 🔗 Transcript and Local Evidence
+
+- No in-folder evidence note is attached yet.
+- No cleaned transcript is linked yet for this packet.
+
+## 🧩 Local Source Materials
+
+- [block-coding-with-bees-notes.md](./block-coding-with-bees-notes.md)
+
+## 🌐 Official Lesson / Reference
+
+- [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
+- [Code.org Elementary School Curriculum](https://code.org/curriculum/elementary-school)
+
+## 🛠️ Teaching Moves
+
+- Open with a short model that names the lesson focus: block coding, loops, and constraint-based planning in unplugged group tasks.
+- Keep one visible success criterion or checklist posted during work time.
+- Build in one stop-and-check moment for debugging, peer talk, or reset.
+- End with one observable proof move: explain, submit, save, demonstrate, or share.
+
+## ✅ Assessment and Proof
+
+- Students produce a visible action, artifact, or explanation tied to the lesson goal.
+- Teacher records one note, screenshot, or observation that can be reused during revision.
+- The packet keeps links to both the evidence summary and the fuller transcript when those exist.
+
+## 📌 Next Revision Moves
+
+- Pull exact teacher language or student misconceptions from the linked evidence notes into the next revision.
+- Save one reusable student sample in this folder if the lesson is taught again.
+- Strengthen the packet only with changes that make reteaching easier, not more cluttered.

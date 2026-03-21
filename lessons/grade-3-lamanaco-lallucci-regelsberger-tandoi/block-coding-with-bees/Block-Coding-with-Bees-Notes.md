@@ -9,8 +9,6 @@
 
 ---
 
-- [Lesson notes](./block-coding-with-bees.md)
-- [LaTeX source](./block-coding-with-bees.tex)
-- [PDF export](./block-coding-with-bees.pdf)
+- [Lesson notes](./block-coding-with-bees.pdf)
 - `📍 Canonical Grade Home:` Grade 3
 - `🔁 Also Fits:` Grade 2

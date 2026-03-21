@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 4
 - 👥 **Grade Cue:** Grade 2
 - 📍 **Class Match Confidence:** medium
-- ⚪ **Canonical Transcript:** [02-12 Lecture_ Code.org Login and Intro to AI Machine Learning for Second Grade-transcript.txt](../transcripts/02-12%20Lecture_%20Code.org%20Login%20and%20Intro%20to%20AI%20Machine%20Learning%20for%20Second%20Grade-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260212-grade-2-callon-codeorg-ai.md](../../../transcripts/260212-grade-2-callon-codeorg-ai.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,8 @@ Digital creation workflow using media tools, publishing steps, and classroom pro
 - Any templates or sample products
 
 ## 🔗 Related Local Materials
-- No direct local lesson packet matched automatically.
 
+- [Lesson packet](./ai-for-oceans-and-robotics.md)
 ## 🧠 Evidence Cues
 - `agent` appears in the transcript and likely shaped the lesson moves.
 - `minecraft` appears in the transcript and likely shaped the lesson moves.

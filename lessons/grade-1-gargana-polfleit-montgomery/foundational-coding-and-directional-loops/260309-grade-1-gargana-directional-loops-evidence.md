@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 1
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [03-09 Classroom Workshop_ Foundational Coding with Directional Sequencing, Loops, and Classroom Management-transcript.txt](../transcripts/03-09%20Classroom%20Workshop_%20Foundational%20Coding%20with%20Directional%20Sequencing,%20Loops,%20and%20Classroom%20Management-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260309-grade-1-gargana-directional-loops.md](../../../transcripts/260309-grade-1-gargana-directional-loops.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -40,8 +40,8 @@ Introductory AI or machine-learning ideas through guided examples and discussion
 - Interactive platform or teacher model
 
 ## 🔗 Related Local Materials
-- No direct local lesson packet matched automatically.
 
+- [Lesson packet](./foundational-coding-and-directional-loops.md)
 ## 🧠 Evidence Cues
 - `loop` appears in the transcript and likely shaped the lesson moves.
 

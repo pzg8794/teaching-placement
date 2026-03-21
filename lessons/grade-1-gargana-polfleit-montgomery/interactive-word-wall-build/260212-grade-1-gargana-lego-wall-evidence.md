@@ -14,8 +14,8 @@
 - 🔁 **Rotation Day:** Day 4
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [02-12 Lecture_ Interactive Lego Word Wall Project-transcript.txt](../transcripts/02-12%20Lecture_%20Interactive%20Lego%20Word%20Wall%20Project-transcript.txt)
-- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
+- ⚪ **Canonical Transcript:** [260212-grade-1-gargana-lego-wall.md](../../../transcripts/260212-grade-1-gargana-lego-wall.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -41,8 +41,8 @@ Digital creation workflow using media tools, publishing steps, and classroom pro
 - Any templates or sample products
 
 ## 🔗 Related Local Materials
-- No direct local lesson packet matched automatically.
 
+- [Lesson packet](./interactive-word-wall-build.md)
 ## 🧠 Evidence Cues
 - `loop` appears in the transcript and likely shaped the lesson moves.
 - `debug` appears in the transcript and likely shaped the lesson moves.

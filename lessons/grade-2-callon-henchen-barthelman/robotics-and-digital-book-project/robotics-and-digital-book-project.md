@@ -1,148 +1,72 @@
-# 🟧 Robotics and Digital Book Project
+# 🟢 Robotics and Digital Book Project
 
 **Color Code:** 🟢 Lessons
 
-> **📌 What This Is:** A teacher-ready lesson packet built from transcripts, schedule evidence, local curriculum context, and official lesson sources.
-> **🧭 Start Here When:** You want the full instructional record: what we taught, why it counts as CS, how we know it happened, and how to make it more inclusive.
-> **👀 Best Use:** Read `Quick Scan` first, then `Evidence / proof of instruction`, then `UDL and inclusion supports` before re-teaching.
+> **📌 What This Is:** Canonical lesson-family packet for this recurring placement lesson.
+> **🧭 Start Here When:** You want the teaching goal, proof trail, official source references, and revision notes in one place.
+> **🎯 Main Goal:** Use school expectations, transcript evidence, and inclusive teaching moves to keep this lesson teachable, documentable, and improvable.
 
 ---
 
 ## ⚡ Quick Scan
 
-- 👥 **Grade:** Grade 2
-- 📘 **Grade Hub:** [Notes](../grade-2-notes.md)
-- 📅 **Schedule Reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
-- 🗂️ **Workbook Sheet:** `2nd` in `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
-- 🎯 **Lesson Focus:** Students combine simple robotics routines with digital storytelling or explanatory book creation, linking movement logic to written or multimedia communication.
-- 📏 **CS Alignment Strength:** Strong CS lesson with literacy integration
-- 🧾 **LaTeX Source:** [robotics-and-digital-book-project.tex](./robotics-and-digital-book-project.tex)
-- 📚 **Bib File:** [robotics-and-digital-book-project.bib](./robotics-and-digital-book-project.bib)
+- **Grade:** Grade 2
+- **Grade hub:** [open grade hub](../grade-2-notes.md)
+- **Workbook note:** [open workbook note](../../../school/teaching-placement-ignite-curriculum-gcsd-25-26-grade-2-notes.md)
+- **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../school/spring-2026-teaching-schedule-derek.md)
+- **Packet focus:** robotics routines, digital storytelling, and explanatory products
+- **LaTeX source:** [robotics-and-digital-book-project.tex](./robotics-and-digital-book-project.tex)
+- **Bib file:** [robotics-and-digital-book-project.bib](./robotics-and-digital-book-project.bib)
+- **Compiled PDF:** [robotics-and-digital-book-project.pdf](./robotics-and-digital-book-project.pdf)
 
-## 🪪 Lesson Identity
+## 🎯 School Planning Goals + Inclusion
 
-- 🏫 **Likely Class Blocks:** Day 1 · 10:45-11:35 · Callon, Day 1 · 2:15-3:05 · Henchen, Day 4 · 10:45-11:35 · Barthelman
-- 🧭 **Main Lesson Family:** Robotics and Digital Book Project
-- 🔗 **Primary Evidence Base:** Transcript-derived notes plus source transcripts from this teaching-placement workspace.
-- 🌐 **Primary External Source Type:** Official curriculum/provider materials.
+- **What is expected:** The lesson should make the CS thinking visible, keep students producing an observable task, and make teacher moves explicit enough to revisit or reteach.
+- **What we achieved:** This packet is grounded in local evidence notes and cleaned transcripts from real teaching sessions.
+- **What needs improvement:** Save clearer proof of student products, keep the assessment move sharper, and reduce hidden assumptions in directions.
+- **How to improve:** Add one student artifact or observation note after each reteach and tighten the success criteria at the top of the packet.
+- **Inclusion focus:** Use chunked steps, visual modeling, role clarity, repeated routines, and flexible entry points so the lesson is usable for students who need more structure, language support, or pacing support.
 
-## 🧠 What We Are Teaching
+## 🔗 Transcript and Local Evidence
 
-- 🧠 sequencing robot moves or routes
-- 🧠 connecting a digital page or book entry to a robotics task
-- 🧠 describing what a robot does and why
-- 🧠 using technology to document or explain a process
+- **Evidence note:** [260225-grade-2-callon-book-circle-evidence.md](./260225-grade-2-callon-book-circle-evidence.md)
+- **Evidence note:** [260225-grade-2-callon-sphero-book-evidence.md](./260225-grade-2-callon-sphero-book-evidence.md)
+- **Evidence note:** [260225-grade-2-callon-video-robotics-evidence.md](./260225-grade-2-callon-video-robotics-evidence.md)
+- **Evidence note:** [260226-grade-2-callon-robotics-routines-evidence.md](./260226-grade-2-callon-robotics-routines-evidence.md)
+- **Evidence note:** [260227-grade-2-callon-creator-onboarding-evidence.md](./260227-grade-2-callon-creator-onboarding-evidence.md)
+- **Evidence note:** [260302-grade-2-callon-robot-guidance-evidence.md](./260302-grade-2-callon-robot-guidance-evidence.md)
+- **Evidence note:** [260305-grade-2-callon-book-recommendations-evidence.md](./260305-grade-2-callon-book-recommendations-evidence.md)
+- **Evidence note:** [260305-grade-2-callon-indi-book-evidence.md](./260305-grade-2-callon-indi-book-evidence.md)
+- **Transcript:** [260225-grade-2-callon-book-circle.md](../../../transcripts/260225-grade-2-callon-book-circle.md)
+- **Transcript:** [260225-grade-2-callon-sphero-book.md](../../../transcripts/260225-grade-2-callon-sphero-book.md)
+- **Transcript:** [260225-grade-2-callon-video-robotics.md](../../../transcripts/260225-grade-2-callon-video-robotics.md)
+- **Transcript:** [260226-grade-2-callon-robotics-routines.md](../../../transcripts/260226-grade-2-callon-robotics-routines.md)
+- **Transcript:** [260227-grade-2-callon-creator-onboarding.md](../../../transcripts/260227-grade-2-callon-creator-onboarding.md)
+- **Transcript:** [260302-grade-2-callon-robot-guidance.md](../../../transcripts/260302-grade-2-callon-robot-guidance.md)
+- **Transcript:** [260305-grade-2-callon-book-recommendations.md](../../../transcripts/260305-grade-2-callon-book-recommendations.md)
+- **Transcript:** [260305-grade-2-callon-indi-book.md](../../../transcripts/260305-grade-2-callon-indi-book.md)
 
-## 📏 CS Standards Alignment
+## 🌐 Official Lesson / Reference
 
-- 📏 **1A-AP-10**: Develop programs with sequences and simple loops to express ideas or address a problem.  
-  Why it fits here: Students create or test simple robot movement sequences.
-- 📏 **1A-AP-14**: Debug errors in an algorithm or program that includes sequences and simple loops.  
-  Why it fits here: Students revise the route or command order when the robot does not do what they expected.
-- 📏 **1A-IC-17**: Work respectfully and responsibly with others when using shared technology.  
-  Why it fits here: The lesson depends on pair work around devices, robots, and shared book materials.
+- [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
+- [Sphero Edu Teacher Resource Guide](https://dmmedia.sphero.com/email-marketing/Sphero-Edu/SpheroEdu-k12-teacher-resource-guide-v1_updated050818.pdf)
+- [Book Creator](https://bookcreator.com/)
 
-## 🏫 NYS / Local Curriculum Alignment
+## 🛠️ Teaching Moves
 
-- 🏫 Aligned to the local Grade 2 IGNITE workbook through robotics plus digital composition.
-- 🏫 Supports New York-facing expectations for digital communication by requiring students to explain or document what the robot did.
-- 🏫 The lesson counts as CS because students create and revise step-by-step computational behavior, then represent that process in a digital artifact.
+- Open with a short model that names the lesson focus: robotics routines, digital storytelling, and explanatory products.
+- Keep one visible success criterion or checklist posted during work time.
+- Build in one stop-and-check moment for debugging, peer talk, or reset.
+- End with one observable proof move: explain, submit, save, demonstrate, or share.
 
-## 🧩 Lesson Content and Concepts
+## ✅ Assessment and Proof
 
-- 🔹 sequence
-- 🔹 debugging
-- 🔹 robot behavior
-- 🔹 digital artifact
-- 🔹 explanation
+- Students produce a visible action, artifact, or explanation tied to the lesson goal.
+- Teacher records one note, screenshot, or observation that can be reused during revision.
+- The packet keeps links to both the evidence summary and the fuller transcript when those exist.
 
-## 📌 Evidence / Proof of Instruction
+## 📌 Next Revision Moves
 
-- 📌 **Transcript-derived note:** [260225 Grade 2 Callon Sphero Book](./grade-2-callon-henchen-barthelman/robotics-and-digital-book-project/260225-grade-2-callon-sphero-book-evidence.md)  
-  The main note links the lesson directly to Sphero Indi and Book Creator as paired parts of the same class experience.
-- 📌 **Transcript-derived note:** [260227 Grade 2 Callon Creator Onboarding](./grade-2-callon-henchen-barthelman/robotics-and-digital-book-project/260227-grade-2-callon-creator-onboarding-evidence.md)  
-  Follow-up onboarding and library verification notes show that the digital book workflow was actively taught, not merely assigned.
-- 📌 **Transcript-derived note:** [260225 Grade 2 Callon Book Circle](./grade-2-callon-henchen-barthelman/robotics-and-digital-book-project/260225-grade-2-callon-book-circle-evidence.md)  
-  The class review indicates that explanation, reflection, and classroom discussion were part of how students processed the task.
-- 📌 **Likely student proof:** Robot paths, Book Creator pages, screenshots, or student explanation pages all count as lesson evidence.
-
-## ✅ Assessment Evidence
-
-- ✅ Student can make a robot follow a basic route or command set.
-- ✅ Student can explain the route or task in a digital page or oral explanation.
-- ✅ Student can revise either the robot behavior or the digital description when something is missing or unclear.
-
-## ♿ UDL and Inclusion Supports
-
-### 👀 Multiple Representation
-- 👀 Model both the physical route and the digital page side by side.
-- 👀 Use arrows, icons, and color-coded path markers.
-- 👀 Keep page expectations low-text and high-visual when needed.
-
-### ✍️ Multiple Action / Expression
-- ✍️ Allow students to demonstrate understanding through route setup, oral recording, drawing, or typed text.
-- ✍️ Use partner roles such as driver, builder, recorder, and checker.
-- ✍️ Offer sentence stems for explaining what the robot should do.
-
-### ❤️ Multiple Engagement
-- ❤️ Combine movement and storytelling so students can enter through either robotics or communication.
-- ❤️ Celebrate each successful route or finished page as a milestone.
-- ❤️ Use authentic audience language: this page helps someone else understand the robot.
-
-## 🌱 How We Are Already Making It Inclusive
-
-- ✅ The transcript trail shows the lesson was already integrating multiple modes, not relying on one narrow output.
-- ✅ Teacher onboarding support reduced the access barrier for the book-creation platform.
-- ✅ The robotics component created a concrete anchor for students who need physical demonstration before abstract explanation.
-
-## 🔧 How to Improve Inclusion Next Time
-
-- 🔧 Add a one-page route planner students complete before touching the robot.
-- 🔧 Prepare a low-text book template with image-first boxes.
-- 🔧 Collect one exemplar page and one exemplar route photo in this lesson folder.
-- 🔧 Build in a final comparison step: what the robot did versus what the page says it did.
-
-## 🛠️ Materials and Setup
-
-- 🛠️ Robot set or Sphero Indi
-- 🛠️ Student devices
-- 🛠️ Book Creator or similar digital book platform
-- 🛠️ Route cards or floor path markers
-
-## 🗣️ Teacher Moves / Script / Routines
-
-- 🗣️ Model the route physically before opening the digital explanation task.
-- 🗣️ Name one debugging move students must try before asking for help.
-- 🗣️ Pause to show a strong example of a page that clearly explains the robot action.
-- 🗣️ Close with a short share-out of what changed after debugging.
-
-## 🐞 Common Errors and Debugging
-
-- 🐞 Students may focus on the robot only and skip the explanation side.
-- 🐞 Students may make the digital page decorative but not informative.
-- 🐞 Pair work can drift if roles are not explicit.
-
-## ↔️ Extensions and Simplifications
-
-- ↔️ Extension: ask students to create a second page about how they fixed a mistake.
-- ↔️ Simplification: provide a preset route and ask students only to explain it.
-- ↔️ Extension: add a “predict before test” step for each route.
-
-## 🔗 Related Local Materials
-
-- 🔗 No direct local lesson packet linked yet.
-
-## 🌐 References
-
-- 🌍 [CSTA K-12 Standards Interactive](https://csteachers.org/k12standards/interactive/)
-- 🌍 [CSTA K-12 Standards PDF](https://csteachers.org/wp-content/uploads/2025/03/csta-k-12-computer-science-standards-revised.pdf)
-- 🌍 [Sphero Edu](https://sphero.com/pages/sphero-edu)
-- 🌍 [Book Creator](https://bookcreator.com/)
-
-## 📂 Artifacts Checklist
-
-- 📄 Compiled lesson PDF in this lesson folder
-- 🖼️ At least one screenshot, student example, or setup photo
-- 🧾 One short assessment or observation record
-- 📚 Updated standards/source bibliography once the `.bib` file is revised
-- 📝 Any teacher reflection or revision notes after reteaching
+- Pull exact teacher language or student misconceptions from the linked evidence notes into the next revision.
+- Save one reusable student sample in this folder if the lesson is taught again.
+- Strengthen the packet only with changes that make reteaching easier, not more cluttered.
