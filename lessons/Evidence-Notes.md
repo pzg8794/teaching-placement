@@ -11,8 +11,8 @@
 ## 📍 Start Here
 
 - [📅 Schedule roster with class-by-hour mapping](../school/spring-2026-teaching-schedule-derek.md)
-- [⚪ Original transcripts index](../transcripts/Transcripts-Notes.md)
-- [🟢 Lesson hub](./Lessons-Notes.md)
+- [⚪ Original transcripts index](../transcripts/transcripts-notes.md)
+- [🟢 Lesson hub](./lessons-notes.md)
 
 ---
 
@@ -85,9 +85,9 @@
 
 
 Use these links when you remember the **grade** first and want the matching lesson packets.
-- ⬜ [Kindergarten lesson hub](./kindergarten-justinger-kesys-pum/kindergarten-Notes.md)
-- 🟫 [Grade 1 lesson hub](./grade-1-gargana-polfleit-montgomery/grade-1-Notes.md)
-- 🟧 [Grade 2 lesson hub](./grade-2-callon-henchen-barthelman/grade-2-Notes.md)
-- 🟩 [Grade 3 lesson hub](./grade-3-lamanaco-lallucci-regelsberger-tandoi/grade-3-Notes.md)
-- 🟦 [Grade 4 lesson hub](./grade-4-baris-fowler-schrank-autore/grade-4-Notes.md)
-- 🟪 [Grade 5 lesson hub](./grade-5-pickett-mcglashon-pecora/grade-5-Notes.md)
+- ⬜ [Kindergarten lesson hub](./kindergarten-justinger-kesys-pum/kindergarten-notes.md)
+- 🟫 [Grade 1 lesson hub](./grade-1-gargana-polfleit-montgomery/grade-1-notes.md)
+- 🟧 [Grade 2 lesson hub](./grade-2-callon-henchen-barthelman/grade-2-notes.md)
+- 🟩 [Grade 3 lesson hub](./grade-3-lamanaco-lallucci-regelsberger-tandoi/grade-3-notes.md)
+- 🟦 [Grade 4 lesson hub](./grade-4-baris-fowler-schrank-autore/grade-4-notes.md)
+- 🟪 [Grade 5 lesson hub](./grade-5-pickett-mcglashon-pecora/grade-5-notes.md)

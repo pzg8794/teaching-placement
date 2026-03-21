@@ -4,7 +4,7 @@
 
 > **📌 What This Is:** Summary of a weekly meeting about proposal pacing, related-work habits, advisor coordination, and practical Git/GitHub workflow.
 > **🧭 Use This When:** You need reminders about pacing research writing or version-control habits for large projects.
-> **📍 Raw Source:** `02-02 Weekly Meeting_ Proposal Timeline, Student Advice, and Git_GitHub-transcript.txt`
+> **📍 Raw Source:** `260202-research-proposal-and-git-workflow.txt`
 
 ---
 

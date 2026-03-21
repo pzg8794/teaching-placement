@@ -20,8 +20,8 @@
   - formal resource leads
 - **Best paired with:**
   - [📅 schedule](./spring-2026-teaching-schedule-derek.md)
-  - [📚 lessons hub](../lessons/Lessons-Notes.md)
-  - [📝 transcripts hub](../transcripts/Transcripts-Notes.md)
+  - [📚 lessons hub](../lessons/lessons-notes.md)
+  - [📝 transcripts hub](../transcripts/transcripts-notes.md)
 
 ---
 
@@ -333,7 +333,7 @@ This matters because the lesson packets should not feel isolated. They should re
 - [📗 Original workbook](./teaching-placement-ignite-curriculum-gcsd-25-26.xlsx)
 - [📅 Placement schedule](./spring-2026-teaching-schedule-derek.md)
 - [🖥️ Schedule deck notes](./teaching-placement-pine-brook-ignite-schedule-deck-notes.md)
-- [📚 Lessons hub](../lessons/Lessons-Notes.md)
-- [📝 Transcripts hub](../transcripts/Transcripts-Notes.md)
-- [🏫 School hub](./School-Notes.md)
+- [📚 Lessons hub](../lessons/lessons-notes.md)
+- [📝 Transcripts hub](../transcripts/transcripts-notes.md)
+- [🏫 School hub](./school-notes.md)
 

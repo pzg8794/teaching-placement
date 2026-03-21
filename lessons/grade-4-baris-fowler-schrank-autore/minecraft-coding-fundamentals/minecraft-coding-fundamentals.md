@@ -11,7 +11,7 @@
 ## ⚡ Quick Scan
 
 - 👥 **Grade:** Grade 4
-- 📘 **Grade Hub:** [Notes](../grade-4-Notes.md)
+- 📘 **Grade Hub:** [Notes](../grade-4-notes.md)
 - 📅 **Schedule Reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
 - 🗂️ **Workbook Sheet:** `4th` in `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - 🎯 **Lesson Focus:** Students enter Minecraft Education coding worlds, use block code to control the agent, solve challenge levels, and debug why a solution fails.
@@ -140,7 +140,7 @@
 
 ## 🔗 Related Local Materials
 
-- 🔗 [Minecraft CS Module Notes](./source-materials/minecraft_cs_module_warner/Minecraft-CS-Module-Notes.md)
+- 🔗 [Minecraft CS Module Notes](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 
 ## 🌐 References
 

@@ -4,7 +4,7 @@
 
 > **📌 What This Is:** Summary of a non-lesson conversation centered on caregiving, student comfort, family support, SEL needs, and day-to-day care logistics.
 > **🧭 Use This When:** You want context about the human and relational side of school support work, not just academic instruction.
-> **📍 Raw Source:** `03-17 Casual Conversation_ Caregiving and Family-transcript.txt`
+> **📍 Raw Source:** `260317-caregiving-sel-and-family-support-context.txt`
 
 ---
 

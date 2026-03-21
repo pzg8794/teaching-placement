@@ -40,5 +40,5 @@
 ## 📍 Related Files
 
 - [🎉 Original invitation PDF](./student-teacher-intern-welcome-celebration-invitation.pdf)
-- [🏫 School hub](./School-Notes.md)
+- [🏫 School hub](./school-notes.md)
 

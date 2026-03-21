@@ -11,7 +11,7 @@
 ## ⚡ Quick Scan
 
 - 👥 **Grade:** Grade 1
-- 📘 **Grade Hub:** [Notes](../grade-1-Notes.md)
+- 📘 **Grade Hub:** [Notes](../grade-1-notes.md)
 - 📅 **Schedule Reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
 - 🗂️ **Workbook Sheet:** `1st` in `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - 🎯 **Lesson Focus:** Students build an interactive vocabulary display that links words, visuals, and classroom-made media through QR or video-supported artifacts.

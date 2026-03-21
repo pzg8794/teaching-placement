@@ -11,7 +11,7 @@
 ## ⚡ Quick Scan
 
 - 📄 **Source TXT:** [03-18 Class Session_ Minecraft Education Coding Challenge – Boss Level Timing, Agent Movement, and Progression to Turtle Rescue-transcript.txt](./260318-grade-4-baris-turtle-rescue.txt)
-- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-Source-Materials-Notes.md](../lessons/Evidence-Notes.md)
+- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-source-materials-notes.md](../lessons/evidence-notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 
 ## 📝 Transcript

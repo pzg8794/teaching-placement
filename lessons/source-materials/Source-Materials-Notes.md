@@ -10,8 +10,8 @@
 
 ## 📍 Start Here
 
-- [🟢 Lesson hub](../Lessons-Notes.md)
-- [⚪ Lesson evidence hub](../Evidence-Notes.md)
+- [🟢 Lesson hub](../lessons-notes.md)
+- [⚪ Lesson evidence hub](../evidence-notes.md)
 
 ## ⛏️ Minecraft Module
 

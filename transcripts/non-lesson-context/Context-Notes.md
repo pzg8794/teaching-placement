@@ -10,7 +10,7 @@
 
 ## 📍 Start Here
 
-- [⚪ Main transcript hub](../Transcripts-Notes.md)
+- [⚪ Main transcript hub](../transcripts-notes.md)
 
 ## 🗂️ Context Notes
 

@@ -11,7 +11,7 @@
 ## ⚡ Quick Scan
 
 - 👥 **Grade:** Kindergarten
-- 📘 **Grade Hub:** [Notes](../kindergarten-Notes.md)
+- 📘 **Grade Hub:** [Notes](../kindergarten-notes.md)
 - 📅 **Schedule Reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
 - 🗂️ **Workbook Sheet:** `K` in `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - 🎯 **Lesson Focus:** Device-opening routines, basic digital tool use, color selection, and early classroom computing habits.

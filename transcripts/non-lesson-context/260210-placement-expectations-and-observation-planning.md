@@ -4,7 +4,7 @@
 
 > **📌 What This Is:** Summary of the placement alignment meeting with supervisors and Derek about expectations, co-teaching, observation planning, and inclusion opportunities.
 > **🧭 Use This When:** You need the rationale behind the placement setup or want language for your expectations and observation planning.
-> **📍 Raw Source:** `02-10 Meeting_ Student Teaching Expectations for Peter-transcript.txt`
+> **📍 Raw Source:** `260210-placement-expectations-and-observation-planning.txt`
 
 ---
 

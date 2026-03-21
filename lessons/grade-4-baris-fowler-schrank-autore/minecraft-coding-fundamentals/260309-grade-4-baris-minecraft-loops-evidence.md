@@ -41,7 +41,7 @@ Minecraft Education coding workflow, agent commands, and classroom troubleshooti
 - Projected modeling screen
 
 ## 🔗 Related Local Materials
-- [Minecraft CS module materials](./source-materials/minecraft_cs_module_warner/Minecraft-CS-Module-Notes.md)
+- [Minecraft CS module materials](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
 
 ## 🧠 Evidence Cues
 - `loop` appears in the transcript and likely shaped the lesson moves.

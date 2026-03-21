@@ -208,8 +208,8 @@ Use this section as your “index” when revising lesson plans (micro-structure
 - IGNITE curriculum: `../school/teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - Internship model graphic: `../school/teaching-placement-internship-graphic-model.pdf`
 - Student teaching handbook(s):
-  - Placement copy: `../handbook/StudentTeachingHandbook - 2025-26.pdf`
-  - Searchable text copy: `../handbook/StudentTeachingHandbook-2025-26.txt`
+  - Placement copy: `../handbook/student-teaching-handbook-2025-26.pdf`
+  - Searchable text copy: `../handbook/student-teaching-handbook-2025-26.txt`
   - Course copy (EDF436): `../../EDF436/EDF436-Student_Teaching_Handbook_2025-26.pdf`
 
 ### E) Supervisor observation visit windows (CS + Inclusion)

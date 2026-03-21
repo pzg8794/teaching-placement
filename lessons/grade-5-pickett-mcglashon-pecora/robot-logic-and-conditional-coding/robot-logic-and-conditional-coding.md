@@ -11,7 +11,7 @@
 ## ⚡ Quick Scan
 
 - 👥 **Grade:** Grade 5
-- 📘 **Grade Hub:** [Notes](../grade-5-Notes.md)
+- 📘 **Grade Hub:** [Notes](../grade-5-notes.md)
 - 📅 **Schedule Reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
 - 🗂️ **Workbook Sheet:** `5th` in `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - 🎯 **Lesson Focus:** Students move from basic robot control to conditional logic, using sensors, events, or logic choices to change what the robot does.

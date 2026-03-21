@@ -19,8 +19,8 @@
 
 ## 📚 Shared Reference Links
 
-- ⚪ [Transcript-derived lessons index](../Evidence-Notes.md)
-- ⚪ [Source transcripts index](../transcripts/Transcripts-Notes.md)
+- ⚪ [Transcript-derived lessons index](../evidence-notes.md)
+- ⚪ [Source transcripts index](../transcripts/transcripts-notes.md)
 - 📅 [Teaching schedule](../school/spring-2026-teaching-schedule-derek.md)
 - 📏 [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
 

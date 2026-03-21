@@ -90,6 +90,6 @@ This graphic frames the placement as a progression from observation and gradual 
 
 - [📄 Original graphic PDF](./teaching-placement-internship-graphic-model.pdf)
 - [📅 Placement schedule](./spring-2026-teaching-schedule-derek.md)
-- [📚 Lessons hub](../lessons/Lessons-Notes.md)
-- [🏫 School hub](./School-Notes.md)
+- [📚 Lessons hub](../lessons/lessons-notes.md)
+- [🏫 School hub](./school-notes.md)
 

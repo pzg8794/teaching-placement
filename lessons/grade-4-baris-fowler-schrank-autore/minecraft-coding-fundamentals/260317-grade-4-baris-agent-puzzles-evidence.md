@@ -40,7 +40,7 @@ Introductory AI or machine-learning ideas through guided examples and discussion
 - Interactive platform or teacher model
 
 ## 🔗 Related Local Materials
-- [Block Coding with Bees materials](./source-materials/23-Block-Coding-with-Bees/23-Block-Coding-with-Bees-Notes.md)
+- [Block Coding with Bees materials](./source-materials/23-Block-Coding-with-Bees/23-block-coding-with-bees-notes.md)
 
 ## 🧠 Evidence Cues
 - `agent` appears in the transcript and likely shaped the lesson moves.

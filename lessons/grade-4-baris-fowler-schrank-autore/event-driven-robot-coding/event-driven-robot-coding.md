@@ -11,7 +11,7 @@
 ## ⚡ Quick Scan
 
 - 👥 **Grade:** Grade 4
-- 📘 **Grade Hub:** [Notes](../grade-4-Notes.md)
+- 📘 **Grade Hub:** [Notes](../grade-4-notes.md)
 - 📅 **Schedule Reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
 - 🗂️ **Workbook Sheet:** `4th` in `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - 🎯 **Lesson Focus:** Students use Sphero sensor or event blocks to trigger robot behavior, then debug how input, environment, and code interact.

@@ -87,5 +87,5 @@
 
 - [🖥️ Original schedule deck](./teaching-placement-pine-brook-ignite-schedule-25-26.pptx)
 - [📅 Full Markdown schedule](./spring-2026-teaching-schedule-derek.md)
-- [🏫 School hub](./School-Notes.md)
+- [🏫 School hub](./school-notes.md)
 

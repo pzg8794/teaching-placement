@@ -10,9 +10,9 @@
 
 ## 📍 Start Here
 
-- [🟢 Lessons hub](./Lessons-Notes.md)
-- [⚪ Transcript hub](../transcripts/Transcripts-Notes.md)
-- [⚪ Evidence hub](./Evidence-Notes.md)
+- [🟢 Lessons hub](./lessons-notes.md)
+- [⚪ Transcript hub](../transcripts/transcripts-notes.md)
+- [⚪ Evidence hub](./evidence-notes.md)
 - [📅 Teaching schedule](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
@@ -55,7 +55,7 @@
 
 ## 📚 Captured By Transcript Map
 
-These lesson families are already represented in [Transcripts-Notes.md](../transcripts/Transcripts-Notes.md) and connected to lesson folders.
+These lesson families are already represented in [transcripts-notes.md](../transcripts/transcripts-notes.md) and connected to lesson folders.
 
 - ⬜ Kindergarten
   - `digital-coloring-and-tool-routines`
@@ -82,7 +82,7 @@ These lesson families are already represented in [Transcripts-Notes.md](../trans
 
 ## ⚠️ Known Gaps Or Misplaced Items
 
-These are the items that prove `Transcripts-Notes.md` is not yet a full lesson inventory by itself.
+These are the items that prove `transcripts-notes.md` is not yet a full lesson inventory by itself.
 
 - `minecraft_cs_module_warner`
   - currently nested inside Grade 4 Minecraft source materials

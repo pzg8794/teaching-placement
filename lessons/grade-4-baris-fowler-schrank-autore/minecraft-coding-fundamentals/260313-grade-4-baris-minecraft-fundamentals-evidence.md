@@ -41,8 +41,8 @@ Minecraft Education coding workflow, agent commands, and classroom troubleshooti
 - Projected modeling screen
 
 ## 🔗 Related Local Materials
-- [Minecraft CS module materials](./source-materials/minecraft_cs_module_warner/Minecraft-CS-Module-Notes.md)
-- [Block Coding with Bees materials](./source-materials/23-Block-Coding-with-Bees/23-Block-Coding-with-Bees-Notes.md)
+- [Minecraft CS module materials](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
+- [Block Coding with Bees materials](./source-materials/23-Block-Coding-with-Bees/23-block-coding-with-bees-notes.md)
 
 ## 🧠 Evidence Cues
 - `debug` appears in the transcript and likely shaped the lesson moves.

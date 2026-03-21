@@ -10,10 +10,10 @@
 
 ## 📍 Main Coursework Areas
 
-- [🟣 Expectations](./expectations/Expectations-Notes.md)
-- [🟤 Tasks](./tasks/Tasks-Notes.md)
-- [🟡 Coursework reference materials](./Reference-Notes.md)
-- [📘 Handbook](./handbook/Handbook-Notes.md)
+- [🟣 Expectations](./expectations/expectations-notes.md)
+- [🟤 Tasks](./tasks/tasks-notes.md)
+- [🟡 Coursework reference materials](./reference-notes.md)
+- [📘 Handbook](./handbook/handbook-notes.md)
 
 ---
 

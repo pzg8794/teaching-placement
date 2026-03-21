@@ -27,29 +27,29 @@
 
 ## 🚦 Quick Start
 
-- [🟢 Lessons](./lessons/Lessons-Notes.md)
-- [🔴 School / Placement](./school/School-Notes.md)
-- [⚪ Transcripts](./transcripts/Transcripts-Notes.md)
-- [🟫 Snapshots](./snapshots/Snapshots-Notes.md)
+- [🟢 Lessons](./lessons/lessons-notes.md)
+- [🔴 School / Placement](./school/school-notes.md)
+- [⚪ Transcripts](./transcripts/transcripts-notes.md)
+- [🟫 Snapshots](./snapshots/snapshots-notes.md)
 
 ---
 
 ## 📍 Jump To A Section
 
-- [🟦 Coursework hub](./coursework/Coursework-Notes.md)
-- [🟣 Coursework expectations](./coursework/expectations/Expectations-Notes.md)
-- [🟤 Coursework tasks](./coursework/tasks/Tasks-Notes.md)
-- [🟡 Coursework references](./coursework/Reference-Notes.md)
-- [🟢 Lessons](./lessons/Lessons-Notes.md)
-- [🔴 School / Placement](./school/School-Notes.md)
-- [🟫 Snapshots](./snapshots/Snapshots-Notes.md)
-- [⚪ Transcripts](./transcripts/Transcripts-Notes.md)
+- [🟦 Coursework hub](./coursework/coursework-notes.md)
+- [🟣 Coursework expectations](./coursework/expectations/expectations-notes.md)
+- [🟤 Coursework tasks](./coursework/tasks/tasks-notes.md)
+- [🟡 Coursework references](./coursework/reference-notes.md)
+- [🟢 Lessons](./lessons/lessons-notes.md)
+- [🔴 School / Placement](./school/school-notes.md)
+- [🟫 Snapshots](./snapshots/snapshots-notes.md)
+- [⚪ Transcripts](./transcripts/transcripts-notes.md)
 
 ---
 
 ## 🧠 Memory Tip
 
-- If you are looking for **what happened in class**, start in [⚪ Transcripts](./transcripts/Transcripts-Notes.md).
-- If you are looking for **what to teach next**, start in [🟢 Lessons](./lessons/Lessons-Notes.md).
-- If you are looking for **when or with which class**, start in [🔴 School / Placement](./school/School-Notes.md).
+- If you are looking for **what happened in class**, start in [⚪ Transcripts](./transcripts/transcripts-notes.md).
+- If you are looking for **what to teach next**, start in [🟢 Lessons](./lessons/lessons-notes.md).
+- If you are looking for **when or with which class**, start in [🔴 School / Placement](./school/school-notes.md).
 - If you want to **share something**, send the link to the real folder or file itself instead of using a duplicate share directory.

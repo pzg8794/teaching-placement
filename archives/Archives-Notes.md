@@ -9,4 +9,4 @@
 
 ---
 
-- [Top-level snapshots directory](../snapshots/Snapshots-Notes.md)
+- [Top-level snapshots directory](../snapshots/snapshots-notes.md)

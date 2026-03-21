@@ -37,5 +37,5 @@
 ## 📍 Related Files
 
 - [📊 Google Sheet shortcut](./cs-teaching-placement-attendance.gsheet)
-- [🏫 School hub](./School-Notes.md)
+- [🏫 School hub](./school-notes.md)
 

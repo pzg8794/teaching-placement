@@ -10,25 +10,25 @@
 
 ## 📍 Start Here
 
-- ⬜ [Kindergarten](./kindergarten-justinger-kesys-pum/kindergarten-Notes.md)  
+- ⬜ [Kindergarten](./kindergarten-justinger-kesys-pum/kindergarten-notes.md)  
   Foundational computing systems, routines, early physical computing.
-- 🟫 [Grade 1](./grade-1-gargana-polfleit-montgomery/grade-1-Notes.md)  
+- 🟫 [Grade 1](./grade-1-gargana-polfleit-montgomery/grade-1-notes.md)  
   Digital communication, shared artifacts, collaboration foundations.
-- 🟧 [Grade 2](./grade-2-callon-henchen-barthelman/grade-2-Notes.md)  
+- 🟧 [Grade 2](./grade-2-callon-henchen-barthelman/grade-2-notes.md)  
   AI introduction, robotics, and digital storytelling.
-- 🟩 [Grade 3](./grade-3-lamanaco-lallucci-regelsberger-tandoi/grade-3-Notes.md)  
+- 🟩 [Grade 3](./grade-3-lamanaco-lallucci-regelsberger-tandoi/grade-3-notes.md)  
   Robotics, loops, publishing, and responsible AI.
-- 🟦 [Grade 4](./grade-4-baris-fowler-schrank-autore/grade-4-Notes.md)  
+- 🟦 [Grade 4](./grade-4-baris-fowler-schrank-autore/grade-4-notes.md)  
   Minecraft coding and event-driven robot logic.
-- 🟪 [Grade 5](./grade-5-pickett-mcglashon-pecora/grade-5-Notes.md)  
+- 🟪 [Grade 5](./grade-5-pickett-mcglashon-pecora/grade-5-notes.md)  
   Conditional robot logic and computational artifact design.
 
 ## 📚 Supporting Areas
 
-- 🗺️ [Lesson outline map](./Lesson-Outline-Notes.md)
-- ⚪ [Lesson evidence index](./Evidence-Notes.md)
-- 🗃️ [Source materials](./source-materials/Source-Materials-Notes.md)
-- ⚪ [Source transcripts index](../transcripts/Transcripts-Notes.md)
+- 🗺️ [Lesson outline map](./lesson-outline-notes.md)
+- ⚪ [Lesson evidence index](./evidence-notes.md)
+- 🗃️ [Source materials](./source-materials/source-materials-notes.md)
+- ⚪ [Source transcripts index](../transcripts/transcripts-notes.md)
 - 📅 [Teaching schedule](../school/spring-2026-teaching-schedule-derek.md)
 - 📏 [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
 

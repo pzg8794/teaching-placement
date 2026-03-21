@@ -4,7 +4,7 @@
 
 > **📌 What This Is:** Summary of a discussion about school leadership, teacher voice, performative consultation, and structural barriers inside schools.
 > **🧭 Use This When:** You want language about institutional constraints, teacher advocacy, or why good ideas do not always become practice.
-> **📍 Raw Source:** `03-06 Performative Governance in Schools_ How Hierarchy Silences Teachers and Undermines Support-transcript.txt`
+> **📍 Raw Source:** `260306-school-leadership-and-teacher-voice.txt`
 
 ---
 

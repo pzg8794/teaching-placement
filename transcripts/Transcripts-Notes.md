@@ -10,11 +10,11 @@
 
 ## 📍 Start Here
 
-- [🧩 Transcript-derived lesson notes](../lessons/Evidence-Notes.md)
-- [🟢 Grade-based lesson hub](../lessons/Lessons-Notes.md)
-- [🗺️ Canonical lesson outline](../lessons/Lesson-Outline-Notes.md)
+- [🧩 Transcript-derived lesson notes](../lessons/evidence-notes.md)
+- [🟢 Grade-based lesson hub](../lessons/lessons-notes.md)
+- [🗺️ Canonical lesson outline](../lessons/lesson-outline-notes.md)
 - [🔴 Teaching schedule](../school/spring-2026-teaching-schedule-derek.md)
-- [🧭 Non-lesson context notes](./non-lesson-context/Context-Notes.md)
+- [🧭 Non-lesson context notes](./non-lesson-context/context-notes.md)
 
 ## 🎓 Teaching / Lesson Transcript Sources
 

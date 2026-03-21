@@ -11,7 +11,7 @@
 ## ⚡ Quick Scan
 
 - 👥 **Grade:** Grade 3
-- 📘 **Grade Hub:** [Notes](../grade-3-Notes.md)
+- 📘 **Grade Hub:** [Notes](../grade-3-notes.md)
 - 📅 **Schedule Reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
 - 🗂️ **Workbook Sheet:** `3rd` in `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - 🎯 **Lesson Focus:** Students pair robots, create movement programs, use loops for repeated motion, and debug route accuracy through floor-based challenges.
@@ -132,7 +132,7 @@
 
 ## 🔗 Related Local Materials
 
-- 🔗 [Block Coding with Bees materials](.././source-materials/23-Block-Coding-with-Bees/23-Block-Coding-with-Bees-Notes.md)
+- 🔗 [Block Coding with Bees materials](.././source-materials/23-Block-Coding-with-Bees/23-block-coding-with-bees-notes.md)
 
 ## 🌐 References
 

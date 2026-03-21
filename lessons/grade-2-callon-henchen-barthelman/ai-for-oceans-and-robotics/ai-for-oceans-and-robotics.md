@@ -11,7 +11,7 @@
 ## ⚡ Quick Scan
 
 - 👥 **Grade:** Grade 2
-- 📘 **Grade Hub:** [Notes](../grade-2-Notes.md)
+- 📘 **Grade Hub:** [Notes](../grade-2-notes.md)
 - 📅 **Schedule Reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
 - 🗂️ **Workbook Sheet:** `2nd` in `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - 🎯 **Lesson Focus:** Students explore how machine learning systems sort information, then connect classification ideas to early robotics and real-world problem solving.

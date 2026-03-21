@@ -12,8 +12,8 @@
 
 - [📅 Teaching schedule](./spring-2026-teaching-schedule-derek.md)
 - [📘 Workbook notes](./teaching-placement-ignite-curriculum-gcsd-25-26-notes.md)
-- [📚 Lessons hub](../lessons/Lessons-Notes.md)
-- [📝 Transcripts hub](../transcripts/Transcripts-Notes.md)
+- [📚 Lessons hub](../lessons/lessons-notes.md)
+- [📝 Transcripts hub](../transcripts/transcripts-notes.md)
 
 ---
 

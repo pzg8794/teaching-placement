@@ -118,9 +118,9 @@ These are the most “lesson-shaped” artifacts to reference for pacing, clarit
 ## 6) Placement + Curriculum Constraints (what lessons must align to)
 
 - Student Teaching Handbook (PDF): https://drive.google.com/open?id=1GtXts7cTh3CaDNCho4CgLrEgCJouzSDP  
-  Local: `Semester5/Semester3(UofR)/TeachingPlacement/coursework/handbook/StudentTeachingHandbook - 2025-26.pdf`
+  Local: `Semester5/Semester3(UofR)/TeachingPlacement/coursework/handbook/student-teaching-handbook-2025-26.pdf`
 - Student Teaching Handbook (searchable TXT): https://drive.google.com/open?id=1mz7wC54ICmGDYWwUP-5qedO5KqvjWMVW  
-  Local: `Semester5/Semester3(UofR)/TeachingPlacement/coursework/handbook/StudentTeachingHandbook-2025-26.txt`
+  Local: `Semester5/Semester3(UofR)/TeachingPlacement/coursework/handbook/student-teaching-handbook-2025-26.txt`
 - IGNITE curriculum (XLSX): https://drive.google.com/open?id=1ZuP_-abEgVUO5uGwCTtgoBjPtJ6aGU7S  
   Local: `Semester5/Semester3(UofR)/TeachingPlacement/school/teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - IGNITE schedule (PPTX): https://drive.google.com/open?id=1AvQUXUIh70gS2nzzUqxBeWaWPUZaY-aG  
