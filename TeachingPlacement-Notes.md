@@ -11,7 +11,6 @@
 ## 🎨 Color + Icon Legend
 
 - `🟣` expectations / formal paperwork
-- `🔵` communications
 - `🟦` coursework or Grade 4 / Monday-type blue grouping when used in schedules
 - `🟢` lessons / teaching materials
 - `🟡` coursework support docs
@@ -38,7 +37,6 @@
 ## 📍 Jump To A Section
 
 - [🟣 Expectations](./expectations/Expectations-Notes.md)
-- [🔵 Communications](./communications/Communications-Notes.md)
 - [🟦 Coursework](./coursework/Coursework-Notes.md)
 - [🟢 Lessons](./lessons/Lessons-Notes.md)
 - [🟡 Coursework References](./coursework/Reference-Notes.md)
