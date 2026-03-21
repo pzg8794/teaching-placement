@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 5
 - **Grade hub:** [open grade hub](../grade-5-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-5-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-5-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Workbook sessions:** `Session 32`
 - **Months:** May

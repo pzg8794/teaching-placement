@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 3
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260311-kindergarten-justinger-basic-circuits.md](../../../../transcripts/260311-kindergarten-justinger-basic-circuits.md)
+- ⚪ **Canonical Transcript:** [260311-kindergarten-justinger-basic-circuits.md](../../../../transcripts/kindergarten/260311-kindergarten-justinger-basic-circuits.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

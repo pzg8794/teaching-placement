@@ -14,7 +14,16 @@
 - [🟢 Grade-based lesson hub](../pine-brook-elementary/lessons/lessons-notes.md)
 - [🗺️ Canonical lesson outline](../pine-brook-elementary/lessons/lesson-outline-notes.md)
 - [🔴 Teaching schedule](../pine-brook-elementary/spring-2026-teaching-schedule-derek.md)
-- [🧭 Non-lesson context notes](./non-lesson-context/context-notes.md)
+- [🧭 Non-lesson context notes](non-lesson-context/context-notes.md)
+
+## 🎓 Grade Transcript Hubs
+
+- [🟡 Kindergarten](./kindergarten/kindergarten-transcripts-notes.md)
+- [🟠 Grade 1](./grade-1/grade-1-transcripts-notes.md)
+- [🟢 Grade 2](./grade-2/grade-2-transcripts-notes.md)
+- [🔵 Grade 3](./grade-3/grade-3-transcripts-notes.md)
+- [🟣 Grade 4](./grade-4/grade-4-transcripts-notes.md)
+- [🔴 Grade 5](./grade-5/grade-5-transcripts-notes.md)
 
 ## 🎓 Teaching / Lesson Transcript Sources
 
@@ -33,7 +42,7 @@
 - [02-27 Lecture: Programming a Robot to Trace a Square with Movement Blocks](../pine-brook-elementary/lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-sphero/260227-grade-3-lamanaco-square-trace-evidence.md)
 - [02-27 Lecture: Sphero Block Coding for Third Graders—Pairing, Loops, Square Movement, Aiming, and Safety](../pine-brook-elementary/lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-sphero/260227-grade-3-lamanaco-sphero-loops-evidence.md)
 - [02-27 Lecture: Sphero Robot Block-Based Coding](../pine-brook-elementary/lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-sphero/260227-grade-3-lamanaco-block-coding-evidence.md)
-- [02-27 Stabilizing Dismissal Flow and STEM Asset Control: Immediate Protocols for Student Movement, Transportation, and Device Inventory](./non-lesson-context/260227-stem-routines-and-dismissal-protocols.md)
+- [02-27 Stabilizing Dismissal Flow and STEM Asset Control: Immediate Protocols for Student Movement, Transportation, and Device Inventory](non-lesson-context/260227-stem-routines-and-dismissal-protocols.md)
 - [03-02 Class Review: Minecraft Education Coding Test Lesson and Video Creation Workflow](../pine-brook-elementary/lessons/grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/260302-grade-4-baris-minecraft-test-evidence.md)
 - [03-02 Lecture: Classroom Technology Guidance and Robot Construction Project](../pine-brook-elementary/lessons/grade-2-callon-henchen-barthelman/robotics-and-digital-book-project/260302-grade-2-callon-robot-guidance-evidence.md)
 - [03-02 Lecture: Invention vs. Innovation, Creative Brainstorming, and Google Docs Workflow](../pine-brook-elementary/lessons/grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/260302-grade-4-baris-innovation-docs-evidence.md)
@@ -53,7 +62,7 @@
 - [03-06 Robotics Class on Sphero Programming and Subsequent Adult Conversations](../pine-brook-elementary/lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-sphero/260306-grade-3-lamanaco-sphero-class-review-evidence.md)
 - [03-09 Class Session: Code.org Navigation, Minecraft Education While Loops, and Classroom Pairing Strategies](../pine-brook-elementary/lessons/grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/260309-grade-4-baris-minecraft-loops-evidence.md)
 - [03-09 Classroom Workshop: Foundational Coding with Directional Sequencing, Loops, and Classroom Management](../pine-brook-elementary/lessons/grade-1-gargana-polfleit-montgomery/foundational-coding-and-directional-loops/260309-grade-1-gargana-directional-loops-evidence.md)
-- [03-10 Standardizing a Classroom Robotics Arch Challenge: Rules, Specs, and Workflow Decisions](./260310-grade-5-pickett-arch-challenge.md)
+- [03-10 Standardizing a Classroom Robotics Arch Challenge: Rules, Specs, and Workflow Decisions](grade-5/260310-grade-5-pickett-arch-challenge.md)
 - [03-11 Lecture: Basic Electrical Circuits](../pine-brook-elementary/lessons/kindergarten-justinger-kesys-pum/intro-typing-and-simple-circuits/260311-kindergarten-justinger-basic-circuits-evidence.md)
 - [03-11 Lecture: Cordables Activity and Classroom Management](../pine-brook-elementary/lessons/kindergarten-justinger-kesys-pum/intro-typing-and-simple-circuits/260311-kindergarten-justinger-cordables-evidence.md)
 - [03-12 Lecture: Game-Based Learning and Problem-Solving](../pine-brook-elementary/lessons/grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/260312-grade-4-baris-game-based-learning-evidence.md)
@@ -72,11 +81,11 @@
 
 These are not lesson transcripts. They are kept separate because they are still useful, but they belong to planning, reflection, placement context, or broader school thinking rather than a specific class lesson.
 
-- [260202 Research Proposal And Git Workflow](./non-lesson-context/260202-research-proposal-and-git-workflow.md)
-- [260210 Placement Expectations And Observation Planning](./non-lesson-context/260210-placement-expectations-and-observation-planning.md)
-- [260306 School Leadership And Teacher Voice](./non-lesson-context/260306-school-leadership-and-teacher-voice.md)
-- [260311 Student Dependency And Return Planning](./non-lesson-context/260311-student-dependency-and-return-planning.md)
-- [260317 Caregiving SEL And Family Support Context](./non-lesson-context/260317-caregiving-sel-and-family-support-context.md)
+- [260202 Research Proposal And Git Workflow](non-lesson-context/260202-research-proposal-and-git-workflow.md)
+- [260210 Placement Expectations And Observation Planning](non-lesson-context/260210-placement-expectations-and-observation-planning.md)
+- [260306 School Leadership And Teacher Voice](non-lesson-context/260306-school-leadership-and-teacher-voice.md)
+- [260311 Student Dependency And Return Planning](non-lesson-context/260311-student-dependency-and-return-planning.md)
+- [260317 Caregiving SEL And Family Support Context](non-lesson-context/260317-caregiving-sel-and-family-support-context.md)
 
 ## 🚫 Not Included Here
 

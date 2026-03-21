@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 2
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260317-grade-4-baris-agent-puzzles.md](../../../../transcripts/260317-grade-4-baris-agent-puzzles.md)
+- ⚪ **Canonical Transcript:** [260317-grade-4-baris-agent-puzzles.md](../../../../transcripts/grade-4/260317-grade-4-baris-agent-puzzles.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

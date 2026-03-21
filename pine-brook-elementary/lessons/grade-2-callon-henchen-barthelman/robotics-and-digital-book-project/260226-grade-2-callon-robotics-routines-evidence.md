@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 4
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260226-grade-2-callon-robotics-routines.md](../../../../transcripts/260226-grade-2-callon-robotics-routines.md)
+- ⚪ **Canonical Transcript:** [260226-grade-2-callon-robotics-routines.md](../../../../transcripts/grade-2/260226-grade-2-callon-robotics-routines.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

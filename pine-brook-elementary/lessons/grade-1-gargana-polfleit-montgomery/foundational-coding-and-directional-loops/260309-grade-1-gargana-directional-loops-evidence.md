@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 1
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260309-grade-1-gargana-directional-loops.md](../../../../transcripts/260309-grade-1-gargana-directional-loops.md)
+- ⚪ **Canonical Transcript:** [260309-grade-1-gargana-directional-loops.md](../../../../transcripts/grade-1/260309-grade-1-gargana-directional-loops.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

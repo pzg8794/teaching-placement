@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 3
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260318-grade-4-baris-turtle-rescue.md](../../../../transcripts/260318-grade-4-baris-turtle-rescue.md)
+- ⚪ **Canonical Transcript:** [260318-grade-4-baris-turtle-rescue.md](../../../../transcripts/grade-4/260318-grade-4-baris-turtle-rescue.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

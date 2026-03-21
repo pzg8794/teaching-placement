@@ -14,8 +14,8 @@
 
 ## 🗂️ Context Notes
 
-- [260202-research-proposal-and-git-workflow.md](./260202-research-proposal-and-git-workflow.md)
-- [260210-placement-expectations-and-observation-planning.md](./260210-placement-expectations-and-observation-planning.md)
-- [260306-school-leadership-and-teacher-voice.md](./260306-school-leadership-and-teacher-voice.md)
-- [260311-student-dependency-and-return-planning.md](./260311-student-dependency-and-return-planning.md)
-- [260317-caregiving-sel-and-family-support-context.md](./260317-caregiving-sel-and-family-support-context.md)
+- [260202-research-proposal-and-git-workflow.md](260202-research-proposal-and-git-workflow.md)
+- [260210-placement-expectations-and-observation-planning.md](260210-placement-expectations-and-observation-planning.md)
+- [260306-school-leadership-and-teacher-voice.md](260306-school-leadership-and-teacher-voice.md)
+- [260311-student-dependency-and-return-planning.md](260311-student-dependency-and-return-planning.md)
+- [260317-caregiving-sel-and-family-support-context.md](260317-caregiving-sel-and-family-support-context.md)

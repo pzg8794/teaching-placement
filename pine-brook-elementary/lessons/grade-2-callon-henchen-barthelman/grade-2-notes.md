@@ -9,7 +9,7 @@
 
 ## 📍 Quick Scan
 
-- **Workbook note:** [open workbook note](../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-2-notes.md)
+- **Workbook note:** [open workbook note](../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-2-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../spring-2026-teaching-schedule-derek.md)
 - **Class blocks:** Day 1 10:45-11:35 Callon, Day 1 2:15-3:05 Henchen, Day 4 10:45-11:35 Barthelman
 - **Lesson directories:** 34

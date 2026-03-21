@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 4
 - **Grade hub:** [open grade hub](../grade-4-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-4-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-4-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Packet focus:** robot sensors, event-response logic, and debugging input-output behaviors
 - **LaTeX source:** [event-driven-robot-coding.tex](./event-driven-robot-coding.tex)
@@ -30,7 +30,7 @@
 ## 🔗 Transcript and Local Evidence
 
 - **Evidence note:** [260303-grade-4-baris-event-sensors-evidence.md](./260303-grade-4-baris-event-sensors-evidence.md)
-- **Transcript:** [260303-grade-4-baris-event-sensors.md](../../../../transcripts/260303-grade-4-baris-event-sensors.md)
+- **Transcript:** [260303-grade-4-baris-event-sensors.md](../../../../transcripts/grade-4/260303-grade-4-baris-event-sensors.md)
 
 ## 🌐 Official Lesson / Reference
 

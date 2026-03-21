@@ -12,7 +12,7 @@
 
 - **Grade:** Kindergarten
 - **Grade hub:** [open grade hub](../kindergarten-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-kindergarten-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-kindergarten-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Packet focus:** digital tool onboarding, recording, and visual-response routines
 - **LaTeX source:** [digital-coloring-and-tool-routines.tex](./digital-coloring-and-tool-routines.tex)
@@ -31,8 +31,8 @@
 
 - **Evidence note:** [260317-kindergarten-justinger-robot-safety-evidence.md](./260317-kindergarten-justinger-robot-safety-evidence.md)
 - **Evidence note:** [260318-kindergarten-justinger-coloring-robotics-evidence.md](./260318-kindergarten-justinger-coloring-robotics-evidence.md)
-- **Transcript:** [260317-kindergarten-justinger-robot-safety.md](../../../../transcripts/260317-kindergarten-justinger-robot-safety.md)
-- **Transcript:** [260318-kindergarten-justinger-coloring-robotics.md](../../../../transcripts/260318-kindergarten-justinger-coloring-robotics.md)
+- **Transcript:** [260317-kindergarten-justinger-robot-safety.md](../../../../transcripts/kindergarten/260317-kindergarten-justinger-robot-safety.md)
+- **Transcript:** [260318-kindergarten-justinger-coloring-robotics.md](../../../../transcripts/kindergarten/260318-kindergarten-justinger-coloring-robotics.md)
 
 ## 🌐 Official Lesson / Reference
 

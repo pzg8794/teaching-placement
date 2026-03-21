@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 1
 - **Grade hub:** [open grade hub](../grade-1-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-1-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-1-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Workbook sessions:** `Session 13`
 - **Months:** December
@@ -41,8 +41,8 @@
 
 - **Evidence note:** [260212-grade-1-gargana-lego-wall-evidence.md](../interactive-word-wall-build/260212-grade-1-gargana-lego-wall-evidence.md)
 - **Evidence note:** [260211-grade-1-gargana-lego-conflict-evidence.md](../lego-game-and-conflict-resolution/260211-grade-1-gargana-lego-conflict-evidence.md)
-- **Transcript:** [260211-grade-1-gargana-lego-conflict.md](../../../../transcripts/260211-grade-1-gargana-lego-conflict.md)
-- **Transcript:** [260212-grade-1-gargana-lego-wall.md](../../../../transcripts/260212-grade-1-gargana-lego-wall.md)
+- **Transcript:** [260211-grade-1-gargana-lego-conflict.md](../../../../transcripts/grade-1/260211-grade-1-gargana-lego-conflict.md)
+- **Transcript:** [260212-grade-1-gargana-lego-wall.md](../../../../transcripts/grade-1/260212-grade-1-gargana-lego-wall.md)
 
 ## 🌐 Official Lesson / Reference
 

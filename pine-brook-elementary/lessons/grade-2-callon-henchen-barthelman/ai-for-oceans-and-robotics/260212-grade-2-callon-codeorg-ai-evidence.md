@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 4
 - 👥 **Grade Cue:** Grade 2
 - 📍 **Class Match Confidence:** medium
-- ⚪ **Canonical Transcript:** [260212-grade-2-callon-codeorg-ai.md](../../../../transcripts/260212-grade-2-callon-codeorg-ai.md)
+- ⚪ **Canonical Transcript:** [260212-grade-2-callon-codeorg-ai.md](../../../../transcripts/grade-2/260212-grade-2-callon-codeorg-ai.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

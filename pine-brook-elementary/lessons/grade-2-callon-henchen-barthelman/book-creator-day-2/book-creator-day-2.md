@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 2
 - **Grade hub:** [open grade hub](../grade-2-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-2-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-2-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Workbook sessions:** `Session 18`
 - **Months:** January
@@ -42,9 +42,9 @@
 - **Evidence note:** [260225-grade-2-callon-book-circle-evidence.md](../robotics-and-digital-book-project/260225-grade-2-callon-book-circle-evidence.md)
 - **Evidence note:** [260225-grade-2-callon-sphero-book-evidence.md](../robotics-and-digital-book-project/260225-grade-2-callon-sphero-book-evidence.md)
 - **Evidence note:** [260227-grade-2-callon-creator-onboarding-evidence.md](../robotics-and-digital-book-project/260227-grade-2-callon-creator-onboarding-evidence.md)
-- **Transcript:** [260225-grade-2-callon-book-circle.md](../../../../transcripts/260225-grade-2-callon-book-circle.md)
-- **Transcript:** [260225-grade-2-callon-sphero-book.md](../../../../transcripts/260225-grade-2-callon-sphero-book.md)
-- **Transcript:** [260227-grade-2-callon-creator-onboarding.md](../../../../transcripts/260227-grade-2-callon-creator-onboarding.md)
+- **Transcript:** [260225-grade-2-callon-book-circle.md](../../../../transcripts/grade-2/260225-grade-2-callon-book-circle.md)
+- **Transcript:** [260225-grade-2-callon-sphero-book.md](../../../../transcripts/grade-2/260225-grade-2-callon-sphero-book.md)
+- **Transcript:** [260227-grade-2-callon-creator-onboarding.md](../../../../transcripts/grade-2/260227-grade-2-callon-creator-onboarding.md)
 
 ## 🌐 Official Lesson / Reference
 

@@ -21,6 +21,6 @@
 
 - [Lesson outline map](./lesson-outline-notes.md)
 - [Evidence note guide](./evidence-notes.md)
-- [Workbook hub](../teaching-placement-ignite-curriculum-gcsd-25-26-notes.md)
+- [Workbook hub](../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-notes.md)
 - [Source transcripts index](../../transcripts/transcripts-notes.md)
 - [Teaching schedule](../spring-2026-teaching-schedule-derek.md)

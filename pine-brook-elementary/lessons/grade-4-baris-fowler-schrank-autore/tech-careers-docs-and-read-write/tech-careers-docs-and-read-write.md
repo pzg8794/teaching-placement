@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 4
 - **Grade hub:** [open grade hub](../grade-4-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-4-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-4-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Workbook sessions:** `Session 13`
 - **Months:** December
@@ -26,7 +26,7 @@
 ## 🔗 Transcript and Local Evidence
 
 - **Evidence note:** [260302-grade-4-baris-innovation-docs-evidence.md](../minecraft-coding-fundamentals/260302-grade-4-baris-innovation-docs-evidence.md)
-- **Transcript:** [260302-grade-4-baris-innovation-docs.md](../../../../transcripts/260302-grade-4-baris-innovation-docs.md)
+- **Transcript:** [260302-grade-4-baris-innovation-docs.md](../../../../transcripts/grade-4/260302-grade-4-baris-innovation-docs.md)
 
 ## 🌐 Official Lesson / Reference
 

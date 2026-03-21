@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 5
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260313-grade-5-pickett-sphero-events-and-minecraft.md](../../../../transcripts/260313-grade-5-pickett-sphero-events-and-minecraft.md)
+- ⚪ **Canonical Transcript:** [260313-grade-5-pickett-sphero-events-and-minecraft.md](../../../../transcripts/grade-5/260313-grade-5-pickett-sphero-events-and-minecraft.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

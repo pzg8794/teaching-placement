@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 5
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260227-grade-3-lamanaco-block-coding.md](../../../../transcripts/260227-grade-3-lamanaco-block-coding.md)
+- ⚪ **Canonical Transcript:** [260227-grade-3-lamanaco-block-coding.md](../../../../transcripts/grade-3/260227-grade-3-lamanaco-block-coding.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

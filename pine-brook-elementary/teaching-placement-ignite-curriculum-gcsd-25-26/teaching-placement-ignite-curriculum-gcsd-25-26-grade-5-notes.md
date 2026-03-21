@@ -11,15 +11,15 @@
 ## 📍 Quick Scan
 
 - **Workbook sheet:** `5th`
-- **Grade guide:** [open grade guide](./lessons/grade-5-pickett-mcglashon-pecora/grade-5-notes.md)
+- **Grade guide:** [open grade guide](../lessons/grade-5-pickett-mcglashon-pecora/grade-5-notes.md)
 - **Class blocks:** Day 2 `10:45-11:35` Pickett, Day 3 `10:45-11:35` McGlashon, Day 5 `10:45-11:35` Pecora
 - **Sessions captured:** `35`
 - **Months represented:** September, October, November, December, January, February, March, April, May, June
 
 ## 🔗 Workbook Packet Links
 
-- **Robot Logic and Conditional Coding:** [guide](./lessons/grade-5-pickett-mcglashon-pecora/robot-logic-and-conditional-coding/robot-logic-and-conditional-coding.md) | [pdf](./lessons/grade-5-pickett-mcglashon-pecora/robot-logic-and-conditional-coding/robot-logic-and-conditional-coding.pdf)
-- **Tinkercad Design and Revision:** [guide](./lessons/grade-5-pickett-mcglashon-pecora/tinkercad-design-and-revision/tinkercad-design-and-revision.md) | [pdf](./lessons/grade-5-pickett-mcglashon-pecora/tinkercad-design-and-revision/tinkercad-design-and-revision.pdf)
+- **Robot Logic and Conditional Coding:** [guide](../lessons/grade-5-pickett-mcglashon-pecora/robot-logic-and-conditional-coding/robot-logic-and-conditional-coding.md) | [pdf](../lessons/grade-5-pickett-mcglashon-pecora/robot-logic-and-conditional-coding/robot-logic-and-conditional-coding.pdf)
+- **Tinkercad Design and Revision:** [guide](../lessons/grade-5-pickett-mcglashon-pecora/tinkercad-design-and-revision/tinkercad-design-and-revision.md) | [pdf](../lessons/grade-5-pickett-mcglashon-pecora/tinkercad-design-and-revision/tinkercad-design-and-revision.pdf)
 
 ## 🧠 How To Use This Grade Sheet
 

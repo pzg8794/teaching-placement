@@ -11,16 +11,16 @@
 ## 📍 Quick Scan
 
 - **Workbook sheet:** `3rd`
-- **Grade guide:** [open grade guide](./lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/grade-3-notes.md)
+- **Grade guide:** [open grade guide](../lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/grade-3-notes.md)
 - **Class blocks:** Day 3 `9:50-10:40` Lamanaco, Day 4 `9:50-10:40` Lallucci, Day 5 `9:50-10:40` Regelsberger, Day 5 `2:15-3:05` Tandoi
 - **Sessions captured:** `35`
 - **Months represented:** September, October, November, December, January, February, March, April, May, June
 
 ## 🔗 Workbook Packet Links
 
-- **Block Coding with Sphero:** [guide](./lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-sphero/block-coding-with-sphero.md) | [pdf](./lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-sphero/block-coding-with-sphero.pdf)
-- **Responsible AI and Canva Publishing:** [guide](./lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/responsible-ai-and-canva-publishing/responsible-ai-and-canva-publishing.md) | [pdf](./lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/responsible-ai-and-canva-publishing/responsible-ai-and-canva-publishing.pdf)
-- **Block Coding with Bees:** [guide](./lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-bees/block-coding-with-bees.md) | [pdf](./lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-bees/block-coding-with-bees.pdf)
+- **Block Coding with Sphero:** [guide](../lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-sphero/block-coding-with-sphero.md) | [pdf](../lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-sphero/block-coding-with-sphero.pdf)
+- **Responsible AI and Canva Publishing:** [guide](../lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/responsible-ai-and-canva-publishing/responsible-ai-and-canva-publishing.md) | [pdf](../lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/responsible-ai-and-canva-publishing/responsible-ai-and-canva-publishing.pdf)
+- **Block Coding with Bees:** [guide](../lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-bees/block-coding-with-bees.md) | [pdf](../lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-bees/block-coding-with-bees.pdf)
 
 ## 🧠 How To Use This Grade Sheet
 

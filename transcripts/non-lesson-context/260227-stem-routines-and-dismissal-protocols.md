@@ -10,7 +10,7 @@
 
 ## ⚡ Quick Scan
 
-- 📄 **Source TXT:** [260227-stem-routines-and-dismissal-protocols.txt](./260227-stem-routines-and-dismissal-protocols.txt)
+- 📄 **Source TXT:** [260227-stem-routines-and-dismissal-protocols.txt](260227-stem-routines-and-dismissal-protocols.txt)
 - 🧩 **Transcript-derived lesson notes:** [evidence-notes.md](../../pine-brook-elementary/lessons/evidence-notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 

@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 1
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260302-grade-4-baris-minecraft-test.md](../../../../transcripts/260302-grade-4-baris-minecraft-test.md)
+- ⚪ **Canonical Transcript:** [260302-grade-4-baris-minecraft-test.md](../../../../transcripts/grade-4/260302-grade-4-baris-minecraft-test.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

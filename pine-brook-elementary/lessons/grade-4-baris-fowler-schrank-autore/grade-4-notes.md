@@ -9,7 +9,7 @@
 
 ## 📍 Quick Scan
 
-- **Workbook note:** [open workbook note](../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-4-notes.md)
+- **Workbook note:** [open workbook note](../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-4-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../spring-2026-teaching-schedule-derek.md)
 - **Class blocks:** Day 1 1:15-2:10 Baris, Day 2 1:15-2:10 Fowler, Day 3 1:15-2:10 Schrank, Day 4 1:15-2:10 Autore
 - **Lesson directories:** 31

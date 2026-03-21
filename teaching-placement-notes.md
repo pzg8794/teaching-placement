@@ -29,7 +29,7 @@
 
 - [🟢 Lessons](./pine-brook-elementary/lessons/lessons-notes.md)
 - [🔴 School / Placement](./pine-brook-elementary/pine-brook-elementary-notes.md)
-- [⚪ Transcripts](./transcripts/transcripts-notes.md)
+- [⚪ Transcripts](transcripts/transcripts-notes.md)
 - [🟫 Snapshots](./pine-brook-elementary/snapshots/snapshots-notes.md)
 
 ---
@@ -43,13 +43,14 @@
 - [🟢 Lessons](./pine-brook-elementary/lessons/lessons-notes.md)
 - [🔴 School / Placement](./pine-brook-elementary/pine-brook-elementary-notes.md)
 - [🟫 Snapshots](./pine-brook-elementary/snapshots/snapshots-notes.md)
-- [⚪ Transcripts](./transcripts/transcripts-notes.md)
+- [⚪ Transcripts](transcripts/transcripts-notes.md)
+- [⚫ Workspace rules](./workspace-rules-notes.md)
 
 ---
 
 ## 🧠 Memory Tip
 
-- If you are looking for **what happened in class**, start in [⚪ Transcripts](./transcripts/transcripts-notes.md).
+- If you are looking for **what happened in class**, start in [⚪ Transcripts](transcripts/transcripts-notes.md).
 - If you are looking for **what to teach next**, start in [🟢 Lessons](./pine-brook-elementary/lessons/lessons-notes.md).
 - If you are looking for **when or with which class**, start in [🔴 School / Placement](./pine-brook-elementary/pine-brook-elementary-notes.md).
 - If you want to **share something**, send the link to the real folder or file itself instead of using a duplicate share directory.

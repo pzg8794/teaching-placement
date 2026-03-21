@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 5
 - **Grade hub:** [open grade hub](../grade-5-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-5-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-5-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Packet focus:** 3D design, iteration, and design-justification workflows
 - **LaTeX source:** [tinkercad-design-and-revision.tex](./tinkercad-design-and-revision.tex)
@@ -31,8 +31,8 @@
 
 - **Evidence note:** [260303-grade-5-pickett-gif-video-evidence.md](./260303-grade-5-pickett-gif-video-evidence.md)
 - **Evidence note:** [260304-grade-5-pickett-tinkercad-evidence.md](./260304-grade-5-pickett-tinkercad-evidence.md)
-- **Transcript:** [260303-grade-5-pickett-gif-video.md](../../../../transcripts/260303-grade-5-pickett-gif-video.md)
-- **Transcript:** [260304-grade-5-pickett-tinkercad.md](../../../../transcripts/260304-grade-5-pickett-tinkercad.md)
+- **Transcript:** [260303-grade-5-pickett-gif-video.md](../../../../transcripts/grade-5/260303-grade-5-pickett-gif-video.md)
+- **Transcript:** [260304-grade-5-pickett-tinkercad.md](../../../../transcripts/grade-5/260304-grade-5-pickett-tinkercad.md)
 
 ## 🌐 Official Lesson / Reference
 

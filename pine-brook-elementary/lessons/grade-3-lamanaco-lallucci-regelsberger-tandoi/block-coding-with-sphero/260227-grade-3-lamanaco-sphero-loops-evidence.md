@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 5
 - 👥 **Grade Cue:** Grade 3
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260227-grade-3-lamanaco-sphero-loops.md](../../../../transcripts/260227-grade-3-lamanaco-sphero-loops.md)
+- ⚪ **Canonical Transcript:** [260227-grade-3-lamanaco-sphero-loops.md](../../../../transcripts/grade-3/260227-grade-3-lamanaco-sphero-loops.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 3
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260225-grade-2-callon-sphero-book.md](../../../../transcripts/260225-grade-2-callon-sphero-book.md)
+- ⚪ **Canonical Transcript:** [260225-grade-2-callon-sphero-book.md](../../../../transcripts/grade-2/260225-grade-2-callon-sphero-book.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

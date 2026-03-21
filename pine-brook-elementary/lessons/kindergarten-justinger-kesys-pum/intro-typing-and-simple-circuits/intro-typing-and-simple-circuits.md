@@ -12,7 +12,7 @@
 
 - **Grade:** Kindergarten
 - **Grade hub:** [open grade hub](../kindergarten-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-kindergarten-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-kindergarten-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Packet focus:** keyboard entry, simple circuits, and early sequencing routines
 - **LaTeX source:** [intro-typing-and-simple-circuits.tex](./intro-typing-and-simple-circuits.tex)
@@ -33,10 +33,10 @@
 - **Evidence note:** [260305-kindergarten-justinger-typing-circuits-evidence.md](./260305-kindergarten-justinger-typing-circuits-evidence.md)
 - **Evidence note:** [260311-kindergarten-justinger-basic-circuits-evidence.md](./260311-kindergarten-justinger-basic-circuits-evidence.md)
 - **Evidence note:** [260311-kindergarten-justinger-cordables-evidence.md](./260311-kindergarten-justinger-cordables-evidence.md)
-- **Transcript:** [260305-kindergarten-justinger-circuits-summary.md](../../../../transcripts/260305-kindergarten-justinger-circuits-summary.md)
-- **Transcript:** [260305-kindergarten-justinger-typing-circuits.md](../../../../transcripts/260305-kindergarten-justinger-typing-circuits.md)
-- **Transcript:** [260311-kindergarten-justinger-basic-circuits.md](../../../../transcripts/260311-kindergarten-justinger-basic-circuits.md)
-- **Transcript:** [260311-kindergarten-justinger-cordables.md](../../../../transcripts/260311-kindergarten-justinger-cordables.md)
+- **Transcript:** [260305-kindergarten-justinger-circuits-summary.md](../../../../transcripts/kindergarten/260305-kindergarten-justinger-circuits-summary.md)
+- **Transcript:** [260305-kindergarten-justinger-typing-circuits.md](../../../../transcripts/kindergarten/260305-kindergarten-justinger-typing-circuits.md)
+- **Transcript:** [260311-kindergarten-justinger-basic-circuits.md](../../../../transcripts/kindergarten/260311-kindergarten-justinger-basic-circuits.md)
+- **Transcript:** [260311-kindergarten-justinger-cordables.md](../../../../transcripts/kindergarten/260311-kindergarten-justinger-cordables.md)
 
 ## 🌐 Official Lesson / Reference
 

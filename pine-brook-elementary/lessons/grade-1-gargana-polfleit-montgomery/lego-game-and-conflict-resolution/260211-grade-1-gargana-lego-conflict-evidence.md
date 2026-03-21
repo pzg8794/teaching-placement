@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 3
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260211-grade-1-gargana-lego-conflict.md](../../../../transcripts/260211-grade-1-gargana-lego-conflict.md)
+- ⚪ **Canonical Transcript:** [260211-grade-1-gargana-lego-conflict.md](../../../../transcripts/grade-1/260211-grade-1-gargana-lego-conflict.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

@@ -9,7 +9,7 @@
 
 ## 📍 Quick Scan
 
-- **Workbook note:** [open workbook note](../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-5-notes.md)
+- **Workbook note:** [open workbook note](../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-5-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../spring-2026-teaching-schedule-derek.md)
 - **Class blocks:** Day 2 10:45-11:35 Pickett, Day 3 10:45-11:35 McGlashon, Day 5 10:45-11:35 Pecora
 - **Lesson directories:** 35

@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 5
 - **Grade hub:** [open grade hub](../grade-5-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-5-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-5-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Workbook sessions:** `Session 12`
 - **Months:** December
@@ -26,7 +26,7 @@
 ## 🔗 Transcript and Local Evidence
 
 - **Evidence note:** [260313-grade-5-pickett-sphero-events-and-minecraft-evidence.md](../robot-logic-and-conditional-coding/260313-grade-5-pickett-sphero-events-and-minecraft-evidence.md)
-- **Transcript:** [260313-grade-5-pickett-sphero-events-and-minecraft.md](../../../../transcripts/260313-grade-5-pickett-sphero-events-and-minecraft.md)
+- **Transcript:** [260313-grade-5-pickett-sphero-events-and-minecraft.md](../../../../transcripts/grade-5/260313-grade-5-pickett-sphero-events-and-minecraft.md)
 
 ## 🌐 Official Lesson / Reference
 

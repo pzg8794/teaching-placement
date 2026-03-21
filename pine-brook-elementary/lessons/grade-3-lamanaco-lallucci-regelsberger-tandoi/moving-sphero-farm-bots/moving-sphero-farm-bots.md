@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 3
 - **Grade hub:** [open grade hub](../grade-3-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-3-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-3-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Workbook sessions:** `Session 22`
 - **Months:** March
@@ -41,8 +41,8 @@
 
 - **Evidence note:** [260227-grade-3-lamanaco-sphero-loops-evidence.md](../block-coding-with-sphero/260227-grade-3-lamanaco-sphero-loops-evidence.md)
 - **Evidence note:** [260306-grade-3-lamanaco-sphero-class-review-evidence.md](../block-coding-with-sphero/260306-grade-3-lamanaco-sphero-class-review-evidence.md)
-- **Transcript:** [260227-grade-3-lamanaco-sphero-loops.md](../../../../transcripts/260227-grade-3-lamanaco-sphero-loops.md)
-- **Transcript:** [260306-grade-3-lamanaco-sphero-class-review.md](../../../../transcripts/260306-grade-3-lamanaco-sphero-class-review.md)
+- **Transcript:** [260227-grade-3-lamanaco-sphero-loops.md](../../../../transcripts/grade-3/260227-grade-3-lamanaco-sphero-loops.md)
+- **Transcript:** [260306-grade-3-lamanaco-sphero-class-review.md](../../../../transcripts/grade-3/260306-grade-3-lamanaco-sphero-class-review.md)
 
 ## 🌐 Official Lesson / Reference
 

@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 2
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260303-grade-4-baris-event-sensors.md](../../../../transcripts/260303-grade-4-baris-event-sensors.md)
+- ⚪ **Canonical Transcript:** [260303-grade-4-baris-event-sensors.md](../../../../transcripts/grade-4/260303-grade-4-baris-event-sensors.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

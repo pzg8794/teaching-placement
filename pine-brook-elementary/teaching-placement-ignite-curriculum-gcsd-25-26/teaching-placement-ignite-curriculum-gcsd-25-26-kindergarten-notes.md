@@ -11,15 +11,15 @@
 ## 📍 Quick Scan
 
 - **Workbook sheet:** `K`
-- **Grade guide:** [open grade guide](./lessons/kindergarten-justinger-kesys-pum/kindergarten-notes.md)
+- **Grade guide:** [open grade guide](../lessons/kindergarten-justinger-kesys-pum/kindergarten-notes.md)
 - **Class blocks:** Day 1 `12:25-1:15` Justinger, Day 2 `12:25-1:15` Kesys, Day 4 `12:25-1:15` Pum
 - **Sessions captured:** `33`
 - **Months represented:** September, October, November, December, January, February, March, April, May, June
 
 ## 🔗 Workbook Packet Links
 
-- **Digital Coloring and Tool Routines:** [guide](./lessons/kindergarten-justinger-kesys-pum/digital-coloring-and-tool-routines/digital-coloring-and-tool-routines.md) | [pdf](./lessons/kindergarten-justinger-kesys-pum/digital-coloring-and-tool-routines/digital-coloring-and-tool-routines.pdf)
-- **Intro Typing and Simple Circuits:** [guide](./lessons/kindergarten-justinger-kesys-pum/intro-typing-and-simple-circuits/intro-typing-and-simple-circuits.md) | [pdf](./lessons/kindergarten-justinger-kesys-pum/intro-typing-and-simple-circuits/intro-typing-and-simple-circuits.pdf)
+- **Digital Coloring and Tool Routines:** [guide](../lessons/kindergarten-justinger-kesys-pum/digital-coloring-and-tool-routines/digital-coloring-and-tool-routines.md) | [pdf](../lessons/kindergarten-justinger-kesys-pum/digital-coloring-and-tool-routines/digital-coloring-and-tool-routines.pdf)
+- **Intro Typing and Simple Circuits:** [guide](../lessons/kindergarten-justinger-kesys-pum/intro-typing-and-simple-circuits/intro-typing-and-simple-circuits.md) | [pdf](../lessons/kindergarten-justinger-kesys-pum/intro-typing-and-simple-circuits/intro-typing-and-simple-circuits.pdf)
 
 ## 🧠 How To Use This Grade Sheet
 

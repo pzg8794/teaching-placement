@@ -9,7 +9,7 @@
 
 ## 📍 Quick Scan
 
-- **Workbook note:** [open workbook note](../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-3-notes.md)
+- **Workbook note:** [open workbook note](../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-3-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../spring-2026-teaching-schedule-derek.md)
 - **Class blocks:** Day 3 9:50-10:40 Lamanaco, Day 4 9:50-10:40 Lallucci, Day 5 9:50-10:40 Regelsberger, Day 5 2:15-3:05 Tandoi
 - **Lesson directories:** 35

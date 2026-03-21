@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 1
 - **Grade hub:** [open grade hub](../grade-1-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-1-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-1-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Packet focus:** maker-supported vocabulary, communication, and explanation
 - **LaTeX source:** [interactive-word-wall-build.tex](./interactive-word-wall-build.tex)
@@ -31,8 +31,8 @@
 
 - **Evidence note:** [260211-grade-1-gargana-word-wall-evidence.md](./260211-grade-1-gargana-word-wall-evidence.md)
 - **Evidence note:** [260212-grade-1-gargana-lego-wall-evidence.md](./260212-grade-1-gargana-lego-wall-evidence.md)
-- **Transcript:** [260211-grade-1-gargana-word-wall.md](../../../../transcripts/260211-grade-1-gargana-word-wall.md)
-- **Transcript:** [260212-grade-1-gargana-lego-wall.md](../../../../transcripts/260212-grade-1-gargana-lego-wall.md)
+- **Transcript:** [260211-grade-1-gargana-word-wall.md](../../../../transcripts/grade-1/260211-grade-1-gargana-word-wall.md)
+- **Transcript:** [260212-grade-1-gargana-lego-wall.md](../../../../transcripts/grade-1/260212-grade-1-gargana-lego-wall.md)
 
 ## 🌐 Official Lesson / Reference
 

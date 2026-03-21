@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 2
 - **Grade hub:** [open grade hub](../grade-2-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-2-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-2-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Packet focus:** introductory AI ideas, classification, and robotics transfer
 - **LaTeX source:** [ai-for-oceans-and-robotics.tex](./ai-for-oceans-and-robotics.tex)
@@ -31,8 +31,8 @@
 
 - **Evidence note:** [260211-grade-2-callon-ai-oceans-evidence.md](./260211-grade-2-callon-ai-oceans-evidence.md)
 - **Evidence note:** [260212-grade-2-callon-codeorg-ai-evidence.md](./260212-grade-2-callon-codeorg-ai-evidence.md)
-- **Transcript:** [260211-grade-2-callon-ai-oceans.md](../../../../transcripts/260211-grade-2-callon-ai-oceans.md)
-- **Transcript:** [260212-grade-2-callon-codeorg-ai.md](../../../../transcripts/260212-grade-2-callon-codeorg-ai.md)
+- **Transcript:** [260211-grade-2-callon-ai-oceans.md](../../../../transcripts/grade-2/260211-grade-2-callon-ai-oceans.md)
+- **Transcript:** [260212-grade-2-callon-codeorg-ai.md](../../../../transcripts/grade-2/260212-grade-2-callon-codeorg-ai.md)
 
 ## 🌐 Official Lesson / Reference
 

@@ -11,15 +11,15 @@
 ## 📍 Quick Scan
 
 - **Workbook sheet:** `4th`
-- **Grade guide:** [open grade guide](./lessons/grade-4-baris-fowler-schrank-autore/grade-4-notes.md)
+- **Grade guide:** [open grade guide](../lessons/grade-4-baris-fowler-schrank-autore/grade-4-notes.md)
 - **Class blocks:** Day 1 `1:15-2:10` Baris, Day 2 `1:15-2:10` Fowler, Day 3 `1:15-2:10` Schrank, Day 4 `1:15-2:10` Autore
 - **Sessions captured:** `35`
 - **Months represented:** September, October, November, December, January, February, March, April, May, June
 
 ## 🔗 Workbook Packet Links
 
-- **Event-Driven Robot Coding:** [guide](./lessons/grade-4-baris-fowler-schrank-autore/event-driven-robot-coding/event-driven-robot-coding.md) | [pdf](./lessons/grade-4-baris-fowler-schrank-autore/event-driven-robot-coding/event-driven-robot-coding.pdf)
-- **Minecraft Coding Fundamentals:** [guide](./lessons/grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/minecraft-coding-fundamentals.md) | [pdf](./lessons/grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/minecraft-coding-fundamentals.pdf)
+- **Event-Driven Robot Coding:** [guide](../lessons/grade-4-baris-fowler-schrank-autore/event-driven-robot-coding/event-driven-robot-coding.md) | [pdf](../lessons/grade-4-baris-fowler-schrank-autore/event-driven-robot-coding/event-driven-robot-coding.pdf)
+- **Minecraft Coding Fundamentals:** [guide](../lessons/grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/minecraft-coding-fundamentals.md) | [pdf](../lessons/grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/minecraft-coding-fundamentals.pdf)
 
 ## 🧠 How To Use This Grade Sheet
 

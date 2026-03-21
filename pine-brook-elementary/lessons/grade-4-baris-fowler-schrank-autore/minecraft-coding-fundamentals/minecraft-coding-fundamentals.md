@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 4
 - **Grade hub:** [open grade hub](../grade-4-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-4-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-4-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Packet focus:** agent-based coding, debugging, and computational problem solving in Minecraft Education
 - **LaTeX source:** [minecraft-coding-fundamentals.tex](./minecraft-coding-fundamentals.tex)
@@ -43,20 +43,20 @@
 - **Evidence note:** [260317-grade-4-baris-agent-puzzles-evidence.md](./260317-grade-4-baris-agent-puzzles-evidence.md)
 - **Evidence note:** [260317-grade-4-baris-block-one-evidence.md](./260317-grade-4-baris-block-one-evidence.md)
 - **Evidence note:** [260318-grade-4-baris-turtle-rescue-evidence.md](./260318-grade-4-baris-turtle-rescue-evidence.md)
-- **Transcript:** [260302-grade-4-baris-innovation-docs.md](../../../../transcripts/260302-grade-4-baris-innovation-docs.md)
-- **Transcript:** [260302-grade-4-baris-minecraft-test.md](../../../../transcripts/260302-grade-4-baris-minecraft-test.md)
-- **Transcript:** [260303-grade-4-baris-build-rotation.md](../../../../transcripts/260303-grade-4-baris-build-rotation.md)
-- **Transcript:** [260303-grade-4-baris-minecraft-integration.md](../../../../transcripts/260303-grade-4-baris-minecraft-integration.md)
-- **Transcript:** [260303-grade-4-baris-prison-build.md](../../../../transcripts/260303-grade-4-baris-prison-build.md)
-- **Transcript:** [260305-grade-4-baris-minecraft-summary.md](../../../../transcripts/260305-grade-4-baris-minecraft-summary.md)
-- **Transcript:** [260309-grade-4-baris-minecraft-loops.md](../../../../transcripts/260309-grade-4-baris-minecraft-loops.md)
-- **Transcript:** [260312-grade-4-baris-agent-challenge.md](../../../../transcripts/260312-grade-4-baris-agent-challenge.md)
-- **Transcript:** [260312-grade-4-baris-game-based-learning.md](../../../../transcripts/260312-grade-4-baris-game-based-learning.md)
-- **Transcript:** [260313-grade-4-baris-minecraft-fundamentals.md](../../../../transcripts/260313-grade-4-baris-minecraft-fundamentals.md)
-- **Transcript:** [260313-grade-4-baris-minecraft-signin.md](../../../../transcripts/260313-grade-4-baris-minecraft-signin.md)
-- **Transcript:** [260317-grade-4-baris-agent-puzzles.md](../../../../transcripts/260317-grade-4-baris-agent-puzzles.md)
-- **Transcript:** [260317-grade-4-baris-block-one.md](../../../../transcripts/260317-grade-4-baris-block-one.md)
-- **Transcript:** [260318-grade-4-baris-turtle-rescue.md](../../../../transcripts/260318-grade-4-baris-turtle-rescue.md)
+- **Transcript:** [260302-grade-4-baris-innovation-docs.md](../../../../transcripts/grade-4/260302-grade-4-baris-innovation-docs.md)
+- **Transcript:** [260302-grade-4-baris-minecraft-test.md](../../../../transcripts/grade-4/260302-grade-4-baris-minecraft-test.md)
+- **Transcript:** [260303-grade-4-baris-build-rotation.md](../../../../transcripts/grade-4/260303-grade-4-baris-build-rotation.md)
+- **Transcript:** [260303-grade-4-baris-minecraft-integration.md](../../../../transcripts/grade-4/260303-grade-4-baris-minecraft-integration.md)
+- **Transcript:** [260303-grade-4-baris-prison-build.md](../../../../transcripts/grade-4/260303-grade-4-baris-prison-build.md)
+- **Transcript:** [260305-grade-4-baris-minecraft-summary.md](../../../../transcripts/grade-4/260305-grade-4-baris-minecraft-summary.md)
+- **Transcript:** [260309-grade-4-baris-minecraft-loops.md](../../../../transcripts/grade-4/260309-grade-4-baris-minecraft-loops.md)
+- **Transcript:** [260312-grade-4-baris-agent-challenge.md](../../../../transcripts/grade-4/260312-grade-4-baris-agent-challenge.md)
+- **Transcript:** [260312-grade-4-baris-game-based-learning.md](../../../../transcripts/grade-4/260312-grade-4-baris-game-based-learning.md)
+- **Transcript:** [260313-grade-4-baris-minecraft-fundamentals.md](../../../../transcripts/grade-4/260313-grade-4-baris-minecraft-fundamentals.md)
+- **Transcript:** [260313-grade-4-baris-minecraft-signin.md](../../../../transcripts/grade-4/260313-grade-4-baris-minecraft-signin.md)
+- **Transcript:** [260317-grade-4-baris-agent-puzzles.md](../../../../transcripts/grade-4/260317-grade-4-baris-agent-puzzles.md)
+- **Transcript:** [260317-grade-4-baris-block-one.md](../../../../transcripts/grade-4/260317-grade-4-baris-block-one.md)
+- **Transcript:** [260318-grade-4-baris-turtle-rescue.md](../../../../transcripts/grade-4/260318-grade-4-baris-turtle-rescue.md)
 
 ## 🧩 Local Source Materials
 

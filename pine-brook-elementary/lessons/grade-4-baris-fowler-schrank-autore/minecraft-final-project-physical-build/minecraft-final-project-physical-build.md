@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 4
 - **Grade hub:** [open grade hub](../grade-4-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-4-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-4-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Workbook sessions:** `Session 33`
 - **Months:** June
@@ -42,9 +42,9 @@
 - **Evidence note:** [260302-grade-4-baris-minecraft-test-evidence.md](../minecraft-coding-fundamentals/260302-grade-4-baris-minecraft-test-evidence.md)
 - **Evidence note:** [260303-grade-4-baris-build-rotation-evidence.md](../minecraft-coding-fundamentals/260303-grade-4-baris-build-rotation-evidence.md)
 - **Evidence note:** [260303-grade-4-baris-minecraft-integration-evidence.md](../minecraft-coding-fundamentals/260303-grade-4-baris-minecraft-integration-evidence.md)
-- **Transcript:** [260302-grade-4-baris-minecraft-test.md](../../../../transcripts/260302-grade-4-baris-minecraft-test.md)
-- **Transcript:** [260303-grade-4-baris-build-rotation.md](../../../../transcripts/260303-grade-4-baris-build-rotation.md)
-- **Transcript:** [260303-grade-4-baris-minecraft-integration.md](../../../../transcripts/260303-grade-4-baris-minecraft-integration.md)
+- **Transcript:** [260302-grade-4-baris-minecraft-test.md](../../../../transcripts/grade-4/260302-grade-4-baris-minecraft-test.md)
+- **Transcript:** [260303-grade-4-baris-build-rotation.md](../../../../transcripts/grade-4/260303-grade-4-baris-build-rotation.md)
+- **Transcript:** [260303-grade-4-baris-minecraft-integration.md](../../../../transcripts/grade-4/260303-grade-4-baris-minecraft-integration.md)
 
 ## 🌐 Official Lesson / Reference
 

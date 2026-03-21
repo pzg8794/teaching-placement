@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 4
 - 👥 **Grade Cue:** Kindergarten canonical home
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260305-kindergarten-justinger-typing-circuits.md](../../../../transcripts/260305-kindergarten-justinger-typing-circuits.md)-transcript.txt)
+- ⚪ **Canonical Transcript:** [260305-kindergarten-justinger-typing-circuits.md](../../../../transcripts/kindergarten/260305-kindergarten-justinger-typing-circuits.md)-transcript.txt)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 2
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260317-kindergarten-justinger-robot-safety.md](../../../../transcripts/260317-kindergarten-justinger-robot-safety.md)
+- ⚪ **Canonical Transcript:** [260317-kindergarten-justinger-robot-safety.md](../../../../transcripts/kindergarten/260317-kindergarten-justinger-robot-safety.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

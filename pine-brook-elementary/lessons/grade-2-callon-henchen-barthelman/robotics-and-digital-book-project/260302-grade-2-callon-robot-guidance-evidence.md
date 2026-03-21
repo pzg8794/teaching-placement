@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 1
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260302-grade-2-callon-robot-guidance.md](../../../../transcripts/260302-grade-2-callon-robot-guidance.md)
+- ⚪ **Canonical Transcript:** [260302-grade-2-callon-robot-guidance.md](../../../../transcripts/grade-2/260302-grade-2-callon-robot-guidance.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

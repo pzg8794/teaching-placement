@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 5
 - 👥 **Grade Cue:** Grade 5 canonical home
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260227-grade-5-pickett-conditional-sphero.md](../../../../transcripts/260227-grade-5-pickett-conditional-sphero.md)
+- ⚪ **Canonical Transcript:** [260227-grade-5-pickett-conditional-sphero.md](../../../../transcripts/grade-5/260227-grade-5-pickett-conditional-sphero.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

@@ -11,15 +11,15 @@
 ## 📍 Quick Scan
 
 - **Workbook sheet:** `1st`
-- **Grade guide:** [open grade guide](./lessons/grade-1-gargana-polfleit-montgomery/grade-1-notes.md)
+- **Grade guide:** [open grade guide](../lessons/grade-1-gargana-polfleit-montgomery/grade-1-notes.md)
 - **Class blocks:** Day 3 `12:25-1:15` Gargana, Day 3 `2:15-3:05` Polfleit, Day 5 `12:25-1:15` Montgomery
 - **Sessions captured:** `33`
 - **Months represented:** September, October, November, December, January, February, March, April, May, June
 
 ## 🔗 Workbook Packet Links
 
-- **Interactive Word Wall Build:** [guide](./lessons/grade-1-gargana-polfleit-montgomery/interactive-word-wall-build/interactive-word-wall-build.md) | [pdf](./lessons/grade-1-gargana-polfleit-montgomery/interactive-word-wall-build/interactive-word-wall-build.pdf)
-- **LEGO Game and Conflict Resolution:** [guide](./lessons/grade-1-gargana-polfleit-montgomery/lego-game-and-conflict-resolution/lego-game-and-conflict-resolution.md) | [pdf](./lessons/grade-1-gargana-polfleit-montgomery/lego-game-and-conflict-resolution/lego-game-and-conflict-resolution.pdf)
+- **Interactive Word Wall Build:** [guide](../lessons/grade-1-gargana-polfleit-montgomery/interactive-word-wall-build/interactive-word-wall-build.md) | [pdf](../lessons/grade-1-gargana-polfleit-montgomery/interactive-word-wall-build/interactive-word-wall-build.pdf)
+- **LEGO Game and Conflict Resolution:** [guide](../lessons/grade-1-gargana-polfleit-montgomery/lego-game-and-conflict-resolution/lego-game-and-conflict-resolution.md) | [pdf](../lessons/grade-1-gargana-polfleit-montgomery/lego-game-and-conflict-resolution/lego-game-and-conflict-resolution.pdf)
 
 ## 🧠 How To Use This Grade Sheet
 

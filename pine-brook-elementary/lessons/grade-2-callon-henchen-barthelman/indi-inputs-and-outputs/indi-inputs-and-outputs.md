@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 2
 - **Grade hub:** [open grade hub](../grade-2-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-2-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-2-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Workbook sessions:** `Session 27`
 - **Months:** April
@@ -40,7 +40,7 @@
 ## 🔗 Transcript and Local Evidence
 
 - **Evidence note:** [260305-grade-2-callon-indi-book-evidence.md](../robotics-and-digital-book-project/260305-grade-2-callon-indi-book-evidence.md)
-- **Transcript:** [260305-grade-2-callon-indi-book.md](../../../../transcripts/260305-grade-2-callon-indi-book.md)
+- **Transcript:** [260305-grade-2-callon-indi-book.md](../../../../transcripts/grade-2/260305-grade-2-callon-indi-book.md)
 
 ## 🌐 Official Lesson / Reference
 

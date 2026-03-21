@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 3
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260304-grade-5-pickett-tinkercad.md](../../../../transcripts/260304-grade-5-pickett-tinkercad.md)
+- ⚪ **Canonical Transcript:** [260304-grade-5-pickett-tinkercad.md](../../../../transcripts/grade-5/260304-grade-5-pickett-tinkercad.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

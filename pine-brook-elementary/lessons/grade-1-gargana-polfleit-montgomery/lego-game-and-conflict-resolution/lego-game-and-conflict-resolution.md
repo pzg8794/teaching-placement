@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 1
 - **Grade hub:** [open grade hub](../grade-1-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-1-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-1-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Packet focus:** collaboration, problem solving, and structured game-based routines
 - **LaTeX source:** [lego-game-and-conflict-resolution.tex](./lego-game-and-conflict-resolution.tex)
@@ -30,7 +30,7 @@
 ## 🔗 Transcript and Local Evidence
 
 - **Evidence note:** [260211-grade-1-gargana-lego-conflict-evidence.md](./260211-grade-1-gargana-lego-conflict-evidence.md)
-- **Transcript:** [260211-grade-1-gargana-lego-conflict.md](../../../../transcripts/260211-grade-1-gargana-lego-conflict.md)
+- **Transcript:** [260211-grade-1-gargana-lego-conflict.md](../../../../transcripts/grade-1/260211-grade-1-gargana-lego-conflict.md)
 
 ## 🌐 Official Lesson / Reference
 

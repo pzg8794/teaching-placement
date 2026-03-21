@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 4
 - 👥 **Grade Cue:** Grade 3
 - 📍 **Class Match Confidence:** medium
-- ⚪ **Canonical Transcript:** [260226-grade-3-lamanaco-ai-canva.md](../../../../transcripts/260226-grade-3-lamanaco-ai-canva.md)
+- ⚪ **Canonical Transcript:** [260226-grade-3-lamanaco-ai-canva.md](../../../../transcripts/grade-3/260226-grade-3-lamanaco-ai-canva.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

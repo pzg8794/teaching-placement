@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 3
 - **Grade hub:** [open grade hub](../grade-3-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-3-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-3-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Packet focus:** AI literacy, responsible use, and digital publishing choices
 - **LaTeX source:** [responsible-ai-and-canva-publishing.tex](./responsible-ai-and-canva-publishing.tex)
@@ -30,7 +30,7 @@
 ## 🔗 Transcript and Local Evidence
 
 - **Evidence note:** [260226-grade-3-lamanaco-ai-canva-evidence.md](./260226-grade-3-lamanaco-ai-canva-evidence.md)
-- **Transcript:** [260226-grade-3-lamanaco-ai-canva.md](../../../../transcripts/260226-grade-3-lamanaco-ai-canva.md)
+- **Transcript:** [260226-grade-3-lamanaco-ai-canva.md](../../../../transcripts/grade-3/260226-grade-3-lamanaco-ai-canva.md)
 
 ## 🌐 Official Lesson / Reference
 

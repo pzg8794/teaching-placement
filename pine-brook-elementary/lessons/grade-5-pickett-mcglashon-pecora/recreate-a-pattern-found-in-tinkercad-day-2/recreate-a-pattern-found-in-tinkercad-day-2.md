@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 5
 - **Grade hub:** [open grade hub](../grade-5-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-5-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-5-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Workbook sessions:** `Session 23`
 - **Months:** March
@@ -40,7 +40,7 @@
 ## 🔗 Transcript and Local Evidence
 
 - **Evidence note:** [260304-grade-5-pickett-tinkercad-evidence.md](../tinkercad-design-and-revision/260304-grade-5-pickett-tinkercad-evidence.md)
-- **Transcript:** [260304-grade-5-pickett-tinkercad.md](../../../../transcripts/260304-grade-5-pickett-tinkercad.md)
+- **Transcript:** [260304-grade-5-pickett-tinkercad.md](../../../../transcripts/grade-5/260304-grade-5-pickett-tinkercad.md)
 
 ## 🌐 Official Lesson / Reference
 

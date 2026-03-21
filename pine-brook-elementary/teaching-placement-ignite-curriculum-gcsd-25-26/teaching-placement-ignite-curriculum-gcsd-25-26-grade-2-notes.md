@@ -11,15 +11,15 @@
 ## 📍 Quick Scan
 
 - **Workbook sheet:** `2nd`
-- **Grade guide:** [open grade guide](./lessons/grade-2-callon-henchen-barthelman/grade-2-notes.md)
+- **Grade guide:** [open grade guide](../lessons/grade-2-callon-henchen-barthelman/grade-2-notes.md)
 - **Class blocks:** Day 1 `10:45-11:35` Callon, Day 1 `2:15-3:05` Henchen, Day 4 `10:45-11:35` Barthelman
 - **Sessions captured:** `35`
 - **Months represented:** September, October, November, December, January, February, March, April, May, June
 
 ## 🔗 Workbook Packet Links
 
-- **AI for Oceans and Robotics:** [guide](./lessons/grade-2-callon-henchen-barthelman/ai-for-oceans-and-robotics/ai-for-oceans-and-robotics.md) | [pdf](./lessons/grade-2-callon-henchen-barthelman/ai-for-oceans-and-robotics/ai-for-oceans-and-robotics.pdf)
-- **Robotics and Digital Book Project:** [guide](./lessons/grade-2-callon-henchen-barthelman/robotics-and-digital-book-project/robotics-and-digital-book-project.md) | [pdf](./lessons/grade-2-callon-henchen-barthelman/robotics-and-digital-book-project/robotics-and-digital-book-project.pdf)
+- **AI for Oceans and Robotics:** [guide](../lessons/grade-2-callon-henchen-barthelman/ai-for-oceans-and-robotics/ai-for-oceans-and-robotics.md) | [pdf](../lessons/grade-2-callon-henchen-barthelman/ai-for-oceans-and-robotics/ai-for-oceans-and-robotics.pdf)
+- **Robotics and Digital Book Project:** [guide](../lessons/grade-2-callon-henchen-barthelman/robotics-and-digital-book-project/robotics-and-digital-book-project.md) | [pdf](../lessons/grade-2-callon-henchen-barthelman/robotics-and-digital-book-project/robotics-and-digital-book-project.pdf)
 
 ## 🧠 How To Use This Grade Sheet
 

@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 3
 - **Grade hub:** [open grade hub](../grade-3-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-3-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-3-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Packet focus:** block coding, movement logic, loops, and debugging with robots
 - **LaTeX source:** [block-coding-with-sphero.tex](./block-coding-with-sphero.tex)
@@ -36,13 +36,13 @@
 - **Evidence note:** [260306-grade-3-lamanaco-sphero-class-review-evidence.md](./260306-grade-3-lamanaco-sphero-class-review-evidence.md)
 - **Evidence note:** [260306-grade-3-lamanaco-square-maze-evidence.md](./260306-grade-3-lamanaco-square-maze-evidence.md)
 - **Evidence note:** [260312-grade-3-lamanaco-bb8-evidence.md](./260312-grade-3-lamanaco-bb8-evidence.md)
-- **Transcript:** [260227-grade-3-lamanaco-block-coding.md](../../../../transcripts/260227-grade-3-lamanaco-block-coding.md)
-- **Transcript:** [260227-grade-3-lamanaco-sphero-loops.md](../../../../transcripts/260227-grade-3-lamanaco-sphero-loops.md)
-- **Transcript:** [260227-grade-3-lamanaco-square-trace.md](../../../../transcripts/260227-grade-3-lamanaco-square-trace.md)
-- **Transcript:** [260306-grade-3-lamanaco-bolt-loops.md](../../../../transcripts/260306-grade-3-lamanaco-bolt-loops.md)
-- **Transcript:** [260306-grade-3-lamanaco-sphero-class-review.md](../../../../transcripts/260306-grade-3-lamanaco-sphero-class-review.md)
-- **Transcript:** [260306-grade-3-lamanaco-square-maze.md](../../../../transcripts/260306-grade-3-lamanaco-square-maze.md)
-- **Transcript:** [260312-grade-3-lamanaco-bb8.md](../../../../transcripts/260312-grade-3-lamanaco-bb8.md)
+- **Transcript:** [260227-grade-3-lamanaco-block-coding.md](../../../../transcripts/grade-3/260227-grade-3-lamanaco-block-coding.md)
+- **Transcript:** [260227-grade-3-lamanaco-sphero-loops.md](../../../../transcripts/grade-3/260227-grade-3-lamanaco-sphero-loops.md)
+- **Transcript:** [260227-grade-3-lamanaco-square-trace.md](../../../../transcripts/grade-3/260227-grade-3-lamanaco-square-trace.md)
+- **Transcript:** [260306-grade-3-lamanaco-bolt-loops.md](../../../../transcripts/grade-3/260306-grade-3-lamanaco-bolt-loops.md)
+- **Transcript:** [260306-grade-3-lamanaco-sphero-class-review.md](../../../../transcripts/grade-3/260306-grade-3-lamanaco-sphero-class-review.md)
+- **Transcript:** [260306-grade-3-lamanaco-square-maze.md](../../../../transcripts/grade-3/260306-grade-3-lamanaco-square-maze.md)
+- **Transcript:** [260312-grade-3-lamanaco-bb8.md](../../../../transcripts/grade-3/260312-grade-3-lamanaco-bb8.md)
 
 ## 🌐 Official Lesson / Reference
 

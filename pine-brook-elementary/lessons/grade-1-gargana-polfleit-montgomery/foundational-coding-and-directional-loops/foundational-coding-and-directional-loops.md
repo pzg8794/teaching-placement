@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 1
 - **Grade hub:** [open grade hub](../grade-1-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-1-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-1-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Packet focus:** directional sequencing, early loops, and physical-to-digital coding transfer
 - **LaTeX source:** [foundational-coding-and-directional-loops.tex](./foundational-coding-and-directional-loops.tex)
@@ -30,7 +30,7 @@
 ## 🔗 Transcript and Local Evidence
 
 - **Evidence note:** [260309-grade-1-gargana-directional-loops-evidence.md](./260309-grade-1-gargana-directional-loops-evidence.md)
-- **Transcript:** [260309-grade-1-gargana-directional-loops.md](../../../../transcripts/260309-grade-1-gargana-directional-loops.md)
+- **Transcript:** [260309-grade-1-gargana-directional-loops.md](../../../../transcripts/grade-1/260309-grade-1-gargana-directional-loops.md)
 
 ## 🌐 Official Lesson / Reference
 

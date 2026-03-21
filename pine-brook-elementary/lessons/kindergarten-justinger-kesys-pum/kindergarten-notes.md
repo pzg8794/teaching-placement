@@ -9,7 +9,7 @@
 
 ## 📍 Quick Scan
 
-- **Workbook note:** [open workbook note](../../teaching-placement-ignite-curriculum-gcsd-25-26-kindergarten-notes.md)
+- **Workbook note:** [open workbook note](../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-kindergarten-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../spring-2026-teaching-schedule-derek.md)
 - **Class blocks:** Day 1 12:25-1:15 Justinger, Day 2 12:25-1:15 Kesys, Day 4 12:25-1:15 Pum
 - **Lesson directories:** 34

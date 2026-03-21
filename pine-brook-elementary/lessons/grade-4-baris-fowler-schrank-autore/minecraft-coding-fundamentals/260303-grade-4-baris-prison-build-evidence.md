@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 2
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260303-grade-4-baris-prison-build.md](../../../../transcripts/260303-grade-4-baris-prison-build.md)
+- ⚪ **Canonical Transcript:** [260303-grade-4-baris-prison-build.md](../../../../transcripts/grade-4/260303-grade-4-baris-prison-build.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---

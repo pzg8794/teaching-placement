@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 2
 - **Grade hub:** [open grade hub](../grade-2-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-2-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-2-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Packet focus:** robotics routines, digital storytelling, and explanatory products
 - **LaTeX source:** [robotics-and-digital-book-project.tex](./robotics-and-digital-book-project.tex)
@@ -37,14 +37,14 @@
 - **Evidence note:** [260302-grade-2-callon-robot-guidance-evidence.md](./260302-grade-2-callon-robot-guidance-evidence.md)
 - **Evidence note:** [260305-grade-2-callon-book-recommendations-evidence.md](./260305-grade-2-callon-book-recommendations-evidence.md)
 - **Evidence note:** [260305-grade-2-callon-indi-book-evidence.md](./260305-grade-2-callon-indi-book-evidence.md)
-- **Transcript:** [260225-grade-2-callon-book-circle.md](../../../../transcripts/260225-grade-2-callon-book-circle.md)
-- **Transcript:** [260225-grade-2-callon-sphero-book.md](../../../../transcripts/260225-grade-2-callon-sphero-book.md)
-- **Transcript:** [260225-grade-2-callon-video-robotics.md](../../../../transcripts/260225-grade-2-callon-video-robotics.md)
-- **Transcript:** [260226-grade-2-callon-robotics-routines.md](../../../../transcripts/260226-grade-2-callon-robotics-routines.md)
-- **Transcript:** [260227-grade-2-callon-creator-onboarding.md](../../../../transcripts/260227-grade-2-callon-creator-onboarding.md)
-- **Transcript:** [260302-grade-2-callon-robot-guidance.md](../../../../transcripts/260302-grade-2-callon-robot-guidance.md)
-- **Transcript:** [260305-grade-2-callon-book-recommendations.md](../../../../transcripts/260305-grade-2-callon-book-recommendations.md)
-- **Transcript:** [260305-grade-2-callon-indi-book.md](../../../../transcripts/260305-grade-2-callon-indi-book.md)
+- **Transcript:** [260225-grade-2-callon-book-circle.md](../../../../transcripts/grade-2/260225-grade-2-callon-book-circle.md)
+- **Transcript:** [260225-grade-2-callon-sphero-book.md](../../../../transcripts/grade-2/260225-grade-2-callon-sphero-book.md)
+- **Transcript:** [260225-grade-2-callon-video-robotics.md](../../../../transcripts/grade-2/260225-grade-2-callon-video-robotics.md)
+- **Transcript:** [260226-grade-2-callon-robotics-routines.md](../../../../transcripts/grade-2/260226-grade-2-callon-robotics-routines.md)
+- **Transcript:** [260227-grade-2-callon-creator-onboarding.md](../../../../transcripts/grade-2/260227-grade-2-callon-creator-onboarding.md)
+- **Transcript:** [260302-grade-2-callon-robot-guidance.md](../../../../transcripts/grade-2/260302-grade-2-callon-robot-guidance.md)
+- **Transcript:** [260305-grade-2-callon-book-recommendations.md](../../../../transcripts/grade-2/260305-grade-2-callon-book-recommendations.md)
+- **Transcript:** [260305-grade-2-callon-indi-book.md](../../../../transcripts/grade-2/260305-grade-2-callon-indi-book.md)
 
 ## 🌐 Official Lesson / Reference
 

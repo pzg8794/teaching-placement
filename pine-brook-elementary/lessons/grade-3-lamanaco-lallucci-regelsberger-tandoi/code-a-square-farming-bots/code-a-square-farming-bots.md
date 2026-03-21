@@ -12,7 +12,7 @@
 
 - **Grade:** Grade 3
 - **Grade hub:** [open grade hub](../grade-3-notes.md)
-- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26-grade-3-notes.md)
+- **Workbook note:** [open workbook note](../../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-3-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 - **Workbook sessions:** `Session 23`
 - **Months:** March
@@ -41,8 +41,8 @@
 
 - **Evidence note:** [260227-grade-3-lamanaco-square-trace-evidence.md](../block-coding-with-sphero/260227-grade-3-lamanaco-square-trace-evidence.md)
 - **Evidence note:** [260306-grade-3-lamanaco-square-maze-evidence.md](../block-coding-with-sphero/260306-grade-3-lamanaco-square-maze-evidence.md)
-- **Transcript:** [260227-grade-3-lamanaco-square-trace.md](../../../../transcripts/260227-grade-3-lamanaco-square-trace.md)
-- **Transcript:** [260306-grade-3-lamanaco-square-maze.md](../../../../transcripts/260306-grade-3-lamanaco-square-maze.md)
+- **Transcript:** [260227-grade-3-lamanaco-square-trace.md](../../../../transcripts/grade-3/260227-grade-3-lamanaco-square-trace.md)
+- **Transcript:** [260306-grade-3-lamanaco-square-maze.md](../../../../transcripts/grade-3/260306-grade-3-lamanaco-square-maze.md)
 
 ## 🌐 Official Lesson / Reference
 

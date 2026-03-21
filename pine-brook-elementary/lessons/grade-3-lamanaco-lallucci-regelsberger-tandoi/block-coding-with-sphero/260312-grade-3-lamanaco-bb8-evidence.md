@@ -14,7 +14,7 @@
 - 🔁 **Rotation Day:** Day 4
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
-- ⚪ **Canonical Transcript:** [260312-grade-3-lamanaco-bb8.md](../../../../transcripts/260312-grade-3-lamanaco-bb8.md)
+- ⚪ **Canonical Transcript:** [260312-grade-3-lamanaco-bb8.md](../../../../transcripts/grade-3/260312-grade-3-lamanaco-bb8.md)
 - 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../../../spring-2026-teaching-schedule-derek.md)
 
 ---
