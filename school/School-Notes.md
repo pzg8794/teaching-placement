@@ -19,7 +19,14 @@
 
 ## 🧾 School Document Notes
 
-- [📘 IGNITE curriculum workbook notes](./teaching-placement-ignite-curriculum-gcsd-25-26-notes.md)
+
+- [📘 Workbook hub](./teaching-placement-ignite-curriculum-gcsd-25-26-notes.md)
+- [🟡 Kindergarten workbook notes](./teaching-placement-ignite-curriculum-gcsd-25-26-kindergarten-notes.md)
+- [🟠 Grade 1 workbook notes](./teaching-placement-ignite-curriculum-gcsd-25-26-grade-1-notes.md)
+- [🟢 Grade 2 workbook notes](./teaching-placement-ignite-curriculum-gcsd-25-26-grade-2-notes.md)
+- [🔵 Grade 3 workbook notes](./teaching-placement-ignite-curriculum-gcsd-25-26-grade-3-notes.md)
+- [🟣 Grade 4 workbook notes](./teaching-placement-ignite-curriculum-gcsd-25-26-grade-4-notes.md)
+- [🔴 Grade 5 workbook notes](./teaching-placement-ignite-curriculum-gcsd-25-26-grade-5-notes.md)
 - [🖥️ Pine Brook IGNITE schedule deck notes](./teaching-placement-pine-brook-ignite-schedule-deck-notes.md)
 - [📄 Internship graphic model notes](./teaching-placement-internship-graphic-model-notes.md)
 - [🎉 Welcome reception invitation notes](./student-teacher-intern-welcome-celebration-invitation-notes.md)
