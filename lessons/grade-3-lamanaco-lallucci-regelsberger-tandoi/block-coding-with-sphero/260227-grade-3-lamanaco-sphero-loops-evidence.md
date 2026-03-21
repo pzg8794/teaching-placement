@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Grade 3
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [02-27 Lecture_ Sphero Block Coding for Third Graders—Pairing, Loops, Square Movement, Aiming, and Safety-transcript.txt](../transcripts/02-27%20Lecture_%20Sphero%20Block%20Coding%20for%20Third%20Graders—Pairing,%20Loops,%20Square%20Movement,%20Aiming,%20and%20Safety-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

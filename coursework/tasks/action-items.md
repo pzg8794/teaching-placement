@@ -204,9 +204,9 @@ Use this section as your “index” when revising lesson plans (micro-structure
 - Collaborative noticing notes (EDF436): `../../EDF436/Collaborative_Noticing_2026-02-16.md`
 
 ### D) Curriculum + placement context (constraints we must align to)
-- IGNITE schedule: `../school/Teaching_Placement-PineBrook IGNITE Schedule 25-26.pptx`
-- IGNITE curriculum: `../school/Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
-- Internship model graphic: `../school/Teaching_Placement-Internship_Graphic_Model.pdf`
+- IGNITE schedule: `../school/teaching-placement-pine-brook-ignite-schedule-25-26.pptx`
+- IGNITE curriculum: `../school/teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
+- Internship model graphic: `../school/teaching-placement-internship-graphic-model.pdf`
 - Student teaching handbook(s):
   - Placement copy: `../handbook/StudentTeachingHandbook - 2025-26.pdf`
   - Searchable text copy: `../handbook/StudentTeachingHandbook-2025-26.txt`

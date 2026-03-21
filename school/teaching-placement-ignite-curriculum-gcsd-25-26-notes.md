@@ -10,7 +10,7 @@
 
 ## 📍 Quick Scan
 
-- **Workbook:** `Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
+- **Workbook:** `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - **Core use:** Grade-by-grade planning spine for IGNITE
 - **Most important value for lesson work:**
   - lesson packet map
@@ -19,7 +19,7 @@
   - special education considerations
   - formal resource leads
 - **Best paired with:**
-  - [📅 schedule](./Spring2026_TeachingSchedule_Derek.md)
+  - [📅 schedule](./spring-2026-teaching-schedule-derek.md)
   - [📚 lessons hub](../lessons/Lessons-Notes.md)
   - [📝 transcripts hub](../transcripts/Transcripts-Notes.md)
 
@@ -330,9 +330,9 @@ This matters because the lesson packets should not feel isolated. They should re
 
 ## 📍 Related Files
 
-- [📗 Original workbook](./Teaching_Placement-IGNITE%20Curriculum_%20GCSD25-26.xlsx)
-- [📅 Placement schedule](./Spring2026_TeachingSchedule_Derek.md)
-- [🖥️ Schedule deck notes](./Teaching-Placement-PineBrook-IGNITE-Schedule-Deck-Notes.md)
+- [📗 Original workbook](./teaching-placement-ignite-curriculum-gcsd-25-26.xlsx)
+- [📅 Placement schedule](./spring-2026-teaching-schedule-derek.md)
+- [🖥️ Schedule deck notes](./teaching-placement-pine-brook-ignite-schedule-deck-notes.md)
 - [📚 Lessons hub](../lessons/Lessons-Notes.md)
 - [📝 Transcripts hub](../transcripts/Transcripts-Notes.md)
 - [🏫 School hub](./School-Notes.md)

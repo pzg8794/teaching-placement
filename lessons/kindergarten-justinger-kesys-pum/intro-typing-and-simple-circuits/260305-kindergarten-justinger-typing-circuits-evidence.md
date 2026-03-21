@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Kindergarten canonical home
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-05 Lecture_ Keyboard Typing Skills and Introductory Electricity Circuits with Play-Doh (K–5 Classroom)-transcript.txt](../transcripts/03-05%20Lecture_%20Keyboard%20Typing%20Skills%20and%20Introductory%20Electricity%20Circuits%20with%20Play-Doh%20(K–5%20Classroom)-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

@@ -12,8 +12,8 @@
 
 - 👥 **Grade:** Grade 1
 - 📘 **Grade Hub:** [Notes](../grade-1-Notes.md)
-- 📅 **Schedule Reference:** [Spring2026_TeachingSchedule_Derek.md](../../school/Spring2026_TeachingSchedule_Derek.md)
-- 🗂️ **Workbook Sheet:** `1st` in `Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
+- 📅 **Schedule Reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
+- 🗂️ **Workbook Sheet:** `1st` in `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - 🎯 **Lesson Focus:** A structured build or game task used to teach teamwork, turn-taking, and reflective problem solving while students work with shared materials.
 - 📏 **CS Alignment Strength:** Inclusive computing culture / collaboration support lesson
 - 🧾 **LaTeX Source:** [lego-game-and-conflict-resolution.tex](./lego-game-and-conflict-resolution.tex)

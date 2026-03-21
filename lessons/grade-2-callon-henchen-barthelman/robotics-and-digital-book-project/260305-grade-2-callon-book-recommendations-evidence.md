@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-05 Workshop_ Digital Project and Video Book Recommendations-transcript.txt](../transcripts/03-05%20Workshop_%20Digital%20Project%20and%20Video%20Book%20Recommendations-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

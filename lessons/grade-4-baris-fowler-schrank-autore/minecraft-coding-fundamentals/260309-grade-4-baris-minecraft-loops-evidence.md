@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-09 Class Session_ Code.org Navigation, Minecraft Education While Loops, and Classroom Pairing Strategies-transcript.txt](../transcripts/03-09%20Class%20Session_%20Code.org%20Navigation,%20Minecraft%20Education%20While%20Loops,%20and%20Classroom%20Pairing%20Strategies-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

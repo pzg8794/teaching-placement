@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-17 Workshop_ Programming Puzzles & Agent Control-transcript.txt](../transcripts/03-17%20Workshop_%20Programming%20Puzzles%20&%20Agent%20Control-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

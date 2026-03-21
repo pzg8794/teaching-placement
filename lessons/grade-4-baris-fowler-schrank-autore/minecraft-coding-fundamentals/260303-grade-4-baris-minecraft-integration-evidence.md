@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-03 Lecture_ Minecraft Education Integration, Hosting, and Standards-Aligned Lessons-transcript.txt](../transcripts/03-03%20Lecture_%20Minecraft%20Education%20Integration,%20Hosting,%20and%20Standards-Aligned%20Lessons-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

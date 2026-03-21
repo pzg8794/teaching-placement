@@ -13,7 +13,7 @@
 - **Document type:** PowerPoint roster deck
 - **Coverage:** Day 1 through Day 5
 - **Main value:** Shows which class is taught at which time block
-- **Best companion:** [Spring2026_TeachingSchedule_Derek.md](./Spring2026_TeachingSchedule_Derek.md)
+- **Best companion:** [spring-2026-teaching-schedule-derek.md](./spring-2026-teaching-schedule-derek.md)
 
 ---
 
@@ -85,7 +85,7 @@
 
 ## 📍 Related Files
 
-- [🖥️ Original schedule deck](./Teaching_Placement-PineBrook%20IGNITE%20Schedule%2025-26.pptx)
-- [📅 Full Markdown schedule](./Spring2026_TeachingSchedule_Derek.md)
+- [🖥️ Original schedule deck](./teaching-placement-pine-brook-ignite-schedule-25-26.pptx)
+- [📅 Full Markdown schedule](./spring-2026-teaching-schedule-derek.md)
 - [🏫 School hub](./School-Notes.md)
 

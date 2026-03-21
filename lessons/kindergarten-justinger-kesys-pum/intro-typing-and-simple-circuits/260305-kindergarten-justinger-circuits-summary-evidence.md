@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Kindergarten
 - 📍 **Class Match Confidence:** medium
 - ⚪ **Canonical Transcript:** [03-05 Lecture Summary_ Elementary Circuit Activity Planning and Kindergarten Typing Session-transcript.txt](../transcripts/03-05%20Lecture%20Summary_%20Elementary%20Circuit%20Activity%20Planning%20and%20Kindergarten%20Typing%20Session-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-09 Classroom Workshop_ Foundational Coding with Directional Sequencing, Loops, and Classroom Management-transcript.txt](../transcripts/03-09%20Classroom%20Workshop_%20Foundational%20Coding%20with%20Directional%20Sequencing,%20Loops,%20and%20Classroom%20Management-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Grade 3
 - 📍 **Class Match Confidence:** medium
 - ⚪ **Canonical Transcript:** [02-26 Workshop_ Third-Grade Responsible AI, Canva Workflows, and Book-Promotion Projects-transcript.txt](../transcripts/02-26%20Workshop_%20Third-Grade%20Responsible%20AI,%20Canva%20Workflows,%20and%20Book-Promotion%20Projects-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

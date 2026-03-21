@@ -29,7 +29,7 @@
 - ⚪ [Lesson evidence index](./Evidence-Notes.md)
 - 🗃️ [Source materials](./source-materials/Source-Materials-Notes.md)
 - ⚪ [Source transcripts index](../transcripts/Transcripts-Notes.md)
-- 📅 [Teaching schedule](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 [Teaching schedule](../school/spring-2026-teaching-schedule-derek.md)
 - 📏 [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
 
 ## 🧭 How To Use This

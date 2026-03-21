@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-18 Class Session_ Minecraft Education Coding Challenge – Boss Level Timing, Agent Movement, and Progression to Turtle Rescue-transcript.txt](../transcripts/03-18%20Class%20Session_%20Minecraft%20Education%20Coding%20Challenge%20–%20Boss%20Level%20Timing,%20Agent%20Movement,%20and%20Progression%20to%20Turtle%20Rescue-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

@@ -12,8 +12,8 @@
 
 - 👥 **Grade:** Grade 1
 - 📘 **Grade Hub:** [Notes](../grade-1-Notes.md)
-- 📅 **Schedule Reference:** [Spring2026_TeachingSchedule_Derek.md](../../school/Spring2026_TeachingSchedule_Derek.md)
-- 🗂️ **Workbook Sheet:** `1st` in `Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
+- 📅 **Schedule Reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
+- 🗂️ **Workbook Sheet:** `1st` in `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - 🎯 **Lesson Focus:** Students build an interactive vocabulary display that links words, visuals, and classroom-made media through QR or video-supported artifacts.
 - 📏 **CS Alignment Strength:** CS-adjacent digital communication and information representation
 - 🧾 **LaTeX Source:** [interactive-word-wall-build.tex](./interactive-word-wall-build.tex)

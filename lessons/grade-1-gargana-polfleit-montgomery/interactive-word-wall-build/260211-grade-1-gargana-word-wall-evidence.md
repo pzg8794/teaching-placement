@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [02-11 Lecture_ Interactive Vocabulary Videos with Google Vids and QR Lego Word Wall-transcript.txt](../transcripts/02-11%20Lecture_%20Interactive%20Vocabulary%20Videos%20with%20Google%20Vids%20and%20QR%20Lego%20Word%20Wall-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

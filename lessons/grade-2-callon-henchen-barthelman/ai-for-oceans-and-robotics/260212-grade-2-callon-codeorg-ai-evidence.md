@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Grade 2
 - 📍 **Class Match Confidence:** medium
 - ⚪ **Canonical Transcript:** [02-12 Lecture_ Code.org Login and Intro to AI Machine Learning for Second Grade-transcript.txt](../transcripts/02-12%20Lecture_%20Code.org%20Login%20and%20Intro%20to%20AI%20Machine%20Learning%20for%20Second%20Grade-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

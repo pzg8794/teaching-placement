@@ -12,8 +12,8 @@
 
 - 👥 **Grade:** Grade 3
 - 📘 **Grade Hub:** [Notes](../grade-3-Notes.md)
-- 📅 **Schedule Reference:** [Spring2026_TeachingSchedule_Derek.md](../../school/Spring2026_TeachingSchedule_Derek.md)
-- 🗂️ **Workbook Sheet:** `3rd` in `Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
+- 📅 **Schedule Reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
+- 🗂️ **Workbook Sheet:** `3rd` in `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - 🎯 **Lesson Focus:** Students pair robots, create movement programs, use loops for repeated motion, and debug route accuracy through floor-based challenges.
 - 📏 **CS Alignment Strength:** Strong CS lesson
 - 🧾 **LaTeX Source:** [block-coding-with-sphero.tex](./block-coding-with-sphero.tex)

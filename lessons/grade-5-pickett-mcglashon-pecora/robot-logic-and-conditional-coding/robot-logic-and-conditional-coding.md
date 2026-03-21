@@ -12,8 +12,8 @@
 
 - 👥 **Grade:** Grade 5
 - 📘 **Grade Hub:** [Notes](../grade-5-Notes.md)
-- 📅 **Schedule Reference:** [Spring2026_TeachingSchedule_Derek.md](../../school/Spring2026_TeachingSchedule_Derek.md)
-- 🗂️ **Workbook Sheet:** `5th` in `Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
+- 📅 **Schedule Reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
+- 🗂️ **Workbook Sheet:** `5th` in `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - 🎯 **Lesson Focus:** Students move from basic robot control to conditional logic, using sensors, events, or logic choices to change what the robot does.
 - 📏 **CS Alignment Strength:** Strong CS lesson
 - 🧾 **LaTeX Source:** [robot-logic-and-conditional-coding.tex](./robot-logic-and-conditional-coding.tex)

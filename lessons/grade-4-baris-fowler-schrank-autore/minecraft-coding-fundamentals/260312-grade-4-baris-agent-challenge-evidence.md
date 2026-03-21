@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-12 Workshop_ Minecraft Education Coding Challenge — Agent Pathfinding, Timed Dual Plate Activation, Debugging, and Loops-transcript.txt](../transcripts/03-12%20Workshop_%20Minecraft%20Education%20Coding%20Challenge%20—%20Agent%20Pathfinding,%20Timed%20Dual%20Plate%20Activation,%20Debugging,%20and%20Loops-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [02-11 Lecture_ AI for Oceans, Machine Learning, and LEGO Robotics-transcript.txt](../transcripts/02-11%20Lecture_%20AI%20for%20Oceans,%20Machine%20Learning,%20and%20LEGO%20Robotics-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

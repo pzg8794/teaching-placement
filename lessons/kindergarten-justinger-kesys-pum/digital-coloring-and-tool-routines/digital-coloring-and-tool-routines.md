@@ -12,8 +12,8 @@
 
 - 👥 **Grade:** Kindergarten
 - 📘 **Grade Hub:** [Notes](../kindergarten-Notes.md)
-- 📅 **Schedule Reference:** [Spring2026_TeachingSchedule_Derek.md](../../school/Spring2026_TeachingSchedule_Derek.md)
-- 🗂️ **Workbook Sheet:** `K` in `Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
+- 📅 **Schedule Reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
+- 🗂️ **Workbook Sheet:** `K` in `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - 🎯 **Lesson Focus:** Device-opening routines, basic digital tool use, color selection, and early classroom computing habits.
 - 📏 **CS Alignment Strength:** Foundational CS / digital fluency
 - 🧾 **LaTeX Source:** [digital-coloring-and-tool-routines.tex](./digital-coloring-and-tool-routines.tex)

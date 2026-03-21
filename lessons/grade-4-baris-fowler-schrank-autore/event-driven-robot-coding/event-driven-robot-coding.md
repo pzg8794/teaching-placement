@@ -12,8 +12,8 @@
 
 - 👥 **Grade:** Grade 4
 - 📘 **Grade Hub:** [Notes](../grade-4-Notes.md)
-- 📅 **Schedule Reference:** [Spring2026_TeachingSchedule_Derek.md](../../school/Spring2026_TeachingSchedule_Derek.md)
-- 🗂️ **Workbook Sheet:** `4th` in `Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
+- 📅 **Schedule Reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
+- 🗂️ **Workbook Sheet:** `4th` in `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - 🎯 **Lesson Focus:** Students use Sphero sensor or event blocks to trigger robot behavior, then debug how input, environment, and code interact.
 - 📏 **CS Alignment Strength:** Strong CS lesson
 - 🧾 **LaTeX Source:** [event-driven-robot-coding.tex](./event-driven-robot-coding.tex)

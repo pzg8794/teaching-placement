@@ -12,8 +12,8 @@
 
 - 👥 **Grade:** Kindergarten
 - 📘 **Grade Hub:** [Notes](../kindergarten-Notes.md)
-- 📅 **Schedule Reference:** [Spring2026_TeachingSchedule_Derek.md](../../school/Spring2026_TeachingSchedule_Derek.md)
-- 🗂️ **Workbook Sheet:** `K` in `Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
+- 📅 **Schedule Reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
+- 🗂️ **Workbook Sheet:** `K` in `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - 🎯 **Lesson Focus:** Short keyboarding routines paired with a teacher-guided introduction to simple circuits using Play-Doh and classroom-safe materials.
 - 📏 **CS Alignment Strength:** Foundational CS + physical computing bridge
 - 🧾 **LaTeX Source:** [intro-typing-and-simple-circuits.tex](./intro-typing-and-simple-circuits.tex)

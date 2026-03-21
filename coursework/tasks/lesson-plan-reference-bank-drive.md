@@ -122,13 +122,13 @@ These are the most “lesson-shaped” artifacts to reference for pacing, clarit
 - Student Teaching Handbook (searchable TXT): https://drive.google.com/open?id=1mz7wC54ICmGDYWwUP-5qedO5KqvjWMVW  
   Local: `Semester5/Semester3(UofR)/TeachingPlacement/coursework/handbook/StudentTeachingHandbook-2025-26.txt`
 - IGNITE curriculum (XLSX): https://drive.google.com/open?id=1ZuP_-abEgVUO5uGwCTtgoBjPtJ6aGU7S  
-  Local: `Semester5/Semester3(UofR)/TeachingPlacement/school/Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
+  Local: `Semester5/Semester3(UofR)/TeachingPlacement/school/teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - IGNITE schedule (PPTX): https://drive.google.com/open?id=1AvQUXUIh70gS2nzzUqxBeWaWPUZaY-aG  
-  Local: `Semester5/Semester3(UofR)/TeachingPlacement/school/Teaching_Placement-PineBrook IGNITE Schedule 25-26.pptx`
+  Local: `Semester5/Semester3(UofR)/TeachingPlacement/school/teaching-placement-pine-brook-ignite-schedule-25-26.pptx`
 - Internship model graphic (PDF): https://drive.google.com/open?id=1_-B9BADG0iPT-XUPytt-NYRqvi-vaGn7  
-  Local: `Semester5/Semester3(UofR)/TeachingPlacement/school/Teaching_Placement-Internship_Graphic_Model.pdf`
+  Local: `Semester5/Semester3(UofR)/TeachingPlacement/school/teaching-placement-internship-graphic-model.pdf`
 - Teaching schedule (MD): https://drive.google.com/open?id=1iBj3KooLSrNnpCwNmHPEVsxf3BIFHxuQ  
-  Local: `Semester5/Semester3(UofR)/TeachingPlacement/school/Spring2026_TeachingSchedule_Derek.md`
+  Local: `Semester5/Semester3(UofR)/TeachingPlacement/school/spring-2026-teaching-schedule-derek.md`
 
 ---
 

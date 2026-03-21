@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-06 Lecture_ Sphero Robotics—Square Path Programming and Maze Navigation-transcript.txt](../transcripts/03-06%20Lecture_%20Sphero%20Robotics—Square%20Path%20Programming%20and%20Maze%20Navigation-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

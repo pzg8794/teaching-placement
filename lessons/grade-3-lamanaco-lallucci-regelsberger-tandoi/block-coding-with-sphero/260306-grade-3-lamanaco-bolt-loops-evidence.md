@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-06 Lesson_ Sphero BOLT Block-Coding — Aiming, Angles, Loops, and Classroom Management-transcript.txt](../transcripts/03-06%20Lesson_%20Sphero%20BOLT%20Block-Coding%20—%20Aiming,%20Angles,%20Loops,%20and%20Classroom%20Management-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

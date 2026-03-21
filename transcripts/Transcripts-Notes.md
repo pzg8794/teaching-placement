@@ -13,7 +13,7 @@
 - [🧩 Transcript-derived lesson notes](../lessons/Evidence-Notes.md)
 - [🟢 Grade-based lesson hub](../lessons/Lessons-Notes.md)
 - [🗺️ Canonical lesson outline](../lessons/Lesson-Outline-Notes.md)
-- [🔴 Teaching schedule](../school/Spring2026_TeachingSchedule_Derek.md)
+- [🔴 Teaching schedule](../school/spring-2026-teaching-schedule-derek.md)
 - [🧭 Non-lesson context notes](./non-lesson-context/Context-Notes.md)
 
 ## 🎓 Teaching / Lesson Transcript Sources

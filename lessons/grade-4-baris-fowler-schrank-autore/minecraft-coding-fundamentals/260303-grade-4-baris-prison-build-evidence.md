@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-03 Consistent Rules and Clear Brief for Hands-On Prison Build Classroom Activity-transcript.txt](../transcripts/03-03%20Consistent%20Rules%20and%20Clear%20Brief%20for%20Hands-On%20Prison%20Build%20Classroom%20Activity-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

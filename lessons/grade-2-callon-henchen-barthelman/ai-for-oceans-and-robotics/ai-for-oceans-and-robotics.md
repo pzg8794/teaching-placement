@@ -12,8 +12,8 @@
 
 - 👥 **Grade:** Grade 2
 - 📘 **Grade Hub:** [Notes](../grade-2-Notes.md)
-- 📅 **Schedule Reference:** [Spring2026_TeachingSchedule_Derek.md](../../school/Spring2026_TeachingSchedule_Derek.md)
-- 🗂️ **Workbook Sheet:** `2nd` in `Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
+- 📅 **Schedule Reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
+- 🗂️ **Workbook Sheet:** `2nd` in `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - 🎯 **Lesson Focus:** Students explore how machine learning systems sort information, then connect classification ideas to early robotics and real-world problem solving.
 - 📏 **CS Alignment Strength:** Strong CS lesson
 - 🧾 **LaTeX Source:** [ai-for-oceans-and-robotics.tex](./ai-for-oceans-and-robotics.tex)

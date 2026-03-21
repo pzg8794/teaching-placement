@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-02 Lecture_ Invention vs. Innovation, Creative Brainstorming, and Google Docs Workflow-transcript.txt](../transcripts/03-02%20Lecture_%20Invention%20vs.%20Innovation,%20Creative%20Brainstorming,%20and%20Google%20Docs%20Workflow-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

@@ -39,6 +39,6 @@
 
 ## 📍 Related Files
 
-- [🎉 Original invitation PDF](./Student%20TeacherIntern%20Welcome%20Celebration%20Invitation%20%285%29.pdf)
+- [🎉 Original invitation PDF](./student-teacher-intern-welcome-celebration-invitation.pdf)
 - [🏫 School hub](./School-Notes.md)
 

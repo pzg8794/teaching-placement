@@ -12,8 +12,8 @@
 
 - 👥 **Grade:** Grade 2
 - 📘 **Grade Hub:** [Notes](../grade-2-Notes.md)
-- 📅 **Schedule Reference:** [Spring2026_TeachingSchedule_Derek.md](../../school/Spring2026_TeachingSchedule_Derek.md)
-- 🗂️ **Workbook Sheet:** `2nd` in `Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
+- 📅 **Schedule Reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
+- 🗂️ **Workbook Sheet:** `2nd` in `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - 🎯 **Lesson Focus:** Students combine simple robotics routines with digital storytelling or explanatory book creation, linking movement logic to written or multimedia communication.
 - 📏 **CS Alignment Strength:** Strong CS lesson with literacy integration
 - 🧾 **LaTeX Source:** [robotics-and-digital-book-project.tex](./robotics-and-digital-book-project.tex)

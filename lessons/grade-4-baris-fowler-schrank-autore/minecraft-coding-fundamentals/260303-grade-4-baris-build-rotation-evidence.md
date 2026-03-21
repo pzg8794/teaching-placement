@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-03 Class Review_ Hands-on Building, Functional Design, and Event-Driven Coding (Sphero, Code.org, Typing Agent)-transcript.txt](../transcripts/03-03%20Class%20Review_%20Hands-on%20Building,%20Functional%20Design,%20and%20Event-Driven%20Coding%20(Sphero,%20Code.org,%20Typing%20Agent)-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

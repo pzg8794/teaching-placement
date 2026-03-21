@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Grade 5 canonical home
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [02-27 Lecture_ Conditional Coding with Sphero Robots for Grades 4–5-transcript.txt](../transcripts/02-27%20Lecture_%20Conditional%20Coding%20with%20Sphero%20Robots%20for%20Grades%204–5-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

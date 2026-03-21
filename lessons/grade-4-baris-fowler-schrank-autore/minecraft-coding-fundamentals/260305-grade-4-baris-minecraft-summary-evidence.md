@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-05 Lesson Summary_ Minecraft Education Coding Fundamentals & Student Counseling Plan-transcript.txt](../transcripts/03-05%20Lesson%20Summary_%20Minecraft%20Education%20Coding%20Fundamentals%20&%20Student%20Counseling%20Plan-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

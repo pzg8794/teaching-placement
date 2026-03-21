@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-02 Class Review_ Minecraft Education Coding Test Lesson and Video Creation Workflow-transcript.txt](../transcripts/03-02%20Class%20Review_%20Minecraft%20Education%20Coding%20Test%20Lesson%20and%20Video%20Creation%20Workflow-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

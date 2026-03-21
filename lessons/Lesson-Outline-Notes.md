@@ -13,7 +13,7 @@
 - [🟢 Lessons hub](./Lessons-Notes.md)
 - [⚪ Transcript hub](../transcripts/Transcripts-Notes.md)
 - [⚪ Evidence hub](./Evidence-Notes.md)
-- [📅 Teaching schedule](../school/Spring2026_TeachingSchedule_Derek.md)
+- [📅 Teaching schedule](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

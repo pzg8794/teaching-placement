@@ -12,8 +12,8 @@
 
 - 👥 **Grade:** Grade 5
 - 📘 **Grade Hub:** [Notes](../grade-5-Notes.md)
-- 📅 **Schedule Reference:** [Spring2026_TeachingSchedule_Derek.md](../../school/Spring2026_TeachingSchedule_Derek.md)
-- 🗂️ **Workbook Sheet:** `5th` in `Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
+- 📅 **Schedule Reference:** [spring-2026-teaching-schedule-derek.md](../../school/spring-2026-teaching-schedule-derek.md)
+- 🗂️ **Workbook Sheet:** `5th` in `teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
 - 🎯 **Lesson Focus:** Students build 3D models in Tinkercad by placing shapes, using workplanes, grouping objects, and revising designs through iterative testing.
 - 📏 **CS Alignment Strength:** Moderate CS / computational artifact design
 - 🧾 **LaTeX Source:** [tinkercad-design-and-revision.tex](./tinkercad-design-and-revision.tex)

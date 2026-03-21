@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-03 Class Session_ Chromebook Camera, GIF Creation, TikTok-Style Videos, and Behavior Management-transcript.txt](../transcripts/03-03%20Class%20Session_%20Chromebook%20Camera,%20GIF%20Creation,%20TikTok-Style%20Videos,%20and%20Behavior%20Management-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

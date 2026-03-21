@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-13 Lecture_ Minecraft Installation, Sign-in Safety, and Collaborative Team Build Procedures-transcript.txt](../transcripts/03-13%20Lecture_%20Minecraft%20Installation,%20Sign-in%20Safety,%20and%20Collaborative%20Team%20Build%20Procedures-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

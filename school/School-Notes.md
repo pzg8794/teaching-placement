@@ -10,8 +10,8 @@
 
 ## 📍 Start Here
 
-- [📅 Teaching schedule](./Spring2026_TeachingSchedule_Derek.md)
-- [📘 Workbook notes](./Teaching-Placement-IGNITE-Curriculum-GCSD25-26-Notes.md)
+- [📅 Teaching schedule](./spring-2026-teaching-schedule-derek.md)
+- [📘 Workbook notes](./teaching-placement-ignite-curriculum-gcsd-25-26-notes.md)
 - [📚 Lessons hub](../lessons/Lessons-Notes.md)
 - [📝 Transcripts hub](../transcripts/Transcripts-Notes.md)
 
@@ -19,19 +19,19 @@
 
 ## 🧾 School Document Notes
 
-- [📘 IGNITE curriculum workbook notes](./Teaching-Placement-IGNITE-Curriculum-GCSD25-26-Notes.md)
-- [🖥️ Pine Brook IGNITE schedule deck notes](./Teaching-Placement-PineBrook-IGNITE-Schedule-Deck-Notes.md)
-- [📄 Internship graphic model notes](./Teaching-Placement-Internship-Graphic-Model-Notes.md)
-- [🎉 Welcome reception invitation notes](./Student-TeacherIntern-Welcome-Celebration-Invitation-Notes.md)
-- [📊 Attendance shortcut notes](./CS-Teaching-Placement-Attendance-Notes.md)
+- [📘 IGNITE curriculum workbook notes](./teaching-placement-ignite-curriculum-gcsd-25-26-notes.md)
+- [🖥️ Pine Brook IGNITE schedule deck notes](./teaching-placement-pine-brook-ignite-schedule-deck-notes.md)
+- [📄 Internship graphic model notes](./teaching-placement-internship-graphic-model-notes.md)
+- [🎉 Welcome reception invitation notes](./student-teacher-intern-welcome-celebration-invitation-notes.md)
+- [📊 Attendance shortcut notes](./cs-teaching-placement-attendance-notes.md)
 
 ---
 
 ## 📎 Original Files
 
-- [📅 Teaching schedule](./Spring2026_TeachingSchedule_Derek.md)
-- [🗂️ IGNITE curriculum workbook](./Teaching_Placement-IGNITE%20Curriculum_%20GCSD25-26.xlsx)
-- [🎉 Student teacher welcome celebration invitation](./Student%20TeacherIntern%20Welcome%20Celebration%20Invitation%20%285%29.pdf)
-- [📊 Attendance Google Sheet shortcut](./CS%20Teaching%20Placement%20Attendance.gsheet)
-- [📄 Internship graphic model](./Teaching_Placement-Internship_Graphic_Model.pdf)
-- [🖥️ Pine Brook IGNITE schedule deck](./Teaching_Placement-PineBrook%20IGNITE%20Schedule%2025-26.pptx)
+- [📅 Teaching schedule](./spring-2026-teaching-schedule-derek.md)
+- [🗂️ IGNITE curriculum workbook](./teaching-placement-ignite-curriculum-gcsd-25-26.xlsx)
+- [🎉 Student teacher welcome celebration invitation](./student-teacher-intern-welcome-celebration-invitation.pdf)
+- [📊 Attendance Google Sheet shortcut](./cs-teaching-placement-attendance.gsheet)
+- [📄 Internship graphic model](./teaching-placement-internship-graphic-model.pdf)
+- [🖥️ Pine Brook IGNITE schedule deck](./teaching-placement-pine-brook-ignite-schedule-25-26.pptx)

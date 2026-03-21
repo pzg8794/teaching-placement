@@ -26,7 +26,7 @@ This schedule reflects a strategic revision to optimize teaching quality, reduce
 
 ## PINE BROOK ROTATION ROSTER BY HOUR
 
-This roster is transcribed from the local PowerPoint schedule at [Teaching_Placement-PineBrook IGNITE Schedule 25-26.pptx](./Teaching_Placement-PineBrook%20IGNITE%20Schedule%2025-26.pptx). Use it to identify which class a transcript most likely belongs to by **date + weekday + hour + grade/topic cues**.
+This roster is transcribed from the local PowerPoint schedule at [teaching-placement-pine-brook-ignite-schedule-25-26.pptx](./teaching-placement-pine-brook-ignite-schedule-25-26.pptx). Use it to identify which class a transcript most likely belongs to by **date + weekday + hour + grade/topic cues**.
 
 ### MONDAY / DAY 1
 

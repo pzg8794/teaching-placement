@@ -10,7 +10,7 @@
 
 ## 📍 Start Here
 
-- [📅 Schedule roster with class-by-hour mapping](../school/Spring2026_TeachingSchedule_Derek.md)
+- [📅 Schedule roster with class-by-hour mapping](../school/spring-2026-teaching-schedule-derek.md)
 - [⚪ Original transcripts index](../transcripts/Transcripts-Notes.md)
 - [🟢 Lesson hub](./Lessons-Notes.md)
 

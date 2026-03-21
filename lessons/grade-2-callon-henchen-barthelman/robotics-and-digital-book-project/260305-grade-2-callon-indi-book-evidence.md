@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Grade 2
 - 📍 **Class Match Confidence:** medium
 - ⚪ **Canonical Transcript:** [03-05 Lecture_ Second-Grade Robotics and Digital Book Project with Book Creator and Sphero Indi-transcript.txt](../transcripts/03-05%20Lecture_%20Second-Grade%20Robotics%20and%20Digital%20Book%20Project%20with%20Book%20Creator%20and%20Sphero%20Indi-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

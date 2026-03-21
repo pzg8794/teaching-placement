@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-03 Lecture_ Sphero Event-Driven Block Coding with Ambient Light Sensors and Flashlight Tag-transcript.txt](../transcripts/03-03%20Lecture_%20Sphero%20Event-Driven%20Block%20Coding%20with%20Ambient%20Light%20Sensors%20and%20Flashlight%20Tag-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

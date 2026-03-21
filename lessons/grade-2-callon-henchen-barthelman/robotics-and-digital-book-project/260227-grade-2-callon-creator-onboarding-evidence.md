@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [02-27 Class Review_ Book Creator Onboarding, Library Verification, and Classroom Management-transcript.txt](../transcripts/02-27%20Class%20Review_%20Book%20Creator%20Onboarding,%20Library%20Verification,%20and%20Classroom%20Management-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 

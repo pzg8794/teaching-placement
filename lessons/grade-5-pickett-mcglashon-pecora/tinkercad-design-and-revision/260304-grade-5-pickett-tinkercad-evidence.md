@@ -15,7 +15,7 @@
 - 👥 **Grade Cue:** Not explicit in title
 - 📍 **Class Match Confidence:** low
 - ⚪ **Canonical Transcript:** [03-04 Class Session_ Tinkercad Basics via Google Classroom — Shape Placement, Planes, Grouping, and Hole Creation-transcript.txt](../transcripts/03-04%20Class%20Session_%20Tinkercad%20Basics%20via%20Google%20Classroom%20—%20Shape%20Placement,%20Planes,%20Grouping,%20and%20Hole%20Creation-transcript.txt)
-- 📅 **Schedule Roster:** [Spring2026_TeachingSchedule_Derek.md](../school/Spring2026_TeachingSchedule_Derek.md)
+- 📅 **Schedule Roster:** [spring-2026-teaching-schedule-derek.md](../school/spring-2026-teaching-schedule-derek.md)
 
 ---
 
