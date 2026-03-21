@@ -58,9 +58,9 @@
 
 ## 📌 Evidence / Proof of Instruction
 
-- 📌 **Transcript-derived note:** [260304 Grade 5 Pickett Tinkercad](../../lessons/evidence/260304-grade-5-pickett-tinkercad-evidence.md)  
+- 📌 **Transcript-derived note:** [260304 Grade 5 Pickett Tinkercad](./grade-5-pickett-mcglashon-pecora/tinkercad-design-and-revision/260304-grade-5-pickett-tinkercad-evidence.md)  
   The note explicitly lists shape placement, planes, grouping, and hole creation as taught content.
-- 📌 **Source transcript:** [260304 Grade 5 Pickett Tinkercad](../../transcripts/260304-grade-5-pickett-tinkercad-evidence.md)  
+- 📌 **Source transcript:** [260304 Grade 5 Pickett Tinkercad](../../transcripts/260304-grade-5-pickett-tinkercad.md)  
   The source transcript documents classroom guidance around how to enter the workspace and manipulate design tools.
 - 📌 **Observed teacher moves:** Instruction is evidenced by modeling the design workspace, sequencing tool use, and revising models rather than leaving students to explore randomly.
 - 📌 **Likely student proof:** Saved Tinkercad models, screenshots of revisions, and student explanations of grouping or hole use count as proof.

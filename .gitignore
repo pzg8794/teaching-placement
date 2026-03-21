@@ -21,6 +21,9 @@ lessons/evidence/*
 # Keep raw transcripts markdown-only in Git.
 transcripts/*
 !transcripts/*.md
+!transcripts/non-lesson-context/
+transcripts/non-lesson-context/*
+!transcripts/non-lesson-context/*.md
 
 # Keep compiled lesson PDFs only inside lesson artifacts folders.
 lessons/*/*/*.pdf

@@ -15,9 +15,12 @@
 - 🤝 [LEGO Game and Conflict Resolution](./lego-game-and-conflict-resolution/lego-game-and-conflict-resolution.md)  
   Inclusive computing culture and shared-material problem solving.
 
+- 💻 [Foundational Coding and Directional Loops](./foundational-coding-and-directional-loops/260309-grade-1-gargana-directional-loops-evidence.md)  
+  Evidence note for early sequencing, directional commands, and loop-ready routines.
+
 ## 📚 Shared Reference Links
 
-- ⚪ [Transcript-derived lessons index](../lessons/evidence/Evidence-Notes.md)
+- ⚪ [Transcript-derived lessons index](../Evidence-Notes.md)
 - ⚪ [Source transcripts index](../transcripts/Transcripts-Notes.md)
 - 📅 [Teaching schedule](../school/Spring2026_TeachingSchedule_Derek.md)
 - 📏 [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)

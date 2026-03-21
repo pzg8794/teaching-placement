@@ -58,9 +58,9 @@
 
 ## 📌 Evidence / Proof of Instruction
 
-- 📌 **Transcript-derived note:** [260211 Grade 1 Gargana Lego Conflict](../../lessons/evidence/260211-grade-1-gargana-lego-conflict-evidence.md)  
+- 📌 **Transcript-derived note:** [260211 Grade 1 Gargana Lego Conflict](./grade-1-gargana-polfleit-montgomery/lego-game-and-conflict-resolution/260211-grade-1-gargana-lego-conflict-evidence.md)  
   The lesson note identifies the class as a LEGO/game context where conflict resolution and task continuation were central.
-- 📌 **Source transcript:** [260211 Grade 1 Gargana Lego Conflict](../../transcripts/260211-grade-1-gargana-lego-conflict-evidence.md)  
+- 📌 **Source transcript:** [260211 Grade 1 Gargana Lego Conflict](../../transcripts/260211-grade-1-gargana-lego-conflict.md)  
   The source transcript records redirection, peer conflict management, and attempts to keep the class oriented toward the shared activity.
 - 📌 **Observed teacher moves:** The evidence of instruction comes from norms-setting, conflict mediation, and returning students to the step-by-step activity instead of abandoning the task.
 - 📌 **Likely student proof:** Students completing the game/build, using calmer language, and maintaining access to shared materials are classroom evidence that the lesson landed.

@@ -12,12 +12,14 @@
 
 - 🌊 [AI for Oceans and Robotics](./ai-for-oceans-and-robotics/ai-for-oceans-and-robotics.md)  
   Strong CS packet with data, sorting, and machine-learning ideas.
+- 🐝 [Block Coding with Bees](../grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-bees/block-coding-with-bees.md)  
+  Canonical home is Grade 3, but the lesson itself is built for Grades 2-3.
 - 📘 [Robotics and Digital Book Project](./robotics-and-digital-book-project/robotics-and-digital-book-project.md)  
   Robotics plus digital storytelling and documentation.
 
 ## 📚 Shared Reference Links
 
-- ⚪ [Transcript-derived lessons index](../lessons/evidence/Evidence-Notes.md)
+- ⚪ [Transcript-derived lessons index](../Evidence-Notes.md)
 - ⚪ [Source transcripts index](../transcripts/Transcripts-Notes.md)
 - 📅 [Teaching schedule](../school/Spring2026_TeachingSchedule_Derek.md)
 - 📏 [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)

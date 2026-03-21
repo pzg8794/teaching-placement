@@ -11,12 +11,12 @@
 ## 📍 Start Here
 
 - [🟢 Lesson hub](../Lessons-Notes.md)
-- [⚪ Lesson evidence hub](../evidence/Evidence-Notes.md)
-
-## 📦 Standalone Source Sets
-
-- [🐝 Block Coding with Bees](./23-Block-Coding-with-Bees/23-Block-Coding-with-Bees-Notes.md)
+- [⚪ Lesson evidence hub](../Evidence-Notes.md)
 
 ## ⛏️ Minecraft Module
 
 - [Minecraft module sources now live inside the Grade 4 Minecraft lesson folder](../grade-4-baris-fowler-schrank-autore/minecraft-coding-fundamentals/minecraft-coding-fundamentals.md)
+
+## ✅ Moved Out Of Source Materials
+
+- [🐝 Block Coding with Bees now lives in the Grade 3 lesson folder](../grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-bees/block-coding-with-bees.md)

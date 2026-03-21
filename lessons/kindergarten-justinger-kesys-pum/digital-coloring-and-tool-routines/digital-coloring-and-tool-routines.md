@@ -58,9 +58,9 @@
 
 ## 📌 Evidence / Proof of Instruction
 
-- 📌 **Transcript-derived note:** [260318 Kindergarten Justinger Coloring Robotics](../../lessons/evidence/260318-kindergarten-justinger-coloring-robotics-evidence.md)  
+- 📌 **Transcript-derived note:** [260318 Kindergarten Justinger Coloring Robotics](./kindergarten-justinger-kesys-pum/digital-coloring-and-tool-routines/260318-kindergarten-justinger-coloring-robotics-evidence.md)  
   The lesson record ties digital coloring to first-week tool routines and introductory robotics vocabulary rather than free play.
-- 📌 **Source transcript:** [260318 Kindergarten Justinger Coloring Robotics](../../transcripts/260318-kindergarten-justinger-coloring-robotics-evidence.md)  
+- 📌 **Source transcript:** [260318 Kindergarten Justinger Coloring Robotics](../../transcripts/260318-kindergarten-justinger-coloring-robotics.md)  
   The transcript shows teacher-directed setup, repeated modeling, and support for students who needed help staying with the device task.
 - 📌 **Observed teacher moves:** Instruction is evidenced by modeled clicks, repeated redirects, naming of tools, and circulation for one-to-one support.
 - 📌 **Likely student proof:** Completed digital coloring pages, correct tool use, and students independently re-entering the routine are evidence that the lesson content was taught.

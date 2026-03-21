@@ -58,11 +58,11 @@
 
 ## 📌 Evidence / Proof of Instruction
 
-- 📌 **Transcript-derived note:** [260305 Kindergarten Justinger Typing Circuits](../../lessons/evidence/260305-kindergarten-justinger-typing-circuits-evidence.md)  
+- 📌 **Transcript-derived note:** [260305 Kindergarten Justinger Typing Circuits](./kindergarten-justinger-kesys-pum/intro-typing-and-simple-circuits/260305-kindergarten-justinger-typing-circuits-evidence.md)  
   The lesson note shows a two-part structure: typing first, then Play-Doh circuits after students complete the warm-up.
-- 📌 **Transcript-derived note:** [260305 Kindergarten Justinger Circuits Summary](../../lessons/evidence/260305-kindergarten-justinger-circuits-summary-evidence.md)  
+- 📌 **Transcript-derived note:** [260305 Kindergarten Justinger Circuits Summary](./kindergarten-justinger-kesys-pum/intro-typing-and-simple-circuits/260305-kindergarten-justinger-circuits-summary-evidence.md)  
   The planning summary confirms that the circuit activity was intentionally paired with the typing session, not improvised.
-- 📌 **Source transcript:** [260305 Kindergarten Justinger Typing Circuits](../../transcripts/260305-kindergarten-justinger-typing-circuits-evidence.md)  
+- 📌 **Source transcript:** [260305 Kindergarten Justinger Typing Circuits](../../transcripts/260305-kindergarten-justinger-typing-circuits.md)  
   The transcript records direct modeling of F, J, and space, followed by explicit directions to split Play-Doh, avoid mixing colors, and build with provided materials.
 - 📌 **Likely student proof:** Students completing the typing prompt, assembling a working or near-working circuit, and verbally naming parts count as direct evidence of instruction.
 

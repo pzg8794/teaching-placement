@@ -25,7 +25,8 @@
 
 ## 📚 Supporting Areas
 
-- ⚪ [Lesson evidence index](./evidence/Evidence-Notes.md)
+- 🗺️ [Lesson outline map](./Lesson-Outline-Notes.md)
+- ⚪ [Lesson evidence index](./Evidence-Notes.md)
 - 🗃️ [Source materials](./source-materials/Source-Materials-Notes.md)
 - ⚪ [Source transcripts index](../transcripts/Transcripts-Notes.md)
 - 📅 [Teaching schedule](../school/Spring2026_TeachingSchedule_Derek.md)

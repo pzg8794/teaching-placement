@@ -58,13 +58,13 @@
 
 ## 📌 Evidence / Proof of Instruction
 
-- 📌 **Transcript-derived note:** [260227 Grade 3 Lamanaco Sphero Loops](../../lessons/evidence/260227-grade-3-lamanaco-sphero-loops-evidence.md)  
+- 📌 **Transcript-derived note:** [260227 Grade 3 Lamanaco Sphero Loops](./grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-sphero/260227-grade-3-lamanaco-sphero-loops-evidence.md)  
   The lesson note explicitly names pairing, loops, square movement, aiming, and safety.
-- 📌 **Transcript-derived note:** [260227 Grade 3 Lamanaco Block Coding](../../lessons/evidence/260227-grade-3-lamanaco-block-coding-evidence.md)  
+- 📌 **Transcript-derived note:** [260227 Grade 3 Lamanaco Block Coding](./grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-sphero/260227-grade-3-lamanaco-block-coding-evidence.md)  
   The additional note shows the same lesson family emphasized core block coding rather than one isolated challenge.
-- 📌 **Transcript-derived note:** [260306 Grade 3 Lamanaco Square Maze](../../lessons/evidence/260306-grade-3-lamanaco-square-maze-evidence.md)  
+- 📌 **Transcript-derived note:** [260306 Grade 3 Lamanaco Square Maze](./grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-sphero/260306-grade-3-lamanaco-square-maze-evidence.md)  
   Later transcripts show students applying the same logic to more precise route and maze navigation tasks.
-- 📌 **Source transcript:** [260227 Grade 3 Lamanaco Sphero Loops](../../transcripts/260227-grade-3-lamanaco-sphero-loops-evidence.md)  
+- 📌 **Source transcript:** [260227 Grade 3 Lamanaco Sphero Loops](../../transcripts/260227-grade-3-lamanaco-sphero-loops.md)  
   The source transcript records teacher language around loops, pairing, and safety while students work in robot pairs.
 - 📌 **Likely student proof:** Working square paths, looped code blocks, debug revisions, and safe partner management are direct evidence of instruction.
 
@@ -132,7 +132,7 @@
 
 ## 🔗 Related Local Materials
 
-- 🔗 [Block Coding with Bees materials](../../lessons/source-materials/23-Block-Coding-with-Bees/23-Block-Coding-with-Bees-Notes.md)
+- 🔗 [Block Coding with Bees materials](.././source-materials/23-Block-Coding-with-Bees/23-Block-Coding-with-Bees-Notes.md)
 
 ## 🌐 References
 

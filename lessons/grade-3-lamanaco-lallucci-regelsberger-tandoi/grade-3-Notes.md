@@ -10,6 +10,8 @@
 
 ## 📍 Start Here
 
+- 🐝 [Block Coding with Bees](./block-coding-with-bees/block-coding-with-bees.md)  
+  Foundational block-coding and loops lesson, also reusable for Grade 2.
 - 🤖 [Block Coding with Sphero](./block-coding-with-sphero/block-coding-with-sphero.md)  
   Core CS packet with loops, route planning, and debugging.
 - 🧠 [Responsible AI and Canva Publishing](./responsible-ai-and-canva-publishing/responsible-ai-and-canva-publishing.md)  
@@ -17,7 +19,7 @@
 
 ## 📚 Shared Reference Links
 
-- ⚪ [Transcript-derived lessons index](../lessons/evidence/Evidence-Notes.md)
+- ⚪ [Transcript-derived lessons index](../Evidence-Notes.md)
 - ⚪ [Source transcripts index](../transcripts/Transcripts-Notes.md)
 - 📅 [Teaching schedule](../school/Spring2026_TeachingSchedule_Derek.md)
 - 📏 [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)

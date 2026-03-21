@@ -58,11 +58,11 @@
 
 ## 📌 Evidence / Proof of Instruction
 
-- 📌 **Transcript-derived note:** [260227 Grade 4 5 Shared Conditional Sphero](../../lessons/evidence/260227-grade-4-5-shared-conditional-sphero-evidence.md)  
-  The shared Grade 4-5 note explicitly frames the work as conditional coding with Sphero robots.
-- 📌 **Transcript-derived note:** [260313 Mixed Shared Sphero Minecraft](../../lessons/evidence/260313-mixed-shared-sphero-minecraft-evidence.md)  
-  Later mixed notes show students working across robot logic and Minecraft-style command thinking, reinforcing the logic focus.
-- 📌 **Source transcript:** [260227 Grade 4 5 Shared Conditional Sphero](../../transcripts/260227-grade-4-5-shared-conditional-sphero-evidence.md)  
+- 📌 **Transcript-derived note:** [260227 Grade 5 Pickett Conditional Sphero](./260227-grade-5-pickett-conditional-sphero-evidence.md)  
+  This transcript-derived note explicitly frames the work as conditional coding with Sphero robots.
+- 📌 **Transcript-derived note:** [260313 Grade 5 Pickett Sphero Events And Minecraft](./260313-grade-5-pickett-sphero-events-and-minecraft-evidence.md)  
+  This follow-up note shows students working across robot logic and Minecraft-style command thinking, reinforcing the logic focus.
+- 📌 **Source transcript:** [260227 Grade 5 Pickett Conditional Sphero](../../transcripts/260227-grade-5-pickett-conditional-sphero.md)  
   The source transcript supports that conditions and robot responses were taught explicitly, not inferred later.
 - 📌 **Likely student proof:** Robot runs that behave differently based on a sensor or condition, plus explained fixes, count as direct evidence.
 
