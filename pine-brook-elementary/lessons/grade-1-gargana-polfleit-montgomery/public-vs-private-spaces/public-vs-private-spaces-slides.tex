@@ -3,41 +3,24 @@
 \usepackage{lmodern}
 \usepackage{tikz}
 \usepackage{hyperref}
-\usetikzlibrary{positioning,shapes.geometric,arrows.meta}
+\usetikzlibrary{positioning,arrows.meta,calc}
 
-\definecolor{skyblue}{HTML}{56C6F4}
-\definecolor{sunnyyellow}{HTML}{FFD84D}
-\definecolor{coral}{HTML}{FF7F6E}
-\definecolor{leafgreen}{HTML}{67C587}
-\definecolor{ink}{HTML}{213547}
-\definecolor{cloud}{HTML}{F7FBFF}
-\definecolor{lavender}{HTML}{E9E1FF}
+\definecolor{accent1}{HTML}{DC2626}
+\definecolor{accent2}{HTML}{FCA5A5}
+\definecolor{accent3}{HTML}{2563EB}
+\definecolor{accent4}{HTML}{7F1D1D}
+\definecolor{paper}{HTML}{FFF8F8}
+\definecolor{ink}{HTML}{1F2937}
 
 \setbeamertemplate{navigation symbols}{}
 \setbeamercolor{normal text}{fg=ink,bg=white}
 \setbeamercolor{frametitle}{fg=ink,bg=white}
-\setbeamercolor{title}{fg=ink}
-\setbeamercolor{block title}{fg=white,bg=coral}
-\setbeamercolor{block body}{fg=ink,bg=cloud}
-\setbeamercolor{alertblock title}{fg=white,bg=leafgreen!75!black}
-\setbeamercolor{alertblock body}{fg=ink,bg=leafgreen!10}
-\setbeamercolor{palette primary}{fg=white,bg=coral}
-\setbeamertemplate{itemize item}{\color{coral}$\blacktriangleright$}
-\setbeamertemplate{enumerate item}{\color{coral}\insertenumlabel.}
-\setbeamerfont{title}{series=\bfseries,size=\Huge}
-\setbeamerfont{frametitle}{series=\bfseries,size=\Large}
+\setbeamertemplate{itemize item}{\color{accent1}$\blacktriangleright$}
+\setbeamertemplate{enumerate item}{\color{accent1}\insertenumlabel.}
 \setbeameroption{hide notes}
 
-\newcommand{\stepbadge}[3]{%
-  \begin{tikzpicture}[baseline=(box.center)]
-    \node[rounded corners=10pt, fill=#1, minimum width=2.4cm, minimum height=0.85cm] (box)
-    {\color{white}\bfseries #2};
-    \node[right=0.18cm of box, anchor=west] {\color{ink}\bfseries #3};
-  \end{tikzpicture}
-}
-
 \title{Public vs Private Spaces}
-\subtitle{Bright, Step-by-Step Student Guide}
+\subtitle{Student Guide}
 \author{Pine Brook IGNITE}
 \date{Spring 2026}
 
@@ -45,170 +28,137 @@
 
 \begin{frame}[plain]
 \begin{tikzpicture}[remember picture,overlay]
-  \fill[cloud] (current page.south west) rectangle (current page.north east);
-  \fill[sunnyyellow!50] (-0.2,7.4) rectangle (13.6,7.8);
-  \fill[skyblue!22] (-0.2,-0.2) rectangle (13.6,1.3);
-  \fill[coral!18] (0.4,5.4) circle (0.65);
-  \fill[leafgreen!18] (12.4,6.2) circle (0.5);
-  \fill[lavender!55] (11.6,1.0) circle (0.45);
-  \fill[sunnyyellow!70] (1.2,1.0) circle (0.35);
+\fill[paper] (current page.south west) rectangle (current page.north east);
+\fill[accent1!10] (0.25,0.4) rectangle (13.05,7.0);
+\draw[line width=7pt, color=accent3] (0.55,6.75) -- (12.75,6.75);
+\draw[line width=7pt, color=accent2] (0.55,0.65) -- (12.75,0.65);
 \end{tikzpicture}
-
-\vspace{0.35cm}
-\begin{center}
-{\Huge\bfseries\color{ink} Public vs Private Spaces\par}
-\vspace{0.2cm}
-{\Large\color{coral} Plan it. Make it. Share it.\par}
-\vspace{0.35cm}
-
-\begin{tikzpicture}
-\node[rounded corners=18pt, fill=skyblue!18, draw=skyblue!60, line width=1.2pt,
-      minimum width=11.2cm, minimum height=1.5cm, text width=10.2cm, align=center]
-      {\Large\bfseries Bright cues, repeated colors, and short steps help this class keep going with confidence.};
-\end{tikzpicture}
-
-\vspace{0.35cm}
-
-\begin{tikzpicture}[node distance=0.55cm]
-\node[draw=coral!70, fill=coral!14, rounded corners=14pt, minimum width=3.25cm, minimum height=1.35cm, align=center] (a) {\Large\bfseries 1\\[2pt]Pick a plan};
-\node[draw=sunnyyellow!70!black, fill=sunnyyellow!18, rounded corners=14pt, minimum width=3.25cm, minimum height=1.35cm, align=center, right=of a] (b) {\Large\bfseries 2\\[2pt]Make it};
-\node[draw=leafgreen!70!black, fill=leafgreen!16, rounded corners=14pt, minimum width=3.25cm, minimum height=1.35cm, align=center, right=of b] (c) {\Large\bfseries 3\\[2pt]Show it};
-\end{tikzpicture}
-\end{center}
-\note{Today we are working on public vs private spaces}
-\end{frame}
-
-\begin{frame}[plain]
-\frametitle{What Are We Doing Today?}
+\vspace{0.45cm}
 \begin{columns}[T,totalwidth=\textwidth]
 \column{0.56\textwidth}
-\begin{block}{Our Goal}
-\Large simple building materials
-\end{block}
-\vspace{0.15cm}
-{\large\bfseries\color{coral} Success looks like this:}
-\begin{itemize}\large
-\item simple building materials
-\item I can make or improve something.
-\item I can show my learning.
-\end{itemize}
-\column{0.4\textwidth}
-\begin{tikzpicture}[x=1cm,y=1cm]
-\draw[rounded corners=16pt, fill=lavender!55, draw=lavender!85!black, line width=1pt] (0,0) rectangle (4.9,4.6);
-\draw[rounded corners=10pt, fill=white, draw=skyblue!70, line width=1pt] (0.45,2.8) rectangle (4.4,4.1);
-\node[align=center, text width=3.3cm] at (2.45,3.45) {\large\bfseries Grade 1};
-\draw[rounded corners=10pt, fill=white, draw=coral!70, line width=1pt] (0.45,1.4) rectangle (4.4,2.45);
-\node[align=center, text width=3.3cm] at (2.45,1.93) {\small\bfseries Primary learners who can take on playful structure when directions stay concrete, visible, and socially supported.};
-\draw[rounded corners=10pt, fill=white, draw=leafgreen!70!black, line width=1pt] (0.45,0.25) rectangle (4.4,1.05);
-\node[align=center, text width=3.3cm] at (2.45,0.65) {\scriptsize\bfseries Day 3 `12:25-1:15` Gargana, Day 3 `2:15-3:05` Polfleit, Day 5 `12:25-1:15` Montgomery};
-\end{tikzpicture}
-\end{columns}
-\note{Today we are working on public vs private spaces}
-\end{frame}
-
-\begin{frame}[plain]
-\frametitle{What You Need}
-\begin{columns}[T,totalwidth=\textwidth]
-\column{0.6\textwidth}
-\stepbadge{skyblue}{READY}{Get set}
-\vspace{0.18cm}
-\begin{itemize}\large
-\item Begin by naming the lesson purpose and the success condition
-\item Model the first step before independent or partner work starts
-\item Pause once mid-lesson for a quick debug, reflection, or reset
-\end{itemize}
+{\Huge\bfseries\color{ink} Public vs Private Spaces\par}
 \vspace{0.2cm}
-\stepbadge{leafgreen}{TEAM}{How we work}
-\vspace{0.18cm}
-\begin{itemize}\large
-\item Look
-\item Listen
-\item Try
-\item Help without taking over
-\end{itemize}
-\column{0.35\textwidth}
-\begin{tikzpicture}[x=1cm,y=1cm]
-\node[draw=coral!70, fill=coral!12, rounded corners=14pt, minimum width=4.2cm, minimum height=4.8cm] {};
-\node[align=center, text width=3.4cm] at (0,1.35) {\LARGE\bfseries Ready body\\[6pt]\Large ready brain};
-\draw[fill=sunnyyellow!70, draw=sunnyyellow!70] (-1.2,-0.65) circle (0.2);
-\draw[fill=skyblue!70, draw=skyblue!70] (-0.45,-0.65) circle (0.2);
-\draw[fill=leafgreen!75, draw=leafgreen!75] (0.3,-0.65) circle (0.2);
-\draw[fill=coral!75, draw=coral!75] (1.05,-0.65) circle (0.2);
+{\Large\color{accent4} Notice. Think. Choose.\par}
+\vspace{0.25cm}
+\begin{tikzpicture}
+\node[rounded corners=16pt, fill=white, draw=accent1, line width=1.2pt, text width=6.2cm, minimum height=1.35cm, align=center]
+{\Large\bfseries Notice the problem, think it through, and make a smart choice.};
 \end{tikzpicture}
+\vspace{0.35cm}
+\begin{tikzpicture}[node distance=0.45cm]
+\node[rounded corners=14pt, fill=accent3!16, draw=accent3!80, minimum width=2.25cm, minimum height=1.1cm, align=center] (a) {\Large\bfseries 1\\[2pt]Spot it};
+\node[rounded corners=14pt, fill=accent2!18, draw=accent2!85!black, minimum width=2.25cm, minimum height=1.1cm, align=center, right=of a] (b) {\Large\bfseries 2\\[2pt]Think it\\ through};
+\node[rounded corners=14pt, fill=accent1!14, draw=accent1!80!black, minimum width=2.25cm, minimum height=1.1cm, align=center, right=of b] (c) {\Large\bfseries 3\\[2pt]Choose safely};
+\end{tikzpicture}
+\column{0.4\textwidth}
+\begin{center}
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+\path[fill=accent1!18, draw=accent4, line width=1pt]
+  (2.5,4.45) -- (4.5,3.7) -- (4.15,1.8) .. controls (3.8,0.9) and (3.1,0.5) .. (2.5,0.2)
+  .. controls (1.9,0.5) and (1.2,0.9) .. (0.85,1.8) -- (0.5,3.7) -- cycle;
+\draw[rounded corners=0.12cm, fill=white, draw=accent3, line width=0.9pt] (1.75,2.0) rectangle (3.25,3.0);
+\draw[accent3, line width=0.9pt] (2.0,2.0) -- (2.0,1.55) -- (3.0,1.55) -- (3.0,2.0);
+\draw[accent3, line width=0.9pt] (2.1,3.0) arc (180:0:0.4 and 0.5);
+\fill[accent2!70] (3.85,4.3) circle (0.15);
+\fill[accent2!70] (4.2,4.65) circle (0.09);
+\fill[accent2!70] (0.85,4.45) circle (0.12);
+\end{tikzpicture}
+
+\end{center}
 \end{columns}
-\note{Set materials before noise grows. Keep the routine visible.}
+\note{Audience guidance: Primary learners who can take on playful structure when directions stay concrete, visible, and socially supported.. Teaching move: Anchor the abstract idea in a concrete example from school or home technology use.}
 \end{frame}
 
 \begin{frame}[plain]
-\frametitle{Our Big Plan}
+\frametitle{Today's Mission}
+\begin{columns}[T,totalwidth=\textwidth]
+\column{0.56\textwidth}
+\begin{block}{Our focus}
+\large Notice a digital safety problem and make a smart choice.
+\end{block}
+\vspace{0.1cm}
+\begin{itemize}
+\large
+\item Student completes the core task or an accessible version
+\item Student can explain at least one step, pattern, choice,
+\item Teacher captures one proof item: screenshot, observation note, exit
+\end{itemize}
+\column{0.38\textwidth}
+\begin{tikzpicture}[x=1cm,y=1cm]
+\draw[rounded corners=0.18cm, fill=white, draw=accent4, line width=1.1pt] (0.1,0.1) rectangle (4.55,4.8);
+\node[rounded corners=0.16cm, fill=accent1!14, draw=accent1!70, minimum width=3.7cm, minimum height=0.75cm, align=center] at (2.3,4.15) {\bfseries Grade 1};
+\node[rounded corners=0.16cm, fill=accent2!18, draw=accent2!85!black, text width=3.35cm, minimum height=1.2cm, align=center] at (2.3,2.85) {\small Notice the problem, think it through, and make a smart choice.};
+\node[rounded corners=0.16cm, fill=accent3!16, draw=accent3!75, text width=3.35cm, minimum height=1.0cm, align=center] at (2.3,1.1) {\small Keep the next step visible and keep trying.};
+\end{tikzpicture}
+\end{columns}
+\note{Open with the mission in student language. Keep the focus visible while students work.} 
+\end{frame}
+
+\begin{frame}[plain]
+\frametitle{How We Will Move Through It}
 \begin{center}
-\begin{tikzpicture}[node distance=0.6cm]
-\node[rounded corners=18pt, draw=coral!85, fill=coral!14, minimum width=3.35cm, minimum height=2.25cm, align=center] (s1)
-{\Huge\bfseries 1\\[6pt]\Large Anchor the abstract idea in a concrete};
-\node[rounded corners=18pt, draw=sunnyyellow!80!black, fill=sunnyyellow!22, minimum width=3.35cm, minimum height=2.25cm, align=center, right=of s1]
-{\Huge\bfseries 2\\[6pt]\Large Use one discussion prompt at a time};
-\node[rounded corners=18pt, draw=leafgreen!80!black, fill=leafgreen!18, minimum width=3.35cm, minimum height=2.25cm, align=center, right=of s1.south east, xshift=3.95cm, yshift=0.0cm]
-{\Huge\bfseries 3\\[6pt]\Large Show what you made};
-\draw[-{Latex[length=4mm,width=3mm]}, line width=1.8pt, color=ink!65] (s1) -- ++(3.7,0);
-\draw[-{Latex[length=4mm,width=3mm]}, line width=1.8pt, color=ink!65] (s1.south east) ++(3.7,0.95) -- ++(3.7,0);
+\begin{tikzpicture}[node distance=0.5cm]
+\node[rounded corners=16pt, fill=accent3!16, draw=accent3!80, minimum width=3.3cm, minimum height=2.35cm, text width=2.45cm, align=center] (s1) {\Huge\bfseries 1\\[6pt]\Large Spot it};
+\node[rounded corners=16pt, fill=accent2!18, draw=accent2!85!black, minimum width=3.3cm, minimum height=2.35cm, text width=2.45cm, align=center, right=of s1] (s2) {\Huge\bfseries 2\\[6pt]\Large Think it\\ through};
+\node[rounded corners=16pt, fill=accent1!14, draw=accent1!80!black, minimum width=3.3cm, minimum height=2.35cm, text width=2.45cm, align=center, right=of s2] (s3) {\Huge\bfseries 3\\[6pt]\Large Choose safely};
+\draw[-{Latex[length=4mm,width=3mm]}, line width=1.7pt, color=accent4] (s1) -- (s2);
+\draw[-{Latex[length=4mm,width=3mm]}, line width=1.7pt, color=accent4] (s2) -- (s3);
 \end{tikzpicture}
 \end{center}
-\vspace{0.28cm}
-\begin{block}{Keep your eyes on the color}
-\Large Red means begin. Yellow means work. Green means show.
+\vspace{0.25cm}
+\begin{block}{What to keep in front of you}
+\begin{itemize}
+\large
+\item Model the first step before independent or partner work starts.
+\item Keep one visible checklist, anchor chart, or projected example available throughout
+\item Pause once mid-lesson for a quick debug, reflection, or reset point.
+\end{itemize}
 \end{block}
-\note{Use the help routine before you panic}
+\note{Keep this slide up during work time when students need a visible routine.} 
 \end{frame}
 
 \begin{frame}[plain]
 \frametitle{If You Get Stuck}
 \begin{columns}[T,totalwidth=\textwidth]
-\column{0.54\textwidth}
-\begin{alertblock}{Our Help Ladder}
-\Large Try the next small support before you freeze.
-\end{alertblock}
-\begin{enumerate}\large
+\column{0.5\textwidth}
+\begin{block}{Use this help ladder}
+\begin{enumerate}
+\large
 \item Look at the slide.
-\item Look at your checklist.
+\item Try one small step.
 \item Ask your partner.
-\item Ask the teacher one clear question.
+\item Ask one clear question.
 \end{enumerate}
-\vspace{0.18cm}
-{\large\bfseries\color{coral} Watch for this:}
-\begin{itemize}\large
-\item Too many examples at once can blur the core message
-\item Directions can feel hidden
-\item Students may not know they are done
-\end{itemize}
-\column{0.4\textwidth}
+\end{block}
+\column{0.45\textwidth}
 \begin{tikzpicture}[x=1cm,y=1cm]
-\draw[rounded corners=10pt, fill=leafgreen!18, draw=leafgreen!90!black, line width=1pt] (0.2,0.2) rectangle (1.9,0.92);
-\node[align=center] at (1.05,0.56) {\small\bfseries Ask the\\teacher};
-\draw[rounded corners=10pt, fill=skyblue!18, draw=skyblue!90!black, line width=1pt] (0.7,1.15) rectangle (2.4,1.87);
-\node[align=center] at (1.55,1.51) {\small\bfseries Ask your\\partner};
-\draw[rounded corners=10pt, fill=sunnyyellow!18, draw=sunnyyellow!90!black, line width=1pt] (1.2,2.1) rectangle (2.9,2.82);
-\node[align=center] at (2.05,2.46) {\small\bfseries Check your\\list};
-\draw[rounded corners=10pt, fill=coral!18, draw=coral!90!black, line width=1pt] (1.7,3.05) rectangle (3.4,3.77);
-\node[align=center] at (2.55,3.41) {\small\bfseries Look at\\the slide};
+\draw[rounded corners=0.16cm, fill=white, draw=accent4, line width=1.1pt] (0.0,0.0) rectangle (5.0,4.8);
+\draw[rounded corners=0.12cm, fill=accent1!14, draw=accent1!80!black] (0.4,3.45) rectangle (4.6,4.15);
+\node[text width=3.7cm, align=center] at (2.5,3.8) {\small Too many examples at once can blur the core message.};
+\draw[rounded corners=0.12cm, fill=accent2!18, draw=accent2!85!black] (0.4,2.05) rectangle (4.6,2.75);
+\node[text width=3.7cm, align=center] at (2.5,2.4) {\small A good reason matters more than a quick answer.};
+\draw[rounded corners=0.12cm, fill=accent3!16, draw=accent3!75] (0.4,0.65) rectangle (4.6,1.35);
+\node[text width=3.7cm, align=center] at (2.5,1.0) {\small Safe choices should be easy to explain.};
 \end{tikzpicture}
 \end{columns}
-\note{Use the help routine before you panic}
+\note{Name the next small move. Hints before rescues.} 
 \end{frame}
 
 \begin{frame}[plain]
-\frametitle{Before We Finish}
+\frametitle{Show What You Learned}
 \begin{center}
-\begin{tikzpicture}[node distance=0.45cm]
-\node[rounded corners=14pt, fill=skyblue!18, draw=skyblue!75, minimum width=10.7cm, minimum height=1.1cm, align=center] (a) {\Large\bfseries I finished an important part};
-\node[rounded corners=14pt, fill=sunnyyellow!18, draw=sunnyyellow!85!black, minimum width=10.7cm, minimum height=1.1cm, align=center, below=of a] (b) {\Large\bfseries I can explain one choice};
-\node[rounded corners=14pt, fill=leafgreen!14, draw=leafgreen!80!black, minimum width=10.7cm, minimum height=1.1cm, align=center, below=of b] (c) {\Large\bfseries I can show my work};
+\begin{tikzpicture}[node distance=0.35cm]
+\node[rounded corners=14pt, fill=accent1!14, draw=accent1!80, minimum width=10.7cm, minimum height=1.0cm, text width=9.5cm, align=center] (a) {\Large\bfseries Student completes the core task or an accessible version};
+\node[rounded corners=14pt, fill=accent2!18, draw=accent2!85!black, minimum width=10.7cm, minimum height=1.0cm, text width=9.5cm, align=center, below=of a] (b) {\Large\bfseries Student can explain at least one step, pattern, choice,};
+\node[rounded corners=14pt, fill=accent3!16, draw=accent3!75, minimum width=10.7cm, minimum height=1.0cm, text width=9.5cm, align=center, below=of b] (c) {\Large\bfseries Teacher captures one proof item: screenshot, observation note, exit};
 \end{tikzpicture}
 \end{center}
-\vspace{0.3cm}
-\begin{block}{Exit move}
-\Large Save it, hold it up, point to it, or explain it.
+\vspace{0.28cm}
+\begin{block}{Finish strong}
+\Large Save it, share it, explain it, or demonstrate it.
 \end{block}
-\note{Show what you learned at the end}
+\note{Close with one visible proof move and one clear celebration cue.}
 \end{frame}
 
 \end{document}

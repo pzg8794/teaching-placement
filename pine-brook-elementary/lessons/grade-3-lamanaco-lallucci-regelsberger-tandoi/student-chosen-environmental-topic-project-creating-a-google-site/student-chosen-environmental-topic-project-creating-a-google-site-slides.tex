@@ -4,135 +4,158 @@
 \usepackage{tikz}
 \usepackage{hyperref}
 \usetikzlibrary{positioning,arrows.meta,calc}
-\definecolor{tealpop}{HTML}{14B8A6}
-\definecolor{goldpop}{HTML}{F4B400}
-\definecolor{berrypop}{HTML}{E85D75}
-\definecolor{indigopop}{HTML}{5B6CFF}
+
+\definecolor{accent1}{HTML}{EC4899}
+\definecolor{accent2}{HTML}{FBCFE8}
+\definecolor{accent3}{HTML}{F59E0B}
+\definecolor{accent4}{HTML}{831843}
+\definecolor{paper}{HTML}{FFF8FC}
 \definecolor{ink}{HTML}{1F2937}
-\definecolor{fog}{HTML}{F7FAFC}
+
 \setbeamertemplate{navigation symbols}{}
 \setbeamercolor{normal text}{fg=ink,bg=white}
 \setbeamercolor{frametitle}{fg=ink,bg=white}
-\setbeamercolor{block title}{fg=white,bg=indigopop}
-\setbeamercolor{block body}{fg=ink,bg=fog}
-\setbeamertemplate{itemize item}{\color{berrypop}$\blacktriangleright$}
+\setbeamertemplate{itemize item}{\color{accent1}$\blacktriangleright$}
+\setbeamertemplate{enumerate item}{\color{accent1}\insertenumlabel.}
 \setbeameroption{hide notes}
+
 \title{Student-Chosen Environmental Topic (Project - Creating a Google Site)}
-\subtitle{Student Mission Deck}
+\subtitle{Student Guide}
 \author{Pine Brook IGNITE}
 \date{Spring 2026}
+
 \begin{document}
 
 \begin{frame}[plain]
 \begin{tikzpicture}[remember picture,overlay]
-\fill[fog] (current page.south west) rectangle (current page.north east);
-\fill[tealpop!15] (0.2,0.5) rectangle (13.2,6.9);
-\draw[line width=8pt, color=berrypop] (0.5,6.8) -- (12.7,6.8);
-\draw[line width=8pt, color=goldpop] (0.5,0.7) -- (12.7,0.7);
+\fill[paper] (current page.south west) rectangle (current page.north east);
+\fill[accent1!10] (0.25,0.4) rectangle (13.05,7.0);
+\draw[line width=7pt, color=accent3] (0.55,6.75) -- (12.75,6.75);
+\draw[line width=7pt, color=accent2] (0.55,0.65) -- (12.75,0.65);
 \end{tikzpicture}
-\vspace{0.55cm}
-\begin{center}
-{\Huge\bfseries\color{ink} Student-Chosen Environmental Topic (Project - Creating a Google Site)\par}
-\vspace{0.15cm}
-{\Large\color{indigopop} Challenge Time: Build, Test, Improve.\par}
-\vspace{0.3cm}
-\begin{tikzpicture}
-\node[rounded corners=18pt, fill=white, draw=indigopop, line width=1.4pt, minimum width=10.6cm, minimum height=1.55cm, text width=9.8cm, align=center]
-{\Large\bfseries These learners can handle richer challenges when examples, checkpoints, and debugging moves stay visible.};
-\end{tikzpicture}
-\vspace{0.35cm}
-\begin{tikzpicture}[node distance=0.5cm]
-\node[rounded corners=12pt, fill=berrypop!15, draw=berrypop!80, minimum width=3.2cm, minimum height=1.1cm, align=center] (a) {\large\bfseries Notice};
-\node[rounded corners=12pt, fill=goldpop!18, draw=goldpop!80!black, minimum width=3.2cm, minimum height=1.1cm, align=center, right=of a] (b) {\large\bfseries Build};
-\node[rounded corners=12pt, fill=tealpop!18, draw=tealpop!80!black, minimum width=3.2cm, minimum height=1.1cm, align=center, right=of b] (c) {\large\bfseries Explain};
-\end{tikzpicture}
-\end{center}
-\note{Today we are working on student-chosen environmental topic}
-\end{frame}
-
-\begin{frame}[plain]
-\frametitle{Mission Goal}
+\vspace{0.45cm}
 \begin{columns}[T,totalwidth=\textwidth]
 \column{0.56\textwidth}
-\begin{block}{Today we will}
-\Large I can choose an environmental topic I care about.
-\end{block}
-\begin{itemize}\large
-\item I can choose an environmental topic I care about.
-\item I can say if my topic is good or bad for the environment.
-\item I can start a Google Site and create a homepage.
-\end{itemize}
+{\huge\bfseries\color{ink} Student-Chosen Environmental Topic (Project - Creating a Google Site)\par}
+\vspace{0.2cm}
+{\Large\color{accent4} Plan. Make. Share.\par}
+\vspace{0.25cm}
+\begin{tikzpicture}
+\node[rounded corners=16pt, fill=white, draw=accent1, line width=1.2pt, text width=6.2cm, minimum height=1.35cm, align=center]
+{\Large\bfseries Use code steps to make something happen on purpose.};
+\end{tikzpicture}
+\vspace{0.35cm}
+\begin{tikzpicture}[node distance=0.45cm]
+\node[rounded corners=14pt, fill=accent3!16, draw=accent3!80, minimum width=2.25cm, minimum height=1.1cm, align=center] (a) {\Large\bfseries 1\\[2pt]Plan it};
+\node[rounded corners=14pt, fill=accent2!18, draw=accent2!85!black, minimum width=2.25cm, minimum height=1.1cm, align=center, right=of a] (b) {\Large\bfseries 2\\[2pt]Make it};
+\node[rounded corners=14pt, fill=accent1!14, draw=accent1!80!black, minimum width=2.25cm, minimum height=1.1cm, align=center, right=of b] (c) {\Large\bfseries 3\\[2pt]Share it};
+\end{tikzpicture}
 \column{0.4\textwidth}
+\begin{center}
+
 \begin{tikzpicture}[x=1cm,y=1cm]
-\draw[rounded corners=14pt, fill=white, draw=indigopop, line width=1.2pt] (0,0) rectangle (4.6,4.6);
-\node[draw=berrypop!80, fill=berrypop!14, rounded corners=10pt, minimum width=3.4cm, minimum height=0.9cm] at (2.3,3.7) {\bfseries Grade 3};
-\node[draw=goldpop!80!black, fill=goldpop!16, rounded corners=10pt, minimum width=3.4cm, minimum height=1.0cm, text width=3.0cm, align=center] at (2.3,2.35) {\small Upper-primary learners who can sustain design and robotics challenges when the structure supports collaboration and debugging.};
-\node[draw=tealpop!80!black, fill=tealpop!14, rounded corners=10pt, minimum width=3.4cm, minimum height=0.9cm, text width=3.0cm, align=center] at (2.3,0.95) {\scriptsize Day 3 `9:50-10:40` Lamanaco, Day 4 `9:50-10:40` Lallucci, Day 5 `9:50-10:40` Regelsberger, Day 5 `2:15-3:05` Tandoi};
+\draw[rounded corners=0.18cm, fill=accent1!12, draw=accent4, line width=1pt] (0.4,0.5) rectangle (4.7,4.0);
+\draw[fill=accent2!70, draw=accent4] (2.55,3.85) -- (2.85,3.1) -- (3.65,3.1) -- (3.0,2.6) -- (3.25,1.85) -- (2.55,2.3) -- (1.85,1.85) -- (2.1,2.6) -- (1.45,3.1) -- (2.25,3.1) -- cycle;
+\draw[rounded corners=0.14cm, fill=white, draw=accent1] (0.95,0.95) rectangle (4.15,2.2);
+\draw[fill=accent3!25, draw=accent3] (1.25,1.75) rectangle (3.85,1.95);
+\draw[fill=accent1!28, draw=accent1] (1.25,1.25) rectangle (2.45,1.55);
+\draw[fill=accent1!28, draw=accent1] (2.7,1.25) rectangle (3.85,1.55);
+\end{tikzpicture}
+
+\end{center}
+\end{columns}
+\note{Audience guidance: Upper-primary learners who can sustain design and robotics challenges when the structure supports collaboration and debugging.. Teaching move: Name the goal in student language before materials or devices create extra noise.}
+\end{frame}
+
+\begin{frame}[plain]
+\frametitle{Today's Mission}
+\begin{columns}[T,totalwidth=\textwidth]
+\column{0.56\textwidth}
+\begin{block}{Our focus}
+\normalsize Finish a project and get ready to share your work.
+\end{block}
+\vspace{0.1cm}
+\begin{itemize}
+\large
+\item Student completes the core task or an accessible version
+\item Student can explain at least one step, pattern, choice,
+\item Teacher captures one proof item: screenshot, observation note, exit
+\end{itemize}
+\column{0.38\textwidth}
+\begin{tikzpicture}[x=1cm,y=1cm]
+\draw[rounded corners=0.18cm, fill=white, draw=accent4, line width=1.1pt] (0.1,0.1) rectangle (4.55,4.8);
+\node[rounded corners=0.16cm, fill=accent1!14, draw=accent1!70, minimum width=3.7cm, minimum height=0.75cm, align=center] at (2.3,4.15) {\bfseries Grade 3};
+\node[rounded corners=0.16cm, fill=accent2!18, draw=accent2!85!black, text width=3.35cm, minimum height=1.2cm, align=center] at (2.3,2.85) {\small Use code steps to make something happen on purpose.};
+\node[rounded corners=0.16cm, fill=accent3!16, draw=accent3!75, text width=3.35cm, minimum height=1.0cm, align=center] at (2.3,1.1) {\small Keep the next step visible and keep trying.};
 \end{tikzpicture}
 \end{columns}
-\note{Today we are working on student-chosen environmental topic}
+\note{Open with the mission in student language. Keep the focus visible while students work.} 
 \end{frame}
 
 \begin{frame}[plain]
-\frametitle{Mission Map}
+\frametitle{How We Will Move Through It}
 \begin{center}
-\begin{tikzpicture}[node distance=0.65cm]
-\node[rounded corners=14pt, fill=berrypop!14, draw=berrypop!85, minimum width=3.1cm, minimum height=2.0cm, text width=2.4cm, align=center] (s1) {\Large\bfseries STEP 1\\[4pt]Pick one clear idea};
-\node[rounded corners=14pt, fill=goldpop!18, draw=goldpop!80!black, minimum width=3.1cm, minimum height=2.0cm, text width=2.4cm, align=center, right=of s1] (s2) {\Large\bfseries STEP 2\\[4pt]Work one part at a time};
-\node[rounded corners=14pt, fill=tealpop!16, draw=tealpop!80!black, minimum width=3.1cm, minimum height=2.0cm, text width=2.4cm, align=center, right=of s2] (s3) {\Large\bfseries STEP 3\\[4pt]Show what you made};
-\draw[-{Latex[length=4mm,width=3mm]}, line width=1.6pt, color=indigopop] (s1) -- (s2);
-\draw[-{Latex[length=4mm,width=3mm]}, line width=1.6pt, color=indigopop] (s2) -- (s3);
+\begin{tikzpicture}[node distance=0.5cm]
+\node[rounded corners=16pt, fill=accent3!16, draw=accent3!80, minimum width=3.3cm, minimum height=2.35cm, text width=2.45cm, align=center] (s1) {\Huge\bfseries 1\\[6pt]\Large Plan it};
+\node[rounded corners=16pt, fill=accent2!18, draw=accent2!85!black, minimum width=3.3cm, minimum height=2.35cm, text width=2.45cm, align=center, right=of s1] (s2) {\Huge\bfseries 2\\[6pt]\Large Make it};
+\node[rounded corners=16pt, fill=accent1!14, draw=accent1!80!black, minimum width=3.3cm, minimum height=2.35cm, text width=2.45cm, align=center, right=of s2] (s3) {\Huge\bfseries 3\\[6pt]\Large Share it};
+\draw[-{Latex[length=4mm,width=3mm]}, line width=1.7pt, color=accent4] (s1) -- (s2);
+\draw[-{Latex[length=4mm,width=3mm]}, line width=1.7pt, color=accent4] (s2) -- (s3);
 \end{tikzpicture}
 \end{center}
-\vspace{0.28cm}
-\begin{block}{Tools and setup}
-\begin{itemize}\large
-\item Begin by naming the lesson purpose and the success condition
-\item Model the first step before independent or partner work starts
-\item Pause once mid-lesson for a quick debug, reflection, or reset
+\vspace{0.25cm}
+\begin{block}{What to keep in front of you}
+\begin{itemize}
+\large
+\item Model the first step before independent or partner work starts.
+\item Keep one visible checklist, anchor chart, or projected example available throughout
+\item Pause once mid-lesson for a quick debug, reflection, or reset point.
 \end{itemize}
 \end{block}
-\note{Use the help routine before you panic}
+\note{Keep this slide up during work time when students need a visible routine.} 
 \end{frame}
 
 \begin{frame}[plain]
-\frametitle{Checkpoint and Help Moves}
+\frametitle{If You Get Stuck}
 \begin{columns}[T,totalwidth=\textwidth]
-\column{0.52\textwidth}
-\begin{block}{If something feels hard}
-\begin{enumerate}\large
-\item Check the mission map.
-\item Re-read the direction.
-\item Ask your partner what step you are on.
+\column{0.5\textwidth}
+\begin{block}{Use this help ladder}
+\begin{enumerate}
+\large
+\item Look at the slide.
+\item Try one small step.
+\item Ask your partner.
 \item Ask one clear question.
 \end{enumerate}
 \end{block}
-\column{0.43\textwidth}
+\column{0.45\textwidth}
 \begin{tikzpicture}[x=1cm,y=1cm]
-\draw[rounded corners=14pt, fill=white, draw=indigopop, line width=1.2pt] (0,0) rectangle (4.8,4.8);
-\foreach \y/\txt/\col in {3.85/Hidden assumptions in the directions can make support requests pile up/berrypop,2.7/Directions can feel hidden/goldpop,1.55/Students may not know they are done/tealpop} {
-  \draw[rounded corners=8pt, fill=\col!15, draw=\col!80!black] (0.45,\y-0.35) rectangle (4.35,\y+0.35);
-  \node[text width=3.3cm, align=center] at (2.4,\y) {\small \txt};
-}
+\draw[rounded corners=0.16cm, fill=white, draw=accent4, line width=1.1pt] (0.0,0.0) rectangle (5.0,4.8);
+\draw[rounded corners=0.12cm, fill=accent1!14, draw=accent1!80!black] (0.4,3.45) rectangle (4.6,4.15);
+\node[text width=3.7cm, align=center] at (2.5,3.8) {\small Hidden assumptions in the directions can make support requests pile up};
+\draw[rounded corners=0.12cm, fill=accent2!18, draw=accent2!85!black] (0.4,2.05) rectangle (4.6,2.75);
+\node[text width=3.7cm, align=center] at (2.5,2.4) {\small Without a visible success cue, students may not know when they};
+\draw[rounded corners=0.12cm, fill=accent3!16, draw=accent3!75] (0.4,0.65) rectangle (4.6,1.35);
+\node[text width=3.7cm, align=center] at (2.5,1.0) {\small We can share even if the project is still growing.};
 \end{tikzpicture}
 \end{columns}
-\note{Use the help routine before you panic}
+\note{Name the next small move. Hints before rescues.} 
 \end{frame}
 
 \begin{frame}[plain]
-\frametitle{Show Your Learning}
+\frametitle{Show What You Learned}
 \begin{center}
-\begin{tikzpicture}[node distance=0.45cm]
-\node[rounded corners=12pt, fill=berrypop!14, draw=berrypop!80, minimum width=10.9cm, minimum height=1.05cm, align=center] (a) {\Large\bfseries I finished an important part};
-\node[rounded corners=12pt, fill=goldpop!18, draw=goldpop!80!black, minimum width=10.9cm, minimum height=1.05cm, align=center, below=of a] (b) {\Large\bfseries I can explain one choice};
-\node[rounded corners=12pt, fill=tealpop!16, draw=tealpop!80!black, minimum width=10.9cm, minimum height=1.05cm, align=center, below=of b] (c) {\Large\bfseries I can show my work};
+\begin{tikzpicture}[node distance=0.35cm]
+\node[rounded corners=14pt, fill=accent1!14, draw=accent1!80, minimum width=10.7cm, minimum height=1.0cm, text width=9.5cm, align=center] (a) {\Large\bfseries Student completes the core task or an accessible version};
+\node[rounded corners=14pt, fill=accent2!18, draw=accent2!85!black, minimum width=10.7cm, minimum height=1.0cm, text width=9.5cm, align=center, below=of a] (b) {\Large\bfseries Student can explain at least one step, pattern, choice,};
+\node[rounded corners=14pt, fill=accent3!16, draw=accent3!75, minimum width=10.7cm, minimum height=1.0cm, text width=9.5cm, align=center, below=of b] (c) {\Large\bfseries Teacher captures one proof item: screenshot, observation note, exit};
 \end{tikzpicture}
 \end{center}
-\vspace{0.3cm}
-\begin{block}{End-of-lesson move}
-\Large Save it, show it, point to it, or explain it in your own words.
+\vspace{0.28cm}
+\begin{block}{Finish strong}
+\Large Save it, share it, explain it, or demonstrate it.
 \end{block}
-\note{Show what you learned at the end}
+\note{Close with one visible proof move and one clear celebration cue.}
 \end{frame}
 
 \end{document}

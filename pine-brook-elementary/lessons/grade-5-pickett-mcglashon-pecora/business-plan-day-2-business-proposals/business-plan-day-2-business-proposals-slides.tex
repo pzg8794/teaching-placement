@@ -3,136 +3,159 @@
 \usepackage{lmodern}
 \usepackage{tikz}
 \usepackage{hyperref}
-\usetikzlibrary{positioning,arrows.meta}
-\definecolor{neonblue}{HTML}{2F80ED}
-\definecolor{mango}{HTML}{F2994A}
-\definecolor{violet}{HTML}{7B61FF}
-\definecolor{mint}{HTML}{27AE60}
-\definecolor{ink}{HTML}{17212F}
-\definecolor{panel}{HTML}{F6F9FF}
+\usetikzlibrary{positioning,arrows.meta,calc}
+
+\definecolor{accent1}{HTML}{2563EB}
+\definecolor{accent2}{HTML}{BFDBFE}
+\definecolor{accent3}{HTML}{10B981}
+\definecolor{accent4}{HTML}{1E3A8A}
+\definecolor{paper}{HTML}{F8FBFF}
+\definecolor{ink}{HTML}{1F2937}
+
 \setbeamertemplate{navigation symbols}{}
 \setbeamercolor{normal text}{fg=ink,bg=white}
 \setbeamercolor{frametitle}{fg=ink,bg=white}
-\setbeamercolor{block title}{fg=white,bg=violet}
-\setbeamercolor{block body}{fg=ink,bg=panel}
-\setbeamertemplate{itemize item}{\color{neonblue}$\blacktriangleright$}
+\setbeamertemplate{itemize item}{\color{accent1}$\blacktriangleright$}
+\setbeamertemplate{enumerate item}{\color{accent1}\insertenumlabel.}
 \setbeameroption{hide notes}
+
 \title{Business Plan Day 2: | Business Proposals}
-\subtitle{Student Mission Deck}
+\subtitle{Student Guide}
 \author{Pine Brook IGNITE}
 \date{Spring 2026}
+
 \begin{document}
 
 \begin{frame}[plain]
 \begin{tikzpicture}[remember picture,overlay]
-\fill[panel] (current page.south west) rectangle (current page.north east);
-\fill[violet!16] (0.3,0.6) rectangle (13.0,6.9);
-\draw[line width=7pt, color=neonblue] (0.55,6.65) -- (12.75,6.65);
-\draw[line width=7pt, color=mango] (0.55,0.85) -- (12.75,0.85);
+\fill[paper] (current page.south west) rectangle (current page.north east);
+\fill[accent1!10] (0.25,0.4) rectangle (13.05,7.0);
+\draw[line width=7pt, color=accent3] (0.55,6.75) -- (12.75,6.75);
+\draw[line width=7pt, color=accent2] (0.55,0.65) -- (12.75,0.65);
 \end{tikzpicture}
-\vspace{0.5cm}
-\begin{center}
-{\Huge\bfseries\color{ink} Business Plan Day 2: | Business Proposals\par}
-\vspace{0.18cm}
-{\Large\color{violet} Design, Debug, Present.\par}
-\vspace{0.28cm}
+\vspace{0.45cm}
+\begin{columns}[T,totalwidth=\textwidth]
+\column{0.56\textwidth}
+{\huge\bfseries\color{ink} Business Plan Day 2: | Business Proposals\par}
+\vspace{0.2cm}
+{\Large\color{accent4} Plan. Code. Debug.\par}
+\vspace{0.25cm}
 \begin{tikzpicture}
-\node[rounded corners=18pt, fill=white, draw=neonblue, line width=1.4pt, minimum width=10.8cm, minimum height=1.5cm, text width=9.9cm, align=center]
-{\Large\bfseries Upper elementary students can carry more independence when criteria, checkpoints, and troubleshooting are easy to re-find.};
+\node[rounded corners=16pt, fill=white, draw=accent1, line width=1.2pt, text width=6.2cm, minimum height=1.35cm, align=center]
+{\Large\bfseries Use code steps to make something happen on purpose.};
 \end{tikzpicture}
-\vspace{0.32cm}
-\begin{tikzpicture}[node distance=0.55cm]
-\node[rounded corners=12pt, fill=neonblue!14, draw=neonblue!80, minimum width=3.1cm, minimum height=1.0cm, align=center] (a) {\large\bfseries Learn};
-\node[rounded corners=12pt, fill=mango!18, draw=mango!80!black, minimum width=3.1cm, minimum height=1.0cm, align=center, right=of a] (b) {\large\bfseries Test};
-\node[rounded corners=12pt, fill=mint!16, draw=mint!80!black, minimum width=3.1cm, minimum height=1.0cm, align=center, right=of b] (c) {\large\bfseries Improve};
+\vspace{0.35cm}
+\begin{tikzpicture}[node distance=0.45cm]
+\node[rounded corners=14pt, fill=accent3!16, draw=accent3!80, minimum width=2.25cm, minimum height=1.1cm, align=center] (a) {\Large\bfseries 1\\[2pt]Plan it};
+\node[rounded corners=14pt, fill=accent2!18, draw=accent2!85!black, minimum width=2.25cm, minimum height=1.1cm, align=center, right=of a] (b) {\Large\bfseries 2\\[2pt]Code it};
+\node[rounded corners=14pt, fill=accent1!14, draw=accent1!80!black, minimum width=2.25cm, minimum height=1.1cm, align=center, right=of b] (c) {\Large\bfseries 3\\[2pt]Debug it};
 \end{tikzpicture}
+\column{0.4\textwidth}
+\begin{center}
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+\draw[rounded corners=0.2cm, fill=accent2!18, draw=accent4, line width=1pt] (0.45,0.6) rectangle (4.55,3.9);
+\draw[rounded corners=0.12cm, fill=accent1!18, draw=accent1] (0.9,2.65) rectangle (2.25,3.3);
+\draw[rounded corners=0.12cm, fill=accent3!18, draw=accent3] (2.75,2.05) rectangle (4.1,2.7);
+\draw[rounded corners=0.12cm, fill=accent2!35, draw=accent4] (1.75,1.1) rectangle (3.15,1.75);
+\draw[-{Latex[length=3mm,width=2.2mm]}, line width=1.1pt, color=accent4] (2.25,2.65) -- (2.75,2.38);
+\draw[-{Latex[length=3mm,width=2.2mm]}, line width=1.1pt, color=accent4] (3.1,2.05) -- (2.55,1.75);
+\end{tikzpicture}
+
 \end{center}
-\note{Today we are working on business plan day 2:}
+\end{columns}
+\note{Audience guidance: Older elementary learners who can manage autonomy and longer projects when expectations, accountability, and revision structures. Teaching move: Name the goal in student language before materials or devices create extra noise.}
 \end{frame}
 
 \begin{frame}[plain]
-\frametitle{Mission Brief}
+\frametitle{Today's Mission}
 \begin{columns}[T,totalwidth=\textwidth]
-\column{0.55\textwidth}
-\begin{block}{Your mission today}
-\Large I can follow the steps.
+\column{0.56\textwidth}
+\begin{block}{Our focus}
+\normalsize Use code steps to make something happen on purpose.
 \end{block}
-\begin{itemize}\large
-\item I can follow the steps.
-\item I can make or improve something.
-\item I can show my learning.
+\vspace{0.1cm}
+\begin{itemize}
+\normalsize
+\item Student completes the core task or an accessible version
+\item Student can explain at least one step, pattern, choice,
+\item Teacher captures one proof item: screenshot, observation note, exit
 \end{itemize}
-\column{0.4\textwidth}
+\column{0.38\textwidth}
 \begin{tikzpicture}[x=1cm,y=1cm]
-\draw[rounded corners=14pt, fill=white, draw=violet, line width=1.2pt] (0,0) rectangle (4.8,4.8);
-\node[draw=neonblue!75, fill=neonblue!10, rounded corners=9pt, minimum width=3.45cm, minimum height=0.9cm] at (2.4,3.9) {\bfseries Grade 5};
-\node[draw=mango!80!black, fill=mango!14, rounded corners=9pt, minimum width=3.45cm, minimum height=1.05cm, text width=3.1cm, align=center] at (2.4,2.35) {\small Older elementary learners who can manage autonomy and longer projects when expectations, accountability, and revision structures stay visible.};
-\node[draw=mint!80!black, fill=mint!14, rounded corners=9pt, minimum width=3.45cm, minimum height=0.95cm, text width=3.1cm, align=center] at (2.4,0.95) {\scriptsize Day 2 `10:45-11:35` Pickett, Day 3 `10:45-11:35` McGlashon, Day 5 `10:45-11:35` Pecora};
+\draw[rounded corners=0.18cm, fill=white, draw=accent4, line width=1.1pt] (0.1,0.1) rectangle (4.55,4.8);
+\node[rounded corners=0.16cm, fill=accent1!14, draw=accent1!70, minimum width=3.7cm, minimum height=0.75cm, align=center] at (2.3,4.15) {\bfseries Grade 5};
+\node[rounded corners=0.16cm, fill=accent2!18, draw=accent2!85!black, text width=3.35cm, minimum height=1.2cm, align=center] at (2.3,2.85) {\small Use code steps to make something happen on purpose.};
+\node[rounded corners=0.16cm, fill=accent3!16, draw=accent3!75, text width=3.35cm, minimum height=1.0cm, align=center] at (2.3,1.1) {\small Keep the next step visible and keep trying.};
 \end{tikzpicture}
 \end{columns}
-\note{Today we are working on business plan day 2:}
+\note{Open with the mission in student language. Keep the focus visible while students work.} 
 \end{frame}
 
 \begin{frame}[plain]
-\frametitle{Mission Flow}
+\frametitle{How We Will Move Through It}
 \begin{center}
-\begin{tikzpicture}[node distance=0.6cm]
-\node[rounded corners=14pt, fill=neonblue!12, draw=neonblue!80, minimum width=3.05cm, minimum height=2.0cm, text width=2.3cm, align=center] (s1) {\Large\bfseries 1\\[4pt]Pick one clear idea};
-\node[rounded corners=14pt, fill=mango!17, draw=mango!80!black, minimum width=3.05cm, minimum height=2.0cm, text width=2.3cm, align=center, right=of s1] (s2) {\Large\bfseries 2\\[4pt]Work one part at a time};
-\node[rounded corners=14pt, fill=mint!16, draw=mint!80!black, minimum width=3.05cm, minimum height=2.0cm, text width=2.3cm, align=center, right=of s2] (s3) {\Large\bfseries 3\\[4pt]Show what you made};
-\draw[-{Latex[length=4mm,width=3mm]}, line width=1.8pt, color=violet] (s1) -- (s2);
-\draw[-{Latex[length=4mm,width=3mm]}, line width=1.8pt, color=violet] (s2) -- (s3);
+\begin{tikzpicture}[node distance=0.5cm]
+\node[rounded corners=16pt, fill=accent3!16, draw=accent3!80, minimum width=3.3cm, minimum height=2.35cm, text width=2.45cm, align=center] (s1) {\Huge\bfseries 1\\[6pt]\Large Plan it};
+\node[rounded corners=16pt, fill=accent2!18, draw=accent2!85!black, minimum width=3.3cm, minimum height=2.35cm, text width=2.45cm, align=center, right=of s1] (s2) {\Huge\bfseries 2\\[6pt]\Large Code it};
+\node[rounded corners=16pt, fill=accent1!14, draw=accent1!80!black, minimum width=3.3cm, minimum height=2.35cm, text width=2.45cm, align=center, right=of s2] (s3) {\Huge\bfseries 3\\[6pt]\Large Debug it};
+\draw[-{Latex[length=4mm,width=3mm]}, line width=1.7pt, color=accent4] (s1) -- (s2);
+\draw[-{Latex[length=4mm,width=3mm]}, line width=1.7pt, color=accent4] (s2) -- (s3);
 \end{tikzpicture}
 \end{center}
-\vspace{0.3cm}
-\begin{block}{Tools and setup}
-\begin{itemize}\large
-\item Begin by naming the lesson purpose and the success condition
-\item Model the first step before independent or partner work starts
-\item Pause once mid-lesson for a quick debug, reflection, or reset
+\vspace{0.25cm}
+\begin{block}{What to keep in front of you}
+\begin{itemize}
+\normalsize
+\item Model the first step before independent or partner work starts.
+\item Keep one visible checklist, anchor chart, or projected example available throughout
+\item Pause once mid-lesson for a quick debug, reflection, or reset point.
 \end{itemize}
 \end{block}
-\note{Use the help routine before you panic}
+\note{Keep this slide up during work time when students need a visible routine.} 
 \end{frame}
 
 \begin{frame}[plain]
-\frametitle{Debug and Get Unstuck}
+\frametitle{If You Get Stuck}
 \begin{columns}[T,totalwidth=\textwidth]
-\column{0.53\textwidth}
-\begin{block}{Use this order}
-\begin{enumerate}\large
-\item Re-check the goal.
-\item Re-check the current step.
-\item Test one small change.
-\item Ask one specific question.
+\column{0.5\textwidth}
+\begin{block}{Use this help ladder}
+\begin{enumerate}
+\normalsize
+\item Look at the slide.
+\item Try one small step.
+\item Ask your partner.
+\item Ask one clear question.
 \end{enumerate}
 \end{block}
-\column{0.42\textwidth}
+\column{0.45\textwidth}
 \begin{tikzpicture}[x=1cm,y=1cm]
-\draw[rounded corners=14pt, fill=white, draw=violet, line width=1.2pt] (0,0) rectangle (4.9,4.9);
-\foreach \y/\txt/\col in {3.9/Hidden assumptions in the directions can make support requests pile up/neonblue,2.65/Directions can feel hidden/mango,1.4/Students may not know they are done/mint} {
-  \draw[rounded corners=8pt, fill=\col!14, draw=\col!80!black] (0.45,\y-0.35) rectangle (4.45,\y+0.35);
-  \node[text width=3.4cm, align=center] at (2.45,\y) {\small \txt};
-}
+\draw[rounded corners=0.16cm, fill=white, draw=accent4, line width=1.1pt] (0.0,0.0) rectangle (5.0,4.8);
+\draw[rounded corners=0.12cm, fill=accent1!14, draw=accent1!80!black] (0.4,3.45) rectangle (4.6,4.15);
+\node[text width=3.7cm, align=center] at (2.5,3.8) {\small Hidden assumptions in the directions can make support requests pile up};
+\draw[rounded corners=0.12cm, fill=accent2!18, draw=accent2!85!black] (0.4,2.05) rectangle (4.6,2.75);
+\node[text width=3.7cm, align=center] at (2.5,2.4) {\small Without a visible success cue, students may not know when they};
+\draw[rounded corners=0.12cm, fill=accent3!16, draw=accent3!75] (0.4,0.65) rectangle (4.6,1.35);
+\node[text width=3.7cm, align=center] at (2.5,1.0) {\small Debugging is part of the learning.};
 \end{tikzpicture}
 \end{columns}
-\note{Use the help routine before you panic}
+\note{Name the next small move. Hints before rescues.} 
 \end{frame}
 
 \begin{frame}[plain]
-\frametitle{Proof of Learning}
+\frametitle{Show What You Learned}
 \begin{center}
-\begin{tikzpicture}[node distance=0.45cm]
-\node[rounded corners=12pt, fill=neonblue!12, draw=neonblue!80, minimum width=10.8cm, minimum height=1.05cm, align=center] (a) {\Large\bfseries I finished an important part};
-\node[rounded corners=12pt, fill=mango!18, draw=mango!80!black, minimum width=10.8cm, minimum height=1.05cm, align=center, below=of a] (b) {\Large\bfseries I can explain one choice};
-\node[rounded corners=12pt, fill=mint!16, draw=mint!80!black, minimum width=10.8cm, minimum height=1.05cm, align=center, below=of b] (c) {\Large\bfseries I can show my work};
+\begin{tikzpicture}[node distance=0.35cm]
+\node[rounded corners=14pt, fill=accent1!14, draw=accent1!80, minimum width=10.7cm, minimum height=1.0cm, text width=9.5cm, align=center] (a) {\Large\bfseries Student completes the core task or an accessible version};
+\node[rounded corners=14pt, fill=accent2!18, draw=accent2!85!black, minimum width=10.7cm, minimum height=1.0cm, text width=9.5cm, align=center, below=of a] (b) {\Large\bfseries Student can explain at least one step, pattern, choice,};
+\node[rounded corners=14pt, fill=accent3!16, draw=accent3!75, minimum width=10.7cm, minimum height=1.0cm, text width=9.5cm, align=center, below=of b] (c) {\Large\bfseries Teacher captures one proof item: screenshot, observation note, exit};
 \end{tikzpicture}
 \end{center}
-\vspace{0.3cm}
-\begin{block}{Before you leave}
+\vspace{0.28cm}
+\begin{block}{Finish strong}
 \Large Save it, share it, explain it, or demonstrate it.
 \end{block}
-\note{Show what you learned at the end}
+\note{Close with one visible proof move and one clear celebration cue.}
 \end{frame}
 
 \end{document}
