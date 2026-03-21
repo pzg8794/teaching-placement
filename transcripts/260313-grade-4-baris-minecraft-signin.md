@@ -11,7 +11,7 @@
 ## ⚡ Quick Scan
 
 - 📄 **Source TXT:** [03-13 Lecture_ Minecraft Installation, Sign-in Safety, and Collaborative Team Build Procedures-transcript.txt](./260313-grade-4-baris-minecraft-signin.txt)
-- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-source-materials-notes.md](../lessons/evidence-notes.md)
+- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-source-materials-notes.md](../pine-brook-elementary/lessons/evidence-notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 
 ## 📝 Transcript

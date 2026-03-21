@@ -11,7 +11,7 @@
 ## ⚡ Quick Scan
 
 - 📄 **Source TXT:** [03-03 Lecture_ Minecraft Education Integration, Hosting, and Standards-Aligned Lessons-transcript.txt](./260303-grade-4-baris-minecraft-integration.txt)
-- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-source-materials-notes.md](../lessons/evidence-notes.md)
+- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-source-materials-notes.md](../pine-brook-elementary/lessons/evidence-notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 
 ## 📝 Transcript

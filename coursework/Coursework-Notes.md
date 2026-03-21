@@ -19,7 +19,7 @@
 
 ## 📎 Coursework Files
 
-- [🤖 Using AI as a thought partner in your UbD unit redesign](./using-ai-as-a-thought-partner-in-your-ubd-unit-redesign.md)
+- [🤖 Using AI as a thought partner in your UbD unit redesign](../archives/using-ai-as-a-thought-partner-in-your-ubd-unit-redesign.md)
 - [📄 Warner school CPAST rubric](./warner-school-cpast-rubric.docx)
 - [📄 Warner CPAST examples of evidence](./warner-cpast-examples-of-evidence.docx)
 - [📄 Field experience evaluation](./field-experience-eval.docx)

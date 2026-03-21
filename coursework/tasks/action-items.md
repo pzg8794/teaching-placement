@@ -204,9 +204,9 @@ Use this section as your “index” when revising lesson plans (micro-structure
 - Collaborative noticing notes (EDF436): `../../EDF436/Collaborative_Noticing_2026-02-16.md`
 
 ### D) Curriculum + placement context (constraints we must align to)
-- IGNITE schedule: `../school/teaching-placement-pine-brook-ignite-schedule-25-26.pptx`
-- IGNITE curriculum: `../school/teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
-- Internship model graphic: `../school/teaching-placement-internship-graphic-model.pdf`
+- IGNITE schedule: `../pine-brook-elementary/teaching-placement-pine-brook-ignite-schedule-25-26.pptx`
+- IGNITE curriculum: `../pine-brook-elementary/teaching-placement-ignite-curriculum-gcsd-25-26.xlsx`
+- Internship model graphic: `../pine-brook-elementary/teaching-placement-internship-graphic-model.pdf`
 - Student teaching handbook(s):
   - Placement copy: `../handbook/student-teaching-handbook-2025-26.pdf`
   - Searchable text copy: `../handbook/student-teaching-handbook-2025-26.txt`
@@ -233,7 +233,7 @@ Goal: give Zenon (CS) + Sue (Inclusion) 2–3 strong options; **prefer one share
   - Note: because this window is mid-block, plan a short “mini-lesson/check-in” around 10:15 so observers see explicit instruction + success criteria.
 
 ### F) Example lesson plans + feedback artifacts (what to copy / what to incorporate)
-- Lesson plan example (MD + LaTeX + PDF, with sub visuals): `../../lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-bees/`
+- Lesson plan example (MD + LaTeX + PDF, with sub visuals): `../../pine-brook-elementary/lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-bees/`
 - Additional lesson plan exemplars (PDFs):
   - `../../../Semester_Master_Plan/Supporting_Files/EDE437_Lesson_Plan.pdf`
   - `../../../Semester_Master_Plan/Supporting_Files/ED452A_Unplug_Binary_Lesson.pdf`
@@ -241,7 +241,7 @@ Goal: give Zenon (CS) + Sue (Inclusion) 2–3 strong options; **prefer one share
   - `../../../Semester_Master_Plan/Supporting_Files/ED452A_Part_3_LessonPlan_SWD.pdf`
   - `../../../Semester_Master_Plan/Supporting_Files/EDU484A_Group_Teaching_Lesson.pdf`
 - Observation/meeting/class transcripts (feedback source): `../transcripts/`
-- Video snapshots (context/feedback source): `../snapshots/`
+- Video snapshots (context/feedback source): `../pine-brook-elementary/snapshots/`
 
 ### Recommended workflow (micro → strategic)
 1) **Micro pass (structure + usability):** tighten timing, clarify materials, add a sub snapshot, add student directions, add visuals, add “common bugs” fixes, make constraints explicit.

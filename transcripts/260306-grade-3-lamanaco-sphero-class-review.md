@@ -11,7 +11,7 @@
 ## ⚡ Quick Scan
 
 - 📄 **Source TXT:** [03-06 Robotics Class on Sphero Programming and Subsequent Adult Conversations-transcript.txt](./260306-grade-3-lamanaco-sphero-class-review.txt)
-- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-source-materials-notes.md](../lessons/evidence-notes.md)
+- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-source-materials-notes.md](../pine-brook-elementary/lessons/evidence-notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 
 ## 📝 Transcript

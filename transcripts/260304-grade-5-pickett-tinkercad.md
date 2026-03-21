@@ -11,7 +11,7 @@
 ## ⚡ Quick Scan
 
 - 📄 **Source TXT:** [03-04 Class Session_ Tinkercad Basics via Google Classroom — Shape Placement, Planes, Grouping, and Hole Creation-transcript.txt](./260304-grade-5-pickett-tinkercad.txt)
-- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-source-materials-notes.md](../lessons/evidence-notes.md)
+- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-source-materials-notes.md](../pine-brook-elementary/lessons/evidence-notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 
 ## 📝 Transcript

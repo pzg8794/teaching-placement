@@ -11,7 +11,7 @@
 ## ⚡ Quick Scan
 
 - 📄 **Source TXT:** [02-25 Lecture_ Video Assignment and Robotics-transcript.txt](./260225-grade-2-callon-video-robotics.txt)
-- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-source-materials-notes.md](../lessons/evidence-notes.md)
+- 🧩 **Transcript-derived lesson notes:** [Transcript-Derived-source-materials-notes.md](../pine-brook-elementary/lessons/evidence-notes.md)
 - 📍 **Transcript Type:** Teaching / lesson / classroom note
 
 ## 📝 Transcript

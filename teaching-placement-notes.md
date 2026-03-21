@@ -27,10 +27,10 @@
 
 ## 🚦 Quick Start
 
-- [🟢 Lessons](./lessons/lessons-notes.md)
-- [🔴 School / Placement](./school/school-notes.md)
+- [🟢 Lessons](./pine-brook-elementary/lessons/lessons-notes.md)
+- [🔴 School / Placement](./pine-brook-elementary/pine-brook-elementary-notes.md)
 - [⚪ Transcripts](./transcripts/transcripts-notes.md)
-- [🟫 Snapshots](./snapshots/snapshots-notes.md)
+- [🟫 Snapshots](./pine-brook-elementary/snapshots/snapshots-notes.md)
 
 ---
 
@@ -40,9 +40,9 @@
 - [🟣 Coursework expectations](./coursework/expectations/expectations-notes.md)
 - [🟤 Coursework tasks](./coursework/tasks/tasks-notes.md)
 - [🟡 Coursework references](./coursework/reference-notes.md)
-- [🟢 Lessons](./lessons/lessons-notes.md)
-- [🔴 School / Placement](./school/school-notes.md)
-- [🟫 Snapshots](./snapshots/snapshots-notes.md)
+- [🟢 Lessons](./pine-brook-elementary/lessons/lessons-notes.md)
+- [🔴 School / Placement](./pine-brook-elementary/pine-brook-elementary-notes.md)
+- [🟫 Snapshots](./pine-brook-elementary/snapshots/snapshots-notes.md)
 - [⚪ Transcripts](./transcripts/transcripts-notes.md)
 
 ---
@@ -50,6 +50,6 @@
 ## 🧠 Memory Tip
 
 - If you are looking for **what happened in class**, start in [⚪ Transcripts](./transcripts/transcripts-notes.md).
-- If you are looking for **what to teach next**, start in [🟢 Lessons](./lessons/lessons-notes.md).
-- If you are looking for **when or with which class**, start in [🔴 School / Placement](./school/school-notes.md).
+- If you are looking for **what to teach next**, start in [🟢 Lessons](./pine-brook-elementary/lessons/lessons-notes.md).
+- If you are looking for **when or with which class**, start in [🔴 School / Placement](./pine-brook-elementary/pine-brook-elementary-notes.md).
 - If you want to **share something**, send the link to the real folder or file itself instead of using a duplicate share directory.

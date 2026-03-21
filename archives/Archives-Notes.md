@@ -9,4 +9,4 @@
 
 ---
 
-- [Top-level snapshots directory](../snapshots/snapshots-notes.md)
+- [Top-level snapshots directory](../pine-brook-elementary/snapshots/snapshots-notes.md)
