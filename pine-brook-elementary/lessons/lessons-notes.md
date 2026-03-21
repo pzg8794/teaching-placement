@@ -19,6 +19,8 @@
 
 ## 📚 Supporting Notes
 
+- Audience profiles now live inside each grade/class-block folder and guide student-facing scaffolds and slide decks.
+
 - [Lesson outline map](./lesson-outline-notes.md)
 - [Evidence note guide](./evidence-notes.md)
 - [Workbook hub](../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-notes.md)

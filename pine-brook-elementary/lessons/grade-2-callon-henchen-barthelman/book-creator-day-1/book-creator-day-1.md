@@ -19,6 +19,9 @@
 - **Class blocks:** Day 1 `10:45-11:35` Callon, Day 1 `2:15-3:05` Henchen, Day 4 `10:45-11:35` Barthelman
 - **LaTeX source:** [book-creator-day-1.tex](./book-creator-day-1.tex)
 - **Bib file:** [book-creator-day-1.bib](./book-creator-day-1.bib)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [book-creator-day-1-slides.tex](./book-creator-day-1-slides.tex)
+- **Student slides (PDF):** [book-creator-day-1-slides.pdf](./book-creator-day-1-slides.pdf)
 
 ## 🎯 School Planning Goals + Inclusion
 
@@ -28,14 +31,48 @@
 - **How to improve:** Pull transcript evidence into this packet, store one student work example or observation note, and tighten the success criteria before reteaching.
 - **Inclusion focus:** Start from the workbook special education notes and the school SWD guidance, then make the directions more visual, chunked, and predictable for reteaching.
 
-## 🧾 Workbook Capture
+## 👥 Audience Snapshot
 
-- **Unit theme:** Communication: | Storytelling | *Multimedia
-- **Standards addressed:** 2-3.DL.4
-- **Materials / resources:** Chromebook | Headphones
-- **Learning targets:** I can use Book Creator to create a digital artifact.
-- **Special education considerations:** Read aloud “What Would You Do in a Book About You?” with visuals and interactive questions to connect story ideas to their work. personalized, simplified Book Creator templates with fewer pages and clear prompts. Model each step slowly: logging in, navigating pages, adding text/images, undo/delete actions, and handling pop-ups. Use alternative communication tools (picture cards, speech devices) for students to express when they need help or share ideas. Use assistive technology to support accessibility. | Break work time into shorter segments with sensory or movement breaks to maintain focus and regulation. Use visual schedules and step-by-step checklists to build predictability and independence.
-- **Cross-curricular context:** 2 - ARC: Bugs in their Ecosystems (Informational) | Weeks | 2 - Science: Made of Matter (End of Jan. - Feb.) | 2 - Math: Numbers Within 1000: Place Value, Addition, and Subtraction | (Jan 2 - Mar 1)
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Growing independent learners who can handle more tool variety when routines and choices stay well scaffolded.
+- **This lesson should especially support:** Model the first screen and the exact tool students must use before release.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Visible routines for logging in, opening tools, and transitioning between digital and hands-on tasks.
+- Language support for new CS vocabulary, especially when ideas are abstract like AI or classification.
+- Modeling for how to start, what to do next, and how to ask for help productively.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Model the first screen and the exact tool students must use before release.
+- Provide a visible checklist so students know what counts as complete.
+- Use sentence frames or model examples when students need help generating content, not just clicking tools.
+
+## ⚠️ Likely Friction Points
+
+- Tool navigation can overshadow the content goal if too many options appear at once.
+- Typing and spelling load may slow down students who understand the idea but need output support.
+- Students may feel done after decorating unless the success criteria are visible.
+
+## 🎨 Presentation Design Notes
+
+- Use chunked steps, explicit transitions, and visual examples that connect concept words to the exact task.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher front-loads the tool move, then shifts to coaching idea quality and completion.
+- Partners can read directions to one another even during individual creation work.
+- Use mid-lesson pauses so students save, breathe, and check the target.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on book creator (day 1). Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 
@@ -50,6 +87,7 @@
 
 - [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
 - [Book Creator](https://bookcreator.com/)
+- [Book Creator for Teachers](https://bookcreator.com/teachers/)
 
 ## 🛠️ Materials and Teaching Moves
 

@@ -23,15 +23,60 @@
 - **What needs improvement:** The lesson still needs stronger visible proof, cleaner assessment notes, and a clearer bridge between expectation and lived classroom evidence.
 - **How to improve:** Pull transcript evidence into this packet, store one student work example or observation note, and tighten the success criteria before reteaching.
 - **Inclusion focus:** Start from the workbook special education notes and the school SWD guidance, then make the directions more visual, chunked, and predictable for reteaching.
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [commonality-cards-slides.tex](./commonality-cards-slides.tex)
+- **Student slides (PDF):** [commonality-cards-slides.pdf](./commonality-cards-slides.pdf)
 
-## 🧾 Workbook Capture
+## 🎯 School Planning Goals + Inclusion
 
-- **Unit theme:** Beginning Of The Year Expectations
-- **Standards addressed:** 2-3.CT.4 | 2-3.CT.9
-- **Materials / resources:** Chart Paper | Index Cards | Yard Sticks
-- **Learning targets:** I recognize there are multiple ways/different steps that can be taken to make a tower (2-3.CT.4) | We can identify what changes we had to make while building our tower in order to make it successful (2-3.CT.9)
-- **Special education considerations:** "Expected/Unexpected" vocabulary/sorts to create classroom rules. Consider repeating sort over many sessions. Create visual representation for rules and norms and review at the beginning of class. Provide pre-sorted, safe, and easy-to-handle building materials. Use Structured Turn-Taking. Simplify the Building Challenge. Support Communication through visuals, AAC devices, modeling.
-- **Cross-curricular context:** 3 - ARC / Sci: Dinosaurs and Knights (Literacy Lab) | 6-8 weeks | 3 - Science: Invisible Forces (September - October) | 3 - Math: Three Digit Numbers: Place Value, Addition, and Subtraction | (Sept 11 - Oct 26)
+- **What is expected:** The lesson should keep the CS or digital-thinking move visible, protect access for diverse learners, and make student success observable.
+- **What we achieved:** The packet is grounded in workbook expectations and available local transcripts/evidence.
+- **What needs improvement:** Keep proof of student learning clearer and reduce hidden assumptions in directions.
+- **How to improve:** Make the next step, help routine, and success criteria visible in both the packet and the student-facing deck.
+- **Inclusion focus:** Use chunked steps, visual modeling, role clarity, and flexible entry points.
+
+## 👥 Audience Snapshot
+
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Upper-primary learners who can sustain design and robotics challenges when the structure supports collaboration and debugging.
+- **This lesson should especially support:** Name the goal in student language before materials or devices create extra noise.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Partner norms that keep one student from dominating the device or the robot.
+- Scaffolds for translating ideas into code, then code into revision steps.
+- Frequent reminders to slow down, test one change at a time, and notice patterns.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Name the goal in student language before materials or devices create extra noise.
+- Keep one visible checklist or example on screen during work time.
+- Pause once to help students reflect and reset before the final task push.
+
+## ⚠️ Likely Friction Points
+
+- Students may lose the main goal if the task has too many moving parts.
+- Hidden assumptions in the directions can make support requests pile up late.
+- Without a visible success cue, students may not know when they are truly finished.
+
+## 🎨 Presentation Design Notes
+
+- Use challenge-style slides with strong checkpoints, partner-role prompts, and visible debugging language.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher models first, circulates during practice, and closes with one proof move.
+- Partner talk can lower the language load before public sharing.
+- Use one fast check to catch confusion while there is still time to adapt.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on commonality cards. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 

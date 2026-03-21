@@ -9,6 +9,8 @@
 
 ## 📍 Quick Scan
 
+- **Audience profile:** [class-audience-profile.md](./class-audience-profile.md)
+
 - **Workbook note:** [open workbook note](../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-2-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../spring-2026-teaching-schedule-derek.md)
 - **Class blocks:** Day 1 10:45-11:35 Callon, Day 1 2:15-3:05 Henchen, Day 4 10:45-11:35 Barthelman
@@ -50,6 +52,11 @@
 - [technology-changed-the-world](technology-changed-the-world/technology-changed-the-world.md)
 - [what-is-an-architect-engineer-and-design-process-quick-bridge-design](what-is-an-architect-engineer-and-design-process-quick-bridge-design/what-is-an-architect-engineer-and-design-process-quick-bridge-design.md)
 - [what-is-coding](what-is-coding/what-is-coding.md)
+
+## 🎞️ Presentation Layer
+
+- Every lesson folder in this class block now carries a separate `*-slides.tex` and `*-slides.pdf` student-facing deck.
+- Use [class-audience-profile.md](./class-audience-profile.md) before revising or presenting a lesson.
 
 ## 🔗 Shared References
 

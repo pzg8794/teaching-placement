@@ -19,6 +19,9 @@
 - **Class blocks:** Day 1 `12:25-1:15` Justinger, Day 2 `12:25-1:15` Kesys, Day 4 `12:25-1:15` Pum
 - **LaTeX source:** [indi-detective.tex](./indi-detective.tex)
 - **Bib file:** [indi-detective.bib](./indi-detective.bib)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [indi-detective-slides.tex](./indi-detective-slides.tex)
+- **Student slides (PDF):** [indi-detective-slides.pdf](./indi-detective-slides.pdf)
 
 ## 🎯 School Planning Goals + Inclusion
 
@@ -28,14 +31,49 @@
 - **How to improve:** Pull transcript evidence into this packet, store one student work example or observation note, and tighten the success criteria before reteaching.
 - **Inclusion focus:** Start from the workbook special education notes and the school SWD guidance, then make the directions more visual, chunked, and predictable for reteaching.
 
-## 🧾 Workbook Capture
+## 👥 Audience Snapshot
 
-- **Unit theme:** Computational Thinking: | Robotics | *Indi cars
-- **Standards addressed:** K-1.CT.6 | K-1.CT.9 | K-1.CT.10
-- **Materials / resources:** Indi cars & kits | Key Worksheet | Scissors | Glue | Pencils
-- **Learning targets:** I can identify key parts of Indi and what they do (K-1.NSD.2) | I can teach someone else about Indi and how it works (using color mats for input & output) (K-1.NSD.1) | I can show Indi how to travel in different directions (K-1.NSD.1) | I can follow an algorithm to complete a task (K-1.CT.6) | I can makes changes to my program when it is not working (K-1.CT.9) | I can program Indi to travel along different paths and around objects (K-1.CT.10)
-- **Special education considerations:** No grade-sheet note captured for this lesson.
-- **Cross-curricular context:** K - ARC: Ecology (Narrative) | Weeks | K - Science: Worm Scouts (March-May) | K - Math: Numbers to 100 | (Feb 12 - March 28)
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Early elementary learners who benefit from visual modeling, predictable routines, and very small chunks of task time.
+- **This lesson should especially support:** Assign partner roles before materials come out so turn-taking is visible.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Short, repeated directions with one concrete action at a time.
+- High visual support for tools, buttons, turns, and cleanup routines.
+- Co-regulation, calm pacing, and quick resets when frustration starts to rise.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Assign partner roles before materials come out so turn-taking is visible.
+- Model one test-revise cycle with the actual robot or kit students will use.
+- Use a simple data language such as what changed, what happened, and what to try next.
+
+## ⚠️ Likely Friction Points
+
+- Device-to-robot pairing and setup can split attention quickly.
+- One partner may take over unless roles are named and revisited.
+- Students may change too many variables at once and lose track of the cause of an error.
+
+## 🎨 Presentation Design Notes
+
+- Use the biggest text, the fewest words, bright visual anchors, and repeated watch / do / check patterns.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+- Use fewer words, larger type, and stronger icon cues than you would for upper grades.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher circulates for pairing, safety, and one-change-at-a-time coaching.
+- Partners alternate driver and coach roles during the lesson.
+- Use quick whole-group resets when many groups hit the same hardware issue.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on indi detective. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 
@@ -45,6 +83,7 @@
 
 - [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
 - [Sphero Edu Teacher Resource Guide](https://dmmedia.sphero.com/email-marketing/Sphero-Edu/SpheroEdu-k12-teacher-resource-guide-v1_updated050818.pdf)
+- [LEGO Education SPIKE Essential](https://education.lego.com/en-us/lessons/spike-essential/)
 
 ## 🛠️ Materials and Teaching Moves
 

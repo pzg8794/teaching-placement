@@ -23,15 +23,61 @@
 - **What needs improvement:** The lesson still needs stronger visible proof, cleaner assessment notes, and a clearer bridge between expectation and lived classroom evidence.
 - **How to improve:** Pull transcript evidence into this packet, store one student work example or observation note, and tighten the success criteria before reteaching.
 - **Inclusion focus:** Start from the workbook special education notes and the school SWD guidance, then make the directions more visual, chunked, and predictable for reteaching.
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [flex-week-or-digital-tools-purpose-slides.tex](./flex-week-or-digital-tools-purpose-slides.tex)
+- **Student slides (PDF):** [flex-week-or-digital-tools-purpose-slides.pdf](./flex-week-or-digital-tools-purpose-slides.pdf)
 
-## 🧾 Workbook Capture
+## 🎯 School Planning Goals + Inclusion
 
-- **Unit theme:** Communication: | Digital Literacy and System Design | *Basic computer skills
-- **Standards addressed:** 4-6.DL.2 | 4-6.DL.5 | 4-6.CY.3
-- **Materials / resources:** Large Post-its | Markers | Chromebooks | Chart Paper | Digital Note Catcher
-- **Learning targets:** - I can select the tool that best helps me communicate and collaborate with others based on my task/purpose. | - I can note common features among different digital technology tools. | - I can reason about when to keep information private and when to share information.
-- **Special education considerations:** No grade-sheet note captured for this lesson.
-- **Cross-curricular context:** 4 - ARC: Animal Adaptations (Informational) | 9 Weeks | 4 - Science: Riding the Waves (Mid-Oct. - Mid-Nov.) | 4- Math: Multi Digit Operations and Measurement: Multiplication, Division, Perimeter, and Area | (Nov 28 - Jan 13)
+- **What is expected:** The lesson should keep the CS or digital-thinking move visible, protect access for diverse learners, and make student success observable.
+- **What we achieved:** The packet is grounded in workbook expectations and available local transcripts/evidence.
+- **What needs improvement:** Keep proof of student learning clearer and reduce hidden assumptions in directions.
+- **How to improve:** Make the next step, help routine, and success criteria visible in both the packet and the student-facing deck.
+- **Inclusion focus:** Use chunked steps, visual modeling, role clarity, and flexible entry points.
+
+## 👥 Audience Snapshot
+
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Intermediate learners who can handle complex digital tasks when setup friction, debugging, and persistence are explicitly coached.
+- **This lesson should especially support:** Name the goal in student language before materials or devices create extra noise.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Clear setup routines for sign-in, menu navigation, and device troubleshooting before concept work starts.
+- Visible success criteria so students can separate “I am stuck” from “I still have a next step.”
+- Support for productive struggle: students benefit from hints, not rescues, when challenge levels rise.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Name the goal in student language before materials or devices create extra noise.
+- Keep one visible checklist or example on screen during work time.
+- Pause once to help students reflect and reset before the final task push.
+
+## ⚠️ Likely Friction Points
+
+- Students may lose the main goal if the task has too many moving parts.
+- Hidden assumptions in the directions can make support requests pile up late.
+- Without a visible success cue, students may not know when they are truly finished.
+
+## 🎨 Presentation Design Notes
+
+- Use challenge-and-debug slides with clear click paths, bold timers/checkpoints, and visible help routines.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+- Keep the deck age-respectful while still making checkpoints and expectations unmistakable.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher models first, circulates during practice, and closes with one proof move.
+- Partner talk can lower the language load before public sharing.
+- Use one fast check to catch confusion while there is still time to adapt.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on flex week | or digital tools/purpose. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 

@@ -9,6 +9,8 @@
 
 ## 📍 Quick Scan
 
+- **Audience profile:** [class-audience-profile.md](./class-audience-profile.md)
+
 - **Workbook note:** [open workbook note](../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-5-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../spring-2026-teaching-schedule-derek.md)
 - **Class blocks:** Day 2 10:45-11:35 Pickett, Day 3 10:45-11:35 McGlashon, Day 5 10:45-11:35 Pecora
@@ -51,6 +53,11 @@
 - [teach-win-it-social-lesson-1st-unless-classes-have-gone-through-this-alr](teach-win-it-social-lesson-1st-unless-classes-have-gone-through-this-alr/teach-win-it-social-lesson-1st-unless-classes-have-gone-through-this-alr.md)
 - [the-long-selfie-stick-of-the-law](the-long-selfie-stick-of-the-law/the-long-selfie-stick-of-the-law.md)
 - [tinkercad-design-and-revision](tinkercad-design-and-revision/tinkercad-design-and-revision.md)
+
+## 🎞️ Presentation Layer
+
+- Every lesson folder in this class block now carries a separate `*-slides.tex` and `*-slides.pdf` student-facing deck.
+- Use [class-audience-profile.md](./class-audience-profile.md) before revising or presenting a lesson.
 
 ## 🔗 Shared References
 

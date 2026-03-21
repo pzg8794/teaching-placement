@@ -19,6 +19,9 @@
 - **Class blocks:** Day 1 `10:45-11:35` Callon, Day 1 `2:15-3:05` Henchen, Day 4 `10:45-11:35` Barthelman
 - **LaTeX source:** [grade-2-day-1-community-project.tex](./grade-2-day-1-community-project.tex)
 - **Bib file:** [grade-2-day-1-community-project.bib](./grade-2-day-1-community-project.bib)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [grade-2-day-1-community-project-slides.tex](./grade-2-day-1-community-project-slides.tex)
+- **Student slides (PDF):** [grade-2-day-1-community-project-slides.pdf](./grade-2-day-1-community-project-slides.pdf)
 
 ## 🎯 School Planning Goals + Inclusion
 
@@ -28,14 +31,48 @@
 - **How to improve:** Pull transcript evidence into this packet, store one student work example or observation note, and tighten the success criteria before reteaching.
 - **Inclusion focus:** Start from the workbook special education notes and the school SWD guidance, then make the directions more visual, chunked, and predictable for reteaching.
 
-## 🧾 Workbook Capture
+## 👥 Audience Snapshot
 
-- **Unit theme:** Design Thinking and Innovation: | Inquiry based projects
-- **Standards addressed:** 2-3.CT.1 | 2-3.CT.4 | 2-3.CT.10
-- **Materials / resources:** Cardboard, markers, scissors, glue, Makedo building materials, design templates, Google for research, Indi bots.
-- **Learning targets:** I can collaboratively plan and design urban, suburban, and rural communities using models and drawings. | | I can create a model of an object or computational process in order to identify patterns and essential elements of the object or process. | | I can Identify multiple ways that the same problem could be decomposed into smaller steps. | | I can develop and document a plan that outlines specific steps taken to complete a project.
-- **Special education considerations:** Consider doing whole group rather than small group or individual. Adapted Materials & Tools- Pre-cut Materials: Provide pre-cut cardboard shapes and simplified Makedo components to reduce fine motor barriers. Tactile & Visual Supports: Use textured or color-coded building pieces and templates for easier identification and manipulation. | Alternative Input: Offer digital drawing tools or picture-based design templates for students who struggle with handwriting or drawing. Low-Tech Alternatives: Use Velcro, magnets, or large snap-together pieces for building instead of complex connectors if needed.Choice Boards: Provide options for types of structures, materials, or roles to empower student choice and engagement. | Multiple Means of Expression: Allow students to express ideas through drawing, verbal sharing, pointing to pictures, or using communication devices. | Simplify Tasks: Break down planning and building into smaller, manageable steps tailored to individual cognitive levels. Concrete Movement Examples: Use a physical robot or a large floor grid where students can move a toy robot to demonstrate paths before drawing. | Simplified Path Planning: For students with low cognition, focus on very simple paths (forward/back only) or choose one movement per student.
-- **Cross-curricular context:** 2 - ARC: Jobs in my Community (Argumentative) | 6-8 Weeks | 2 - Science: Earth's Features (May/June) | 2 - Math: Shapes and Arrays: Partioning and Tiling | Shapes, Arrays, Evens, and Odds | (May 6 - June 25)
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Growing independent learners who can handle more tool variety when routines and choices stay well scaffolded.
+- **This lesson should especially support:** Name the goal in student language before materials or devices create extra noise.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Visible routines for logging in, opening tools, and transitioning between digital and hands-on tasks.
+- Language support for new CS vocabulary, especially when ideas are abstract like AI or classification.
+- Modeling for how to start, what to do next, and how to ask for help productively.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Name the goal in student language before materials or devices create extra noise.
+- Keep one visible checklist or example on screen during work time.
+- Pause once to help students reflect and reset before the final task push.
+
+## ⚠️ Likely Friction Points
+
+- Students may lose the main goal if the task has too many moving parts.
+- Hidden assumptions in the directions can make support requests pile up late.
+- Without a visible success cue, students may not know when they are truly finished.
+
+## 🎨 Presentation Design Notes
+
+- Use chunked steps, explicit transitions, and visual examples that connect concept words to the exact task.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher models first, circulates during practice, and closes with one proof move.
+- Partner talk can lower the language load before public sharing.
+- Use one fast check to catch confusion while there is still time to adapt.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on grade 2 - day 1 community project. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 

@@ -22,6 +22,60 @@
 - **Learning targets:** I can explain what Yellowstone National Park is and why wolves are important there. | | I can start a Google Site and create a homepage.
 - **Special education considerations:** Consider using book creator instead. Or create whole group of google site. Or consider using a previously made site by a gen ed class to learn about wolves. Use step-by-step visual guides and communication boards for each step.
 - **Cross-curricular context:** 3 - ARC / Sci: Traditional Tales and World Culture (Narrative) | 9 Weeks | 3 - Science: Where Are the Wolves (March- End of the Year) | 3 - Math: Measurement: Time, Liquid Volume, and Mass | (Mar 25 - May 3)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [introduction-to-yellowstone-and-wolves-google-sites-slides.tex](./introduction-to-yellowstone-and-wolves-google-sites-slides.tex)
+- **Student slides (PDF):** [introduction-to-yellowstone-and-wolves-google-sites-slides.pdf](./introduction-to-yellowstone-and-wolves-google-sites-slides.pdf)
+
+## 🎯 School Planning Goals + Inclusion
+
+- **What is expected:** The lesson should keep the CS or digital-thinking move visible, protect access for diverse learners, and make student success observable.
+- **What we achieved:** The packet is grounded in workbook expectations and available local transcripts/evidence.
+- **What needs improvement:** Keep proof of student learning clearer and reduce hidden assumptions in directions.
+- **How to improve:** Make the next step, help routine, and success criteria visible in both the packet and the student-facing deck.
+- **Inclusion focus:** Use chunked steps, visual modeling, role clarity, and flexible entry points.
+
+## 👥 Audience Snapshot
+
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Upper-primary learners who can sustain design and robotics challenges when the structure supports collaboration and debugging.
+- **This lesson should especially support:** Name the goal in student language before materials or devices create extra noise.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Partner norms that keep one student from dominating the device or the robot.
+- Scaffolds for translating ideas into code, then code into revision steps.
+- Frequent reminders to slow down, test one change at a time, and notice patterns.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Name the goal in student language before materials or devices create extra noise.
+- Keep one visible checklist or example on screen during work time.
+- Pause once to help students reflect and reset before the final task push.
+
+## ⚠️ Likely Friction Points
+
+- Students may lose the main goal if the task has too many moving parts.
+- Hidden assumptions in the directions can make support requests pile up late.
+- Without a visible success cue, students may not know when they are truly finished.
+
+## 🎨 Presentation Design Notes
+
+- Use challenge-style slides with strong checkpoints, partner-role prompts, and visible debugging language.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher models first, circulates during practice, and closes with one proof move.
+- Partner talk can lower the language load before public sharing.
+- Use one fast check to catch confusion while there is still time to adapt.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on introduction to yellowstone & wolves (google sites). Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 
@@ -30,6 +84,7 @@
 ## 🌐 Official Lesson / Reference
 
 - [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
+- [Google for Education](https://edu.google.com/intl/ALL_us/products/workspace-for-education/)
 
 ## 🛠️ Materials and Teaching Moves
 

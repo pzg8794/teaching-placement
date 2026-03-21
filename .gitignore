@@ -16,3 +16,6 @@ transcripts/*
 !transcripts/non-lesson-context/
 transcripts/non-lesson-context/*
 !transcripts/non-lesson-context/*.md
+*.nav
+*.snm
+*.vrb

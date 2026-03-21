@@ -9,6 +9,8 @@
 
 ## 📍 Quick Scan
 
+- **Audience profile:** [class-audience-profile.md](./class-audience-profile.md)
+
 - **Workbook note:** [open workbook note](../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-3-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../spring-2026-teaching-schedule-derek.md)
 - **Class blocks:** Day 3 9:50-10:40 Lamanaco, Day 4 9:50-10:40 Lallucci, Day 5 9:50-10:40 Regelsberger, Day 5 2:15-3:05 Tandoi
@@ -51,6 +53,11 @@
 - [squishy-circuits-projects](squishy-circuits-projects/squishy-circuits-projects.md)
 - [student-chosen-environmental-topic-project-creating-a-google-site](student-chosen-environmental-topic-project-creating-a-google-site/student-chosen-environmental-topic-project-creating-a-google-site.md)
 - [we-are-makers-castle](we-are-makers-castle/we-are-makers-castle.md)
+
+## 🎞️ Presentation Layer
+
+- Every lesson folder in this class block now carries a separate `*-slides.tex` and `*-slides.pdf` student-facing deck.
+- Use [class-audience-profile.md](./class-audience-profile.md) before revising or presenting a lesson.
 
 ## 🔗 Shared References
 

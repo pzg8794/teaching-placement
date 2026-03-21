@@ -19,6 +19,9 @@
 - **Class blocks:** Day 1 `12:25-1:15` Justinger, Day 2 `12:25-1:15` Kesys, Day 4 `12:25-1:15` Pum
 - **LaTeX source:** [coding-with-code-org-course-a-sequencing-with-scrat.tex](./coding-with-code-org-course-a-sequencing-with-scrat.tex)
 - **Bib file:** [coding-with-code-org-course-a-sequencing-with-scrat.bib](./coding-with-code-org-course-a-sequencing-with-scrat.bib)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [coding-with-code-org-course-a-sequencing-with-scrat-slides.tex](./coding-with-code-org-course-a-sequencing-with-scrat-slides.tex)
+- **Student slides (PDF):** [coding-with-code-org-course-a-sequencing-with-scrat-slides.pdf](./coding-with-code-org-course-a-sequencing-with-scrat-slides.pdf)
 
 ## 🎯 School Planning Goals + Inclusion
 
@@ -28,14 +31,49 @@
 - **How to improve:** Pull transcript evidence into this packet, store one student work example or observation note, and tighten the success criteria before reteaching.
 - **Inclusion focus:** Start from the workbook special education notes and the school SWD guidance, then make the directions more visual, chunked, and predictable for reteaching.
 
-## 🧾 Workbook Capture
+## 👥 Audience Snapshot
 
-- **Unit theme:** Computational Thinking: | Hour of Code | *code.org
-- **Standards addressed:** K-1.CT.4 | K-1.CT.9 | K-1.CT.10
-- **Materials / resources:** Plain paper | Student chromebooks | Quick cards
-- **Learning targets:** K-1.IC.2: I can explain classroom chromebook expectations | K-1.CT.4: I can decompose a task into smaller steps | K-1.CT.9: I can fix (debug) mistakes in an algorithm | K-1.CT.10: I can create a plan (algorithm) that shows steps to complete a task.
-- **Special education considerations:** No grade-sheet note captured for this lesson.
-- **Cross-curricular context:** K - ARC: Ecology (Narrative) | Weeks | K - Science: Pushes and Pulls/ LEGO (December - January) | K - Math: Numbers to 100 | (Feb 12 - March 28)
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Early elementary learners who benefit from visual modeling, predictable routines, and very small chunks of task time.
+- **This lesson should especially support:** Name the goal in student language before materials or devices create extra noise.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Short, repeated directions with one concrete action at a time.
+- High visual support for tools, buttons, turns, and cleanup routines.
+- Co-regulation, calm pacing, and quick resets when frustration starts to rise.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Name the goal in student language before materials or devices create extra noise.
+- Keep one visible checklist or example on screen during work time.
+- Pause once to help students reflect and reset before the final task push.
+
+## ⚠️ Likely Friction Points
+
+- Students may lose the main goal if the task has too many moving parts.
+- Hidden assumptions in the directions can make support requests pile up late.
+- Without a visible success cue, students may not know when they are truly finished.
+
+## 🎨 Presentation Design Notes
+
+- Use the biggest text, the fewest words, bright visual anchors, and repeated watch / do / check patterns.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+- Use fewer words, larger type, and stronger icon cues than you would for upper grades.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher models first, circulates during practice, and closes with one proof move.
+- Partner talk can lower the language load before public sharing.
+- Use one fast check to catch confusion while there is still time to adapt.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on coding with code.org | (course a) | sequencing with scrat. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 

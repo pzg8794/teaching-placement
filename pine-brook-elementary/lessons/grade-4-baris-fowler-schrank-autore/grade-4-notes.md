@@ -9,6 +9,8 @@
 
 ## 📍 Quick Scan
 
+- **Audience profile:** [class-audience-profile.md](./class-audience-profile.md)
+
 - **Workbook note:** [open workbook note](../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-4-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../spring-2026-teaching-schedule-derek.md)
 - **Class blocks:** Day 1 1:15-2:10 Baris, Day 2 1:15-2:10 Fowler, Day 3 1:15-2:10 Schrank, Day 4 1:15-2:10 Autore
@@ -47,6 +49,11 @@
 - [tech-careers-and-computer-skills](tech-careers-and-computer-skills/tech-careers-and-computer-skills.md)
 - [tech-careers-docs-and-read-write](tech-careers-docs-and-read-write/tech-careers-docs-and-read-write.md)
 - [what-is-coding](what-is-coding/what-is-coding.md)
+
+## 🎞️ Presentation Layer
+
+- Every lesson folder in this class block now carries a separate `*-slides.tex` and `*-slides.pdf` student-facing deck.
+- Use [class-audience-profile.md](./class-audience-profile.md) before revising or presenting a lesson.
 
 ## 🔗 Shared References
 

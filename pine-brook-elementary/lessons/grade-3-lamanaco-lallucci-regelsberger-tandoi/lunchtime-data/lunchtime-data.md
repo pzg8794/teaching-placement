@@ -22,6 +22,60 @@
 - **Learning targets:** I can collect information from several resources to determine the different ways data can be collected.
 - **Special education considerations:** Use real objects or pictures of low-tech (thermometer, clock) and high-tech (smartphone, tablet) examples. Model how to identify an object and describe the data it collects (e.g., thermometer collects temperature). Show a short, captioned video illustrating everyday data collection. focused on interpreting basic data concepts like “more vs. less” and “how many” questions
 - **Cross-curricular context:** 3 - ARC / Sci: Weather and Climate (Informational) | 9 Weeks | 3 - Science: Investigation Weather & Climate (November- End of January) | 3 - Math: Multiplication and Divsion: Concepts, Relationships, and Patterns | (Oct 10 - Dec 22)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [lunchtime-data-slides.tex](./lunchtime-data-slides.tex)
+- **Student slides (PDF):** [lunchtime-data-slides.pdf](./lunchtime-data-slides.pdf)
+
+## 🎯 School Planning Goals + Inclusion
+
+- **What is expected:** The lesson should keep the CS or digital-thinking move visible, protect access for diverse learners, and make student success observable.
+- **What we achieved:** The packet is grounded in workbook expectations and available local transcripts/evidence.
+- **What needs improvement:** Keep proof of student learning clearer and reduce hidden assumptions in directions.
+- **How to improve:** Make the next step, help routine, and success criteria visible in both the packet and the student-facing deck.
+- **Inclusion focus:** Use chunked steps, visual modeling, role clarity, and flexible entry points.
+
+## 👥 Audience Snapshot
+
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Upper-primary learners who can sustain design and robotics challenges when the structure supports collaboration and debugging.
+- **This lesson should especially support:** Name the goal in student language before materials or devices create extra noise.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Partner norms that keep one student from dominating the device or the robot.
+- Scaffolds for translating ideas into code, then code into revision steps.
+- Frequent reminders to slow down, test one change at a time, and notice patterns.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Name the goal in student language before materials or devices create extra noise.
+- Keep one visible checklist or example on screen during work time.
+- Pause once to help students reflect and reset before the final task push.
+
+## ⚠️ Likely Friction Points
+
+- Students may lose the main goal if the task has too many moving parts.
+- Hidden assumptions in the directions can make support requests pile up late.
+- Without a visible success cue, students may not know when they are truly finished.
+
+## 🎨 Presentation Design Notes
+
+- Use challenge-style slides with strong checkpoints, partner-role prompts, and visible debugging language.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher models first, circulates during practice, and closes with one proof move.
+- Partner talk can lower the language load before public sharing.
+- Use one fast check to catch confusion while there is still time to adapt.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on lunchtime data. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 

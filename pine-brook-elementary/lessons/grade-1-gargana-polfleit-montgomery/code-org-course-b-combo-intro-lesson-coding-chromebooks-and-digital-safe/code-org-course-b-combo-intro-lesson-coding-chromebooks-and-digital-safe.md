@@ -19,6 +19,9 @@
 - **Class blocks:** Day 3 `12:25-1:15` Gargana, Day 3 `2:15-3:05` Polfleit, Day 5 `12:25-1:15` Montgomery
 - **LaTeX source:** [code-org-course-b-combo-intro-lesson-coding-chromebooks-and-digital-safe.tex](./code-org-course-b-combo-intro-lesson-coding-chromebooks-and-digital-safe.tex)
 - **Bib file:** [code-org-course-b-combo-intro-lesson-coding-chromebooks-and-digital-safe.bib](./code-org-course-b-combo-intro-lesson-coding-chromebooks-and-digital-safe.bib)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [code-org-course-b-combo-intro-lesson-coding-chromebooks-and-digital-safe-slides.tex](./code-org-course-b-combo-intro-lesson-coding-chromebooks-and-digital-safe-slides.tex)
+- **Student slides (PDF):** [code-org-course-b-combo-intro-lesson-coding-chromebooks-and-digital-safe-slides.pdf](./code-org-course-b-combo-intro-lesson-coding-chromebooks-and-digital-safe-slides.pdf)
 
 ## 🎯 School Planning Goals + Inclusion
 
@@ -28,14 +31,49 @@
 - **How to improve:** Pull transcript evidence into this packet, store one student work example or observation note, and tighten the success criteria before reteaching.
 - **Inclusion focus:** Start from the workbook special education notes and the school SWD guidance, then make the directions more visual, chunked, and predictable for reteaching.
 
-## 🧾 Workbook Capture
+## 👥 Audience Snapshot
 
-- **Unit theme:** Computational Thinking: | Hour of Code | *code.org
-- **Standards addressed:** K-1.IC.4 | K-1.DL.7 | K-1.CT.9 | K-1.CT.4
-- **Materials / resources:** No Slides
-- **Learning targets:** Assign Course B on Code,org to stundets in advance | | Student chromebooks
-- **Special education considerations:** I can recognize that online platroms are public spaces | | I can identify actions that promote good digital citizenship | | I can break a task down into smaller steps. | | I can find and fix errors in an algorithm (debug)
-- **Cross-curricular context:** Special Education Considerations: Use simple words and lots of pictures on the choice board. | Let students choose by pointing, using cards, or devices. | Break activity time into short chunks with clear signals to start and stop. | Provide quiet breaks and use safe, sensory-friendly materials. | Read “Iggy Peck Architect” or other short/pattern book | 1 - ARC / Sci: Animals (Informational) 9 Weeks | 1 - Science: Bunny's Life (November-January)
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Primary learners who can take on playful structure when directions stay concrete, visible, and socially supported.
+- **This lesson should especially support:** Anchor the abstract idea in a concrete example from school or home technology use.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Clear partner roles, turn-taking cues, and conflict-repair language during shared materials work.
+- Movement, pointing, and physical modeling to connect ideas to actions.
+- Sentence frames and visual reminders when students need help explaining their thinking.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Anchor the abstract idea in a concrete example from school or home technology use.
+- Use one discussion prompt at a time and let students rehearse with a partner first.
+- Keep visuals on screen while students explain their thinking so language demands stay manageable.
+
+## ⚠️ Likely Friction Points
+
+- Students may understand the idea verbally but struggle to connect it to their own choices.
+- Too many examples at once can blur the core message.
+- Whole-group discussion can hide quieter students thinking unless there is a rehearsal step.
+
+## 🎨 Presentation Design Notes
+
+- Use playful visuals, concrete verbs, and a very visible my turn / our turn / your turn rhythm.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+- Use fewer words, larger type, and stronger icon cues than you would for upper grades.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher models the language of safe, smart, and respectful choices.
+- Pairs or trios rehearse before volunteers share publicly.
+- Use a quick visible check for understanding before students transition out.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on code.org | course b combo intro. lesson | coding, chromebooks, & digital safety. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 

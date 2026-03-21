@@ -19,6 +19,9 @@
 - **Class blocks:** Day 3 `9:50-10:40` Lamanaco, Day 4 `9:50-10:40` Lallucci, Day 5 `9:50-10:40` Regelsberger, Day 5 `2:15-3:05` Tandoi
 - **LaTeX source:** [code-a-square-farming-bots.tex](./code-a-square-farming-bots.tex)
 - **Bib file:** [code-a-square-farming-bots.bib](./code-a-square-farming-bots.bib)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [code-a-square-farming-bots-slides.tex](./code-a-square-farming-bots-slides.tex)
+- **Student slides (PDF):** [code-a-square-farming-bots-slides.pdf](./code-a-square-farming-bots-slides.pdf)
 
 ## 🎯 School Planning Goals + Inclusion
 
@@ -28,14 +31,48 @@
 - **How to improve:** Pull transcript evidence into this packet, store one student work example or observation note, and tighten the success criteria before reteaching.
 - **Inclusion focus:** Start from the workbook special education notes and the school SWD guidance, then make the directions more visual, chunked, and predictable for reteaching.
 
-## 🧾 Workbook Capture
+## 👥 Audience Snapshot
 
-- **Unit theme:** Computational Thinking: | Robotics | Sphero Bolt
-- **Standards addressed:** 2-3.CT.9 | 2-3.CT.4
-- **Materials / resources:** Sphero Bolts | Chromebooks | Maze Challenge Guide
-- **Learning targets:** I can identify and debug errors in an algorithm that include sequencing or repetition. | I can Decompose a problem into smaller named tasks
-- **Special education considerations:** No grade-sheet note captured for this lesson.
-- **Cross-curricular context:** 3 - ARC / Sci: Traditional Tales and World Culture (Narrative) | 9 Weeks | 3 - Science: Where Are the Wolves (March- End of the Year) | 3 - Math: Fractions: Equivalence and Comparison | (Feb 5 - Mar 22)
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Upper-primary learners who can sustain design and robotics challenges when the structure supports collaboration and debugging.
+- **This lesson should especially support:** Name the goal in student language before materials or devices create extra noise.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Partner norms that keep one student from dominating the device or the robot.
+- Scaffolds for translating ideas into code, then code into revision steps.
+- Frequent reminders to slow down, test one change at a time, and notice patterns.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Name the goal in student language before materials or devices create extra noise.
+- Keep one visible checklist or example on screen during work time.
+- Pause once to help students reflect and reset before the final task push.
+
+## ⚠️ Likely Friction Points
+
+- Students may lose the main goal if the task has too many moving parts.
+- Hidden assumptions in the directions can make support requests pile up late.
+- Without a visible success cue, students may not know when they are truly finished.
+
+## 🎨 Presentation Design Notes
+
+- Use challenge-style slides with strong checkpoints, partner-role prompts, and visible debugging language.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher models first, circulates during practice, and closes with one proof move.
+- Partner talk can lower the language load before public sharing.
+- Use one fast check to catch confusion while there is still time to adapt.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on code a square (farming bots). Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 
@@ -47,6 +84,7 @@
 ## 🌐 Official Lesson / Reference
 
 - [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
+- [Code.org Elementary School Curriculum](https://code.org/curriculum/elementary-school)
 
 ## 🛠️ Materials and Teaching Moves
 

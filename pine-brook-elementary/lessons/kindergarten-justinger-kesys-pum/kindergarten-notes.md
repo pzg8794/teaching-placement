@@ -9,6 +9,8 @@
 
 ## 📍 Quick Scan
 
+- **Audience profile:** [class-audience-profile.md](./class-audience-profile.md)
+
 - **Workbook note:** [open workbook note](../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-kindergarten-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../spring-2026-teaching-schedule-derek.md)
 - **Class blocks:** Day 1 12:25-1:15 Justinger, Day 2 12:25-1:15 Kesys, Day 4 12:25-1:15 Pum
@@ -50,6 +52,11 @@
 - [welcome-to-ignite](welcome-to-ignite/welcome-to-ignite.md)
 - [what-is-coding](what-is-coding/what-is-coding.md)
 - [you-re-an-engineer](you-re-an-engineer/you-re-an-engineer.md)
+
+## 🎞️ Presentation Layer
+
+- Every lesson folder in this class block now carries a separate `*-slides.tex` and `*-slides.pdf` student-facing deck.
+- Use [class-audience-profile.md](./class-audience-profile.md) before revising or presenting a lesson.
 
 ## 🔗 Shared References
 

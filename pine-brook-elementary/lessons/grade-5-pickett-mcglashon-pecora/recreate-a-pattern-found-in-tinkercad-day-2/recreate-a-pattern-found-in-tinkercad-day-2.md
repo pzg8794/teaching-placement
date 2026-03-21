@@ -19,6 +19,9 @@
 - **Class blocks:** Day 2 `10:45-11:35` Pickett, Day 3 `10:45-11:35` McGlashon, Day 5 `10:45-11:35` Pecora
 - **LaTeX source:** [recreate-a-pattern-found-in-tinkercad-day-2.tex](./recreate-a-pattern-found-in-tinkercad-day-2.tex)
 - **Bib file:** [recreate-a-pattern-found-in-tinkercad-day-2.bib](./recreate-a-pattern-found-in-tinkercad-day-2.bib)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [recreate-a-pattern-found-in-tinkercad-day-2-slides.tex](./recreate-a-pattern-found-in-tinkercad-day-2-slides.tex)
+- **Student slides (PDF):** [recreate-a-pattern-found-in-tinkercad-day-2-slides.pdf](./recreate-a-pattern-found-in-tinkercad-day-2-slides.pdf)
 
 ## 🎯 School Planning Goals + Inclusion
 
@@ -28,14 +31,49 @@
 - **How to improve:** Pull transcript evidence into this packet, store one student work example or observation note, and tighten the success criteria before reteaching.
 - **Inclusion focus:** Start from the workbook special education notes and the school SWD guidance, then make the directions more visual, chunked, and predictable for reteaching.
 
-## 🧾 Workbook Capture
+## 👥 Audience Snapshot
 
-- **Unit theme:** Computational Thinking: | Advanced Coding | *Tinkercad
-- **Standards addressed:** 4-6.CT.4 | 4-6.CT.7 | 4-6.CT.8
-- **Materials / resources:** Tinkercad (Assign) | Pencils & Paper | Sketchpad or Google Slides
-- **Learning targets:** I can document progress while following the computational thinking process: decomposition, pattern recognition, abstraction, and algorithm. (4-6.CT.4) | I can identify pieces of information that I might need to change as the program runs in order to get the result I am seeking. (4-6.CT.7) | I can create patterns by using the “Repeat” block and “Count with” block. (4-6.CT.8)
-- **Special education considerations:** No grade-sheet note captured for this lesson.
-- **Cross-curricular context:** 5 - ARC / Sci: Adventure and Survival (Narrative) | 9 Weeks | 5 - Math: More Decimals and Fractions: Multiplication and Division | (Jan 10 - Mar 15)
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Older elementary learners who can manage autonomy and longer projects when expectations, accountability, and revision structures stay visible.
+- **This lesson should especially support:** Name the goal in student language before materials or devices create extra noise.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Planning support for multi-step work so students do not rush to the tool without a clear strategy.
+- Visible accountability for partner contributions, especially in robotics, design, and project lessons.
+- Support with conditional reasoning, testing, and iteration when tasks become more open-ended.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Name the goal in student language before materials or devices create extra noise.
+- Keep one visible checklist or example on screen during work time.
+- Pause once to help students reflect and reset before the final task push.
+
+## ⚠️ Likely Friction Points
+
+- Students may lose the main goal if the task has too many moving parts.
+- Hidden assumptions in the directions can make support requests pile up late.
+- Without a visible success cue, students may not know when they are truly finished.
+
+## 🎨 Presentation Design Notes
+
+- Use sleek challenge decks with strong checkpointing, planning prompts, and visible revision expectations.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+- Keep the deck age-respectful while still making checkpoints and expectations unmistakable.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher models first, circulates during practice, and closes with one proof move.
+- Partner talk can lower the language load before public sharing.
+- Use one fast check to catch confusion while there is still time to adapt.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on recreate a pattern found in tinkercad | day 2. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 
@@ -46,6 +84,7 @@
 
 - [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
 - [Tinkercad](https://www.tinkercad.com/)
+- [Tinkercad for Education](https://www.tinkercad.com/blog/tinkercad-for-education)
 
 ## 🛠️ Materials and Teaching Moves
 

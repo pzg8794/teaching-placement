@@ -9,6 +9,8 @@
 
 ## 📍 Quick Scan
 
+- **Audience profile:** [class-audience-profile.md](./class-audience-profile.md)
+
 - **Workbook note:** [open workbook note](../../teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-1-notes.md)
 - **Schedule reference:** [spring-2026-teaching-schedule-derek.md](../../spring-2026-teaching-schedule-derek.md)
 - **Class blocks:** Day 3 12:25-1:15 Gargana, Day 3 2:15-3:05 Polfleit, Day 5 12:25-1:15 Montgomery
@@ -48,6 +50,11 @@
 - [stack-the-code](stack-the-code/stack-the-code.md)
 - [technology-in-different-careers](technology-in-different-careers/technology-in-different-careers.md)
 - [them-s-the-rules](them-s-the-rules/them-s-the-rules.md)
+
+## 🎞️ Presentation Layer
+
+- Every lesson folder in this class block now carries a separate `*-slides.tex` and `*-slides.pdf` student-facing deck.
+- Use [class-audience-profile.md](./class-audience-profile.md) before revising or presenting a lesson.
 
 ## 🔗 Shared References
 

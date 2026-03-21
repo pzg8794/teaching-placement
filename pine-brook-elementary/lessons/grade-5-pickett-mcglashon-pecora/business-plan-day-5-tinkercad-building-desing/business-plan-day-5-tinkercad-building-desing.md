@@ -19,6 +19,9 @@
 - **Class blocks:** Day 2 `10:45-11:35` Pickett, Day 3 `10:45-11:35` McGlashon, Day 5 `10:45-11:35` Pecora
 - **LaTeX source:** [business-plan-day-5-tinkercad-building-desing.tex](./business-plan-day-5-tinkercad-building-desing.tex)
 - **Bib file:** [business-plan-day-5-tinkercad-building-desing.bib](./business-plan-day-5-tinkercad-building-desing.bib)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [business-plan-day-5-tinkercad-building-desing-slides.tex](./business-plan-day-5-tinkercad-building-desing-slides.tex)
+- **Student slides (PDF):** [business-plan-day-5-tinkercad-building-desing-slides.pdf](./business-plan-day-5-tinkercad-building-desing-slides.pdf)
 
 ## 🎯 School Planning Goals + Inclusion
 
@@ -28,14 +31,49 @@
 - **How to improve:** Pull transcript evidence into this packet, store one student work example or observation note, and tighten the success criteria before reteaching.
 - **Inclusion focus:** Start from the workbook special education notes and the school SWD guidance, then make the directions more visual, chunked, and predictable for reteaching.
 
-## 🧾 Workbook Capture
+## 👥 Audience Snapshot
 
-- **Unit theme:** Communication: | Storytelling | *Multimedia
-- **Standards addressed:** Not listed
-- **Materials / resources:** Not listed
-- **Learning targets:** Not listed
-- **Special education considerations:** No grade-sheet note captured for this lesson.
-- **Cross-curricular context:** 5 - ARC / Sci: Civil War Era (Argumentative) | Weeks | 5 - Math: Algebraic Thinking and the Coordinate Plane: Expressions, Graphing Points, Patterns, and Relationships | (Apr 29 - May 31)
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Older elementary learners who can manage autonomy and longer projects when expectations, accountability, and revision structures stay visible.
+- **This lesson should especially support:** Make the challenge criteria visible from the first slide through cleanup.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Planning support for multi-step work so students do not rush to the tool without a clear strategy.
+- Visible accountability for partner contributions, especially in robotics, design, and project lessons.
+- Support with conditional reasoning, testing, and iteration when tasks become more open-ended.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Make the challenge criteria visible from the first slide through cleanup.
+- Break the design process into plan, build, test, and improve rather than one big make.
+- Use teacher talk that celebrates revision so early failure feels normal.
+
+## ⚠️ Likely Friction Points
+
+- Students may rush into building before naming the target or the constraint.
+- Some groups need support organizing materials and sticking with one plan long enough to test it.
+- Explaining the design can be harder than making it without sentence support.
+
+## 🎨 Presentation Design Notes
+
+- Use sleek challenge decks with strong checkpointing, planning prompts, and visible revision expectations.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+- Keep the deck age-respectful while still making checkpoints and expectations unmistakable.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher keeps the criteria and revision language visible during circulation.
+- Partners compare prototypes before making their last change.
+- Use one short reflection prompt to make the thinking visible before cleanup.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on business plan day 5: tinkercad building desing. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 
@@ -46,6 +84,7 @@
 
 - [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
 - [Tinkercad](https://www.tinkercad.com/)
+- [Tinkercad for Education](https://www.tinkercad.com/blog/tinkercad-for-education)
 
 ## 🛠️ Materials and Teaching Moves
 

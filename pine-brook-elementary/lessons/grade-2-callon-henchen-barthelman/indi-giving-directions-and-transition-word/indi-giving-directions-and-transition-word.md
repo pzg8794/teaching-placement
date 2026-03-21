@@ -19,6 +19,9 @@
 - **Class blocks:** Day 1 `10:45-11:35` Callon, Day 1 `2:15-3:05` Henchen, Day 4 `10:45-11:35` Barthelman
 - **LaTeX source:** [indi-giving-directions-and-transition-word.tex](./indi-giving-directions-and-transition-word.tex)
 - **Bib file:** [indi-giving-directions-and-transition-word.bib](./indi-giving-directions-and-transition-word.bib)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [indi-giving-directions-and-transition-word-slides.tex](./indi-giving-directions-and-transition-word-slides.tex)
+- **Student slides (PDF):** [indi-giving-directions-and-transition-word-slides.pdf](./indi-giving-directions-and-transition-word-slides.pdf)
 
 ## 🎯 School Planning Goals + Inclusion
 
@@ -28,14 +31,48 @@
 - **How to improve:** Pull transcript evidence into this packet, store one student work example or observation note, and tighten the success criteria before reteaching.
 - **Inclusion focus:** Start from the workbook special education notes and the school SWD guidance, then make the directions more visual, chunked, and predictable for reteaching.
 
-## 🧾 Workbook Capture
+## 👥 Audience Snapshot
 
-- **Unit theme:** Computational Thinking: | Robotics
-- **Standards addressed:** 2-3.CT.5 | 2-3.CT.10
-- **Materials / resources:** Indi Cars & Mat Kits | Painter's tape/ cones | Course cards
-- **Learning targets:** I can give clear directions, using transitions words to get from one place to another. | | I can use details (from my partners directions) to perform a task. | | I can develop and document a plan to get Indi to a certain location.
-- **Special education considerations:** No grade-sheet note captured for this lesson.
-- **Cross-curricular context:** 2 - ARC: Animal Stories and Animals (Narrative) | 9 Weeks | 2 - Science: Made of Matter (End of Jan. - Feb.) | 2 - Math: Length: Measurement, Addition, and Subtraction and Line Plots | (Mar 4 - May 3)
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Growing independent learners who can handle more tool variety when routines and choices stay well scaffolded.
+- **This lesson should especially support:** Assign partner roles before materials come out so turn-taking is visible.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Visible routines for logging in, opening tools, and transitioning between digital and hands-on tasks.
+- Language support for new CS vocabulary, especially when ideas are abstract like AI or classification.
+- Modeling for how to start, what to do next, and how to ask for help productively.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Assign partner roles before materials come out so turn-taking is visible.
+- Model one test-revise cycle with the actual robot or kit students will use.
+- Use a simple data language such as what changed, what happened, and what to try next.
+
+## ⚠️ Likely Friction Points
+
+- Device-to-robot pairing and setup can split attention quickly.
+- One partner may take over unless roles are named and revisited.
+- Students may change too many variables at once and lose track of the cause of an error.
+
+## 🎨 Presentation Design Notes
+
+- Use chunked steps, explicit transitions, and visual examples that connect concept words to the exact task.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher circulates for pairing, safety, and one-change-at-a-time coaching.
+- Partners alternate driver and coach roles during the lesson.
+- Use quick whole-group resets when many groups hit the same hardware issue.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on indi: giving directions & transition word. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 
@@ -46,6 +83,7 @@
 
 - [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
 - [Sphero Edu Teacher Resource Guide](https://dmmedia.sphero.com/email-marketing/Sphero-Edu/SpheroEdu-k12-teacher-resource-guide-v1_updated050818.pdf)
+- [LEGO Education SPIKE Essential](https://education.lego.com/en-us/lessons/spike-essential/)
 
 ## 🛠️ Materials and Teaching Moves
 

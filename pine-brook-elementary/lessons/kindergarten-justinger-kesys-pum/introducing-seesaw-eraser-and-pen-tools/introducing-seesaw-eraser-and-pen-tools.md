@@ -19,6 +19,9 @@
 - **Class blocks:** Day 1 `12:25-1:15` Justinger, Day 2 `12:25-1:15` Kesys, Day 4 `12:25-1:15` Pum
 - **LaTeX source:** [introducing-seesaw-eraser-and-pen-tools.tex](./introducing-seesaw-eraser-and-pen-tools.tex)
 - **Bib file:** [introducing-seesaw-eraser-and-pen-tools.bib](./introducing-seesaw-eraser-and-pen-tools.bib)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [introducing-seesaw-eraser-and-pen-tools-slides.tex](./introducing-seesaw-eraser-and-pen-tools-slides.tex)
+- **Student slides (PDF):** [introducing-seesaw-eraser-and-pen-tools-slides.pdf](./introducing-seesaw-eraser-and-pen-tools-slides.pdf)
 
 ## 🎯 School Planning Goals + Inclusion
 
@@ -28,14 +31,49 @@
 - **How to improve:** Pull transcript evidence into this packet, store one student work example or observation note, and tighten the success criteria before reteaching.
 - **Inclusion focus:** Start from the workbook special education notes and the school SWD guidance, then make the directions more visual, chunked, and predictable for reteaching.
 
-## 🧾 Workbook Capture
+## 👥 Audience Snapshot
 
-- **Unit theme:** Communication: | Digital Literacy and System Design | *Basic computer skills
-- **Standards addressed:** K-1.IC.6 | K-1.DL.2 | K-1.DL.4 | K-1.NSD.3
-- **Materials / resources:** Chromebooks | SeeSaw Lessons | Movement Break
-- **Learning targets:** K-1.IC.6: I can identify different ways to interact with a chromebook (touchscreen, touchpad, workspace, toolbars, etc) | K-1.DL.2 & K-1.DL.4: | I can use the eraser tool in SeeSaw | I can use the pen tool in SeeSaw | K-1.NSD.3: I can use the undo button when I make a mistake.
-- **Special education considerations:** No grade-sheet note captured for this lesson.
-- **Cross-curricular context:** K - ARC: Zoology (Informational) | K - Science: Weather (End of September - November) | K - Math: Addition and Subtraction within 5, and Shapes (Nov. 12-Dec. 22)
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Early elementary learners who benefit from visual modeling, predictable routines, and very small chunks of task time.
+- **This lesson should especially support:** Name the goal in student language before materials or devices create extra noise.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Short, repeated directions with one concrete action at a time.
+- High visual support for tools, buttons, turns, and cleanup routines.
+- Co-regulation, calm pacing, and quick resets when frustration starts to rise.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Name the goal in student language before materials or devices create extra noise.
+- Keep one visible checklist or example on screen during work time.
+- Pause once to help students reflect and reset before the final task push.
+
+## ⚠️ Likely Friction Points
+
+- Students may lose the main goal if the task has too many moving parts.
+- Hidden assumptions in the directions can make support requests pile up late.
+- Without a visible success cue, students may not know when they are truly finished.
+
+## 🎨 Presentation Design Notes
+
+- Use the biggest text, the fewest words, bright visual anchors, and repeated watch / do / check patterns.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+- Use fewer words, larger type, and stronger icon cues than you would for upper grades.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher models first, circulates during practice, and closes with one proof move.
+- Partner talk can lower the language load before public sharing.
+- Use one fast check to catch confusion while there is still time to adapt.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on introducing seesaw | (eraser & pen tools). Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 

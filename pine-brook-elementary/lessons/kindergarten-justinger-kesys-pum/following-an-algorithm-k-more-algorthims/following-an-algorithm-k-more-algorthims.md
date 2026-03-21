@@ -19,6 +19,9 @@
 - **Class blocks:** Day 1 `12:25-1:15` Justinger, Day 2 `12:25-1:15` Kesys, Day 4 `12:25-1:15` Pum
 - **LaTeX source:** [following-an-algorithm-k-more-algorthims.tex](./following-an-algorithm-k-more-algorthims.tex)
 - **Bib file:** [following-an-algorithm-k-more-algorthims.bib](./following-an-algorithm-k-more-algorthims.bib)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [following-an-algorithm-k-more-algorthims-slides.tex](./following-an-algorithm-k-more-algorthims-slides.tex)
+- **Student slides (PDF):** [following-an-algorithm-k-more-algorthims-slides.pdf](./following-an-algorithm-k-more-algorthims-slides.pdf)
 
 ## 🎯 School Planning Goals + Inclusion
 
@@ -28,14 +31,49 @@
 - **How to improve:** Pull transcript evidence into this packet, store one student work example or observation note, and tighten the success criteria before reteaching.
 - **Inclusion focus:** Start from the workbook special education notes and the school SWD guidance, then make the directions more visual, chunked, and predictable for reteaching.
 
-## 🧾 Workbook Capture
+## 👥 Audience Snapshot
 
-- **Unit theme:** Computational Thinking: | *Beginning Coding- unplugged
-- **Standards addressed:** K-1.CT.6 | K-1.CT.5 | K-1.CT.8 | K-1.CT.10
-- **Materials / resources:** Action image cards | Pipe cleaners | Cut straws | Paper | Pencils | Yellow crayons | Wooden blocks | Center cards
-- **Learning targets:** I can follow steps (in an algorithm) to complete a task (K-1.CT.6 ) | I understand that tasks can be described in different ways (K-1.CT.5) | I can tell which steps are repeated in a task (K-1.CT.8) | I can make a plan with steps (K-1.CT.10)
-- **Special education considerations:** No grade-sheet note captured for this lesson.
-- **Cross-curricular context:** K - ARC: Ecology (Narrative) | Weeks | K - Science: Pushes and Pulls/ LEGO (December - January) | K - Math: Numbers to 10, and Shapes | (Jan 2 - Feb 9)
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Early elementary learners who benefit from visual modeling, predictable routines, and very small chunks of task time.
+- **This lesson should especially support:** Name the goal in student language before materials or devices create extra noise.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Short, repeated directions with one concrete action at a time.
+- High visual support for tools, buttons, turns, and cleanup routines.
+- Co-regulation, calm pacing, and quick resets when frustration starts to rise.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Name the goal in student language before materials or devices create extra noise.
+- Keep one visible checklist or example on screen during work time.
+- Pause once to help students reflect and reset before the final task push.
+
+## ⚠️ Likely Friction Points
+
+- Students may lose the main goal if the task has too many moving parts.
+- Hidden assumptions in the directions can make support requests pile up late.
+- Without a visible success cue, students may not know when they are truly finished.
+
+## 🎨 Presentation Design Notes
+
+- Use the biggest text, the fewest words, bright visual anchors, and repeated watch / do / check patterns.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+- Use fewer words, larger type, and stronger icon cues than you would for upper grades.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher models first, circulates during practice, and closes with one proof move.
+- Partner talk can lower the language load before public sharing.
+- Use one fast check to catch confusion while there is still time to adapt.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on following an algorithm k - more algorthims. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 

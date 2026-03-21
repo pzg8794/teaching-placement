@@ -19,6 +19,9 @@
 - **Class blocks:** Day 3 `12:25-1:15` Gargana, Day 3 `2:15-3:05` Polfleit, Day 5 `12:25-1:15` Montgomery
 - **LaTeX source:** [coding-a-lego-zoo.tex](./coding-a-lego-zoo.tex)
 - **Bib file:** [coding-a-lego-zoo.bib](./coding-a-lego-zoo.bib)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [coding-a-lego-zoo-slides.tex](./coding-a-lego-zoo-slides.tex)
+- **Student slides (PDF):** [coding-a-lego-zoo-slides.pdf](./coding-a-lego-zoo-slides.pdf)
 
 ## 🎯 School Planning Goals + Inclusion
 
@@ -28,14 +31,49 @@
 - **How to improve:** Pull transcript evidence into this packet, store one student work example or observation note, and tighten the success criteria before reteaching.
 - **Inclusion focus:** Start from the workbook special education notes and the school SWD guidance, then make the directions more visual, chunked, and predictable for reteaching.
 
-## 🧾 Workbook Capture
+## 👥 Audience Snapshot
 
-- **Unit theme:** Computational Thinking: | *Beginning Coding- unplugged
-- **Standards addressed:** K-1.CT.6 | K-1.CT.9 | K-1.CT.10
-- **Materials / resources:** Slides
-- **Learning targets:** Legos | Maze Mat | Coding cards | Mini toy animals | Dry erase markers
-- **Special education considerations:** I can follow an algorithm to complete a task. K-1.CT.6 | I can identify and fix (debug) errors within a simple algorithm. K-1.CT.9 | I can collaboratively create a plan that outlines the steps needed to complete a task. K-1.CT.10
-- **Cross-curricular context:** Special Education Considerations: Use simple words and lots of pictures on the choice board. | Let students choose by pointing, using cards, or devices. | Break activity time into short chunks with clear signals to start and stop. | Provide quiet breaks and use safe, sensory-friendly materials. | Read “Iggy Peck Architect” or other short/pattern book | 1 - ARC / Sci: Animals (Informational) 9 Weeks | 1 - Science: Bunny's Life (November-January)
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Primary learners who can take on playful structure when directions stay concrete, visible, and socially supported.
+- **This lesson should especially support:** Name the goal in student language before materials or devices create extra noise.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Clear partner roles, turn-taking cues, and conflict-repair language during shared materials work.
+- Movement, pointing, and physical modeling to connect ideas to actions.
+- Sentence frames and visual reminders when students need help explaining their thinking.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Name the goal in student language before materials or devices create extra noise.
+- Keep one visible checklist or example on screen during work time.
+- Pause once to help students reflect and reset before the final task push.
+
+## ⚠️ Likely Friction Points
+
+- Students may lose the main goal if the task has too many moving parts.
+- Hidden assumptions in the directions can make support requests pile up late.
+- Without a visible success cue, students may not know when they are truly finished.
+
+## 🎨 Presentation Design Notes
+
+- Use playful visuals, concrete verbs, and a very visible my turn / our turn / your turn rhythm.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+- Use fewer words, larger type, and stronger icon cues than you would for upper grades.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher models first, circulates during practice, and closes with one proof move.
+- Partner talk can lower the language load before public sharing.
+- Use one fast check to catch confusion while there is still time to adapt.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on coding a lego zoo. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 

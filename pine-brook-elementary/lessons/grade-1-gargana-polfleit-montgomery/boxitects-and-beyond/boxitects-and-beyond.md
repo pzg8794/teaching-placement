@@ -22,6 +22,61 @@
 - **Learning targets:** Boxitects Video or Book | Chart Paper & markers | Variety of building materials
 - **Special education considerations:** K-1.CT.2: We can collect data to learn about our classmates | K-1.CT.3: We can create a visual display of our data together | K-1.CT.10 We can create a plan togther for making a model of something that represents us
 - **Cross-curricular context:** Special Education Considerations: "Expected/Unexpected" vocabulary/sorts to create classroom rules. Consider repeating sort over many sessions. Create visual representation for rules and norms and review at the beginning of class. Provide pre-sorted, safe, and easy-to-handle building materials. Use Structured Turn-Taking. Simplify the Building Challenge. Support Communication through visuals, AAC devices, modeling. | 1 - ARC / Sci: Mapping My World (Literacy Lab) | 6-8 week | 1 - Science: Sky Patterns (September/October)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [boxitects-and-beyond-slides.tex](./boxitects-and-beyond-slides.tex)
+- **Student slides (PDF):** [boxitects-and-beyond-slides.pdf](./boxitects-and-beyond-slides.pdf)
+
+## 🎯 School Planning Goals + Inclusion
+
+- **What is expected:** The lesson should keep the CS or digital-thinking move visible, protect access for diverse learners, and make student success observable.
+- **What we achieved:** The packet is grounded in workbook expectations and available local transcripts/evidence.
+- **What needs improvement:** Keep proof of student learning clearer and reduce hidden assumptions in directions.
+- **How to improve:** Make the next step, help routine, and success criteria visible in both the packet and the student-facing deck.
+- **Inclusion focus:** Use chunked steps, visual modeling, role clarity, and flexible entry points.
+
+## 👥 Audience Snapshot
+
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Primary learners who can take on playful structure when directions stay concrete, visible, and socially supported.
+- **This lesson should especially support:** Make the challenge criteria visible from the first slide through cleanup.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Clear partner roles, turn-taking cues, and conflict-repair language during shared materials work.
+- Movement, pointing, and physical modeling to connect ideas to actions.
+- Sentence frames and visual reminders when students need help explaining their thinking.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Make the challenge criteria visible from the first slide through cleanup.
+- Break the design process into plan, build, test, and improve rather than one big make.
+- Use teacher talk that celebrates revision so early failure feels normal.
+
+## ⚠️ Likely Friction Points
+
+- Students may rush into building before naming the target or the constraint.
+- Some groups need support organizing materials and sticking with one plan long enough to test it.
+- Explaining the design can be harder than making it without sentence support.
+
+## 🎨 Presentation Design Notes
+
+- Use playful visuals, concrete verbs, and a very visible my turn / our turn / your turn rhythm.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+- Use fewer words, larger type, and stronger icon cues than you would for upper grades.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher keeps the criteria and revision language visible during circulation.
+- Partners compare prototypes before making their last change.
+- Use one short reflection prompt to make the thinking visible before cleanup.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on boxitects & beyond. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 

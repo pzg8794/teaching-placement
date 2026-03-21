@@ -19,6 +19,9 @@
 - **Class blocks:** Day 2 `10:45-11:35` Pickett, Day 3 `10:45-11:35` McGlashon, Day 5 `10:45-11:35` Pecora
 - **LaTeX source:** [3d-design-in-tinkercad-introductory-lesson-design-your-own-minecraft-bob.tex](./3d-design-in-tinkercad-introductory-lesson-design-your-own-minecraft-bob.tex)
 - **Bib file:** [3d-design-in-tinkercad-introductory-lesson-design-your-own-minecraft-bob.bib](./3d-design-in-tinkercad-introductory-lesson-design-your-own-minecraft-bob.bib)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [3d-design-in-tinkercad-introductory-lesson-design-your-own-minecraft-bob-slides.tex](./3d-design-in-tinkercad-introductory-lesson-design-your-own-minecraft-bob-slides.tex)
+- **Student slides (PDF):** [3d-design-in-tinkercad-introductory-lesson-design-your-own-minecraft-bob-slides.pdf](./3d-design-in-tinkercad-introductory-lesson-design-your-own-minecraft-bob-slides.pdf)
 
 ## 🎯 School Planning Goals + Inclusion
 
@@ -28,14 +31,49 @@
 - **How to improve:** Pull transcript evidence into this packet, store one student work example or observation note, and tighten the success criteria before reteaching.
 - **Inclusion focus:** Start from the workbook special education notes and the school SWD guidance, then make the directions more visual, chunked, and predictable for reteaching.
 
-## 🧾 Workbook Capture
+## 👥 Audience Snapshot
 
-- **Unit theme:** Computational Thinking: | Advanced Coding | *Tinkercad
-- **Standards addressed:** 4-6.CT.4 | 4-6.CT.10
-- **Materials / resources:** Tinkercad (Assign components ahead of time) | Paper and Pencil
-- **Learning targets:** I can describe the steps taken and choices made to design and develop a Bobblehead (4-6.CT.10) | I can decompose a problem into smaller named tasks (4-6.CT.4)
-- **Special education considerations:** No grade-sheet note captured for this lesson.
-- **Cross-curricular context:** 5 - ARC / Sci: Adventure and Survival (Narrative) | 9 Weeks | 5 - Math: More Decimals and Fractions: Multiplication and Division | (Jan 10 - Mar 15)
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Older elementary learners who can manage autonomy and longer projects when expectations, accountability, and revision structures stay visible.
+- **This lesson should especially support:** Project the exact click path before students begin so setup friction does not consume the lesson.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Planning support for multi-step work so students do not rush to the tool without a clear strategy.
+- Visible accountability for partner contributions, especially in robotics, design, and project lessons.
+- Support with conditional reasoning, testing, and iteration when tasks become more open-ended.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Project the exact click path before students begin so setup friction does not consume the lesson.
+- Use a stop-and-check slide after world entry so students confirm they are in the correct place before coding.
+- Require test-after-each-change routines so debugging stays visible and manageable.
+
+## ⚠️ Likely Friction Points
+
+- Sign-in or menu navigation can block learning before coding even starts.
+- Students may skip the on-screen directions and ask for help before reading.
+- Challenge levels can make some students feel stuck everywhere unless the next small move is named clearly.
+
+## 🎨 Presentation Design Notes
+
+- Use sleek challenge decks with strong checkpointing, planning prompts, and visible revision expectations.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+- Keep the deck age-respectful while still making checkpoints and expectations unmistakable.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher handles setup triage first, then shifts back to concept coaching once students are in the world.
+- Students use shoulder partners for debugging language even during individual device work.
+- Use hints before rescues so persistence remains part of the learning goal.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on 3d design in tinkercad, introductory lesson. design your own minecraft bobblehead. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 
@@ -49,6 +87,7 @@
 - [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
 - [Minecraft Education Coding with Minecraft](https://education.minecraft.net/en-us/resources/computer-science/coding-with-minecraft)
 - [Tinkercad](https://www.tinkercad.com/)
+- [Tinkercad for Education](https://www.tinkercad.com/blog/tinkercad-for-education)
 
 ## 🛠️ Materials and Teaching Moves
 

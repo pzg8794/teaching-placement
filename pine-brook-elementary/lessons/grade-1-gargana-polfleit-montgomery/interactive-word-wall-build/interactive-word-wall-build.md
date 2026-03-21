@@ -18,6 +18,9 @@
 - **LaTeX source:** [interactive-word-wall-build.tex](./interactive-word-wall-build.tex)
 - **Bib file:** [interactive-word-wall-build.bib](./interactive-word-wall-build.bib)
 - **Compiled PDF:** [interactive-word-wall-build.pdf](./interactive-word-wall-build.pdf)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [interactive-word-wall-build-slides.tex](./interactive-word-wall-build-slides.tex)
+- **Student slides (PDF):** [interactive-word-wall-build-slides.pdf](./interactive-word-wall-build-slides.pdf)
 
 ## 🎯 School Planning Goals + Inclusion
 
@@ -26,6 +29,50 @@
 - **What needs improvement:** Save clearer proof of student products, keep the assessment move sharper, and reduce hidden assumptions in directions.
 - **How to improve:** Add one student artifact or observation note after each reteach and tighten the success criteria at the top of the packet.
 - **Inclusion focus:** Use chunked steps, visual modeling, role clarity, repeated routines, and flexible entry points so the lesson is usable for students who need more structure, language support, or pacing support.
+
+## 👥 Audience Snapshot
+
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Primary learners who can take on playful structure when directions stay concrete, visible, and socially supported.
+- **This lesson should especially support:** Make the challenge criteria visible from the first slide through cleanup.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Clear partner roles, turn-taking cues, and conflict-repair language during shared materials work.
+- Movement, pointing, and physical modeling to connect ideas to actions.
+- Sentence frames and visual reminders when students need help explaining their thinking.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Make the challenge criteria visible from the first slide through cleanup.
+- Break the design process into plan, build, test, and improve rather than one big make.
+- Use teacher talk that celebrates revision so early failure feels normal.
+
+## ⚠️ Likely Friction Points
+
+- Students may rush into building before naming the target or the constraint.
+- Some groups need support organizing materials and sticking with one plan long enough to test it.
+- Explaining the design can be harder than making it without sentence support.
+
+## 🎨 Presentation Design Notes
+
+- Use playful visuals, concrete verbs, and a very visible my turn / our turn / your turn rhythm.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+- Use fewer words, larger type, and stronger icon cues than you would for upper grades.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher keeps the criteria and revision language visible during circulation.
+- Partners compare prototypes before making their last change.
+- Use one short reflection prompt to make the thinking visible before cleanup.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on interactive word wall build. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 
@@ -39,7 +86,7 @@
 - [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
 - [LEGO Education Coding Express Teacher Guide](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt593e0d51d19eceb5/62f4d13ce894104b27259cb8/Coding_express_teacher_guide_110822.pdf?locale=ja-jp)
 
-## 🛠️ Teaching Moves
+## 🛠️ Materials and Teaching Moves
 
 - Open with a short model that names the lesson focus: maker-supported vocabulary, communication, and explanation.
 - Keep one visible success criterion or checklist posted during work time.

@@ -18,6 +18,9 @@
 - **LaTeX source:** [foundational-coding-and-directional-loops.tex](./foundational-coding-and-directional-loops.tex)
 - **Bib file:** [foundational-coding-and-directional-loops.bib](./foundational-coding-and-directional-loops.bib)
 - **Compiled PDF:** [foundational-coding-and-directional-loops.pdf](./foundational-coding-and-directional-loops.pdf)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [foundational-coding-and-directional-loops-slides.tex](./foundational-coding-and-directional-loops-slides.tex)
+- **Student slides (PDF):** [foundational-coding-and-directional-loops-slides.pdf](./foundational-coding-and-directional-loops-slides.pdf)
 
 ## 🎯 School Planning Goals + Inclusion
 
@@ -26,6 +29,50 @@
 - **What needs improvement:** Save clearer proof of student products, keep the assessment move sharper, and reduce hidden assumptions in directions.
 - **How to improve:** Add one student artifact or observation note after each reteach and tighten the success criteria at the top of the packet.
 - **Inclusion focus:** Use chunked steps, visual modeling, role clarity, repeated routines, and flexible entry points so the lesson is usable for students who need more structure, language support, or pacing support.
+
+## 👥 Audience Snapshot
+
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Primary learners who can take on playful structure when directions stay concrete, visible, and socially supported.
+- **This lesson should especially support:** Name the goal in student language before materials or devices create extra noise.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Clear partner roles, turn-taking cues, and conflict-repair language during shared materials work.
+- Movement, pointing, and physical modeling to connect ideas to actions.
+- Sentence frames and visual reminders when students need help explaining their thinking.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Name the goal in student language before materials or devices create extra noise.
+- Keep one visible checklist or example on screen during work time.
+- Pause once to help students reflect and reset before the final task push.
+
+## ⚠️ Likely Friction Points
+
+- Students may lose the main goal if the task has too many moving parts.
+- Hidden assumptions in the directions can make support requests pile up late.
+- Without a visible success cue, students may not know when they are truly finished.
+
+## 🎨 Presentation Design Notes
+
+- Use playful visuals, concrete verbs, and a very visible my turn / our turn / your turn rhythm.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+- Use fewer words, larger type, and stronger icon cues than you would for upper grades.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher models first, circulates during practice, and closes with one proof move.
+- Partner talk can lower the language load before public sharing.
+- Use one fast check to catch confusion while there is still time to adapt.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on foundational coding and directional loops. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 
@@ -37,7 +84,7 @@
 - [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
 - [Code.org Elementary School Curriculum](https://code.org/curriculum/elementary-school)
 
-## 🛠️ Teaching Moves
+## 🛠️ Materials and Teaching Moves
 
 - Open with a short model that names the lesson focus: directional sequencing, early loops, and physical-to-digital coding transfer.
 - Keep one visible success criterion or checklist posted during work time.

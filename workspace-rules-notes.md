@@ -23,11 +23,14 @@
 - [pine-brook-elementary](./pine-brook-elementary/pine-brook-elementary-notes.md) holds Pine Brook placement materials.
 - [pine-brook-elementary/lessons](./pine-brook-elementary/lessons/lessons-notes.md) is the canonical lesson tree.
 - Each real lesson lives inside its grade folder.
+- Each class-block folder should also carry one reusable `class-audience-profile.md`.
 - A lesson folder itself should contain the lesson packet files directly:
   - `.md`
   - `.tex`
   - `.pdf`
   - `.bib`
+  - `*-slides.tex`
+  - `*-slides.pdf`
 - Transcript source records live in [transcripts](./transcripts/transcripts-notes.md).
 - Workbook files and workbook Markdown captures live in [pine-brook-elementary/teaching-placement-ignite-curriculum-gcsd-25-26](./pine-brook-elementary/teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-notes.md).
 - Avoid empty directories and avoid placeholder directories that do not carry real value.
@@ -35,6 +38,8 @@
 ---
 
 ## 📝 Markdown Rules
+
+- Lesson packets should include audience snapshot, scaffolds, likely friction points, presentation design notes, and audio-ready voiceover prompts when they guide student-facing instruction.
 
 - Markdown should be neurodivergent-friendly by default unless the document has an external formal constraint.
 - Prefer:
@@ -49,6 +54,8 @@
 ---
 
 ## 🔗 Link Rules
+
+- Lesson packets should link to their class audience profile, transcript source, workbook note, and official source when available.
 
 - Use clickable local Markdown links for important files and hubs.
 - After reorganizing files, check for broken links across the repo.

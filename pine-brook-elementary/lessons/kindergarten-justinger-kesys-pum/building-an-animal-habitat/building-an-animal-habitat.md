@@ -22,6 +22,61 @@
 - **Learning targets:** I can identify a problem and come up with an idea to solve the problem (K-1.CT.4) | I can use the Engineer & Design Process to build a zoo habitat for my animal.
 - **Special education considerations:** No grade-sheet note captured for this lesson.
 - **Cross-curricular context:** K - ARC: So You Want to be a Scientist? (Literacy Lab) | 6-8 weeks | K - Science: Weather (End of September - November) | K - Math: Position, Length, Height, and Sorting | (Sept 11 - Oct 13)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [building-an-animal-habitat-slides.tex](./building-an-animal-habitat-slides.tex)
+- **Student slides (PDF):** [building-an-animal-habitat-slides.pdf](./building-an-animal-habitat-slides.pdf)
+
+## 🎯 School Planning Goals + Inclusion
+
+- **What is expected:** The lesson should keep the CS or digital-thinking move visible, protect access for diverse learners, and make student success observable.
+- **What we achieved:** The packet is grounded in workbook expectations and available local transcripts/evidence.
+- **What needs improvement:** Keep proof of student learning clearer and reduce hidden assumptions in directions.
+- **How to improve:** Make the next step, help routine, and success criteria visible in both the packet and the student-facing deck.
+- **Inclusion focus:** Use chunked steps, visual modeling, role clarity, and flexible entry points.
+
+## 👥 Audience Snapshot
+
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Early elementary learners who benefit from visual modeling, predictable routines, and very small chunks of task time.
+- **This lesson should especially support:** Make the challenge criteria visible from the first slide through cleanup.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Short, repeated directions with one concrete action at a time.
+- High visual support for tools, buttons, turns, and cleanup routines.
+- Co-regulation, calm pacing, and quick resets when frustration starts to rise.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Make the challenge criteria visible from the first slide through cleanup.
+- Break the design process into plan, build, test, and improve rather than one big make.
+- Use teacher talk that celebrates revision so early failure feels normal.
+
+## ⚠️ Likely Friction Points
+
+- Students may rush into building before naming the target or the constraint.
+- Some groups need support organizing materials and sticking with one plan long enough to test it.
+- Explaining the design can be harder than making it without sentence support.
+
+## 🎨 Presentation Design Notes
+
+- Use the biggest text, the fewest words, bright visual anchors, and repeated watch / do / check patterns.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+- Use fewer words, larger type, and stronger icon cues than you would for upper grades.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher keeps the criteria and revision language visible during circulation.
+- Partners compare prototypes before making their last change.
+- Use one short reflection prompt to make the thinking visible before cleanup.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on building an animal habitat. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 

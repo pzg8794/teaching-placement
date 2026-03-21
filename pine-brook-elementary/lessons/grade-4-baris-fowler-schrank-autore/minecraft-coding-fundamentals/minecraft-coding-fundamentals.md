@@ -18,6 +18,9 @@
 - **LaTeX source:** [minecraft-coding-fundamentals.tex](./minecraft-coding-fundamentals.tex)
 - **Bib file:** [minecraft-coding-fundamentals.bib](./minecraft-coding-fundamentals.bib)
 - **Compiled PDF:** [minecraft-coding-fundamentals.pdf](./minecraft-coding-fundamentals.pdf)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [minecraft-coding-fundamentals-slides.tex](./minecraft-coding-fundamentals-slides.tex)
+- **Student slides (PDF):** [minecraft-coding-fundamentals-slides.pdf](./minecraft-coding-fundamentals-slides.pdf)
 
 ## 🎯 School Planning Goals + Inclusion
 
@@ -26,6 +29,50 @@
 - **What needs improvement:** Save clearer proof of student products, keep the assessment move sharper, and reduce hidden assumptions in directions.
 - **How to improve:** Add one student artifact or observation note after each reteach and tighten the success criteria at the top of the packet.
 - **Inclusion focus:** Use chunked steps, visual modeling, role clarity, repeated routines, and flexible entry points so the lesson is usable for students who need more structure, language support, or pacing support.
+
+## 👥 Audience Snapshot
+
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Intermediate learners who can handle complex digital tasks when setup friction, debugging, and persistence are explicitly coached.
+- **This lesson should especially support:** Project the exact click path before students begin so setup friction does not consume the lesson.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Clear setup routines for sign-in, menu navigation, and device troubleshooting before concept work starts.
+- Visible success criteria so students can separate “I am stuck” from “I still have a next step.”
+- Support for productive struggle: students benefit from hints, not rescues, when challenge levels rise.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Project the exact click path before students begin so setup friction does not consume the lesson.
+- Use a stop-and-check slide after world entry so students confirm they are in the correct place before coding.
+- Require test-after-each-change routines so debugging stays visible and manageable.
+
+## ⚠️ Likely Friction Points
+
+- Sign-in or menu navigation can block learning before coding even starts.
+- Students may skip the on-screen directions and ask for help before reading.
+- Challenge levels can make some students feel stuck everywhere unless the next small move is named clearly.
+
+## 🎨 Presentation Design Notes
+
+- Use challenge-and-debug slides with clear click paths, bold timers/checkpoints, and visible help routines.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+- Keep the deck age-respectful while still making checkpoints and expectations unmistakable.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher handles setup triage first, then shifts back to concept coaching once students are in the world.
+- Students use shoulder partners for debugging language even during individual device work.
+- Use hints before rescues so persistence remains part of the learning goal.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on minecraft coding fundamentals. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 
@@ -58,16 +105,13 @@
 - **Transcript:** [260317-grade-4-baris-block-one.md](../../../../transcripts/grade-4/260317-grade-4-baris-block-one.md)
 - **Transcript:** [260318-grade-4-baris-turtle-rescue.md](../../../../transcripts/grade-4/260318-grade-4-baris-turtle-rescue.md)
 
-## 🧩 Local Source Materials
-
-- [minecraft-cs-module-notes.md](./source-materials/minecraft_cs_module_warner/minecraft-cs-module-notes.md)
-
 ## 🌐 Official Lesson / Reference
 
 - [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
 - [Minecraft Education Coding with Minecraft](https://education.minecraft.net/en-us/resources/computer-science/coding-with-minecraft)
+- [Code.org Elementary School Curriculum](https://code.org/curriculum/elementary-school)
 
-## 🛠️ Teaching Moves
+## 🛠️ Materials and Teaching Moves
 
 - Open with a short model that names the lesson focus: agent-based coding, debugging, and computational problem solving in Minecraft Education.
 - Keep one visible success criterion or checklist posted during work time.

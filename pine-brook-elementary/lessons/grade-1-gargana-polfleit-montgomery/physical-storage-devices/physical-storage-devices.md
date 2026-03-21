@@ -22,6 +22,61 @@
 - **Learning targets:** Video: Linked in slides | Physical Storage Images
 - **Special education considerations:** Identify physical devices that can store information.
 - **Cross-curricular context:** Special Education Considerations: Use simple words and lots of pictures on the choice board. | Let students choose by pointing, using cards, or devices. | Break activity time into short chunks with clear signals to start and stop. | Provide quiet breaks and use safe, sensory-friendly materials. | Read “Iggy Peck Architect” or other short/pattern book | 1 - ARC / Sci: Mapping My World (Literacy Lab) | 6-8 week | 1 - Science: Sky Patterns (September/October)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [physical-storage-devices-slides.tex](./physical-storage-devices-slides.tex)
+- **Student slides (PDF):** [physical-storage-devices-slides.pdf](./physical-storage-devices-slides.pdf)
+
+## 🎯 School Planning Goals + Inclusion
+
+- **What is expected:** The lesson should keep the CS or digital-thinking move visible, protect access for diverse learners, and make student success observable.
+- **What we achieved:** The packet is grounded in workbook expectations and available local transcripts/evidence.
+- **What needs improvement:** Keep proof of student learning clearer and reduce hidden assumptions in directions.
+- **How to improve:** Make the next step, help routine, and success criteria visible in both the packet and the student-facing deck.
+- **Inclusion focus:** Use chunked steps, visual modeling, role clarity, and flexible entry points.
+
+## 👥 Audience Snapshot
+
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Primary learners who can take on playful structure when directions stay concrete, visible, and socially supported.
+- **This lesson should especially support:** Anchor the abstract idea in a concrete example from school or home technology use.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Clear partner roles, turn-taking cues, and conflict-repair language during shared materials work.
+- Movement, pointing, and physical modeling to connect ideas to actions.
+- Sentence frames and visual reminders when students need help explaining their thinking.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Anchor the abstract idea in a concrete example from school or home technology use.
+- Use one discussion prompt at a time and let students rehearse with a partner first.
+- Keep visuals on screen while students explain their thinking so language demands stay manageable.
+
+## ⚠️ Likely Friction Points
+
+- Students may understand the idea verbally but struggle to connect it to their own choices.
+- Too many examples at once can blur the core message.
+- Whole-group discussion can hide quieter students thinking unless there is a rehearsal step.
+
+## 🎨 Presentation Design Notes
+
+- Use playful visuals, concrete verbs, and a very visible my turn / our turn / your turn rhythm.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+- Use fewer words, larger type, and stronger icon cues than you would for upper grades.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher models the language of safe, smart, and respectful choices.
+- Pairs or trios rehearse before volunteers share publicly.
+- Use a quick visible check for understanding before students transition out.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on physical storage devices. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 

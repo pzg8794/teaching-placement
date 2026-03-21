@@ -19,6 +19,9 @@
 - **Class blocks:** Day 3 `9:50-10:40` Lamanaco, Day 4 `9:50-10:40` Lallucci, Day 5 `9:50-10:40` Regelsberger, Day 5 `2:15-3:05` Tandoi
 - **LaTeX source:** [sphero-maze-navigation.tex](./sphero-maze-navigation.tex)
 - **Bib file:** [sphero-maze-navigation.bib](./sphero-maze-navigation.bib)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [sphero-maze-navigation-slides.tex](./sphero-maze-navigation-slides.tex)
+- **Student slides (PDF):** [sphero-maze-navigation-slides.pdf](./sphero-maze-navigation-slides.pdf)
 
 ## 🎯 School Planning Goals + Inclusion
 
@@ -28,14 +31,48 @@
 - **How to improve:** Pull transcript evidence into this packet, store one student work example or observation note, and tighten the success criteria before reteaching.
 - **Inclusion focus:** Start from the workbook special education notes and the school SWD guidance, then make the directions more visual, chunked, and predictable for reteaching.
 
-## 🧾 Workbook Capture
+## 👥 Audience Snapshot
 
-- **Unit theme:** Computational Thinking: | Robotics | Sphero Bolt
-- **Standards addressed:** 2-3.CT.9 | 2-3.CT.4
-- **Materials / resources:** Sphero Bolts | Chromebooks | Video- Amaxon Fulfillment Center
-- **Learning targets:** I can identify and debug errors in an algorithm that include sequencing or repetition. | I can Decompose a problem into smaller named tasks
-- **Special education considerations:** No grade-sheet note captured for this lesson.
-- **Cross-curricular context:** 3 - ARC / Sci: Traditional Tales and World Culture (Narrative) | 9 Weeks | 3 - Science: Where Are the Wolves (March- End of the Year) | 3 - Math: Fractions: Equivalence and Comparison | (Feb 5 - Mar 22)
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Upper-primary learners who can sustain design and robotics challenges when the structure supports collaboration and debugging.
+- **This lesson should especially support:** Assign partner roles before materials come out so turn-taking is visible.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Partner norms that keep one student from dominating the device or the robot.
+- Scaffolds for translating ideas into code, then code into revision steps.
+- Frequent reminders to slow down, test one change at a time, and notice patterns.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Assign partner roles before materials come out so turn-taking is visible.
+- Model one test-revise cycle with the actual robot or kit students will use.
+- Use a simple data language such as what changed, what happened, and what to try next.
+
+## ⚠️ Likely Friction Points
+
+- Device-to-robot pairing and setup can split attention quickly.
+- One partner may take over unless roles are named and revisited.
+- Students may change too many variables at once and lose track of the cause of an error.
+
+## 🎨 Presentation Design Notes
+
+- Use challenge-style slides with strong checkpoints, partner-role prompts, and visible debugging language.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher circulates for pairing, safety, and one-change-at-a-time coaching.
+- Partners alternate driver and coach roles during the lesson.
+- Use quick whole-group resets when many groups hit the same hardware issue.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on sphero: maze navigation. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 
@@ -50,6 +87,7 @@
 
 - [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
 - [Sphero Edu Teacher Resource Guide](https://dmmedia.sphero.com/email-marketing/Sphero-Edu/SpheroEdu-k12-teacher-resource-guide-v1_updated050818.pdf)
+- [Sphero Edu](https://sphero.com/pages/sphero-edu)
 
 ## 🛠️ Materials and Teaching Moves
 

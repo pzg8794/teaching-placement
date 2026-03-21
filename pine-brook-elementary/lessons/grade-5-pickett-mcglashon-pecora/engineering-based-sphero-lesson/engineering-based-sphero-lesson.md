@@ -19,6 +19,9 @@
 - **Class blocks:** Day 2 `10:45-11:35` Pickett, Day 3 `10:45-11:35` McGlashon, Day 5 `10:45-11:35` Pecora
 - **LaTeX source:** [engineering-based-sphero-lesson.tex](./engineering-based-sphero-lesson.tex)
 - **Bib file:** [engineering-based-sphero-lesson.bib](./engineering-based-sphero-lesson.bib)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [engineering-based-sphero-lesson-slides.tex](./engineering-based-sphero-lesson-slides.tex)
+- **Student slides (PDF):** [engineering-based-sphero-lesson-slides.pdf](./engineering-based-sphero-lesson-slides.pdf)
 
 ## 🎯 School Planning Goals + Inclusion
 
@@ -28,14 +31,49 @@
 - **How to improve:** Pull transcript evidence into this packet, store one student work example or observation note, and tighten the success criteria before reteaching.
 - **Inclusion focus:** Start from the workbook special education notes and the school SWD guidance, then make the directions more visual, chunked, and predictable for reteaching.
 
-## 🧾 Workbook Capture
+## 👥 Audience Snapshot
 
-- **Unit theme:** Computational Thinking: | Robotics | *Sphero
-- **Standards addressed:** Not listed
-- **Materials / resources:** Not listed
-- **Learning targets:** Not listed
-- **Special education considerations:** No grade-sheet note captured for this lesson.
-- **Cross-curricular context:** 5 - ARC / Sci: Ecosystems (Informational) | 9 Weeks | 5 - Math: More Decimals and Fractions: Multiplication and Division | (Jan 10 - Mar 15); 5 - ARC / Sci: Adventure and Survival (Narrative) | 9 Weeks | 5 - Math: More Decimals and Fractions: Multiplication and Division | (Jan 10 - Mar 15)
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Older elementary learners who can manage autonomy and longer projects when expectations, accountability, and revision structures stay visible.
+- **This lesson should especially support:** Assign partner roles before materials come out so turn-taking is visible.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Planning support for multi-step work so students do not rush to the tool without a clear strategy.
+- Visible accountability for partner contributions, especially in robotics, design, and project lessons.
+- Support with conditional reasoning, testing, and iteration when tasks become more open-ended.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Assign partner roles before materials come out so turn-taking is visible.
+- Model one test-revise cycle with the actual robot or kit students will use.
+- Use a simple data language such as what changed, what happened, and what to try next.
+
+## ⚠️ Likely Friction Points
+
+- Device-to-robot pairing and setup can split attention quickly.
+- One partner may take over unless roles are named and revisited.
+- Students may change too many variables at once and lose track of the cause of an error.
+
+## 🎨 Presentation Design Notes
+
+- Use sleek challenge decks with strong checkpointing, planning prompts, and visible revision expectations.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+- Keep the deck age-respectful while still making checkpoints and expectations unmistakable.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher circulates for pairing, safety, and one-change-at-a-time coaching.
+- Partners alternate driver and coach roles during the lesson.
+- Use quick whole-group resets when many groups hit the same hardware issue.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on engineering based sphero lesson. Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 
@@ -48,6 +86,7 @@
 
 - [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
 - [Sphero Edu Teacher Resource Guide](https://dmmedia.sphero.com/email-marketing/Sphero-Edu/SpheroEdu-k12-teacher-resource-guide-v1_updated050818.pdf)
+- [Sphero Edu](https://sphero.com/pages/sphero-edu)
 
 ## 🛠️ Materials and Teaching Moves
 

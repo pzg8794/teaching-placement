@@ -22,6 +22,61 @@
 - **Learning targets:** Indi Cars | Indi Kits | Path | Paper & Pencil | Shape Challenge Cards
 - **Special education considerations:** I can show Indi how to travel in different directions (K-1.NSD.1) | I can program Indi to travel in different shapes (K-1.CT.10) | I can makes changes to my program when it is not working (K-1.CT.9)
 - **Cross-curricular context:** Special Education Considerations: Use simple words and lots of pictures on the choice board. | Let students choose by pointing, using cards, or devices. | Break activity time into short chunks with clear signals to start and stop. | Provide quiet breaks and use safe, sensory-friendly materials. | Read “Iggy Peck Architect” or other short/pattern book | 1 - ARC / Sci: Family Stories (Narrative) | 9 Weeks | 1 - Science: Bunny's Life (November-January)
+- **Audience profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Student slides (LaTeX):** [indi-and-geometry-part-2-day-3-slides.tex](./indi-and-geometry-part-2-day-3-slides.tex)
+- **Student slides (PDF):** [indi-and-geometry-part-2-day-3-slides.pdf](./indi-and-geometry-part-2-day-3-slides.pdf)
+
+## 🎯 School Planning Goals + Inclusion
+
+- **What is expected:** The lesson should keep the CS or digital-thinking move visible, protect access for diverse learners, and make student success observable.
+- **What we achieved:** The packet is grounded in workbook expectations and available local transcripts/evidence.
+- **What needs improvement:** Keep proof of student learning clearer and reduce hidden assumptions in directions.
+- **How to improve:** Make the next step, help routine, and success criteria visible in both the packet and the student-facing deck.
+- **Inclusion focus:** Use chunked steps, visual modeling, role clarity, and flexible entry points.
+
+## 👥 Audience Snapshot
+
+- **Class profile:** [class-audience-profile.md](../class-audience-profile.md)
+- **Audience type:** Primary learners who can take on playful structure when directions stay concrete, visible, and socially supported.
+- **This lesson should especially support:** Assign partner roles before materials come out so turn-taking is visible.
+- **Best transcript anchors:** See [class-audience-profile.md](../class-audience-profile.md) for the cross-lesson transcript anchor set.
+
+## 🧠 Known Supports For This Class
+
+- Clear partner roles, turn-taking cues, and conflict-repair language during shared materials work.
+- Movement, pointing, and physical modeling to connect ideas to actions.
+- Sentence frames and visual reminders when students need help explaining their thinking.
+
+## 🪜 Scaffolds To Use In This Lesson
+
+- Assign partner roles before materials come out so turn-taking is visible.
+- Model one test-revise cycle with the actual robot or kit students will use.
+- Use a simple data language such as what changed, what happened, and what to try next.
+
+## ⚠️ Likely Friction Points
+
+- Device-to-robot pairing and setup can split attention quickly.
+- One partner may take over unless roles are named and revisited.
+- Students may change too many variables at once and lose track of the cause of an error.
+
+## 🎨 Presentation Design Notes
+
+- Use playful visuals, concrete verbs, and a very visible my turn / our turn / your turn rhythm.
+- Make the help routine visible before students need it.
+- Show what success looks like, not only what to do first.
+- Use fewer words, larger type, and stronger icon cues than you would for upper grades.
+
+## 🤝 Independence / Partnering / Teacher Support Plan
+
+- Teacher circulates for pairing, safety, and one-change-at-a-time coaching.
+- Partners alternate driver and coach roles during the lesson.
+- Use quick whole-group resets when many groups hit the same hardware issue.
+
+## 🎙️ Audio-Ready Voiceover Prompts
+
+- Today we are working on indi & geometry | part 2 (day 3). Watch first, then try it with me.
+- If you feel stuck, stop at the checkpoint slide and use the help routine before you panic.
+- Show what you learned by saving, sharing, explaining, or demonstrating one clear success move.
 
 ## 🔗 Transcript and Local Evidence
 
@@ -31,6 +86,7 @@
 
 - [CSTA K-12 Standards](https://csteachers.org/k12standards/interactive/)
 - [Sphero Edu Teacher Resource Guide](https://dmmedia.sphero.com/email-marketing/Sphero-Edu/SpheroEdu-k12-teacher-resource-guide-v1_updated050818.pdf)
+- [LEGO Education SPIKE Essential](https://education.lego.com/en-us/lessons/spike-essential/)
 
 ## 🛠️ Materials and Teaching Moves
 
