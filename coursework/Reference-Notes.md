@@ -12,10 +12,10 @@
 
 - [Student Teaching Handbook PDF](./StudentTeachingHandbook%20-%202025-26.pdf)
 - [Handbook directory notes](./handbook/Handbook-Notes.md)
-- [Using AI as a Thought Partner in Your UBD Unit Redesign](./Using%20AI%20as%20a%20Thought%20Partner%20in%20Your%20UBD%20Unit%20Redesign.md)
-- [Warner CPAST examples of evidence](./Warner_CPAST_ExamplesOfEvidence.docx)
-- [Warner School CPAST rubric](./WarnerSchool_CPAST_Rubric.docx)
-- [Field experience evaluation](./fieldexperience_eval.docx)
+- [Using AI as a Thought Partner in Your UBD Unit Redesign](./using-ai-as-a-thought-partner-in-your-ubd-unit-redesign.md)
+- [Warner CPAST examples of evidence](./warner-cpast-examples-of-evidence.docx)
+- [Warner School CPAST rubric](./warner-school-cpast-rubric.docx)
+- [Field experience evaluation](./field-experience-eval.docx)
 - Handbook extracts:
   [PDF](./StudentTeachingHandbook%20-%202025-26.pdf),
   [text extract](./handbook/StudentTeachingHandbook-2025-26.txt)

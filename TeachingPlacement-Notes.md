@@ -36,13 +36,13 @@
 
 ## 📍 Jump To A Section
 
-- [🟣 Expectations](./expectations/Expectations-Notes.md)
-- [🟦 Coursework](./coursework/Coursework-Notes.md)
+- [🟦 Coursework hub](./coursework/Coursework-Notes.md)
+- [🟣 Coursework expectations](./coursework/expectations/Expectations-Notes.md)
+- [🟤 Coursework tasks](./coursework/tasks/Tasks-Notes.md)
+- [🟡 Coursework references](./coursework/Reference-Notes.md)
 - [🟢 Lessons](./lessons/Lessons-Notes.md)
-- [🟡 Coursework References](./coursework/Reference-Notes.md)
 - [🔴 School / Placement](./school/School-Notes.md)
 - [🟫 Snapshots](./snapshots/Snapshots-Notes.md)
-- [🟤 Tasks](./tasks/Tasks-Notes.md)
 - [⚪ Transcripts](./transcripts/Transcripts-Notes.md)
 
 ---

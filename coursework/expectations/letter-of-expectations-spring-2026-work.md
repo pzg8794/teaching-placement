@@ -1,11 +1,11 @@
 # Letter of Expectations — Student Teaching Internship (Spring 2026)
 
-**Color Code:** 🟣 Admin
+**Color Code:** 🟣 Expectations
 
 > **Page Type:** Document
-> **Purpose:** Administrative records and formal paperwork.
+> **Purpose:** Formal expectations work and placement paperwork.
 > **Audience:** You.
-> **Use This When:** Review admin documentation.
+> **Use This When:** Edit or review the actual Letter of Expectations work file.
 
 ---
 

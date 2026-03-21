@@ -2,13 +2,31 @@
 
 **Color Code:** 🟦 Coursework
 
-> **Page Type:** Index
-> **Purpose:** Course-related planning or exercises.
-> **Audience:** You.
-> **Use This When:** Open coursework material.
+> **📌 What This Is:** Coursework hub for placement paperwork, task planning, handbooks, and supporting course documents.
+> **🧭 Start Here When:** You need formal coursework-facing material connected to the placement.
+> **🎯 Main Goal:** Keep coursework support, formal expectations, and action planning in one place without duplicating top-level directories.
 
 ---
 
+## 📍 Main Coursework Areas
 
-- [ED415 discussion selection wheel notebook](./ED415_Discussion_Selection_Wheel.ipynb)
-- [Coursework reference materials](./Reference-Notes.md)
+- [🟣 Expectations](./expectations/Expectations-Notes.md)
+- [🟤 Tasks](./tasks/Tasks-Notes.md)
+- [🟡 Coursework reference materials](./Reference-Notes.md)
+- [📘 Handbook](./handbook/Handbook-Notes.md)
+
+---
+
+## 📎 Coursework Files
+
+- [🤖 Using AI as a thought partner in your UbD unit redesign](./using-ai-as-a-thought-partner-in-your-ubd-unit-redesign.md)
+- [📄 Warner school CPAST rubric](./warner-school-cpast-rubric.docx)
+- [📄 Warner CPAST examples of evidence](./warner-cpast-examples-of-evidence.docx)
+- [📄 Field experience evaluation](./field-experience-eval.docx)
+
+## 🧠 Use This Folder For
+
+- formal placement paperwork
+- action tracking
+- rubric and evaluation support
+- course-aligned planning resources

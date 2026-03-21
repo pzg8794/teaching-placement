@@ -83,7 +83,8 @@ You're taking coursework (up to 9 credits) **alongside** this placement, not bef
     - What supervisors will do
   - **Target deadline:** 2 weeks after placement begins
   - **You CANNOT move to Phase 2 (student teaching) without this document and a passing midpoint evaluation**
-  - **Working draft in this folder:** `Letter_of_Expectations_Spring2026.md`
+  - **Task copy in this folder:** `letter-of-expectations-spring-2026-task.md`
+  - **Actual work file:** `../expectations/letter-of-expectations-spring-2026-work.md`
   - **Submission:** Candidate + Derek submit to Zenon at `zborys@warner.rochester.edu` (copy Sue + Derek)
   - **Suggested filename (PDF):** `Garcia_Romig_Spring2026LOE.pdf`
 
@@ -164,7 +165,7 @@ You're taking coursework (up to 9 credits) **alongside** this placement, not bef
 | **Student Teaching Handbook** | Explains all roles, expectations, assessment criteria | Read the full handbook |
 | **Warner_MidpointEval.pdf** | Assessment used halfway through Phase 1 | Derek will use this; request a copy after meeting |
 | **Warner_CPAST_Rubric.docx** | Final evaluation rubric for your teaching | Request from Zenon or Derek |
-| **Warner_CPAST_ExamplesOfEvidence.docx** | Examples of what good teaching looks like at different levels | Optional resource to review |
+| **warner-cpast-examples-of-evidence.docx** | Examples of what good teaching looks like at different levels | Optional resource to review |
 | **Letter of Expectations** | Your custom plan for the semester | You and Derek will create this together |
 
 ---
@@ -173,7 +174,7 @@ You're taking coursework (up to 9 credits) **alongside** this placement, not bef
 
 Use this section as your “index” when revising lesson plans (micro-structure first, then strategic upgrades based on templates, rubrics, feedback, and curriculum constraints).
 
-**Drive-based reference bank (categorized):** `lesson_plan_reference_bank_drive.md`
+**Drive-based reference bank (categorized):** `lesson-plan-reference-bank-drive.md`
 
 ### A) Templates (lesson structure)
 - Warner lesson plan template (PDF): `../../EDF436/EDF436-Warner Lesson Plan Template.pdf`
@@ -184,15 +185,15 @@ Use this section as your “index” when revising lesson plans (micro-structure
 
 ### B) Rubrics + “examples of evidence” (quality bar)
 - CPAST rubric:
-  - Placement copy: `../resources/WarnerSchool_CPAST_Rubric.docx`
+  - Placement copy: `../warner-school-cpast-rubric.docx`
   - Course copy (EDF436): `../../EDF436/EDF436-WarnerSchool_CPAST_Rubric.docx`
-- CPAST examples of evidence: `../resources/Warner_CPAST_ExamplesOfEvidence.docx`
+- CPAST examples of evidence: `../warner-cpast-examples-of-evidence.docx`
 - Three-way conference score sheet (EDF436): `../../EDF436/EDF436-WarnerSchool_CPAST_Three_Way_Conference_Score_Sheet.docx`
-- Field experience evaluation: `../resources/fieldexperience_eval.docx`
+- Field experience evaluation: `../field-experience-eval.docx`
 - ED452B innovative unit plan rubric: `../../ED452B/Assignments/ED452B-Rubric for ED 452B Innovative Unit Plan.pdf`
 
 ### C) Coaching + revision workflows (how we improve lessons)
-- AI + UbD redesign thought-partner prompts: `../resources/Using AI as a Thought Partner in Your UBD Unit Redesign.md`
+- AI + UbD redesign thought-partner prompts: `../using-ai-as-a-thought-partner-in-your-ubd-unit-redesign.md`
 - Content-focused coaching workflow(s):
   - `../../EDE498C/Workflow - Content-Focused Coaching.docx.md`
   - `../../EDE498C/couching_workflow/Workflow - Content-Focused Coaching.md`
@@ -207,8 +208,8 @@ Use this section as your “index” when revising lesson plans (micro-structure
 - IGNITE curriculum: `../school/Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
 - Internship model graphic: `../school/Teaching_Placement-Internship_Graphic_Model.pdf`
 - Student teaching handbook(s):
-  - Placement copy: `../resources/handbook/StudentTeachingHandbook-2025-26.pdf`
-  - Searchable text copy: `../resources/handbook/StudentTeachingHandbook-2025-26.txt`
+  - Placement copy: `../handbook/StudentTeachingHandbook - 2025-26.pdf`
+  - Searchable text copy: `../handbook/StudentTeachingHandbook-2025-26.txt`
   - Course copy (EDF436): `../../EDF436/EDF436-Student_Teaching_Handbook_2025-26.pdf`
 
 ### E) Supervisor observation visit windows (CS + Inclusion)
@@ -232,7 +233,7 @@ Goal: give Zenon (CS) + Sue (Inclusion) 2–3 strong options; **prefer one share
   - Note: because this window is mid-block, plan a short “mini-lesson/check-in” around 10:15 so observers see explicit instruction + success criteria.
 
 ### F) Example lesson plans + feedback artifacts (what to copy / what to incorporate)
-- Lesson plan example (MD + LaTeX + PDF, with sub visuals): `../23-Block-Coding-with-Bees/`
+- Lesson plan example (MD + LaTeX + PDF, with sub visuals): `../../lessons/grade-3-lamanaco-lallucci-regelsberger-tandoi/block-coding-with-bees/`
 - Additional lesson plan exemplars (PDFs):
   - `../../../Semester_Master_Plan/Supporting_Files/EDE437_Lesson_Plan.pdf`
   - `../../../Semester_Master_Plan/Supporting_Files/ED452A_Unplug_Binary_Lesson.pdf`

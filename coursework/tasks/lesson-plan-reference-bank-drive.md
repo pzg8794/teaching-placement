@@ -99,11 +99,11 @@ These are the most “lesson-shaped” artifacts to reference for pacing, clarit
 
 **Placement copies (TeachingPlacement/resources):**
 - CPAST rubric (docx): https://drive.google.com/open?id=1GIZbQI0ikejXlSCeKDEE9TviaNBJAHLA  
-  Local: `Semester5/Semester3(UofR)/TeachingPlacement/resources/WarnerSchool_CPAST_Rubric.docx`
+  Local: `Semester5/Semester3(UofR)/TeachingPlacement/coursework/warner-school-cpast-rubric.docx`
 - CPAST examples of evidence (docx): https://drive.google.com/open?id=1x0fR9_wqyd8-1sw_btjl4Y2fr8uhBWFN  
-  Local: `Semester5/Semester3(UofR)/TeachingPlacement/resources/Warner_CPAST_ExamplesOfEvidence.docx`
+  Local: `Semester5/Semester3(UofR)/TeachingPlacement/coursework/warner-cpast-examples-of-evidence.docx`
 - Field experience evaluation (docx): https://drive.google.com/open?id=1943M6r_KIQVEHdLPkL7cYBzYxXc5V-jc  
-  Local: `Semester5/Semester3(UofR)/TeachingPlacement/resources/fieldexperience_eval.docx`
+  Local: `Semester5/Semester3(UofR)/TeachingPlacement/coursework/field-experience-eval.docx`
 
 **EDF436 course copies (sometimes duplicated, still useful):**
 - CPAST rubric (docx): https://drive.google.com/open?id=16hCW0p6MQ8BylSV07WKhB59zXs0YT3l7  
@@ -118,9 +118,9 @@ These are the most “lesson-shaped” artifacts to reference for pacing, clarit
 ## 6) Placement + Curriculum Constraints (what lessons must align to)
 
 - Student Teaching Handbook (PDF): https://drive.google.com/open?id=1GtXts7cTh3CaDNCho4CgLrEgCJouzSDP  
-  Local: `Semester5/Semester3(UofR)/TeachingPlacement/resources/StudentTeachingHandbook - 2025-26.pdf`
+  Local: `Semester5/Semester3(UofR)/TeachingPlacement/coursework/handbook/StudentTeachingHandbook - 2025-26.pdf`
 - Student Teaching Handbook (searchable TXT): https://drive.google.com/open?id=1mz7wC54ICmGDYWwUP-5qedO5KqvjWMVW  
-  Local: `Semester5/Semester3(UofR)/TeachingPlacement/resources/handbook/StudentTeachingHandbook-2025-26.txt`
+  Local: `Semester5/Semester3(UofR)/TeachingPlacement/coursework/handbook/StudentTeachingHandbook-2025-26.txt`
 - IGNITE curriculum (XLSX): https://drive.google.com/open?id=1ZuP_-abEgVUO5uGwCTtgoBjPtJ6aGU7S  
   Local: `Semester5/Semester3(UofR)/TeachingPlacement/school/Teaching_Placement-IGNITE Curriculum_ GCSD25-26.xlsx`
 - IGNITE schedule (PPTX): https://drive.google.com/open?id=1AvQUXUIh70gS2nzzUqxBeWaWPUZaY-aG  
@@ -135,4 +135,4 @@ These are the most “lesson-shaped” artifacts to reference for pacing, clarit
 ## 7) AI Thought Partner (UbD redesign prompts)
 
 - Using AI as a Thought Partner in Your UbD Unit Redesign (MD): https://drive.google.com/open?id=1HXmTsZvu2MhxTkAmW_Uem8xhTahEErmr  
-  Local: `Semester5/Semester3(UofR)/TeachingPlacement/resources/Using AI as a Thought Partner in Your UBD Unit Redesign.md`
+  Local: `Semester5/Semester3(UofR)/TeachingPlacement/coursework/using-ai-as-a-thought-partner-in-your-ubd-unit-redesign.md`
