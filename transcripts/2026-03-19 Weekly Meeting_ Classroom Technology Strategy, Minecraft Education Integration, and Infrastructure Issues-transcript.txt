@@ -1,0 +1,604 @@
+00:00:00 Speaker 2
+So I think my big takeaway is that we started a real big conversation. I feel very happy and thrilled about it because from our board members to our district leaders who are not in our technology world, to our students and to you, having these co-conversations, learning together side by side was really powerful. It was powerful today, and I'm just telling you, kids are walking out the door saying 'thank you.' They weren't thanking us for lunch, but they were saying 'thank you,' so we're excited to listen back to all of it. So well, thank you for your leadership, your team approach and your participation.
+00:01:01 Speaker 2
+Literally, I sat next to Stacey at lunch and I turned her and I go, 'This is exactly what I imagined.' Kids weren't all trying to get to their own table groups with their own friend group. They were all still mingling and talking to us adults, and that was exciting. So thank you. We have a little bit left of our day together. So Brad, we're going to turn it over to you for any hot topics if anybody has any, like transitioning in our brains to some final things. Final things, and then we have some one little thing, and then we'll come back around to our.
+00:01:36 Speaker 3
+You guys are usually pretty easy on these shows. If anyone has any hot topics they want to throw out, if you have a sheet of paper, speak them. If anyone has anything you want to ask, I'll do the best I can. I did write it down this time. Lay it on me.
+00:01:48 Speaker 4
+This comes from a ticket that the art department had me copied in on as the iPad person. Has there been any discussion about not just wiping the iPads in the art rooms, but the size of students' Google Drives that might need to change when we're putting all those files in their Google Drives? So they don't get lost. Their Google Drives are full. That's my concern because it's going from kindergarten to twelfth grade now, and we're heading into kids going up and up with bigger and bigger files.
+00:02:25 Speaker 3
+I have not seen any evidence. Anyone, anyone's getting close. Any students are getting close to capacity unless they're saving tons of their own videos and or pictures that are usually not school related and rarely appropriate. It's certainly something we can address either by creating groups that expand it just for our students and or helping them pare it down and reduce it and teach them that either way I'll be happy with the problem.
+00:02:57 Speaker 3
+Something that popped in my head when I saw the one picture that was going around. I saw that picture too. I promise you we have more Google Drive space than those iPads have. Susan was asking whether partly we should be talking about curating and weeding out their drives. There's with all this stuff, there's a technological piece and there's a structural piece, and we can have talks about both as that becomes an issue.
+00:03:27 Speaker 5
+I have a question about. I get some questions still from teachers about printers. We still have some random small printers around the building. Some people don't have them at all, and you know, at one point there was going to be like a zone printing situation. Are we done with our printing? What's going on with that? Are there any updates?
+00:03:43 Speaker 3
+I'll be honest, printing gives me hives every time we start talking about it, So I put on the back burner. But unfortunately, my to do list is getting much shorter. So next year I'll be finding some way to. Tackle printing and all of you, this group will be part of the discussions as well to figure it out. When Toshiba who we pay to manage our printers, tells me we have too many printers in the district. It's an awareness that we have a lot of printers over two thousand printers in districts. So we'll be looking at that zone printing actually got stopped before I came here because you'll be shocked to know.
+00:04:25 Speaker 3
+Don't have a lot of space in most of these buildings, and the fire marshal is very clear you can't put them into alcoves, even small alcoves or things like that. So that kind of stopped that conversation there, but we are starting to have it again. I have no news regarding the branding, except that we know it's an issue we need to address. The average printer in this district, if not one of the big copiers, is ten years old. Which is about a hundred years of technology life.
+00:04:53 Speaker 6
+I'm hoping there's a very simple answer to this. You know how we can plug our Chromebooks into the ViewSonic so that we can immediately start projecting our Chromebooks to the ViewSonic? I believe you
+00:05:06 Speaker 3
+I've never done it but sure.
+00:05:08 Speaker 6
+HDMI. So I went to do it with a kid because we were doing Magic School and I wanted to model some prompting apps, and the kids don't have an HDMI on the side of their. Is there something easy that I can get? I guess someone has an answer. Thank you.
+00:05:24 Speaker 7
+The same cable you might have to request it, but the same cable that you plug into your teacher station. You can take that. And on the very front of the V- S onic, you'll see a USB port. Is that same as like what they would plug into there? USB- C? USB- C to USB- C. And they'll have touch control too.
+00:05:43 Speaker 3
+This is kind of stuff that the D- Book is now wanting to stay allowed. But, if you need one of those, just let us get in for it, and we'll get one out to you.
+00:05:52 Speaker 7
+Make sure it's the video one. There are two different ones. There's just a USB-C cable, and then there is the USB-C that does the video. You'll notice the regular ones are about that big, but the ones on the back of your teacher's stations are about an inch long. You'll know that's the right one.
+00:06:08 Speaker 3
+Jerry, can you put in classroom or somewhere exactly what they should write down in order to get the right one? Thank you. Other hot topics before we move on, simple one small thing. One little thing only six times I've done it. I'm not going to talk about anything. Folks, as always, you don't have to wait until this moment to grill me on any of this stuff. You guys go way too easy on me. Feel free to always email me if you have direct questions, for your building or your group or yourself. I'm gonna dive into I'll I think I'm first anyways.
+00:06:54 Speaker 3
+Mine is one that someone showed me a few years ago, and I use almost daily. Two different ways to paste text without getting involved with the messy formatting. I'm sure you've had the moments where you grab it off a website, you paste in your document, There's 14 different changes to get it to look similar to what your regular text is that you're using.
+00:07:25 Speaker 3
+Instead of control B, I hope you are all using keystroke shortcuts to do these kinds of things. Control Shift V strips out the formatting wherever you are. It'll put it exactly the same way. So if it's just a regular fourteen size font, it'll go right to whatever you have. It'll strip out all the font formatting from whatever website you are pulling them from. That's a really quick way to do it. If you forget that, and you have a bunch of different formats, the paint format, which looks like this icon, will solve it for you. So if I go out of this, the way to do it. Say I decide I want it all to be bold. I want it to all look just like this one.
+00:08:23 Speaker 3
+I'm gonna highlight this, go up and get the paint roller, and whatever I highlight will change to that. It'll match that style. It'll match that format. Exactly how you want it. All right? That's my. Whatever you call this segment. I'll take what I.
+00:08:46 Speaker 2
+I'll take what I got. My one little thing, in case you don't know, how many of you have seen Beautify this slide? In your Google Workspace accounts now, staff only, you have some Gemini features embedded. Docs, Slides, Forms.
+00:09:17 Speaker 2
+I'm going to show you when you click on the link that is there, That will take you to like an outline of all of the types of things that you can see in those. I'm going to click on that and it should bring you down here. And so, U R Education Plus, that's the middle column. What we know about Google is they like to add on features over time. So though you don't get any Gmail embedded Gemini features yet, that might come over time, just my prediction. So I am going to just go down to Google Slides and I am going to click on side panel here, and it will open up and tell you, And you'll just see in this little GIF here, how the side panel can be your Gemini agent while you are in your.
+00:10:15 Speaker 2
+Your Google slide file. So no longer. Do you have to have Gemini open on one tab and slides open on another? It's now there. What's nice is you can ask it to help you make a bullet list of all the things you want on this slide, and then say rewrite that as a paragraph. It will do that because it's just getting what is on the screen for you right there. That's also where your image generator is. The images I used this morning, I was right in slides, went over to image generator and said create AI is moving fast. That was the first little image of like the little cars with AI kind of moving fast. Graduates holding on to their caps. That was the image of them throwing up their caps. It did great. I didn't have to iterate. It was first in one and done. It was great.
+00:11:14 Speaker 2
+So that is available to you in slides, docs, vids, and forms. So back to somebody that was saying, "Oh, My student was saying, maybe my teacher is using AI to grade in my Google Form." Maybe. Maybe. But most of the time it's going to summarize for you the responses. It's going to help you create questions so you can Jot a couple and then say, "suggest new questions." Click on that and see what it does. Try those features out, But know that students don't have those because we haven't opened Gemini up for them ;. They don't have those embedded in their Google Workspace. So just try one: open up Slides, open up Docs. Take a look at that little Gemini. You can see it here on the GIF over in the sidebar or over on the top. There are a lot of places; I think they're moving it to.
+00:12:12 Speaker 2
+There might also now be a new tool at the top that says Gemini. So every day they just keep kind of building it in. And I am just going to do a teaser for you. If it comes to Sheets, Then jump on it because it's pretty cool to be in Sheets and just say, "Give me the formula for this," "Make me a pivot table for this." It's like, oh thank god where have you been all my life? Remember you can do. In Gemini, just upload your sheet and do it there. But this way, these are embedded. So that is my one little thing.
+00:12:48 Speaker 7
+There was nothing really to get excited about there. They were just still in shock. If I said the Lego Movie and I said everything is awesome, what immediately goes to your heads? Everything is awesome! Great good again! What about Frozen?
+00:13:16 Speaker 1
+I'm not sure.
+00:14:25 Speaker 8
+Oh.
+00:14:57 Speaker 7
+One more. Only the math teachers probably remember what this is. The PEMDAS shuffle. Or flow R and B.
+00:15:09 Speaker 9
+Got a problem feeling stuck? Let me help you change your luck. Start inside the parentheses, that's step one. Check the exponents before you're done. You may even get a point if you work it out right.
+00:15:38 Speaker 7
+That literally took me fifteen minutes.
+00:15:46 Speaker 7
+Does it like anything else with AI? That took me a couple of minutes to do. You got a concept, you put it in your Google Classroom. Maybe you annoyed the crap out of the kids, and you play it every day as they're coming in, or you just allow them to listen to it whenever they want just to get it stuck in your head. Who knows? Maybe in the hallway, they'll start singing "P un test flow" as I'm walking down the hallway. Kind of like when I say "Everything is awesome." That's mine, and I gave no one's right to it. Time for that one.
+00:16:18 Speaker 10
+Lego. I.
+00:16:24 Speaker 2
+Know now. I have to be serious. I forgot that before there were no songs. So we have been exploring this work throughout the time this year.
+00:16:45 Speaker 2
+The three pillars of purposeful tech use really thinking a little bit about our strategic planning for our tech in the classrooms. I am just going to tell you, there is a growing group of community members and parents in the nation that are very against classroom technology right now. I saw it coming like in September, and it's growing. It's growing so much that some states are actually bringing up legislation to remove technology from classrooms. So the reasoning is because if we're using it as babysitters, if we're using it without intention and purpose, yes, it doesn't have value added. But the research isn't looking at how technology is being used, they're just claiming when it's used.
+00:17:45 Speaker 2
+I just want to say that because this isn't just us saying, 'Hey, we got to be better at this. We need to make sure that our students and our parent community understand that we are working hard to make it purposeful in the classroom. Then that comes with establishing norms and revisiting those norms throughout the year. The last one is probably silly to all of you, but it is important. I know I would, at a school that won't be named when I was there for several years at RTI meetings, we would have a certain person in our team that would constantly give us the strategy of close proximity. If that kid just has close proximity. So we know that's not the answer to every situation in the classroom, but we do know it is the answer to some of them.
+00:18:41 Speaker 2
+And so, when we think about close proximity, these are the things that we have at our fingertips. So we know that the physical presence, having your students not tucked away on their device in the corner, having them out sharing with kids you are walking around seeing their screens. That often minimizes some of that right? And then we have our tools. We have Lightspeed. We do have some ways that Lightspeed can help monitor and filter and block, But remember, we can't just ban and restrict ;. We need to educate and empower both, right? And, then we often want to make sure kids I think somebody mentioned, the health of their Google Drive, but also the health of their Chromebooks. So let's.
+00:19:39 Speaker 2
+Build in some routines where kids are doing a device checkup. They're restarting their device often. Sometimes Lightspeed is not finding things because kids are not actively restarting or they're just trying to keep kids with a few tabs open, those types of things to help out. We do have filter guidelines that we have put out. I think we looked at that in last meeting when we kind of looked through those.
+00:20:10 Speaker 2
+And again, if they're just annoying, we can't block everything; it's a whack-a-mole. But we do need to think about those guidelines. Just in thinking about Light Speed and how it can be used to supervise when we think of new staff in the next year, those are the things that we might need to really sit down with some staff and make sure they know they have access to. And then, at the building level, when we have very serious infractions, there is an opportunity for principals to use more restrictions on students. But that has to go from the principal to Brad and it should be a very minimal number of kids. If we work on all three of those things, we will have better technology use in our classrooms. More meaningful use.
+00:21:03 Speaker 2
+We just wanted to revisit that and tie a bow in it. We've got to think about the mindset. We've got to think about having classroom tech policies, guidelines, and talking in your PLCs at the beginning of the year. And then when is a strategy not working? Let's try something different. All of those things are important. So we're going to build our.
+00:21:45 Speaker 9
+It's just very big.
+00:21:53 Speaker 2
+So what we have going on, and you're going to bring your device with you, but you can leave everything else because we won't use this middle space. You might second session.
+00:22:05 Speaker 2
+I figured we could do one side over there and one side over here. To the empty tables. And then one on the other side there. Is that okay? Or whichever. Minecraft Edu with Derek is happening in 170A. Everybody point to where that is because when we're in the room, sometimes we don't know where it's A. Ready? That side. Okay good. 170B. Over here with Jer. With Gemini with Jerry. Wow, not Germany. Germany. I am did not know this, but I will now. I am in one twenty six A with Canva with students apparently four students. I would imagine a mix of both. We'll do some Canva. Stephen. Ford is going to be in one twenty six B. I believe they've divided our room up so we should be good in there. They did thank you with notebook LM and then.
+00:23:04 Speaker 2
+You'll need to take a look at this to know where you're going for your second route rotation that starts at two ten. We're going to go one thirty five to two oh five. Take a little bathroom break in the middle if you need to. And you go wherever you want. What questions do you have? Go have some fun on unconferencing. Is there any reason why the Wi Fi here doesn't work?
+00:24:37 Speaker 1
+Are you presenting here?
+00:25:38 Speaker 11
+So I don't know if we're gonna work out. So I might just be up there. So I might just be talking to you guys about.
+00:25:48 Speaker 11
+I'll try to walk through what you need to know. Before I get started, I just wanted to spend at least a couple of minutes talking to you guys about why I'm doing this. Two years ago, I found out that there was this thing. I'm not a video game person; I stopped playing video games when I was eleven and never went back. But this is simple enough that I could wrap my mind around it somewhat easily, and it's by far the most engaging thing that I've done with students since I've been teaching. In ten or eleven years that I've been a teacher, the kids just latch onto it in ways that I haven't seen before in my career. I like it so much that I've kind of made it a point to get out there and show as many people as possible. And watch what can be done in your classroom. Another part about this that I like so much is that it is super immersive.
+00:26:46 Speaker 11
+It doesn't matter if you're a social studies teacher or an elementary school teacher, or you teach tech. There's something in here for everyone. There is some tricky parts to it. And a lot of it is because we're a Google school trying to use a Microsoft app. There's problems that arise out of that, but I don't think any of them are annoying enough.
+00:27:16 Speaker 11
+Maybe like five or so that I was using in my classroom. My hope is that I could show you some cool things that my friend John and I have been doing in our classroom. I talked to you about some of the roadblocks that you'll run into as you're getting this set up in your classroom and then do it with some play because that's how I learned. And there's just too much for me to walk you through every aspect of it. But if you go in there and find something that you connect with, that you think your class would connect with, and just go through it, I think you'll find that it's easy enough and cool enough that you might like it. So I don't have the ability to put this up on my screen. I will share with you guys a link to a form or some paperwork that has some ideas outlined and some longitudinal studies.
+00:28:15 Speaker 11
+That have been done to show how good this is for kids. And I want you guys to know too that when you do this in your classroom, you're not going into a room like you might be picturing right now where there's 25 kids staring at a video game, zoned in, not talking to each other. It looks and feels like an energized classroom where kids are communicating, helping with each other. It's really so much different than you might think.
+00:28:45 Speaker 11
+Just to start, many of you are looking at the screen to get you logged in. In order to log into this program, you need to use your Windows password. This is the first tricky part because the kids don't know their Windows password. When you get the kids logged in, they have to get their email address and they have to use their birthday formatted as two digits, four digits. To get in, which if you are an elementary school teacher, you are probably spending right now saying, "I am not doing that." But if you Rochelle over at Petty Hill prints out their information for them, it's just they're copying their email address in. And then they have the formatted birthday formatted the right way already there. I have them copy their email address out of like the Google icon bubble. So if you click that and drop down.
+00:29:44 Speaker 11
+Control c control v their email address. And then you know it's not a happy birthday, but that's that's how students will get in. Another thing is when they get in, if they try more than once, it's going to block their account. So if they come with a quiz and get it wrong, it'll lock their account. You can lock them for five, maybe ten minutes at the most, and then you can put them.
+00:30:14 Speaker 11
+And really, that's it. As far as getting into TechWalk, that's the biggest trouble you'll have. And as far as trouble that takes place after that, the fix for everything is to restart your computer. Kids will come up to you and have all kinds of bizarre things that are going to happen. They won't let them in, it logs them out, it's frozen. If they restart their computer, it literally fixes any problem. They could possibly happen that I've run into over the years.
+00:30:48 Speaker 11
+I don't want to speak for him, but I'm being told on good authority that next year, those that won't be an issue anymore. And as good as the way
+00:30:57 Speaker 9
+Just me and I'm relying on somebody else's good authority. Will that also apply to the?
+00:31:18 Speaker 12
+Your Windows password.
+00:31:19 Speaker 11
+If you put your Green Team ID and then your Windows password, that's what you need for logging into your box, whether it's a laptop. I would say that's the best way to go. Once you get in and get to the main screen of an Office 365 site, it will take you to a place where it'll say My World, which is where Microsoft saves all the work that you've done, all of the worlds you've created. And on the other side, it has a thing called 'the library.' So when I start this, I start by just having kids do a free build. And if I'm being honest with you guys, I don't know what grades you guys all teach. Kindergarten through fifth? But I found that any grade after third grade needs zero instruction in telling kids how to.
+00:32:16 Speaker 11
+They know how to do it. They are all so interested in it. You don't need to tell them how to move around or how to build anything. They just know how to do it. I spent the first day getting them online, getting them logged in, and then having them start a team build. They can join each other's worlds by clicking the "join world" button, and then the person that created the world provides them with a four-digit code. So if they hit escape, they'll get a code that will come up, and they can give that code to their friend. Their friends jump into their world and then they create something together. I've had them create tree houses and castles, just basic things so that they're building and they're communicating. We're working on our IEP goals through the classroom environment, and the kids are having fun. Now there's a lot more.
+00:33:16 Speaker 11
+Build that are really meaningful too. We were hoping to show you something John does where he has, I've had kids in his whole class in a school world, that's how many hosting and they built a city together. So you've got teams of kids that are working on this environment. I don't know if we'll be able to get that up there.
+00:33:34 Speaker 12
+They did it by grade level. The whole third grade was one world, and each class has the locations within the world.
+00:33:42 Speaker 13
+And they're all building a city within one world. You can see it. The other cities, third, fourth, and fifth, all have their own world. And then each class has its own space within the world. You can connect them with subways and bridges.
+00:33:54 Speaker 14
+So cool. So
+00:33:57 Speaker 11
+And that may be a little bit advanced for your first build. You probably just want to keep it simple and watch the kids play. A lot of times with this, if you run into things that are sticky, you can just let the kids solve them for you. I still, after three years, raise my hands and have the kids come up and show me when I get stuck on something. But if you go into that library after you do your first little build, there's lessons in there for everything from area, volume. There's A.
+00:34:27 Speaker 11
+Ton of other mathematical stuff. You do basic multiple.
+00:34:30 Speaker 15
+Games problems that are built right in there.
+00:34:32 Speaker 11
+There's social studies lessons. I did a lesson on the Oregon Trail with a bunch of kids the other day. There's I mentioned this earlier; I have kids that are rebuilding ancient Egypt. They produce things called NPCs, which are non-player characters that can speak and convey information. So these kids are like researching King Tut and having the NPC give information. So when other kids come into their world, they're learning about ancient Egypt through their creation. So it's kind of like a modern-day diorama like that. So those lessons are all in the library. So if you hit play.
+00:35:13 Speaker 11
+When you're on that main screen, there's a lot of different things here. You can scroll down through there to find topics that interest you, and then there's a variety of different block patterns for you. You can create blocks on your own too, but I recommend first getting in there and building something so that you know what the other kids are doing. Then after that, find.
+00:35:49 Speaker 15
+I'm Used to do this with the kids. You remember? There's.
+00:35:57 Speaker 11
+Also AI lessons in there. There's safety online lessons in there that are engaging, telling you to create good passwords and not talk to strangers in chat rooms and things like that. So there's literally possibilities in this. If there's older kids, people that teach older kids in here, there's a ton of engineering and design stuff. You can have motors and levers and electrical circuits. So the possibilities are really endless. But you got to start by just getting in there and building stuff. And if you don't even have to really do it yourself, you can watch kids build stuff.
+00:36:39 Speaker 11
+It'll help them become confident enough to start. You can assign stuff in here, right in Google Classroom. If you find a lesson that you like and you want your kids to do it, all you got to do is hit the assign button. It'll automatically pull up your Google Classroom, hit assign, It'll drop a link in there, and then they can just click on the link, and it'll pull right up in their Minecraft. I need to bring this down a little bit more. sure. As someone who's deaf and. which is.
+00:37:11 Speaker 11
+So it is and it isn't. You could assign a lesson and have them building in a world that you like, saying here's the world we're going to build in. I assigned two people that are going to get in and build in this world together, or you could just have them get in a world.
+00:37:33 Speaker 15
+And just if you want to do it there. Is there a specific world they're all getting in? No, just whatever world, whatever inspires you.
+00:37:44 Speaker 11
+You can type here something like that. My plan was to be able to project one on a board here so we could all go through it together. Obviously, that's not working out. But if you get in the instructions for what you should be doing, they're right up there. There's also a lesson plan in here too. So if you go out to the old document, that'll take you to your high world right there. That might be like jumping the gun, jumping into a lesson before you even have a movement. You might want to just create a faith in the world. So if you go here and let's say we're going to do three tracks here. A lot of times there are older peers who are about some friends that you can use.
+00:38:49 Speaker 15
+If You target it to like a specific, project, I would say not like a an entire lesson. I think a project might be more useful for them because they could do stuff that are like very engaging. But at the same time. Very educational, right? And like, what's up with you so far? Right now. A mentor for the kids. Also any topic in the future, right? I was looking at that because my.
+00:39:42 Speaker 16
+That is perfect.
+00:39:44 Speaker 15
+Because we're talking about art. And I happen to be a painter. It's not that I'm an art expert, but because I was born with it and I'm passionate about it. Art is something that doesn't have to be paint or clothes. That's what I am going for. And this is an exact example for that. Because here you get a chance to be creative if you want to.
+00:40:18 Speaker 10
+If I assign this sculpture garden, how do I assign the sculpture? You can modify it.
+00:40:26 Speaker 15
+Is it one of those buttons up there? So here the subject is art and design. You already picked this. So it's already going toum claim it in a way that. Educationally, right? That is the first. That is the goal. The tools you're going to find in there are going to be specifically to enhance arts and design. If you open Minecraft, it's going to go and open it for you. And now you create a world. For here, look at this if you want some changes in architecture. Look at this for. And then you can make modifications.
+00:41:06 Speaker 15
+That's what you're wearing for.
+00:41:13 Speaker 17
+This is very small.
+00:41:19 Speaker 15
+I've never really done this, but I'm still going to do this one. Thinking that it would have to be somewhere here. So in this case, I think this is more like a temple.
+00:41:45 Speaker 13
+This is the world. I think you can also email directly to a class as a space within this world. So this classroom building here, and this one's building here, and this one's over here. And then it can connect through bridges and do all that. They're all like. It's only one class at a time that's in there. But when it's in there, it's like twenty four kids that are all building in the same place.
+00:42:35 Speaker 15
+Give it time.
+00:42:36 Speaker 13
+This is one thing they're experimenting with this year. A couple problems, like I look at that, that's nice. This is my personal device from home that I only share because the Windows devices aren't working, and the Chromebooks weren't powerful enough to run the server with twenty five kids in it at once. But once we put it on the Windows device, the server was working fine with it, and then the kids can only get in when you are hosting the world. So if there were resets, they can't jump in and mess everything up. They've been really careful, and there's been zero issues with kids messing with each other's stuff.
+00:43:07 Speaker 15
+If you create a world
+00:43:08 Speaker 13
+This is our task, this is our goal. Other classes can see what you're doing. And I'm like, listen guys, if you're going to mess around in your class, if it stinks, other classes are going to be like that class stinks. Like they're not very good and everything. So that's one way to do it and then the other way. The other thing that we were starting to learn too with it. There is you can teach your agents how. Different coating. I didn't wasn't like a big expert on it all. And like you could add them, learn how to do different like the coating, Which kind of ties into like the Spheros and some of the other things that we've been working on. And it like builds stuff for you, Which Derek kind of showed me how to get into the agent builds and all that. But instead of them doing it block by block, you can like teach them how to code and boom, it like will just build the structure for them immediately. But this is all block loading that's in here that they're assembling up with.
+00:43:59 Speaker 13
+So we do other things like code.org, where you can actually program it. So you're talking about the Minecraft world, but also doing programming. And then if you don't know how to do this, there's the self-paced lessons that walk them through step by step and teach them how to do that stuff. This is something where they're in the world all together, but the ones that Derek's talking about, you could literally just put it on Google Classroom and the kids walk through and follow the directions. And it teaches them how to do.
+00:44:30 Speaker 11
+And I'll show you.
+00:45:00 Speaker 11
+That way you could just get high interest because there was a handful of them that really were fine. And I just wanted to get him broke there. A lot of guys might have been like, oh my god, it's so hard. But he probably didn't have to show them a single thing about how to make that happen. He showed them here's how you might get in the world. And here's the creative they're using, engineering ideas and they're just so much to it, and they do it all. You don't need to be an actor. All you need to do is give them the platform, and they'll do the rest.
+00:45:37 Speaker 15
+The library over here has starter worlds too if you don't want to just start from scratch. They give you half the city, and they can build the rest of the city if you'd rather do something like that. But there's also a whole like Derek was talking about. Here's block coding. It teaches you how to block code, and you literally just pick one of these lessons.
+00:45:58 Speaker 13
+Sign it, and it literally walks them through how to carry out the build for them. It walks them through step by step. They read directions. If they can't read it, they'll read it to them. It's pretty step by step. It'll just assign your chair. You put a red angle class here and give a description of what to do.
+00:46:22 Speaker 15
+So one I share this out going back to
+00:46:25 Speaker 11
+Simplicity of
+00:46:28 Speaker 11
+If you're going to try it out, if your kids don't always have this on their Chromebook, you get the email show, and it shows up as a thing in the back office to make Minecraft appear in their Google Play Store. But then once you get in, can you just show them how to join code process real quick? Yes. Real quick answer: If you do that
+00:46:52 Speaker 12
+It's by school and grade level.
+00:46:57 Speaker 12
+Through grades, and you want to just for your kids, you can't do that. It would be for all of Homewood's secondary. Just don't tell the other kids about it; they'll tell them how to log into it.
+00:47:10 Speaker 11
+But it is by school and grade. If you decide to do that, that would be step one: get them logged in. And then literally, so can you just create a new world here? Everybody agrees, so if he creates.
+00:47:28 Speaker 11
+And then, you
+00:47:31 Speaker 13
+You can do creative and peaceful so that there aren't things spawning trying to kill all characters.
+00:47:39 Speaker 11
+Swords and he's like zombies, but it's very graphic. They're not going to be blood and guts or anything, because the guy turns red for a second and disappears. But if he gets into this world and then his key escapes, he's going to bring him.
+00:48:12 Speaker 17
+Which world is that? So that's not right because it's so much to do it. Let's go ahead. And play around which world is that.
+00:48:20 Speaker 6
+I don't know, you just made it brand new.
+00:48:27 Speaker 15
+Just having like, if he's hosting it, we can go and join. Exactly. I don't know why it's taking so long. We haven't done anything. That's the only thing that I don't like about. How did we get them?
+00:48:59 Speaker 15
+How do you share? Mister Rummy. Here. There you go. Wait. Here, there you go. Sharing link. Stop hosting. Now you're hosting. So I can share the link, but they can't start playing until I start playing. Until they join. Yeah. Oh look at that. Cloud Google Classroom. Yeah. You can email it right now. I would have to point at it. Good. It's like she was like, what is she? It's like I'm putting a little class on also. And I don't know. A theme? Okay. Yeah. This case.
+00:49:52 Speaker 17
+I don't understand what you're doing. What are you saying? I can go away.
+00:50:00 Speaker 13
+What's your world? I can post it, and then the code will come up, and you guys can join it back from the main screen.
+00:50:06 Speaker 15
+With a code,
+00:50:07 Speaker 13
+We can all be in the world together.
+00:50:08 Speaker 11
+Save and active when you get to the screen, it'll say how many people are joining worlds.
+00:50:17 Speaker 16
+Was recording myself. I wouldn't take a scene like that off to figure that out. What is this session?
+00:50:25 Speaker 17
+It was
+00:50:54 Speaker 17
+I Don't know. I don't know. I don't know if they have permission, though. They might not have permission,
+00:50:59 Speaker 15
+But they should be able to change their name. I just. So he's telling you how to just play with the keyboard if you want. Move forward with the W, move back with the S. So if you do this, for example, it goes forward. You might want to align it like go. You go forward like this. Left is A. And then B.
+00:51:36 Speaker 17
+Is right.
+00:51:45 Speaker 15
+You can also use this. This might. This is it actually. It just. It takes getting used to it.
+00:51:59 Speaker 15
+So where is everyone? You can also fly.
+00:52:02 Speaker 17
+So I know.
+00:52:03 Speaker 11
+That we're running out of time. I know that would like to rock you with us not being able to put this thing up on the web. You can fly within however. This one. Joe Lombardo, I don't speak for them but for me, I'm really excited about this out there. So if you need help just roll these types of things in email me or text me or call me and talk it all here.
+00:52:29 Speaker 15
+It's looking down. How do we make it not look down? It's.
+00:52:40 Speaker 14
+Flying now. You're flying.
+00:52:48 Speaker 15
+The thing is looking down. Why are you looking down? There you go with the mouth with the You can fix the alien. You're fine. Look at that. Is that you?
+00:53:16 Speaker 15
+What are they? You can find them now. Where are the people?
+00:53:25 Speaker 15
+You can go flying around the world, just like Superman. That's so much of it. Is that somebody? Oh no, never mind. Oh no, it's like showing you a map where people are. So yeah.
+00:53:56 Speaker 15
+Like if you move it this way. That's not people. What is it showing you? There's somebody here. Who is that?
+00:54:08 Speaker 16
+What is that?
+00:54:10 Speaker 15
+Everybody's flying? Let's go and hit people.
+00:54:23 Speaker 16
+Why aren't you playing?
+00:54:26 Speaker 16
+You're playing on mine.
+00:54:28 Speaker 15
+I'm trying to. So all the people are flying. I don't think you can do it in my act here. I don't think the people can do that here. You can hit this one. That's Jessica Wait.
+00:54:57 Speaker 15
+I can't go to here, but there's a key to here. Where is it? Here. You have to aim. There you go.
+00:55:28 Speaker 15
+I was just laughing because when I see the kids, now I'm experiencing what they experience. When I see the kids. And I'm giving them a lesson, and I see them they go to destroy another. And they're like destroying, and the other kid is like crying. Now you know what they're doing. That's smart. I wish I could do that like you. I'm like twenty four seven on all this sort of thing.
+00:56:25 Speaker 15
+I have something to take. It's Minecraft. That's the Minecraft. Let me see if we completely delete, because it will slow down your computer, just leave it open. Oh okay, so now open. Where is it now? Oh yeah, that's a good question. I thought you closed it. There are other PDFs. Okay, never mind then. It's not here, so I think it's just on. Oh yeah, you do save and exit right? Yeah. Did you turn my keyboard shortcuts off?
+00:57:08 Speaker 10
+What does that mean? Where? Did you turn my keyboard shortcuts off? Which shortcut, which one? I don't know.
+00:57:17 Speaker 15
+It popped up as a. You want to save it as a shortcut? Yes. The okay let me stay there. Alright clear. That's fine. You don't have to do anything, just stay right here. Okay there you go. Now it's gonna be here, welcome and now we just close it close.
+00:57:51 Speaker 15
+I don't have experience of how to integrate lesson here. I can only, I only know how to code, so I help the kids to code and things like that. But, the good thing about this is that you can integrate like almost any lesson. You just have to like either educate yourself about it or reach out to the right people and see how to do it. Because sometimes it doesn't even make sense for you to build a world when there's already many worlds out there that you can reuse.
+00:58:21 Speaker 15
+That is one thing that I would look for. I would look out for if there are other people out there that have already built something, even if it's similar. It's already a huge advantage because you can just tailor it to what you need. You're very welcome. Thank you. I have one of those fishes. I got lucky.
+00:58:52 Speaker 15
+Please see those two.
+00:59:04 Speaker 16
+I will remember it. Every little bit counts. You can open. Thank you so much.
+00:59:18 Speaker 14
+Thank you.
+00:59:43 Speaker 17
+I can't believe I'm going to be named. We didn't have a single problem with downloading the app or signing into it.
+00:59:50 Speaker 15
+I was actually looking forward to it. I'm so used to it that I just assumed.
+00:59:57 Speaker 11
+There would be problems.
+00:59:59 Speaker 15
+I was like, let me stick around so I can help troubleshoot because I was expecting more than three people but I'm shocked that's not the case. So you're from RIT? No, my son goes there.
+01:00:15 Speaker 17
+Your son goes to RIT? Oh undergrad or, Undergrad, junior. Third year. He's only got one semester left after this, so he's almost done. He's still a junior now. Is that? You say he's a junior? He's a junior. Like oh I see I thought you went to Cause. You do go to Willard right? Right.
+01:00:47 Speaker 17
+I go to both. You go to both. And I saw something about RIT. You had something and I asked Derek. He's like, "I think he went to U of I." He's like, "No, he goes to both." Both? Yeah. So he's a junior. So you know, third year at RIT.
+01:01:03 Speaker 15
+I actually came back at RIT, but because I'm too old, they didn't take me for the PhD program M-.
+01:01:11 Speaker 17
+So I'm doing a, Is this a what? Kindergarten research in the library, I don't know. Actually. They're doing it. Oh!
+01:01:21 Speaker 12
+I think it is.
+01:01:23 Speaker 15
+So I'm doing a bridge program, which is actually a master, but it's just to give me enough time to get familiar with the faculty and apply. It worked because now I'm a graduate assistant and I'm writing papers. Now I'm going to apply there.
+01:01:48 Speaker 15
+I don't know. I'm gonna say that. I like the school, it's my school. That's where I do my computer science master. I do it there.
+01:02:02 Speaker 17
+Good to have options.
+01:02:04 Speaker 15
+yeah'cause I'm also thinking going the U of R direction also so. I'm doing both but they're both components you know? Exactly Do you want me to go out?
+01:02:19 Speaker 10
+This actually today is the first time they've ever had a gluten-free choice in history of the institution. Let me see. How come I didn't know?
+01:02:59 Speaker 5
+Gluten-free sub. There was. But that is not gluten-free. Those are not gluten-free. Some of those are.
+01:03:09 Speaker 15
+I had one of those Unfortunately.
+01:03:11 Speaker 5
+They don't all have that stuff. Where's the gluten free?
+01:03:17 Speaker 1
+Have it.
+01:04:13 Speaker 1
+So this was the story we were all like action. All different things. So it just kind of gives us a whole different perspective on the conversation. And then we start thinking about these characters.
+01:04:31 Speaker 10
+That have these really interesting stories and who does it? Right. So we have that conversation of like, over what?
+01:05:12 Speaker 15
+You Just asked. Gotcha.
+01:05:16 Speaker 17
+And I answer. Now you say the answer.
+01:05:23 Speaker 15
+My pizza business is great.
+01:05:26 Speaker 15
+How are you talking? Only three quarters. Those were the only words I knew. No. Experience? Pasta.
+01:06:01 Speaker 15
+Do you guys like code agents to do work for you there, while the world is
+01:06:06 Speaker 13
+Running I. Now that I know kind of how to do it, I've showed a couple kids at a time and given them some tasks to do. But they don't know what they're doing really much. It'll go right through somebody else's that is cool. Look, I how many did you have them doing massive? For you I'll just go here real quick for you things like that. So you're not just sitting there like the recording.
+01:06:41 Speaker 15
+How many cities do you have in there? There's three grade levels.
+01:06:46 Speaker 13
+And there's like five or six cities in each grade level. Wow, worked out pretty good.
+01:06:53 Speaker 15
+That's pretty cool. One of those.
+01:07:56 Speaker 16
+Putting in a subway underneath the city.
+01:08:00 Speaker 13
+That's sick. Do you do lots of, we put another subway station. I swear, when you do it on different devices and servers and things don't load right, it gets messed up. Is it nothing graphic? There's a ton of stuff that you're not getting here now.
+01:08:18 Speaker 16
+You need to be similar before you start doing that.
+01:08:26 Speaker 13
+We literally just talked about what the city needs, brainstorming everything. We talked about planning blueprints and who's responsible for what. We had them do a blueprint to play short. See, that is amazing. Blueprinting everything? At the end of the day, they end up just doing whatever they want to do. But they don't follow the plan. Like, I think if I was to do it in the future, I probably would start with a flat one.
+01:08:52 Speaker 15
+Implementing backwards this time? So much going on. Backwards, just saying. That's true. It looks cool in the small world. Different elements. But the fact that they are, they feel like they're encouraged to start doing that.
+01:09:11 Speaker 13
+They were bummed when I said this is probably the last class.
+01:09:14 Speaker 15
+What? We're not done! Oh my god, it's gone faster and tell you no, but that is awesome. I just realized. If you teach them how to do small things with the agents, they can do things a lot faster.
+01:09:31 Speaker 13
+They build a whole building for you in a second. If we knew that ahead of time, it would have been much better cities and design. But now I know next year.
+01:09:42 Speaker 15
+There's there's a learning curve, and they keep I'm sure. They keep also updating it.
+01:09:46 Speaker 13
+The other thing I'd probably do is have a smaller scale on like I was thinking next year like it's all tile flooring. In the school, and it's all blocked. So make an exact replica of Lake Shore. You know what I mean? Like let's map it out, let's figure out dimensions, the area. Just kind of as cool as this was, The scale was so big that it's like maybe if you did a smaller project with more detail in it
+01:10:08 Speaker 15
+But sometimes smaller, 
+01:10:12 Speaker 13
+He makes fun because he's. He's just you get your eyes set on and you just like hammer I'm like no I'm doing this. I'm going big with this.
+01:10:26 Speaker 13
+It's weird though that it's not showing up the way it should. I wonder if it will on my other computer back at school. Are you guys do you have people going through the progression? I had one of the classes, Power
+01:10:46 Speaker 16
+Power, the one YouTube. Soum I was afraid.
+01:10:59 Speaker 18
+And then there's like started one for the next one called polar bears like that. Michelle wasn't telling me which we'll have to get up and hear about this tomorrow. These were the ones where they're walking with these things on their feet, with these things on their paws. I saw this really interesting thing where
+01:11:20 Speaker 1
+It was just.
+01:11:43 Speaker 16
+So this is the first.
+01:12:12 Speaker 19
+I Want to do this stuff. Are you a? I'm sorry. I go to the bar.
+01:12:37 Speaker 16
+I come home.
+01:12:51 Speaker 15
+They need to fix this. There's a way to do it, but it's expensive. They don't want to do it. They can have their own server.
+01:13:03 Speaker 13
+They have a web application. Also, my good service.
+01:13:13 Speaker 13
+So now it only works if it's plugged into the monitor. Touch screen works. The screen itself is like an old personal computer.
+01:13:22 Speaker 15
+But it's not like my new one, like a one from years ago. Which means memory is a lot smaller. I'm.
+01:13:34 Speaker 13
+Also on the guest Wi-Fi?
+01:13:39 Speaker 15
+The Wi-Fi here doesn't work.
+01:13:41 Speaker 13
+I just can't connect to it with the first number.
+01:13:44 Speaker 15
+I connected to it and it doesn't let me do anything.
+01:13:47 Speaker 13
+And then the other day they were like, "This Wi-Fi was down." It might as well be down. Actually, that day that it wasn't working, I did do it on the student Chromebook and it actually worked pretty good for seventeen or eighteen minutes. Shocked on a student Chromebook because I had noticed. I went to the kids, I'm like, "Listen, this isn't gonna work." And then it worked.
+01:14:22 Speaker 18
+She was at Hobart. She said something that was basically like she'll stand up there and teach you when she doesn't know what she's teaching.
+01:14:51 Speaker 13
+I had my observation, and I'm at pre-op with Katie. I was like, listen, I think we should be careful about the language we use here. I probably should sit here and give you a more start-to-finish lesson on this topic. But I also want to make sure that we're clear on what we're trying to accomplish. Like, I'm just gonna go with it. And I do have a plan; I'm not winging it. I know exactly what we're doing for it. But I just want you to understand the backstory of where this has come from and what we're trying to do. So, haven't had my post-op yet, so we'll see. It might have been a little bit better if we could go through the Canva way. I was like, they've built this world. Now we're going to try to put it into Canva. She's seen dinner. She's like, don't touch me. Put it in Canva?
+01:15:36 Speaker 15
+Got some.
+01:15:47 Speaker 15
+That's the movie. Oh my god, this is love. That's cool. That's how you import into Canvas?
+01:16:05 Speaker 13
+So I've had kids going, I've only done this for twenty minutes, they're just started this project, but they're going in and showing them drone footage of real city tours, showing them what we want the camera work to be like. And then I'm having them go in and actually make a thing of it. Then they can have a script over it. Teaching them how to actually make an aerial shot. And then we'll edit some things together.
+01:16:32 Speaker 15
+Our students did that. The problem with some of that, some of them did it, But the problem with some of that is that they cannot take five minutes. They just go there. They're just like walking around.
+01:16:44 Speaker 13
+I told them, listen, this should be 30 seconds or a minute. All we're doing is the aerial shot today. And I'm shutting this world off in six minutes. You better have it done. Maybe that's what we should do. And then I go. Next week we're going to do a screener specifically of your building of what you've made and you can go through your part of it.
+01:17:06 Speaker 15
+Think about it five minutes turns into 50 minutes. One minute turns into less than five minutes. We should do that. They'll get a kick out of it.
+01:17:24 Speaker 14
+I got it now.
+01:17:27 Speaker 13
+Thank you! I'm sure this computer's still. Plus you're on the main server. You see, it's old. So.
+01:17:35 Speaker 15
+My other one's not like that. The graphic card.
+01:17:39 Speaker 13
+And the run memory has to be like. I gotta scan her face.
+01:18:11 Speaker 15
+You didn't load it for me?
+01:18:13 Speaker 13
+We'll be using it for the announcements. I just used it in mine, but it doesn't load.
+01:18:22 Speaker 15
+So are those phone calls, but. So. How.
+01:18:30 Speaker 13
+Do I navigate this thing? You need a mouse. You created that world? A mouse makes everything so much better.
+01:18:39 Speaker 12
+You can do. Could be done normally too. Hands on the screen, left and right side. They can even move around like this to look this way.
+01:18:49 Speaker 15
+That's how they do it. To create balance. So That's how they create balance. Because at first I was like, how do you use this? It's so annoying I'm not great with that either but Annoying.
+01:19:14 Speaker 13
+It's so much better. I don't know why mine's not. Is it not working? It's just computers. This computer is old, but it's the only one that's strong enough to power the whole server room. It looks nice though. It was at one point.
+01:19:34 Speaker 15
+That's one of I wanted to buy one of those.
+01:19:38 Speaker 13
+I have a newer version of it, but I dropped it once.
+01:19:41 Speaker 15
+I didn't buy it because the memory was shit. It's so bad, but it was slick and comfortable to carry.
+01:19:53 Speaker 13
+Quite as efficient as a tablet as I wanted it to be.
+01:19:56 Speaker 15
+So if it's not as efficient as a tablet, then why are you
+01:20:02 Speaker 13
+Just like it wasn't user friendly, but I take it like I have my home, At my house, I have a monitor. I just pop the keyboard up and use it as a double screen.
+01:20:12 Speaker 15
+The funny thing is that when they came new, the pitch was that they were user friendly. That was the pitch.
+01:20:18 Speaker 13
+That they were user friendly?
+01:20:19 Speaker 15
+because they were selling it with the pen and drawing and designing and doing everything there.
+01:20:29 Speaker 13
+It was when I first got the first one; it was like the best thing I'd ever had. This thing was awesome.
+01:20:34 Speaker 15
+That's what happened when you don't have something better.
+01:20:37 Speaker 13
+But I mean, I'd rather just if I'm going to use it as a tablet, I'll just use the you know, butum. I haven't seen this.
+01:20:46 Speaker 15
+This is the latest one?
+01:20:47 Speaker 13
+That's like a couple of years ago. How old is this? Three or four years old? Two or three? There's two new versions of it now.
+01:21:02 Speaker 15
+So this is the whole different screen.
+01:21:05 Speaker 18
+It's like, Once you get the work ready, sure. Nice.
+01:21:12 Speaker 13
+What kind of is that? Third law of the Z fold. This one's a six. They're on to the eight now. Pretty cool, pretty nifty. The newer ones are a little wider, a little thinner and all that stuff. How is it in memory?
+01:21:28 Speaker 15
+Good enough thing and the camera?
+01:21:31 Speaker 13
+Good The camera is decent on this one, the seven it's really good, For the next version. The next version, The camera is not quite as good as it could be. But the seven they get that up real nice. I'm moving away from this one.
+01:21:46 Speaker 15
+I'm not an Apple guy, I don't. I was an Apple guy and when I. Bye- bye.
+01:21:54 Speaker 13
+It's not. I've never been.
+01:21:57 Speaker 15
+The good thing is I have a Linux PC It's like a book small like that It's an Alienware It's a gaming laptop. When I get rid of my Mac, I'll be fine. I have my Linux slash Windows in there. I can buy another, but I'll be able to buy another that is sleeker and more powerful. But no more Macs. It's never been mine.
+01:22:27 Speaker 13
+They were good, but they're not doing anything now. There's nothing special about them.
+01:22:32 Speaker 15
+Nothing special about them.
+01:22:35 Speaker 15
+They're also not on the right side of history either.
+01:22:56 Speaker 1
+That the latest one?
+01:23:03 Speaker 16
+Launch a rocket yet or what?
+01:23:28 Speaker 14
+It's about the sprocket law.
+01:23:47 Speaker 14
+Wait, what is it giving you? 
+01:24:04 Speaker 15
+He gave you something then.
+01:24:06 Speaker 13
+Come on Elon, throw it up there.
+01:24:19 Speaker 15
+How come the instructor has a Alaska hat? What is that? That's hair, bro. I'm Brian. It's like a hat. It looks like a cat hat. I don't know what that is.
+01:24:46 Speaker 9
+Is. And that's why you're talking about all these video clips. Tel Aviv
+01:24:54 Speaker 15
+That's in Israel. I went there.
+01:24:59 Speaker 8
+What else did it have to do?
+01:25:05 Speaker 10
+Go around picking up the parts?
+01:25:44 Speaker 15
+Even in the game, you can't get away from that.
+01:25:49 Speaker 15
+Even in the game, nothing.
+01:25:55 Speaker 9
+Oh yeah, I do. I see it. We always want to do that, so I take all the pictures. He's the one that had us start this Pinterest to succeed for teaching ideas and sports and different things. So I think that's why I have his pictures up here.
+01:26:08 Speaker 17
+Is it a graphic card? Because they're so blurred. He always has his tie
+01:26:15 Speaker 9
+He has different things on his tie connected over that too.
+01:26:28 Speaker 15
+How Do you create a list in here? How do you create a list in here? Like
+01:26:38 Speaker 13
+Create one that they self-follow.
+01:26:41 Speaker 15
+Let's say you pick a list, for example, to make it easier. You want to change it. How do you do that?
+01:26:48 Speaker 13
+The pre made ones, can you change them?
+01:26:50 Speaker 18
+You gotta go in and you can change what the.
+01:26:54 Speaker 14
+Something called world builder mode, and you can change the words that the NPC say.
+01:27:00 Speaker 11
+If you understand the game well enough to create things like whatever you come up with
+01:27:06 Speaker 18
+You can make an NPC that gives a reaction or create some whatever the construct is like.
+01:27:14 Speaker 17
+Now I got it. Trying to think of an example.
+01:27:35 Speaker 12
+I got it. It's just like if you're creating the world but just a different mode. We used to be able to update the current level.
+01:27:56 Speaker 12
+I watched a couple of YouTube videos.
+01:27:58 Speaker 15
+You guys are turning me into a Minecraft.
+01:28:03 Speaker 13
+Dude, I didn't know anything about it until a month ago. I didn't get it.
+01:28:07 Speaker 15
+Pretty cool, pretty fun. I'm seriously going to download it and start seeing how to create programming lessons.
+01:28:23 Speaker 15
+But to automate stuff. Like really pure automation. But one of the cool things about automation is it starts small. So you don't need to oh come on! You kill everyone on board?
+01:28:45 Speaker 17
+My rocket didn't go up and fly. That's not the lesson I was thinking about. You want it to be like a legit rocket? My rocket wouldn't have enough.
+01:28:57 Speaker 17
+I couldn't lift off the payload. You need enough force to accelerate it. Not enough. I don't have enough. Did you read the instructions? Look at these. Look at these shots over there.
+01:29:14 Speaker 18
+I'm shocked if Rachelle's got her sports on this one.
+01:29:17 Speaker 13
+This isn't the one; there's a different one.
+01:29:19 Speaker 15
+You had to. You had to hit it multiple times?
+01:29:25 Speaker 18
+What are you doing like high school kids or middle school kids, high school? So like ninth to twelfth. Mostly eleventh
+01:29:34 Speaker 13
+They'll be fourteen seconds. They'll be pumped.
+01:29:49 Speaker 15
+That's. That's the sign.
+01:30:05 Speaker 1
+Johnson, I've heard. IVERS.
+01:30:40 Speaker 1
+Thank you.
+01:31:33 Speaker 1
+Alright. Just a couple things, grab a cookie.
+01:31:50 Speaker 2
+So there is, we brought the trays that were left in the back there; there's some cookies. Take some home to your kids or yourself.
+01:35:28 Speaker 1
+There's no celebration for that.
+01:35:35 Speaker 10
+Now we just have to go do that. It's just gonna stay there. But people will think we're nuts. And veterans peeking over the counter.
+01:37:20 Speaker 19
+Isn't there like an S D conference too?
+01:37:52 Speaker 9
+That's what I was doing. And then it would stay in the local background. This is really. It's probably still a good one today. Or he was there, probably why they're wondering.
+01:38:22 Speaker 9
+And I had no burn jobs. I feel like it just kept going and going, so I had to unplug it. I was like, "I don't know what else to do."
+01:38:30 Speaker 17
+Then he came and yelled at you because you.
+01:38:32 Speaker 9
+Weren't showing the slides. Today I wasn't here. We're leaving for a weekend; no one's gonna be done tomorrow. Unplug it back in whenever you're gonna take it back.
+01:38:43 Speaker 2
+Only have twenty-two responses in the forum feedback, so please make sure you go into that one. One also forum feedback.
+01:38:55 Speaker 9
+I think they're mad at me. He's giving me an education, disappointed. I'm like that's weird. He's completely different from you all. He does what I do always when he gets visitors here in the morning.
+01:39:11 Speaker 18
+I don't know how to use mode or annotate it.
+01:39:13 Speaker 2
+I should have watched that one first. I'm gonna wait because they just know sometimes for me.
+01:39:17 Speaker 15
+A lot of noise is hard for me to concentrate and finish, so I'm just going to give them a couple more minutes.
+01:40:01 Speaker 19
+Oh yeah.
+01:40:17 Speaker 17
+I've got to do a little spiel on that. We're gonna walk. They're gonna.
+01:40:27 Speaker 2
+The way this is going. I really just think that there are things that are more important than anything else. If you are still working on your feedback, you're welcome to stay and finish that. A couple of housekeeping items: we are going to reuse these name tags. Maybe. So if you don't mind taking out your. You can use it as a memento from the day. Take out your little card with your name, and then there's a basket Jerry's holding up right by the door where you can just leave the plastic part. Thank you for that. Or, if you want to bring it home and use it as a name tag for yourself, that's fine too. We just wanted to again say thank you to the planning committee. If you're in the room, please come on over and take an LED display with you.
+01:41:15 Speaker 2
+Extra gift to the planning committee. I have a really nice Bill's jacket that was sitting up here with keys in it.
+01:41:25 Speaker 2
+It's my size. Is it yours? I was really. It's like a coloring box! Looking really nice. So this is it for the year for us, and we thank you for your time and participation. We'll see you next year.
+01:41:52 Speaker 3
+Folks, I'd be remiss not to thank you all. I know how hard it is to be out of your classroom, so thank you for the time you dedicate to this work. And I cannot let our last session end, especially after such an exceptional one, without pausing and thanking Jerry and Lynn.
+01:42:18 Speaker 3
+Together, there's a lot that goes into it, especially the forum. As you can imagine, once you add students into it, the complexities multiply. The amount of work they did is really tremendous and appreciated. So thank you both so much one more time.
+01:42:53 Speaker 17
+I know. See you later, dude.

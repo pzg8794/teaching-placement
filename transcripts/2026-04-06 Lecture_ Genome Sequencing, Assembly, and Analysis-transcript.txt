@@ -1,0 +1,304 @@
+00:00:09 Speaker 1
+Well. Yes
+00:00:12 Speaker 2
+That was a topic of discussion.
+00:00:13 Speaker 3
+It was a topic of discussion, but it's not like he was asking this question. Was that like the question about when it's being offered? I had that same confusion. I think it's like permanent success. It's permanent success. Because I have that same confusion, I'm like, if this is the reason why I don't practice, because I don't make time for it.
+00:00:33 Speaker 1
+We all know what drama was from our last class. I don't know how to switch it in a little bit though. Right. It, I think we had to do ECG again. Mhm We all had to do ECG again Oh was it not the same? Okay, I didn't know that It was. How long ago actually? A little bit. How long ago? Are you talking about like the. I'm talking about there's like this class that we have to go get a for the accreditation. For our elective. So like, oh, for it's like two thirty times. Yeah yeah yeah, And I emailed my advisor and they were like, oh, you still have these courses. Oh is that Dr Wright who asked her from Brooklyn? Oh is she taking classes at Brooklyn College No I took a class that was in LA. Oh, did you want to hear it?
+00:01:26 Speaker 3
+Okay, I need to email my advisor. Because they told me phase trial will cover that. So now I'm a little scared. Are you checking on that?
+00:02:27 Speaker 4
+I Don't know what it is.
+00:02:32 Speaker 1
+Yeah.
+00:03:03 Speaker 1
+I didn't see much. It's yeah,
+00:03:05 Speaker 5
+I don't care what I do. I know it's this week. It's this week. Hey, At least at least I'll do it one more time, and then like we'll never do it again. It's so nice to see all the things closed though, like all your requirements. Yeah,
+00:03:18 Speaker 2
+Yeah, Yeah So my requirement because like I like they're all just closed now because I met all the requirements that they were exactly, you would be progressing my way too. Um taking. Intro to computer science theory, um AI, genomics, CPR, technology and ethics in digital era. Oh you're doing a lot more.
+00:03:47 Speaker 1
+Oh really? Oh are y'all doing this for biology? Yeah. Oh but like I don't have What are you even taking? There's not that many classes offered in the fall actually. You can't find them. They're all the same class. They're all straight Because I took genomics last yeah or like previous semester. So what other thing? I'm mostly doing math,
+00:04:11 Speaker 4
+Like I've been actually. Yeah, that's honest. Because it's all I can really do. I.
+00:04:19 Speaker 6
+Just sit with my laptop.
+00:04:34 Speaker 1
+So I started in two years. Yeah. Okay,
+00:04:39 Speaker 5
+I'm taking a class this summer at online through my community college, because I need to get one of my perspectives out of the way that I don't want to have to take next semester stuff. Oh, okay. So the three options they have there are right,
+00:04:59 Speaker 7
+Eleven going and get started a couple papers to talk about.
+00:05:07 Speaker 7
+Let's start. We have the lacewing. Oh, that's right.
+00:05:12 Speaker 4
+I did. You want to tell us about it? Um, I think that lacewings in general are cute. I'll leave it at that. Is there a picture in the paper? There's not a picture of like the larva and eggs, but not a picture of the adults. But I looked up pictures of adults; the adults look very cute and cool. Um, they basically, They, lacewings are very important as a potential pest control species. That, a lot of their diet is aphids and other species that are very detrimental to various crops of agricultural importance. And so they were trying to determine, They were trying to create an assembly resolved at the chromosome level via combination of using H i- C to get your chromatin conformations and PacBio.
+00:06:06 Speaker 4
+Long reads. Basically so that they could get more information in general, just about the genome and the ways that everything was interacting within it.
+00:06:15 Speaker 7
+Okay, I already answered one of the questions. are you doing PacBio? yes. uh we haven't talked about Hi- C, what's that? does anyone here know how it works? did you look it up?
+00:06:27 Speaker 4
+I did look it up. I know that it gets you an idea about how the chromatin is actually conforming like more of that. Three dimensional kind of picture of it, but I didn't look into the methods very thoroughly. Did anyone try to pull that up?
+00:06:43 Speaker 7
+It's probably good to do if you find a technique that might be important. You want to know more about it. Google is pretty good. I'm willing to bet Wikipedia has got a page on LSD. So, we want to check and double check me on ninety nine percent, sure they got something with what? There is combinatorial binding. Absolutely, yeah. Yep. That's okay. It's a little bit weird, but once you get past like the first step of what it's doing,
+00:07:13 Speaker 4
+It starts to make more sense. Yep. Not only is there a work in P R A G O, But like the first thing on, it is the whole thing here of the word". Yep."
+00:07:23 Speaker 7
+So correct me if I'm wrong. Um. And so you're actually correct. It involves crossing. So you take the chromosomes when they are in this phase and your. Link and applying something that causes a cross-linking of DNA. So when you have two parts of the double helix that are near each other, they'll be cross-linked, which tells you they're near each other in terms of the chromosome. In terms of um in terms of the condensed structure. So it gives you an idea of how this chromosome is condensed. Basically, you can cross-link these, Fragment all these pieces are around where they're cross - linked, and then you can take out the cross - linked parts and sequence them to see what.
+00:08:04 Speaker 7
+See which pieces were next to which pieces. Does that match what you're seeing? Yep. I haven't done it myself, but I've seen it a couple times in papers. It's fairly common, it's not terribly expensive. It's not much more than just doing usually Illumina sequencing because you're dealing with short fragments that you can just fragment and use separately. So yeah, not only are we reading a genome sequence using PacBio, we're also getting a chromosomal confirmation to see what's next to what.
+00:08:36 Speaker 7
+Okay, so we're using PacBio's sequencing tech. Um, they get all these fragments from PacBio. What do they do with them? Hello. I'm willing to bet they don't use the same things you talk about with Illumina. What did they use for a tool? One you'll see all over the place whenever you're dealing with PacBio. So you can find it first in materials and methods.
+00:09:18 Speaker 6
+It's Not. I don't believe it's in the sequencing section. I think it's in the section after that or not that far after. Is it next to Novo? Oh, maybe that one did. I thought they used something else as possible.
+00:09:37 Speaker 7
+So that's the actual raw sequencing. They correct it using NextDenovo,
+00:09:42 Speaker 4
+And then they assemble with EAGER.
+00:09:45 Speaker 7
+Oh, that's right; they used a slightly different one. Yep, so they corrected it with NextDenovo. There's something before that too; there's another tool you'll see all over the place. What do you see, Corey? C 22 Which one? C 22 Where are you seeing that? That is.
+00:10:04 Speaker 7
+But which section are you in? Oh, interesting. So let's see. That's the actual system. Yeah, that's a sequencing machine. That's the machine. Yeah, the machine and the chemistry are up there in that first section. Yeah, We're in section two point two is where we have stuff about the assembly or starting to put these fragments together.
+00:10:35 Speaker 7
+What's in that first paragraph? What tool are they using? That's actually not on the pack bio, but yeah pbtools pbtools. Yeah, it's very common one. Uh. You can actually use that pack bio, too. It does a lot of the things we've looked at. Uh, it's a pretty good package. Um it's another one, you'll commonly see used and oftentimes people bounce around between different tools. They they need to get something done. Uh so we have pbtools in there. Uh this is talking about. Distribution analysis. What are we talking about here?
+00:11:15 Speaker 7
+Those Who've taken IEP know what a is. I hope. What's a? The chunks like this one. Yeah, but they're doing these chunks. Are they all different sizes? No, they should be the same size. All the same size, so you're picking. Short sequences of the same length, and you literally go over every single possible way you can do this. You start out from one end of the fragment, you pick maybe a twenty mer. You pick first twenty nucleotides, then you slide over one, and another twenty nucleotides. Slide over one, another twenty nucleotides. They're overlapping; that's okay. What you are looking is each of these twenty mers :, how often do they occur? And.
+00:12:00 Speaker 7
+What you get is you get a distribution graph. You can actually tell something about ploidy. You can sometimes get estimates of genome size from that, depending on how you do it, although it's a rough estimate. But, you can get some information about because of the way the genome should have a somewhat stochastic nature. It's not completely stochastic; there's deterministic aspects like gene sequences. There's a lot of shared sequences and gene families and so on, but, In general, you can figure out what the fluid is using your k-mer counts. How often do you see each k-mer and how often does that occur? So, never occurs once, twice, three, four, five. blah blah. You'll often get a.
+00:12:57 Speaker 7
+So you see, some of the sequences occur more than once. You probably do this a little bit more. Tetrapods have a slightly different shape. If you see a highly repetitive nature, you'll get a little bit more sequence to run this way to the right. So you will start seeing patterns in how often these chambers occur. This is how many chambers had occurred that many times. You can get an idea of number of different.
+00:13:27 Speaker 7
+Characteristics of the genome sequence from your camera analysis. Uh, so then they're using next to novo to clean up the PacBio sequence. So Raven is actually one that's not as commonly used. So it's the other paper that has the common one. And, they do a bunch of cleanup after that because just doing the raw assembly. Sometimes you get misalignments as you're putting fragments, looking for overlap. If you put them together, you'll sometimes get misalignments. There's a lot of different things you can look for. Do you see duplication where it occurs? Two different contigs are getting the same sequences. Maybe that was another case where they should have been put together. You might be able to increase your contiguity that way. There's a bunch of different steps. We tend to do downstream to try to clean things up as we go.
+00:14:26 Speaker 7
+Cool. all right. and I look at this, it's a piece of aluminum. probably just a tagged item. where's the aluminum?
+00:14:39 Speaker 6
+I think I mentioned this earlier in semester, but I'm not positive though.
+00:14:46 Speaker 7
+All right, I know some of the students saw this paper last semester. also being very quiet. those who took seminar, Already seen this paper, right?
+00:14:59 Speaker 3
+Is that for error correction? What was that? Is that for error correction?
+00:15:04 Speaker 7
+Um, that part of it, yeah, it's a big part of it. You can actually find errors in PacBio. PacBio has a lower accuracy than Illumina does, right? You do your primary assembly with PacBio. Illumina can clear up any ambiguities. You can also get a better idea of where you're dealing with heterozygotes. If it's a diploid. Where you have two maybe two SNPs and then an A T SNP or something at this position. The Illumina data will do a better job of picking up because there's a lower error rate.
+00:15:34 Speaker 4
+They also specify in the paper that they used it as references for I C as well.
+00:15:40 Speaker 7
+Yep, Plus there's plenty of usage You can use Illumina for RAC on this later on. I wonder if they did that in this They did, they did, yeah So uncommon now, Nowadays to do a genome sequence and then a transcriptome sequence. So they get an idea of which genes might be there, especially if the genome has never been sequenced before. So they hand like, sorry.
+00:15:59 Speaker 5
+Yeah, is it okay? Sorry. And for the transcriptome sequence, Would they just do it for all cells? Or how would they pick what cells that need to be transcribed?
+00:16:06 Speaker 7
+That is a problem. They sometimes take whole organism, But then is it going to be the same genes expressed in the larvae as it is in the adult? Almost certainly not with insects scale; can be very different. So that does become an issue now to you, Do multiple different RNA seqs. Makes sense. Um, I don't remember what they sequenced. What stage were they at in this one?
+00:16:29 Speaker 6
+Uh, let's see. Actually,
+00:16:37 Speaker 7
+Did they do it? Transcriptome sequence? I'm seeing a gene prediction.
+00:16:46 Speaker 4
+I'm seeing a transcriptome sequencing. It says in two point one thatum they constructed an RNA library using poly A tracts to enrich for mRNA. Okay. But.
+00:17:00 Speaker 7
+Yeah, I'm not seeing downstream any analyses on that.
+00:17:05 Speaker 5
+It was constructed with male adults too. With what? It was with male adults, the library was made with. With male adults,
+00:17:11 Speaker 6
+Okay, where do you see that?
+00:17:12 Speaker 5
+Um this sentence right after what you read in two point one.
+00:17:19 Speaker 7
+Oh. Okay, that tells us what they sequenced. But let's see where is it at?
+00:17:32 Speaker 6
+You have five millidolts.
+00:17:38 Speaker 7
+Means we're getting a limited subset of the genes. So it would have been whole insects and not just one tissue.
+00:17:46 Speaker 4
+It says later on in transcriptome assembly with reference genome before meeting string tie. Oh, we should bring that up. That's in two point three. Okay, I missed that. Gene annotation in the pair in second column that paragraph the first one. First second column,
+00:18:09 Speaker 7
+Yeah oh, there we go. Yep. Yeah. Transcriptome assembly of reference genome. From using StringTie, which is not terribly common, but StringTie does get used sometimes. It's not completely a transcriptome assembler;. It's basically aligning against the reference genome to identify where the genes are. You have to do an homology-.
+00:18:35 Speaker 4
+Based approach on top of it. It also says that the variant area and thatum the WGS and the transcriptome sequencing were both. That's right. In the data integrity statement, awesome.
+00:18:47 Speaker 7
+That is good to see. In fact, I recently rejected a paper because they refused to, and it is required for the journal. They refused to put in a accession number for where their genome sequence was going to be placed. It's a journal policy to do this, and it's good science. Generally, don't just say, I have a genome. And magically, you must trust me about what's in it. Uh, we need to see that genome so we can verify what's what's in there. I think that was last year I ever checked with that one. Um, because it was a policy and a good one. Um, I firmly believe that if you're going to publish genome or transcriptome sequences, you need to put that somewhere where it's publicly available. Cool.
+00:19:41 Speaker 7
+You know, just put my stuff out there. Then how will I, you know, publish or perish? You can so. But you can put an embargo on your submission. So, it has an accession number, but it won't be publicly released for six months to a year. You can determine how far out you want to go. So absolutely this is something we think about. In fact I'm writing a paper right now where we're doing this. Uh. There's a six month embargo on the raw genome sequence However. The reviewers can get access to it if they want. They have a separate link where they can get to it. So, Sra is awesome about that ;. They let you do this, where you can restrict who has access. And then you can publish on it. Now, if you want to get five or six publications for your release, that's probably not going to fly. It's kind of it's considered egregious, just hang onto your sequence and never give it to anybody because how do we know you're not hiding something? We can't verify what we're seeing.
+00:20:41 Speaker 8
+Project ed like not even trust the reviewers or something. What was that did they not even trust the reviewers?
+00:20:47 Speaker 7
+No idea I have no idea. Every time I asked a question. They avoided it. I kept asking the question now granted I'm one of three reviewers and the other two said accepted. That's not my conscience, but I felt it was responsible thing to do to make sure it was published, especially given what they're saying how quite as important.
+00:21:13 Speaker 7
+It's not that hard to publish it, to put it up in a public repository. Actually, I should be I should say that carefully. NCBI has gotten very specific about what they want, and some of it's expensive. So if you're trying to do something on a low budget, it gets awfully hard to publish it. Most labs can't afford to do the expensive experiments. Expensive is like twenty samples of PacBio. That's sixty grand right there, If you don't have a grant, a good credit, you're not getting the work done. So yeah. So I am glad to see that they had the same data. That was excellent. That is a good sign. And other people can use the L Street to build off the science. Cool, okay so we got the sequencing tech, The tools for alignment and assembly? Uh, how do we judge the quality of this assembly? What do you think?
+00:22:35 Speaker 6
+Is it any good? I don't have records to compare this to. My heart is.
+00:22:58 Speaker 7
+Telling me it sounds pretty good. What does that mean? Like that's not the review criteria. I was looking at the.
+00:23:14 Speaker 4
+At the very bottom of table five, they have genome completeness for gene annotation, same for the genome assembly.
+00:23:23 Speaker 7
+At uh what kind of completeness? For the gene annotation and genome assembly. For the busco report. Busco, that was the word I was looking for. Yes. They get their most of the goodness. Yeah, what are those numbers? You have ninety- eight, ninety- seven point five. Who remembers that that's any good or not? I'm positive I talked about what's usually a good cutoff.
+00:23:45 Speaker 8
+You probably did, but it doesn't be like remember it off the top of my head though.
+00:23:48 Speaker 7
+But it'll be good to remember in the future. You'll see these numbers again. Not hard to get back. You'll see them enough, you'll get used to it. It used to be a bare minimum of ninety percent with a nine five now. So gotta be closer to ninety- five percent complete. To be a high quality assembly. I'd say you're right, they did meet it again. So if you don't know what is a good cutoff, what's a way to find out? Oh, you couldn't in this case. That's interesting. If you took a lot of papers, you might be able to look it up where just Google yeah Google what?
+00:24:31 Speaker 7
+That's one of those. Now, I don't completely trust vendors, but it's definitely beast at ninety five percent. But what part of Google? It's got multiple different search engines. Starts with an S Scholar Scholar probably a better place to look. See, if there is any papers out there where they systematically look at this, so you don't have to systematically pull this out and go back into the institution. You'd rather see, right? Someone actually done the work on this to see what's in the literature. Find a recent paper where someone's done this. It's actually fairly common to see people have published like, "Hey, We looked across all these fifty papers and here's what we're seeing for completeness and here's how it changed over time. " Usually about every five years or so, someone puts a paper out to see what's the current state. Same thing like the quality of deal likers. I could probably do Ryan Visscher's paper has been cited an awful lot. But really, we're due for a new paper. Someone else needs to look at this.
+00:25:32 Speaker 7
+But yeah, that's reasonably complete. Okay, which they're complete in what sense? What does BUSCO tell us? Continuous sequences. So it's like somewhat you're looking at contiguous sequences, yeah. But what kind of sequences do we look at with BUSCO? Conserved genes. Conserved genes. Highly conserved genes that you can expect to be there. You can use that as a proxy. We don't know in advance how many genes this species has. That's part of the point of doing the genome sequence. But we know which ones should be there. If we have 98% of the BUSCOs there, we probably have 98% of the genes, I'd say it's a reasonable proxy. It might be a little less or a little more. It might be that we just happen to hit a lot of the genes that are not BUSCOs. And we happen to hit them all, so it could be a little more.
+00:26:31 Speaker 7
+But it's a reasonable approximation. It's a good way to do it. There's really not a better way to do it. Cool, how about the contiguity? How's it looking? It looks good, decent N fifty. How'd you know that?
+00:26:50 Speaker 6
+What's a good N fifty? You would have to give some more context.
+00:26:54 Speaker 7
+You have to look around and see what people are doing now. Now from experience, uh, the N fifty of, Yeah, that's in megabases. One point three megabases? That's a pretty good contig, but you do not get that with this. You only get that in PacBio. In fact, You actually probably should be able to get that on PacBio. If you have enough sequence data. If you're getting 40x depth, meaning on average each base pair is sequenced 40 times, you should be getting at least a megabyte. You should be getting pretty close to chromosome-level contiguity.
+00:27:28 Speaker 7
+You should be able to get like 80 % of each of the chromosomes in one long contig. One long contig for chromosome one, another for chromosome two, and so on. Now assuming these are. Let's see, the longest scaffold is 12.2 megabases. That's pretty good. That means here we'll be close to a chromosome length. How long a chromosome is depends on species. Vitus is different than humans, is different from lysosomes. You might be able to find somewhere in literature. There's an estimate for how long your chromosomes are. Maybe they looked at karyotypes and they've estimated it from there. Be a really rough estimate, but that'd give you a good benchmark to figure out how contiguous this is. So lots of places you can look things up and see is this really good or not, right? On the whole, it's pretty reasonable. This is about what we expect. Cool.
+00:28:27 Speaker 7
+Okay, so we've got sequencing technology, the alignment assembly, the quality. What did you learn? Okay great, we have a genome sequence. Who cares? What are you going to do with it? What is it we're always looking for? Two words. First starts with a B, the second with an R.
+00:28:57 Speaker 7
+Relevance, thank you. Did they find any? I'll give you a hint: it's published, so they almost certainly did. You know, biological relevance it often gets thrown out for that. So what'd they find? Doctor Buckley and I being excited about one part of this. You can even see it in the last. Third of the abstract. Yeah.
+00:29:27 Speaker 3
+It says, I mean, It's an conclusion that couldum act as a bioregulatory agent, and that would be useful with digestion, detoxification, tumor reduction and such.
+00:29:38 Speaker 7
+Yeah they found some stuff about digestion stuff. Why is that relevant? He's got something he was saying earlier.
+00:29:54 Speaker 5
+I mean, These are the phylogenetic analyses have shown that cecum is divergent from the common ancestor. But, it's that the pigeon families evolved in different like digestion stuff or expanded expanded to show that it was a good biocontrol agent.
+00:30:17 Speaker 7
+How is good digestion make it a good biocontrol agent? What did you say it's doing? It eats pests. A pest, what kind of pest? The ones that impact agriculture. Some of them, there's lots of those. What's the name of the group of species? Aphids. You ever seen aphids go after a plant? What does it look like? I actually had one. There was a bean plant they got swarmed by aphids last summer.
+00:30:53 Speaker 7
+Um, I was looking at that bean plant going, "That shouldn't have these bugs on the side of the stem." They're all little aphids. Know what aphids do? They eat. What do they how do they eat? They don't eat the leaves, I'll tell you that. So now they suck the sap. They suck the sap. They're like little maple syrup taps for other plants, for like plants that are not woody plants, Things where they can get and poke right through the cell uh outer uh cells. And get right into the xylem and phloem and just suck the nutrients out. It's like little maple syrup taps. Uh, and lots of them. At that point, that plant's going to start dying. They're going to suck all the nutrients as they're being turned back to the roots or wherever they're going. They can just suck those nutrients out and eat off them. So there's lots of them when it happens, there's lots of them along the stem. Do you want something that's really good at eating a whole lot of aphids?
+00:31:51 Speaker 7
+A good thing. These actually evolved to be better than other predator species. They're actually probably a very good biocontrol agent. What else makes a good biocontrol agent besides being a good predator?
+00:32:07 Speaker 8
+A lack of side effects and survivability and species survivability.
+00:32:12 Speaker 7
+And you said the last part? And survivability. Good survivability, yep. So what do you mean by side effects? It doesn't eat the stuff we don't want it to eat. Perfect, that's it! It'll eat the aphids you want to eat, but it won't eat anything else, so it doesn't cause harm to the environment. We have to be very, very careful about that. Otherwise we introduce a new pest. What was it with Australia? Cane toads. Cane toads. Why did they put them out?
+00:32:36 Speaker 8
+Why did they introduce them?
+00:32:38 Speaker 8
+I forget what happened with cane toads. They. I don't think the cane toads were with beetles.
+00:32:47 Speaker 7
+With beetles? And they eat other things too. Now they're everywhere. Probably makes the roads kind of slick sometimes here. Actually we're at that time of year if anyone's curious. Be careful at night. Nice for it's been raining. There's gonna be frogs everywhere.
+00:33:11 Speaker 8
+There was what was left of a frog that I almost stepped on.
+00:33:17 Speaker 7
+Walking is even better.
+00:33:20 Speaker 8
+If you're going to the park, Part of UC and you're on that cause walk was your step.
+00:33:24 Speaker 7
+I don't know what UC is.
+00:33:26 Speaker 8
+University Commons. That's RIT housing.
+00:33:29 Speaker 7
+Housing, there we go.
+00:33:31 Speaker 8
+It's one subset of RIT housing. Now you know.
+00:33:36 Speaker 7
+Now I know, Although I'll forget it because you don't have to use it Well You're gonna see it. If you're here enough Okay So, we got a good genome sequence. We got some information about the evolution of the species. We got some biological relevance there. It's an easy thing. Good chance to look at that bio. Now, what is weird about potatoes? What about the chromosomes? Thank you. The tetraploid. What does that mean? Wait a minute, who do we have here in genetics right now? Two of you, three of you. What does tetraploid mean? Genetics students, thank you.
+00:34:21 Speaker 7
+Four chromosomes. They have four, they don't really four chromosomes. For each chromosome. Final exam's coming up soon. Thank you for your patience today. It's okay. I saw the opportunity, I'm going to take it. They got four of each chromosome, four of chromosome one, four of chromosome two and so on. They want to make what's called a phased genome assembly. What does that mean?
+00:34:53 Speaker 8
+Does it by any chance mean a genome assembly that looks across a timescale? Here's what it looked like at this point in time.
+00:35:06 Speaker 7
+That's not time. It must refer to the time because it's the same word used in other contexts. Absolutely.
+00:35:15 Speaker 8
+I'm sure I remembered what it was yesterday, but I am blanking now.
+00:35:20 Speaker 7
+Phase is important because we're seeing a lot of papers this way. In fact, a paper I'm working on is a phase assembly for a very specific species. One, two, three. So we have all four of our chromosome ones. What do you do with the phased assembly? Separate them.
+00:35:52 Speaker 7
+There's a specific way we're getting to it.
+00:36:05 Speaker 6
+That's an ATGC CAC T.
+00:36:28 Speaker 6
+What am I doing?
+00:36:33 Speaker 7
+Not genome scan, but it'll help with those downstream. That's secondary. While the break, you're summarizing the haplotypes. Bingo! Like that's the word. They're haplotypes, right? Just say haplotype A G C T along the chromosome. Certain alleles of these different ones. Exactly right. So this is an A G C T A C A C, But see every single one of these is a different set group of alleles in the haplotype, right? You have four haplotypes. In reality, there are many more SNPs across the chromosome. Right? A phased assembly, if you do it right, you get all of these in the correct groupings. You can then look at the parental ones, the maternal and paternal alleles which are different if I remember correctly. It's very common thing in plants to take.
+00:37:26 Speaker 7
+Two different chromosomes you get to split up when you cross them. Uh, like this case, that one's so final. Um, sometimes you only get one chromosome from parents. But with the the potatoes here we got tetraploids out of it. So, we actually get all this phasing to figure out which chromosome came from which parent, if you know what is the genotype of the mother plant and the father plants, you can figure out what was the phase of the parents too.
+00:37:57 Speaker 7
+All kinds of fun stuff you can get there. Very common to do phased genome assemblies now. Species like vitis is important because they have a low recombination rate. We know that certain alleles tend to go together and there's very little shuffling. Typically get one recombination per chromosome in vitis for whatever reason, we're not completely sure why, but it creates some interesting opportunities for mapping when you do a genome scan. It helps out to know what the phase is, especially if you're doing a combination. But in this case, yeah, they're doing a phased one. All right, how do they do a phased assembly? If you're dealing with all these small pieces and those SNPs are let's say, those SNPs are three megabases apart, and your fragments are maybe 80 kilobases in a PacBio sequencing. How do you get a phased assembly? How do you know which allele of the SNPs goes with which other ones?
+00:38:58 Speaker 7
+It's a tough problem. I'll give you a hint: you don't do a software. You can't do a software. Not effectively, you know, with very high error rate. What did they do? Just doing longer reads? Well, you can't really do longer reads; PacBio only goes so long. Uh, Oxford Nanopore in theory can go longer, but in practice it never does; it's about eighty or so.
+00:39:26 Speaker 8
+I s this about is this the thing where you can do the super long read technology? No
+00:39:31 Speaker 7
+That'd be Oxford Nanopore. And even then, they only get about eighty kb. It winds up getting fragmented. There's another way to get around this though.
+00:39:42 Speaker 8
+Please tell me it's not using the human brain.
+00:39:44 Speaker 7
+It is not using human brain. It does not use software, it's a molecular technique. I think it's on the second page.
+00:39:52 Speaker 6
+Got that right.
+00:39:57 Speaker 6
+It is on the second page.
+00:40:11 Speaker 7
+Can you get a single haplotype at a time out of the plant? You collapse the sequences. That's software based. There's a way to collapse them.
+00:40:25 Speaker 7
+If you can't directly sequence a long fragment, what's a way to get a single long fragment and isolate that from the potato?
+00:40:46 Speaker 7
+So Chemical. This is using the natural life cycle of potatoes.
+00:40:53 Speaker 7
+We call them. If you clone it, it's still tetraploid, right? How do you get a single one of these chromosomes out? Where does that happen in the life cycle of the creature? Third meiosis. What comes out of meiosis? Gametes.
+00:41:10 Speaker 4
+In this case, diploid.
+00:41:12 Speaker 7
+Uh, true. So there's a little inference going on here. There is. But you can figure these things out using gametes, In this case, yes, they are deployed. Let's call these haplotypes A, B, C and D. Some of the gametes will have A and C. Maybe you get a few of those. Some will have A and D. Some are maybe C and B, A and D. You get all the combinations. What, you can look at is where all right, we get these two alleles. Maybe if we get the A and C for these polymorphisms.
+00:41:53 Speaker 7
+Two, three, four. It is see A and C is going to be A T for the first one. G C. C A. Correct me if I'm wrong again, please. And T. Right there we know that whatever two haplotypes we have, we don't have their numbers, but we know they both have a T here. We get the same thing out of this one. Ab gives us what. Let's see if we can use this to piece this apart. AA Ooh.
+00:42:24 Speaker 7
+G C E C A T C. All right. We can tell from this we might have a shared haplotype between these. That, but we definitely have an A here. These match up, that matches up, but also want the Ts somewhere here probably share a haplotype. If, you do this with enough combinations, where you know, you only have two of the chromosomes set four. You can actually figure out which ones go together. You can infer it. It's not perfect. There is a little bit of software involved in it, or a little bit of statistics involved in it, but you can actually use these combinations to across the whole nation. You know, What are the possible combinations of alleles we could have in our haplotype to get what we're actually observing in the gametes? That's all they do. It's easier on some species than others. The vitus is a diploid; their gametes are haploid.
+00:43:23 Speaker 7
+You sequence the image, you know exactly what we have for haplotype. Keep in mind, there's still a small level of recombination. So, you do lots and lots of not each AC is identical because they may have had a recombination that's being actually be mostly A with a little bit of D from recombination. Again, you need to do more statistics to figure this out, but it's absolutely doable. And you wind up getting a really good phased genome. It's not gonna be perfect, some of the sites will be wrong, but it will be like 99% accurate. Comes out really good. So here we have a weird plant that gives us a problem. It's a tetraploid and we want to get a phased genome assembly. There are ways to get there. PacBio makes that easier if you're doing this with Illumina, where you're dealing with really short fragments.
+00:44:19 Speaker 7
+0.15 instead of 80 kilobases, it gets a lot harder. You can still kind of do it. You can figure out the SNPs across the chromosomes. So does that make sense? That's a common thing to do nowadays. Usually not with tetraploids, potatoes are weird and this is a nice exploratory study. They did a good job with that. Cool.
+00:44:47 Speaker 7
+What was their sequencing tech for this one? You said PacBio. I see. What did they do for assembly?
+00:45:20 Speaker 6
+There we go.
+00:45:27 Speaker 7
+In materials and methods. They think they don't cite it. Interesting. Wait, nope. Did they? Interesting. These do this a little bit differently. Cool.
+00:45:48 Speaker 7
+I forgot neither the paper. Oh, you know, there it is. The second column of materials and methods : haplotype - specific PacBio HiFi read, separation and haplotype assembly. What did they use for the haplotype assembly? HiFi assembler, yep. HiFi assembler. HiFi is your PacBio sequencing technology. It's related to the Smart Bell; it's similar. Hi- Fi assembly. It's a very common one. In fact, the paper that we're putting together, we use that tool to do a genome assembly. Very common in PacBio data because it's very accurate and just it works nicely. You'll see that one all over the place with PacBio sequences. What else do they do after they do assembly? Second paragraph of the same section.
+00:46:45 Speaker 6
+These Hi- C, They use Hi- C to help organize sequences.
+00:46:52 Speaker 7
+So, one more time. They use Hi- C. You see, oh they did, but that's not in the section. Under which of those methods is a hamlet- specific PacBio high- five read separation and assembly? What do they use?
+00:47:08 Speaker 6
+Under the image.
+00:47:11 Speaker 7
+Is that it? No, oh okay. In addition to using PacBio, what they do.
+00:47:20 Speaker 7
+Same thing they did for Leishmania. Go for it, he got it. What was the question? Oh, shoot. In addition to doing PacBio, what else did they do for sequencing? They also did Illumina. It's short-read technologies, yeah. Yep, they also did the Illumina. For what purpose? For comparison purposes.
+00:47:50 Speaker 7
+Correct. What was it?
+00:47:53 Speaker 2
+Um, for error correcting. For correction. Yeah.
+00:47:57 Speaker 7
+For cleaning it up because again, Illumina has a higher accuracy at the single base resolution. It's very common to do both, probably because it's not terribly expensive to add the Illumina sequencing to it. You can do a PacBio sequencing for about three grand per sample, which in biology is cheap. And then another thousand, you do the short read technologies. So you go from three grand to four grand. It's absolutely worth it if you have the grant to do it, to do both and get the higher accuracy. Then, you're dealing with a better than ninety nine point nine percent accuracy at the base level. It comes out really nice. They also did Hi C for scaffolding purposes. Good.
+00:48:46 Speaker 7
+Another one, you'll see in there. If you go to the bottom of that column, they use Augustus. That's a common one for annotation. Augustus is used by a number of tools that do gene annotation. We're trying to figure out where the genes are on the genome. Maker? I think it does. There's like three different tools out there that all use Augustus. It's basically using Blast homology. Is all it's doing to try to find where the genes are in the genome. But there's different ways they can clean it up and refine it, so slightly different tools on those. You'll find there's a lot of common tools that get used here. Oh, reads are first aligned to the full haplotype results genome assembly using. That's not one that we use, but it's another one that's commonly out there.
+00:49:42 Speaker 7
+Going into that second column. You see HySat2? Yeah, HySat2 you'll see that a lot. HySat2 and Star get a lot of use for alignment. Uh these three tie in for the transcriptome assembly. Yeah, There's a bunch of downstream tools for cleaning it up like RepeatMasker and so on. These are their BUSCOs, really valuable use of time.
+00:50:15 Speaker 7
+They also did a methylation analysis. Why? Oh, wait a minute. We've got three students in genetics. Why would you care about a methylation analysis? Why do you care about where the genome is methylated? Stop torturing her. Why do we care about methylation in genomes?
+00:50:46 Speaker 7
+Eukaryotic control. I know you want to. I see the hand coming up. Try not to overcomplicate it. Keep it simple. What am I looking for? Okay, Maybe a little more complicated because it might help if.
+00:51:02 Speaker 6
+You think about GC islands and stuff.
+00:51:04 Speaker 7
+Close close the term for.
+00:51:05 Speaker 6
+It for deamination. And like.
+00:51:12 Speaker 7
+Oh, CpG islands. Everyone wants to know that one because they're critical in. Controlling gene expression, one of our key epigenetic mechanisms is methylation of the Cs and CPGs. When you have a whole group of them together in an area, it's not that it's CG, but might be CGCGACGCG, something like that. A whole bunch of them, that methylation will control chromatin structure, which controls accessibility of. Transcription.
+00:51:46 Speaker 7
+You are on the right track. CpG islands. So we do care about methylation status, what's commonly methylated and what's not. If they were to look at it in gametes, what would they be looking for?
+00:52:03 Speaker 1
+Well, I don't remember the term for it, But you have some genes that are like marked from, like this comes from your father. And it's important that it comes from your father.
+00:52:12 Speaker 7
+Yep. So the maternal gametes. Mantleate some genes, the paternal gametes some other ones. You can't use the term. I know you can't use the term. No, really? Someone else just take these genetics because I know I got a bunch of you. It's correct concept circle tonight.
+00:52:40 Speaker 1
+Can you repeat the question?
+00:52:42 Speaker 7
+Yeah, if you read about. The maternal gametes have methylation of some genes. Paternal gametes have different genes that are methylated during the formation of gametes. Starts with an I. Thank you. Yes, we can look at imprinting in games. There is all kinds of cool things we do with methylation, uh, uh, and analysis of the methylation patterns in genes. It's actually not that hard to test what methylation is, um.
+00:53:13 Speaker 7
+You sequence the genome, And you can go ahead and modify the methylated cytosines in a way that they come up different when you sequence a second time. That's all you got to do. So you basically split your sample in two, one of them is modified at the methylated sites, the other's not. Sequence them both, And where there's a C in one place and I think it's a T in the other, we know it was methylated because it was a methylated cytosine. It's a really simple process. It costs like another thousand bucks to do that too. So, all kinds of cool things we can do off these. We're starting to see a lot of these in all kinds of papers now. They're becoming the norm, becoming the expectation. Some reviewers, if you don't do all these things, They will turn down the paper for that reason, just because you didn't do enough experimentation. I haven't done that yet ;, it depends on what the study is essential or not.
+00:54:11 Speaker 7
+If they're claiming it's methylated and they don't have any molecular evidence, I'm just saying you really got to show that or you can't say it. We're seeing a lot of PacBio cleaned up with Illumina. Oftentimes we do Hi-C for confirmation and helps in scaffolding. Gives you a higher quality, closer to a T-to-T, a telomere-to-telomere sequence. And, it's not uncommon to see methylation status and all these other things in genome sequences. What year is this? It's a few years old, isn't it? How old is this one? Twenty-two. Twenty-two. It's getting old. It's four years old. Was kind of at the forefront a little bit when it came out, and now it's kind of the expectation. Bless you. Okay, any questions on either paper? There is a lot of cool stuff you can get out of these. The more you look at these papers, the more you'll recognize where this—you see this commonly used.
+00:55:10 Speaker 7
+Techniques, analysis, all these different things. You start seeing them come up over and over again. So keep reading those in the papers. Wednesday, what are you doing? Presentations. Presentations have them ready. All right. Have a good one. I will see you Wednesday.

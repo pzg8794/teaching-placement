@@ -1,0 +1,186 @@
+00:00:30 Speaker 1
+Keep the wrong cord. That one right there, I'm sorry. Dude, what what is going on here? Uh child. No, Peavey, the black cord is right from Peavey. Got you got it. Uh uh Lorenzo, I thought you were closer than this dude.
+00:00:50 Speaker 2
+Yeah it reset him. Yeah it reset him a little bit.
+00:00:53 Speaker 1
+Alright so guys check this out, Raise your hand if you're done with that block, lesson one, where you had the blue and the orange pathways to get down. So wait, you guys aren't done with that? Okay, I don't want to hear the excuse about why you're not finished. I'm not I don't care if you're not finished. I want to help you. I, just don't want to show you all this level if you're all still working on the last one. Raise your hand if you're done with that. Okay, so this a jumping the gun now. So um this what we're going to do. I want you guys to try to finish this and my point here, what i'd like you to do is finish that and start the next one.
+00:01:45 Speaker 1
+I really like you guys to like work on on these whenever you have a few minutes. Like instead of doing like code dot org and all that stuff when you come in here, My lessons are going to shift to something else with you guys during the day or when you come into my class. But for the first ten minutes when you were like on typing agent or something like that, Mister Garcia, I might tell you like hey do your Minecraft coding lessons. And this is what I am asking you to do so um, A lot of you, I am going to take you guys back to that block thing and give you some advice. But, let me just show you again how to get to that series of lessons. So that when you finish one, you can go back in and grab another one. So, you are going to click library, you are going to click computer science block coding, and then upper primary. Then obviously, you click coding fundamentals. You choose which one of this you like better. And then in coding fundamentals one.
+00:02:42 Speaker 1
+This is the progression that I'd like you to work your way through. So you have lesson one through lesson six. Right now, I've never had anyone pass lesson two, and it's like lesson two is not challenging; like it's basic loop stuff, you know. And if you guys get to that, if enough of you get to it, I'll show you the main gist of what you need to understand to get through that. But if you can write a loop. With destroy forward, move forward. And collect all, then you should be able to finish that like this. Okay, So my hope is that some of you will get through all six of these by the end of the year. With that being said, This finished part on level, one is like the hardest part in this whole series, as far as I can tell so far. And it's not really that hard, but you guys are like.
+00:03:37 Speaker 1
+Not understanding the directions and that's what's making it so difficult. So, where does it be at? Block lesson. Once you've finished this level, you're going to see these giant sea turtles released into the pool. That's how you know you're done with it. Okay, It'll say 'lesson complete', and then you can just hit save and exit and go to the next one. If you see the sea turtles, you're done, You're good. Okay? That's how I know that you've finished it.
+00:04:08 Speaker 1
+So, um, so once I get in here, I am going to show you guys some strategies. But ultimately, What you have to keep in mind is you have twenty seconds, two zero seconds from when you press play to get yourself onto one of the gold plates and get your agent onto the other one. If you fail to do it in twenty seconds, you just have to restart. The um, the uh lesson. So see, I got the radio out. If I click on the screen, it says reset activity. I hit that twice and now I've reset the activity. Okay? When I hit play, This glass pane will break, and then I have to run out and get on that gold plate. That's at the end of that orange thing there. But only have twenty seconds to do it. You guys are way fast. I can't do this but most of you, I've seen how you move in this game.
+00:05:05 Speaker 1
+You can get out there and do it, okay?
+00:05:07 Speaker 2
+Um, If some good to tell them, that's why it's good for them to have their code on command and not play. The code. Because when they don't play the door opens and they can go.
+00:05:19 Speaker 1
+Oh yeah, yep, yeah. Soum this is kind of cool how the turtle jumped up here. Yeah that means he's really done. Mom? He's very.
+00:05:31 Speaker 2
+What do you need?
+00:05:39 Speaker 2
+Yeah. No, Just uh,
+00:05:42 Speaker 1
+You, you have to personally reset the activity, and then it will just put you back at the beginning of this part right here. Yes. Not the whole world. Good question. Yeah Okay So, what Mr Garcia is saying is you have to take some consideration here when you write the code about where you put it So, if you put the code You If you're fast enough When, you hit play The clock starts Yeah. So, if you put your code in on chat command, then the clock is going to start. Then you have to go to the chat, put the word "run" in, then hit enter and then start running. You just burned seven seconds right there. Okay? So if you cannot do that, You can put your code in on start program here, and then the second you hit play. Wait, am I explaining that right or am I.
+00:06:36 Speaker 1
+Will it wait for you to hit run for the clock to start otherwise?
+00:06:39 Speaker 2
+I think the clock starts when uh the command is run.
+00:06:43 Speaker 1
+Oh, so what he's saying, that's even better. So if you write the code here, The clock doesn't start until you type the word run into the chat and then hit enter. So you can like get yourself set up perfect, Write your code and then hit the word run and then hit play, and then you're good to start going out there. So just think about whether you're putting your your commands in here or here. The program, the agent, And the gold play, you need to stay on your gold plate, while the agent needs to stay on the other one. When done, press the play button to complete the code. Go to Minecraft and run your code so they they're wanting you to run it in here. And um so yeah, if if you put it in here that will work out for you now. Um.
+00:07:31 Speaker 1
+Two more quick things I want to tell you guys. So, you can't write the code. You'll never get there if you're like, "Tell the agent to go forward, hit play." Then, get rid of that block. Then tell the agent to turn right, hit play. You cannot do it like that. It'll take you a year to do it like that. You're going to have to reset it no often pay attention please So, you got to write your code in one big long string then.
+00:08:01 Speaker 1
+What you got to do is run your code to get him to go out there. So he's going to go forward three, then uh right three, then forward three, then up two. You know what I mean? So, you got to write your code and then run it while you run out there on the other side. The last thing I want to say is if you're starting to get frustrated, come see Mr. Garcia or I we'll give you some hints around or raise your hand.
+00:08:27 Speaker 2
+I'll be looking out for.
+00:08:29 Speaker 1
+So, We'll give you some hints about how you can use your agent's abilities to float and go underwater to help you out. Yeah. I.
+00:08:38 Speaker 2
+Am not on this part, but like when it says to like introduce the radio, like walk and talk thing. Yep. And it shows you how to like reset it. It's telling me to do it and I do it, but then it's not letting.
+00:08:52 Speaker 1
+Me like big, Hey, hey. Boys in the back. It's one thing that you guys didn't bother to come up here and listen to these directions, But now you're back there having a loud conversation while she's trying to ask me a question.
+00:09:03 Speaker 2
+They are advanced is what they're doing it. So, maybe we should we should have them helping the others since they're already ahead of us.
+00:09:09 Speaker 1
+That's exactly what you guys should do, but in the meantime please be quiet so I can listen to the question. They earned it. Go ahead. I like. I didn't include that because it told me to do it and not do double. I know why. I used this. We'll help you.
+00:09:25 Speaker 2
+I know I have the answer. I'll tell everyone when you guys reset, if you don't reset again to confirm it won't reset, you have to click twice. Yeah. But it has to be at the time he's asking you to confirm. I'll go and check. Yeah we'll show that I've seen that no one.
+00:09:53 Speaker 2
+No, no timer for for the code blocks. No timer. You um you code. You do the coding blocks, you, you code it in the way that you think it works. If it doesn't work, you reset and you keep trying until you get entire code to work, and then, you know, And then you are going to have the twenty seconds in there, but I'm I'm gonna help I'm gonna help I'll be. I'll be checking it out. But there is no timing on jumping or.
+00:10:35 Speaker 1
+You mean talk about with Sphero? Oh, instead of instead of the code for this, instead of seconds rolling forward, you're just telling it how many units to move forward. Yeah. So, you change the value here to like, let's say, I want to move forward ten blocks. Yeah, I changed the value to ten and it's moving forward by ten units.
+00:10:54 Speaker 2
+Yeah, you have to count literally the blocks that you see. Yeah, and you do the same thing with the height.
+00:11:00 Speaker 1
+Three stop turn right. Yes, you got the idea. Okay? So look, I hit run and my robot starts running out. Okay? He starts moving, the glass breaks, I got twenty seconds to get out to this thing. Oh! I screwed it up. Okay? Alright, go get to work. Advance people come up here.
+00:11:25 Speaker 2
+I'm gonna wait here then. I have to do it later. Alright,
+00:11:29 Speaker 1
+Yeah. Lorenzo Here So what level are you guys on? Three? Three Yeah, they're ready Yeah You guys are on the polar bear rescue? I don't want toum Can you can you do was one of you mind plugging into here. So I can watch, because I've never seen anybody.
+00:12:19 Speaker 2
+I'm not.
+00:12:49 Speaker 2
+I know.
+00:13:20 Speaker 2
+Oh no, it destroyed forward. That's that's what we did right? Destroy forward. Then you destroy up and then move forward. Yeah, that's what it is.
+00:13:50 Speaker 2
+Okay.
+00:14:21 Speaker 2
+Oh, you're having the same problem? Yeah. He fixed this with me, and he made it worse. Oh, 'cause you need to go up. Hold on. You pull it out. All right. It takes and then destroy. Did you destroy? Yeah, you need to step up forward. You should go forward and then. And yeah, drink your water. Well, right now I would have said it first because you need to go forward.
+00:15:18 Speaker 2
+Okay. So the textbook forward. Now this toy forward is the first thing you want to.
+00:16:17 Speaker 2
+There you go. You did it. Alright. That's good.No, It's not supposed to move if you didn't have the command for it to move.You have to tell it again.If you don't tell it to move, it's not gonna do that.So right now.So right now you want it to go forward, right?So grab that forward and put it at the end.At the end. Yeah there you go.You do not want to destroy.But now you wanna destroy also, right?
+00:16:48 Speaker 2
+I know. No.
+00:17:46 Speaker 2
+Yeah, I'm already done with that. That level is so easy. I wonder if when you just yeah, you just circle and move forward and then you just start off. Yeah, and then you move forward. That that should take you on a loop. That that that alone will take on a loop. Yeah. That's what he did before. But he was still stuck at the end, I'm not sure why. So let's see what. Yours is gonna go. Alright. Oh!
+00:18:46 Speaker 2
+So why why were you stuck? He was trying to he he just left. He was able to get out. Yeah, I don't know why you got stuck. Let's let's do it again. Your code was right. So they text book forward, right? You wanna destroy forward. Yeah, Destroy forward, and then you wanna move forward, 'cause you're gonna have a space in there, alright? Right after Yeah, you destroy. And then you want to destroy up. Yeah, destroy up. Alright, and then you want to move forward. Because that's what you're doing. You're destroying to move forward, and then you move forward, and then you destroy up. And then. Exactly. So that should work. So play it.
+00:19:45 Speaker 2
+Okay. So, you should it should take you, it should take you where he was and then to get out. I'm not sure why you were not able to get out. What's the problem? Oh, so I can't like do this. I can't start it because You can't, sir? No, I can't like finish it here. But you have the code for the agent to go? Yeah, look. All right, so you need to reset the activity. Let's reset that table, alright? There you go, perfect. So you have the code in there. Oh, that's that's a problem. That's a problem over there, amigo. Okay, hold on. Alright so first um Do, you know how to code it. So it goes on every blue step? Yeah You do? Uh-huh That's what you did? Alright, but you need it in one code, like you cannot do pieces of it.
+00:20:45 Speaker 2
+Alright, so if you're moving forward three times here, for example, right? What's your forward? Oh, I didn't. Don't do anything. Three. Yep.
+00:21:01 Speaker 1
+So then I'm going to.
+00:21:06 Speaker 2
+Move forward three times here, and now give me two vibes and then turn left.
+00:21:16 Speaker 1
+You Know. Oh, you're just the leader. So YouTube didn't delete it. Alright.
+00:21:23 Speaker 2
+Oh, so let's see what we can do here. You say, you know, I just did that, and you'll see that it worked right? Usually if that happens when you when you complain about it then it works. You have any What are we seeing here? Any help with this? Let's see let's see your problem I didn't move forward I guess wait, Okay. Uh, so well, here's the turn here. All right. Yeah, that's good. You got it. Yeah.Didn't you do this before? I feel like you did this already.And what happened?
+00:22:12 Speaker 2
+Oh, but you guys saved in your world. Yeah, I know that's right. And still you didn't find it? Yeah, I need seven worlds so. Oh my god. Okay, so let's finish this quick because you can finish it quick. So left. Actually yeah, no go ahead. No just do three. Amelia! Where are you ladies at? Let me see the jump part? Oh my gosh. Can I see the world you're in? It's floating. Oh, this one? Yeah, you still can do it from there. Let's see your code. Let's see your code. Three, so I right and then. Which one of them? Upward. No, I just did that. I just went to three up. You did the code, where is the code? I got it to go up. I'm just gonna. You got it listed here.Okay, so here is the opposite of left.It's the same code that you had before.
+00:23:10 Speaker 2
+But is the other thing? Yeah, here you go. Why are you coding like this? I don't know. I just told them to go clockwise. This like the worst. This the wor- I'm trying to help you to because if you keep coding like this, when you get to the end, you're not gonna be able to do it in 20 seconds. I guarantee you. So the way you do it is like the way I was gonna show you, right? So you move first It's, just the only thing I could think of in that moment It's fine, don't worry Like if want wanna go O first That's actually a trick, If you go up first, then you just move forward four times, you're done. That's what I just did. Yeah, but you did minus one, which didn't get you to the goal. So also when you do it like this on start, It doesn't give you a an advantage when you are at the end because when you press start at the end.
+00:24:05 Speaker 2
+When you press, when you run when you AJ moves the clock starts immediately. And what and that's what happened when you put it on start. You got it? This is how you should be coding the way she's doing it because you need to, when you get to the end, you're gonna need this. Wait did he just go see? How to open the terminal. Like no, like C to open the code builder. The code builder? Oh yeah, I got it. Here you go forward. They go down and they go forward.
+00:25:06 Speaker 2
+And then we'll go down three times. Wait, so four up and then go down three times. You can go down. I just told it to go down. It doesn't listen to me. It doesn't like me. I think my agent. You put the order wrong. You told it to go down first, but it needed to go down at the end. You don't need that anymore. Oh yeah. I'm just gonna do it. You're gonna reset and do it? That's good. That's a good approach. You're gonna need to click play. I know. All right. Wait, no.
+00:26:03 Speaker 2
+Just try. You see, you're a pro at this. So stop cutting the way you were cutting before. You know how to go. She knows how to go. She's not lazy, she does way more things than anyone else in this class. Lazy is not bad, lazy actually makes you good. She does more. She does more after-school activities than anyone else combined. That's what I'm saying. That's the thing. That's why I think that's what people should do. Lazy doesn't mean like you don't do clubs. I don't do any. Like you do theater and you do dance. They're there. Does it go to the Golden Plate? Let's see why. I literally just finished my show on Sunday. Oh, you just finished it? Perfect timing.
+00:27:02 Speaker 2
+Oh, click on the play. Yeah.
+00:28:00 Speaker 2
+I get to be up. I'm sorry.
+00:31:30 Speaker 2
+You still know what I'm saying. Darn it. Darn it. You can get something.
+00:33:05 Speaker 2
+Guys.
+00:34:03 Speaker 2
+He turned right here.
+00:35:01 Speaker 1
+I don't understand. Yeah, I fixed it for him before. Let's fix it again. So the why I just don't get this wild view, but the directors up here, do tell them pretty much what to do. It's Oak Plank sixty four.
+00:35:17 Speaker 2
+I know what it is. Okay, uh, is he? Oh, I know this kid from World. Okay, where is him? Dan! Come here!
+00:35:32 Speaker 2
+Alright, let's see this. It says program the agent to build a bridge. So we're building a bridge, right? Set block or item. So you have the set block in here. Set block or item to ensure that the agent has the necessary materials in the inventory. Select the oak. You selected the oak, right? How do we know where is the oak? Oh! No, how do we. um. how does it say? Do you know how? Does it. Oh, with the mouse. There you go. Oh, plan. Okay. And then it says. N sixty four. But I want to look at the code at the same time.
+00:36:31 Speaker 2
+While I'm saying this, I'll put it in. While the agent does not detect logs down.
+00:37:01 Speaker 2
+This the this the key here right so. Another text book done okay. You got this one okay. Oh another textbook done. Did you figure this out on your own? That's actually coding. That's the wrong story. Uh, what happened? Agent to place the old plant down. Oh, you need place. Agent place. There you go. That was the problem. See why I like looking at it with you? Alright, so usually.
+00:37:58 Speaker 2
+Every time you're doing this, first get what you need and then work on what they're asking. Okay, so place the object down. So you want to place it down, right? And then move forward to create a bridge. Place down. Alright, you have it forward here. Okay, so create the bridge. Alright, so is there any reason why you had ten in there?
+00:38:29 Speaker 2
+What what's happening here. Agent's gonna be placing down. Agent's gonna be placing down. Agent's okay, so agent places the object down and move forward and move forward. See? So you need to move forward now. So agent will place down, we place the object down. Okay, I don't wanna see you getting up your seat again. What is this? This is not a dancing class. Come on!
+00:39:27 Speaker 2
+If I see you again, I'm gonna have you helping other people. So now you want to move over where? Now you got what you need. Now just move this in the while loop and technically it should work. Move this to here. Move this. Here. And move it in somewhere. There you go. You should be good now. I had it. Why are you doing that? It's just taking too many times to get it more close.
+00:40:32 Speaker 2
+Oh. Oh, you need to move forward first. That's why. Because there's nothing in there where you are right now. There is a block where you are, but when you move forward, you're on the air. Does that make sense? Yeah, go ahead. Right. What's happening here? Forward one two three four Right.
+00:41:57 Speaker 2
+I know you're behind on this project.
+00:42:01 Speaker 1
+I know you haven't been in here. That's why you should be working. Get your foil wrap going, John.
+00:42:09 Speaker 2
+I'm dying over here. Uh, you guys only got like three minutes left to finish this challenge. What's happening here? Wait! I don't think so! No! So what's happening here is that he just goes that way, right? He goes right and he doesn't want to do anything. Wait, why are we comparing? What was it like that show? The wardrobe.
+00:42:56 Speaker 2
+I don't know.
+00:43:55 Speaker 2
+He did that all by himself. Is that what you're doing? Can you bring it over there? Why is she taking one without anybody tossing it? What's happening here? That's one of the games. See? Maybe she can do this one too. Hey, go see what's happening here. It's still your turn to pick a card from the deck. Actually, it is. You can go. Sir. You went left. I don't know what you're talking about when you said biological like that? So why. Inject his blood into your body? Yeah.
+00:44:56 Speaker 2
+I'm sorry.
+00:46:59 Speaker 2
+Yeah, he does that sometimes. So, don't use the olive oil. I see some people using it and it works, but in this case it's not really working. Just go forward.
+00:48:00 Speaker 2
+That looks like a lot. It should turn in here. You're getting there just fine in here. Then it should turn left once, and then go forward three times, and then just slow it.
+00:48:31 Speaker 2
+You might want to do this in one. You can actually do this with one look only because if you notice, it's the same. You move forward so see one, two.
+00:49:01 Speaker 2
+It's not acting. It's not acting no more. I.
+00:50:00 Speaker 2
+Not at the end, but it worked. Before she went down, it worked. But then for some reason, he just started floating like floating off.
+00:50:09 Speaker 1
+She had pretty much already solved what she was trying to do by the time I got over there. She was just working on rewriting it and she got close. Um, I told that king kid to come back tomorrow or something because he's further than everybody else at like Oh, I helped him already. Yeah, but so his agent went across, but the the and I didn't watch it happen, so I don't know. But, he either didn't build a bridge for him to go across or the bridge he built went away. So like he it went away. So, he was just sitting there, and the agent was on the other side, and he was on this side. So oh, I see. So I figure, we'll have him come down with just him, and we'll like, you know, if we can't figure out what's going on looking at it, we can do some research and.
+00:50:59 Speaker 2
+It is very simple. Yeah, what he's doing is not even that complex. Most likely the um when he was supposed to um uh place the oak, so he's not placing it. That's what's happening. Okay, yeah, That's is, but it could also be a bug because I saw him placing it in the code, right? I explained it to him right? How, is it how it plays in the oh? So what level is it because I'll that's like the third level. Might be that one yeah because he looks like ice yeah. Yeah. So but he uh the only reason why I help him with the logic is because he already got these statements, right. He got this statements right.
+00:51:56 Speaker 2
+Like he's just getting confused with instructions. That's all. I feel like that's like the game. They're.
+00:52:04 Speaker 1
+All just they can't.
+00:52:06 Speaker 2
+They need more scaffolding, that's what's happening in that game. Which we can do that, We just have to go inside and change the instructions. So they are a little bit more clear. Because in his case for example, the most complex one which was like knock, you know, the knock command, And the end command and the while command, he had it in there. He had a correct, but he didn't have the order correct because he was missing place. And I gave him a trick. I said to him," Before you start coding, Get every tool, they're instructing you to use from the command.
+00:52:48 Speaker 1
+And drag it out." Drag it out.
+00:52:50 Speaker 2
+Yeah, and then you start coding.
+00:52:51 Speaker 1
+You were doing that the other day when we were. Mhm. I forget what we were doing.
+00:52:55 Speaker 2
+Remind me to show them that in here, because that's a strategy in coding. When you start coding and you know what you need, you need to make sure that you have those functions, those methods accessible so you know what they do and how they work. And then you code. Yeah. Because then your coding and you don't even know what the code is.
+00:53:16 Speaker 1
+Um yeah, That would be a good like This.
+00:53:19 Speaker 2
+Is the right level to do it now because almost everyone is at the second level. So.
+00:53:25 Speaker 1
+I feel like that lesson would be good for every single three to five class. Because even if they're working on Sphero or Minecraft or whatever coding they're doing.
+00:53:33 Speaker 2
+Oh, I see what you're saying.
+00:53:34 Speaker 1
+You can always do that. Yes,
+00:53:36 Speaker 2
+Yes, that's true. Yeah, yeah. I never thought about it because it has always been like a coding thing, but you're right. Um, That is a very good approach to doing things because uh, for example, when they build the highway right if they had to start. That they needed, they it would have worked. Yeah. What did they need? Forward. What did it need? Right. What did it need? Left. So if they had those blocks, it would have worked. Yeah But you're right, I wasn't thinking about it I was not thinking about it Oh my goodness.
+00:54:24 Speaker 2
+They're coming already.

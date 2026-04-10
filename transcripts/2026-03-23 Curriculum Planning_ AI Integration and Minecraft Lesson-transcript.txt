@@ -1,0 +1,320 @@
+00:00:24 Speaker 2
+Guys, keep it down. I'm trying to listen. For the fifth graders, that's like
+00:00:30 Speaker 1
+That's like what we did with that high school kid. Because I feel like even though we have a lot of instruction in our in our thing around AI, we don't have like practical application of the skills that they're using. We never have them do anything with it. Yeah, exactly. So and and the part part of the problem with that, And I don't think it will be a problem because you just have to go in and make custom chat bots at Magic School for them.
+00:00:56 Speaker 2
+That's what I was going to tell you.
+00:00:57 Speaker 1
+Yeahum but I thought it would be cool, For them to have a task to complete with, you know, I think all I've done with AI with them at this point is have them generate an image. And the image generator in Adobe through Max was kind of got as I like. So if we could find a way to build an activity like that, and then maybe while we're doing that, you can show me how we can build the documents around it in this LaTeX program. So yeah, I can understand a little more deeply.
+00:01:27 Speaker 2
+How you're developing things. Cause you can definitely do it. Yeah, you can definitely do it. It might just, it might just be yeah. Cause uh Xena he he showed us how to like um using magic school. And then um an AI to just talk for you. Yeah I'll I'll look into it the magic the magic school to.
+00:01:58 Speaker 2
+To do it similar to how he did it, where he set up a whole classroom workspace. That is definitely how we wanted to.
+00:02:09 Speaker 1
+So it'll probably be hard for you because you can't get into this. You don't have access to magic student.
+00:02:17 Speaker 2
+No right now, yeah, unless I sign up actually I do have access but from the U of R. Okay, yeah. Soum.
+00:02:28 Speaker 2
+So, um, if I go here to Magic Studio.
+00:02:34 Speaker 1
+And then go to Steam Tools, I can assign different tools to different rooms. Yeah. You will have to create it a tool, a special tool first for.
+00:02:45 Speaker 2
+The AI version. Yeah. Oh look at that custom chatbot where you see it? Drop.
+00:02:56 Speaker 1
+Oh, there it is right there. Yeah. So, you know, Maybe we can I'm assuming. This is like a Gemini gem where I can upload add files and documents for it to search. Right there. Yep Add a file. So, You know what I guess, what we have to do is kind of sit down. And think about You know what might an activity be that the kids would connect like I think those high school kids? Like, there was some things in there that they could really connect with and think was cool. You know, they got to choose there was choice there. So I want to be like somebody who's showing the devil. Hey, hey, Kalani honey. No. No. How much is that orange glue on the table? Oh, okay. Sean you weren't here last week.
+00:03:54 Speaker 1
+What's your birthday?
+00:04:00 Speaker 1
+January 26 th. What year? 2017.
+00:04:22 Speaker 1
+With the fifth graders into like an AI focus for the rest of the year. Um. And you know, maybe a good way to do that. There is an there is a a Minecraft AI lesson that we could do first. And then we could kind of move into a thing where they're doing some sort of like almost culminating project with AI. You know, yeah, it's like with AI, yeah. And and that's a good. That's a good assignment. And it could be like something where you know I I want it to be something where they can use AI. Though t partner, but the AI won't be able to do the whole job for them. It won't do it for them. Yeah, which that's probably why this would be a good idea because we can set limitations on what it can do and what I can't that is a perfect idea. Yeah, why is your computer not open? Like what are you doing? Whose computer is that?
+00:05:18 Speaker 4
+So look, let me show you what you're doing there.
+00:05:22 Speaker 1
+Hey, why are you guys out of your seats? So when you click here, If it's if nothing sometimes your email just comes up, but if not just click the first letter of your first name. Use your saved password. I feel like every time I do this, it's the password that has saved is the wrong one. Let's see. Yeah, see that's the wrong CS So many characters. What's your birthday? I'll update it. 2017? So, did you build a castle or a fort or something? Oh, you were saying you didn't want to do it last night. You were just building with other stuff. So what are you working on? Why don't you start working if you're going to do something different, your account's locked out somehow. I wonder if you're not 2017 on the website.
+00:06:19 Speaker 1
+It always happens to kids that can't sit still for five minutes.
+00:06:23 Speaker 4
+Can you what?
+00:06:27 Speaker 1
+Yeah, you don't have to ask. Um, Why don't you work on that coding thing that you started?
+00:06:33 Speaker 4
+And then it was on my computer. Do it on your computer now. You have access to Minecraft.
+00:06:47 Speaker 1
+I can't see. Listen, don't get frustrated if this doesn't go good, okay? This is fifth grade work I'm giving you. So I know that you've been coding for a really long time. Stop that!
+00:07:00 Speaker 2
+How many times, man?
+00:07:01 Speaker 1
+What's the matter with you, dude? A kid spent a lot of time. You want me to go tell Bryson and Mason that you were screwing up their stuff? Because they're not going to like it one bit. You are too mad!
+00:07:12 Speaker 5
+You're just trying to mess with my project! Um.
+00:07:26 Speaker 1
+I Like doing stuff like this with the kids like that are high flyers, like she's been doing this since last year. So I know she can do it, but then like I'm gonna have to come up with new stuff for her. She's already done all the stuff that fourth graders have done. Wow. I'm giving her fifth grade stuff now. Yeah. And then when she gets to fifth grade, she's gonna be like, I already did this, what do I do now? That is. You you touch keyboard is that? Okay? Uh, it'll let her do either one I don't know. I didn't realize I pressed that what should we do? You probably play on the screen, right?
+00:07:57 Speaker 4
+Yeah. I went through. I was going through my phone and then I found 20.
+00:08:06 Speaker 1
+Pictures of you on there from you picking up my phone when I'm not looking and taking selfies weeding through pictures of my daughter,
+00:08:14 Speaker 4
+And there's Kalani making faces. It's a top one. Oh, you don't want to go back down the hall. Hey! No! Yeah, go! Yeah, right here. So remember, you got to use your mouse for this part. I'm not playing with anything. No,
+00:08:29 Speaker 5
+I can't cheat though. No, that's your job. You have to get back there real quick or it'll be sad. Uh- oh Don't you do it? Stop! Sorry, he stepped on your foot or something like that because he was trying to get back there and I didn't see him coming up the door over there like that. So uh- oh.
+00:09:04 Speaker 4
+You Were probably just trying to listen to something. Real sergeant speaker yelling. And now you got nice old Mrs. Tan noise.
+00:10:12 Speaker 2
+Oh no, don't tap it. Use your touchpad. Just aim it. You need to aim it in the middle like that. See? So you need to do it like that, yeah?
+00:10:29 Speaker 3
+Got The wrong birth year over here. 2016.
+00:10:47 Speaker 3
+Oh, That's her last name.
+00:11:13 Speaker 3
+I met her too. Didn't she come in on the day when I met your mom? Yeah. How.
+00:11:21 Speaker 4
+Old is Kyla?
+00:11:25 Speaker 5
+She's eleven.
+00:11:41 Speaker 2
+You need help with something? Are you sure? Cause you're like bored. I'm gonna get.
+00:11:51 Speaker 5
+The guys so we can go. Okay. You're back from state.
+00:11:54 Speaker 4
+But you're locked out right now? So it's gonna be eight members when.
+00:12:02 Speaker 5
+We get there.
+00:12:09 Speaker 5
+She wanted me and my sister to follow her.
+00:12:48 Speaker 2
+So Here's an example. I'm telling it to add the block code to room one, room three, right? To this. And supposedly it did it with my nodes, but apparently.
+00:13:07 Speaker 2
+This what it is sometimes. I'm not presenting. I'm not presenting. I don't need this. This stupid. That's the problem with, U h AI sometimes just it went into here like I'm not even working with that I'm working with this,
+00:14:03 Speaker 2
+It's Literally on the nose.
+00:14:09 Speaker 5
+I'm not gonna go.
+00:14:53 Speaker 2
+Yeah, I was thinking that it was gonna. They it was gonna be day one and I'm like, oh, I'm, just gonna go through each one of the laptops. Take a picture and just put it in here, but something told me start with the block coding. You might have to do that.
+00:15:09 Speaker 2
+You got it to work. I'm.
+00:15:13 Speaker 1
+Kind of just screwing around with the fucking chatbot here. I'm trying to think of like something just to play with it,
+00:15:18 Speaker 2
+Like what I could ask. Oh, what aboutum, what about help them navigate a lesson? You know? On uh. Do you know your multiplication right?
+00:15:31 Speaker 3
+No. We're going to listen, thank you. Happy birthday Joe! Happy birthday! Yeahum.
+00:15:39 Speaker 2
+I was wondering if helping them navigate, a lesson would be like a Minecraft or any uh any lesson. We can start with an easy one. And then um get into one like Minecraft. We'll have to find the documents right that we have yeah.
+00:16:11 Speaker 5
+Yeah, We'll have to find in the case of Minecraft, right? We'll have to find the four more lessons which they have. So that's not difficult. Butum oh look yeah I don't know. So is that the can you zoom on that?
+00:16:27 Speaker 1
+What is uh oh yeah I can zoom. Is that like the code blocks that they need to defeat the.
+00:16:35 Speaker 2
+Based on their notes? That's the one I got so, It's okay. I don't need it perfect, but like if I had the correct. Like if I had the pictures right or the code that they did right, I could just see that and it would easily translate here for me. So. So this like student B, this student A. If you see how like it's showing this for example, like a student A got this. That was a the kind of like the issue. We try multiple times right? Um but in here right, this why we gave them like inefficiency.
+00:17:34 Speaker 2
+It's partial because it didn't follow all the blocks, like like the lesson wanted to. The lesson wants you to code entire all the blocks. So he's the one that cheated and just went right and went straight ahead. Exactly, yeah. This one didn't cheat, right? This one followed like all the blocks in there but it's not saying here, it's just saying uh Following every square, right? It's saying following every square, but it's giving me this because there's no node for that. So I'll have to update that quickly just a small twist. And then this one did not follow the instruction, so it went on command. And no, it went on start as opposed to on command. Um.
+00:18:31 Speaker 2
+He had extra code to do the same thing with some of them. Some of them, they.
+00:18:44 Speaker 2
+That's It. I mean, for what we're presenting, right? To make the case, this is making the case. So didn't have to be overly complicated. So did you say it's December 11 th, right?
+00:18:59 Speaker 1
+I got your answer.
+00:19:47 Speaker 5
+Hey, What is that?
+00:19:55 Speaker 2
+Can you fix it please? It's fine.
+00:19:57 Speaker 1
+I watched you accidentally kick it.
+00:19:59 Speaker 4
+No! You need help? What do what do you mean, do I think it might have broke?
+00:20:23 Speaker 5
+I'm not ever gonna do that. I'm so stupid. I was like, no! What are you doing? No! I almost got him. Did you use the disc? I'm gonna go the bus today. I'm gonna go the bus today. I'll show you this.
+00:21:21 Speaker 5
+Oh my gosh, this is. Oh.
+00:22:31 Speaker 1
+Can You guys grab a chair, squat up here without your computers?
+00:22:48 Speaker 5
+Let me help them. They're still.
+00:23:18 Speaker 5
+I'm not out. I'm sorry. You won't find them. My dog's right here. I tamed my dog. You like my map? Good thing you tamed them, 'cause if not, they would've killed my fox. No! Alright, you.
+00:24:07 Speaker 4
+Gotta ask where you go. No. No. Look.
+00:24:21 Speaker 1
+I want you guys to get started on this. And the next time you come in the next couple of times you come in, we'll do a little bit of.
+00:24:36 Speaker 5
+Why are you guys?
+00:24:37 Speaker 2
+Why are you guys talking sit down pay attention Mr. Romney is talking.
+00:24:48 Speaker 1
+The next time you guys come in, We're going to do the first 10 - 15 minutes of class will be showing your fortresses. And then I'll give you guys time to work on this lesson that I'm about to give you. So this is like it's a subsequent lesson to Home Suite Home. So when I gave you guys Minecraft last year, you worked on this Home Suite Home thing that was supposed earlier this year, you worked on this thing that was supposed to be. Something that helped you to be safer online. This is more information like this that you'll be learning while you're in Minecraft. So if you want to get to it, you're going to do, you're going to go to Google Classroom and then once your Google Classroom, if you go to your classwork tab showing something. So you go to ignite and then go into classwork and then I this should all be under Minecraft topic, but it's not so go Good Games.
+00:25:47 Speaker 1
+You already did this, hopefully. If you didn't, hopefully you can catch up on it. But good game is right here. Now watch what happens. This important. When you click on this, it's gonna. You're gonna get a pop-up. See that? It might go away if you just let it sit there, But you can always get it to come back by hitting Try Open Again. And all you gotta do is click open. This asking you. Do you want to open this in Minecraft for Education app? So if we click Open. The app will open up, and it'll bring you to the to the right level. If you have problems with this, open Minecraft in the background. So open it up and just leave it in the background open and then go back to it. And then we'll go. So see how this pops up right here? You hit create world and you're in the good game thing. Now, you guys are are piloting this lesson for me. I played for a few minutes the other day, but I've never had kids finish it.
+00:26:42 Speaker 1
+You might run into something that's hard. And if you do, Mr. Garcia and I might not automatically have the answer, so you're going to have to be patient. But what I will tell you is 99.9% of the time, the issues you have not being able to complete a lesson is because you didn't read something. So read what the NPCs say, follow the directions, and you should be good to go.
+00:27:08 Speaker 5
+Yeah, okay.
+00:27:15 Speaker 5
+Alright, go play. You.
+00:27:27 Speaker 1
+Beat that already? Dude, you've finished that in half the time it took most of my fifth graders. Do you want to do the second level or no? Do you see the sea turtles or no? Yeah, you do. So look, get out of here. Oh, do you want to see her code? Do you want me to share her code with you? Oh, sure. So let's see how she wrote it. You want me to send a screenshot?
+00:27:53 Speaker 5
+Yeah. Thank you.
+00:28:04 Speaker 3
+Bonnie, please stop yelling. Yes, yes,
+00:28:07 Speaker 1
+Yes I'm going to go back and check it out later on, Or honey, do you want to do the thing your classmates are doing? Or do you want to keep going out? It's totally up to you. I'm not gonna be. Who's that guy? There's a guy in your background.
+00:28:39 Speaker 5
+The 2018–19 season was the club's 43 rd in the top flight of English football and their 65 th overall.
+00:29:24 Speaker 1
+I Can't remember which one of you told me you were going to do that. Is your brother already working on that or not?
+00:29:39 Speaker 1
+Alright Well you do it then. Did you guys get in trouble or no? No, we have study hall right now. Yeah but I used to have your class okay?
+00:29:50 Speaker 5
+Oh no they're not. What? No why is he. No why is your course.
+00:30:19 Speaker 6
+So Now I'm going to go with this one, and then you just click number two. Um, This one is a little trickier. So come ask me when you get to the first slide. So if you have problems, cut up the tree trunk. The car gets cut up a tree trunk like this, so animals don't get hurt, So they can fly.
+00:30:35 Speaker 5
+You know what a tree is, right? The brown part.
+00:31:14 Speaker 1
+You Do have to do it. I don't know who's getting the idea that you don't have to, you got to do it.
+00:31:34 Speaker 5
+So, yeah. Did you choose touch or write? What's your. what was your response? I told you. I literally told you that. Yeah, yeah. Okay, but you up there. Can we just not build anything? Let's just. Please, we'll be like. Oh! No! Not again! Emilia!
+00:32:04 Speaker 5
+I want to get. Um.
+00:33:12 Speaker 4
+I think whoever did it.
+00:33:14 Speaker 1
+Has learned their lesson. You guys probably, right? Tom, whoever jumped up at him, they learned their lesson. They'll never do that again, right? Because the food we don't want to make the fifth graders Mad.
+00:33:33 Speaker 5
+You're lucky.
+00:34:06 Speaker 2
+Yeah, In case they are like, oh, can you show us? I'm like, okay, here it is. You look at it.
+00:34:32 Speaker 5
+Alright, this one. I'll go first. Alright, here. I have always seen a tree in the background. You know.
+00:35:08 Speaker 4
+About this?
+00:36:33 Speaker 2
+Take A screenshot and send it to me. I'll I'll use that.
+00:37:29 Speaker 5
+Oh. I can reply and say, "Well, I can't say that. So I can reply to this email."
+00:38:28 Speaker 5
+I don't know what that might look like. The film was shot in the United States and Canada.
+00:39:57 Speaker 4
+The name of the town is derived from the River.
+00:40:26 Speaker 5
+I think.
+00:40:40 Speaker 4
+About what you did when you got home.
+00:41:23 Speaker 4
+So Now You open up this thing.
+00:41:25 Speaker 1
+You're all nice.
+00:41:27 Speaker 5
+And then when you're done, put your name on the paper. I'm not gonna have to ask you again. You know what? I need help with this one.
+00:41:38 Speaker 1
+No, it's because you didn't read the directions. I just said," Read the directions." Okay? And want you to make an entry about what are the things you should do before you start playing games online or video games? There you go.
+00:41:50 Speaker 4
+So type in here and type" digital citizenship."
+00:41:57 Speaker 5
+I'm Not going to do it.
+00:42:24 Speaker 5
+I'm not going to go. Okay.
+00:43:23 Speaker 2
+Oh, he sent me that picture, right? Yeah.
+00:43:33 Speaker 5
+Line up.
+00:44:17 Speaker 5
+I Mean, I got to the park.
+00:44:20 Speaker 5
+I know we have the kitchen now. Yadi opened it.
+00:45:15 Speaker 1
+You stay, the rest of you got to go. Go! Go! Go! You can print anything you want from the computer right now.
+00:45:30 Speaker 5
+Go go go! Your name's not Amelia, you gotta go! We're having a story hour and we can get in on it right now. Good good. Is there gonna be more Minecraft? Yeah yeah yeah yeah yeah I'm gonna get Minecraft again. I know.
+00:46:19 Speaker 6
+Ca se is like singing happy birthday to her, and she had no idea that it was today. I was like so astonished. She's like, how did they know my name? I was like, I called them and told them it was your birthday as I sang. So she just loved it. You guys don't know Creature Cases? No, maybe if I watched on Netflix with uh K C this one right here.
+00:46:40 Speaker 5
+Or seen it right here Yeah.
+00:46:45 Speaker 6
+But, then we had like, you know,
+00:46:46 Speaker 5
+We had balloons cupcakes all that stuff.
+00:47:01 Speaker 6
+So What you got to do is you got to destroy it. And then you got to move forward. And then collect all. And now what you got to do.
+00:47:15 Speaker 1
+Lastly is just poke blue crowd as many times as.
+00:47:19 Speaker 5
+So like I don't know if you look here like what's this one? Two, three, four, five, maybe.
+00:48:18 Speaker 6
+There's some trash along the side. They destroy like to go into all this trash, and then actually a lot of trees. Turtles need to be able to, this is like a real problem for turtles, Like turtles need to be able to make this journey so that they can like survive these big journeys. So that's what you're going to do. You're going to go ahead and start kind of look at how I get.
+00:48:49 Speaker 6
+The city is located in the.
+00:49:00 Speaker 5
+Central part of the island.
+00:49:18 Speaker 5
+Thank you.
+00:49:47 Speaker 1
+Um, Eden, did you finish your thing? Build one. Yes. You put a definition on that last one, okay. Is that a better mental?
+00:49:54 Speaker 6
+I need to show that. Yes sir. Yes sir. Did theum.
+00:50:00 Speaker 5
+Music homework or are we going to do more after? So.
+00:50:06 Speaker 1
+I yelled at those kids pretty hard today, are you sure that they've helped out every day in the music part? I yelled at Cole and Connie for like five minutes, They were they broke. The other kids told me that they broke, like Joey told me that they broke the tank. I was kind of upset because I was so excited about H E D J yeah. And like the amusement park is cool, but like it's not there's not like really a lot of learning around it. You know, Yeah,
+00:50:36 Speaker 6
+More, just like cool.
+00:50:38 Speaker 5
+So yeah, I think H E D J one would be like, oh.
+00:50:45 Speaker 7
+More like learning involved in your work. Hi Mark, if you are in a club tonight after school, please stay in your classrooms until all students have been dismissed. Cowriters, you can head down to cafeteria. All cowriters to the cafeteria.
+00:51:11 Speaker 5
+Okay, just going to be quiet. Ready to start?
+00:51:22 Speaker 1
+Hey Real quick before you guys start this. Um tomorrow Mr. Fowler's so usually Mr. Fowler's class gets to come down to the office and play ball when I'm showing up on my meeting with Mr.
+00:51:34 Speaker 6
+Fowler's class, but tomorrow they're taking a math test, but not at the same time, are you?
+00:51:45 Speaker 6
+If your teacher lets you, If they're not finished with the math test by the time they come help you with that, will you guys do like my math cups and I'll come get you? Yeah.
+00:51:55 Speaker 1
+You basically come and you do an activity with those kids. So they'll come in and I'll it'll be like you're in Ignite. I'll give you like a class that I would probably give kindergarten or first grade class, And you guys do the activity, but have kids in wheelchair,
+00:52:10 Speaker 6
+Like watch how to do it because they can't really like move their hands themselves.
+00:52:42 Speaker 2
+Sounds Good. Yeah. You said to just print it from yours? To just to just print it from there.
+00:52:49 Speaker 1
+Okay, it should print out right at that printer behind.
+00:52:53 Speaker 2
+Oh, I see all right, yeah. And this is not color coded. Right? That's fine.
+00:53:07 Speaker 6
+You're on two of five I think.
+00:53:15 Speaker 5
+The film was shot in the United States and Canada.
+00:53:45 Speaker 5
+Okay.
+00:54:15 Speaker 5
+I can't have these.
+00:54:44 Speaker 5
+Grades three, four and five can now be dismissed. Grades three, four and five.
+00:55:44 Speaker 5
+I need to take this off. We don't have time anymore. There was four. There was three and then she told me to add another, add another square. Can you hurry up and do it? Okay, there's three without the camera. Get out of here! Get out! Get out!
+00:56:44 Speaker 7
+Grades K 1 and 2 can now be dismissed. Grades K 1 and 2.
+00:56:54 Speaker 5
+The 2016 population was 3,587.
+00:57:55 Speaker 5
+The film was shot in the city of Tbilisi.
+00:58:47 Speaker 7
+Teachers, Our students have been dismissed.
+00:58:54 Speaker 5
+I'm not sure what the problem is.
+00:59:25 Speaker 5
+The film was shot in the city of Kozhikode.
+01:00:28 Speaker 5
+So, what we're going to do in our lesson today is we're going to put it all together and learn a few new things. Hi baby. What are we gonna get,
+01:01:10 Speaker 7
+Baby? We did not have time to get the babies. Sorry, I've been moving out of your way.
+01:01:32 Speaker 5
+The film was shot in the city of Krasnodar.
+01:02:34 Speaker 7
+We Need one more. Now we're down to four. Yeah, Desmond and Andrew are not here today. Well, there's a lot of books in the basket right now. Oh yeah. Hopefully.
+01:02:49 Speaker 5
+We'll make it to Friday. Which means you know what? Who's going to have it during break? This person right here.
+01:03:05 Speaker 5
+The town is located in the central part of the county.

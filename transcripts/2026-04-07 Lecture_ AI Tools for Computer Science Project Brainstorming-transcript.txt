@@ -1,0 +1,176 @@
+00:00:01 Speaker 1
+Alright. Raise.
+00:00:20 Speaker 2
+Your hands, those are in Google Classroom. Those that already use Classroom? And you see a partner that is not there, help them. Alright? You got it?
+00:00:36 Speaker 1
+Your mom's already ate. So almost everyone is there. Hey, I want him to know I have a new one. We're searching up jobs because I want to be. I want to click on the slideshow. I can help you with this. What is a slideshow? It's not horse riding. There you go, that's it, that's what we're doing. You're older than my dad. Is it this? My dad's. What is a slideshow? Slideshow!
+00:01:48 Speaker 2
+So do you guys know what brainstorming means?
+00:02:01 Speaker 2
+There are three steps that we're going to follow. The first one is the idea that you guys are going to come up with. You're going to brainstorm with the AI. You're going to check your idea.
+00:02:26 Speaker 2
+And then you're gonna generate a guide. Here are the four things that we're going to focus on. One topic that you guys care about, so start thinking about a topic that you want your project to be about. One reason. You need to get a reason that says how your topic connects to computer science.
+00:02:58 Speaker 2
+That's what your AI assistant is there for to help you with that. I'm gonna help you with the prompts in here how to do that, right? The type of your project. And then you guys wanna generate a guide with the help of the AI, then you're gonna use it for lesson two. The guide is like instructions or steps that you're gonna follow to do your project. Does that make sense? You guys have any question? So what are the three steps? Exactly, the idea. Connected to computer science. Check. Exactly, you said a guide, right? Guide? And then generate a guide for your second lesson, which is the guide, should have steps, questions.
+00:03:58 Speaker 2
+Things that you're gonna follow. Right, So the rules that we're going to follow is do not provide your personal information to the AI. Does that make sense? Yeah, yeah. Right? So okay, so we're gonna use AI as a helper, right? It's not gonna be the boss. So you're gonna choose. AI is gonna give you ideas. When you have an idea, AI is gonna give you more ideas, right? It's gonna help you improve it but you choose. You don't let AI tell you what you want. Does that make sense? Wow. Um, also AI can be wrong, so make sure that what it's telling you makes sense, right? You can always always raise your hand and ask a question. And also um you need to choose what you're going to keep and what you're not going to keep from the AI because the AI might tell you add this or, you know, or remove this. It's up to you whether you want to add or remove it. Does that make sense? Yeah. Okay and then um now.
+00:04:57 Speaker 2
+We are going to see that you check your work against the AI to make sure that it's computer science related. We can see this through your work. So just raise your hand and we're going to go and see and make sure that you did. But make sure to use the AI to generate the guide and make sure that it is computer science related. We're going to show you the prompts to do that. There are two tools that you're going to be using. The idea generator. What do you think the idea generator is for?
+00:05:34 Speaker 1
+For him to have guidance to help you generate ideas.
+00:05:38 Speaker 2
+To help you generate ideas. Like we say brainstorm, right? So you're gonna start there, right? Get all the possible ideas that you can think of and then choose and then connect it to the interest in computer science, right? Now the AI assistant, what do you think you're gonna use AI assistant for?
+00:05:54 Speaker 1
+To help me get. To get ideas.
+00:05:59 Speaker 2
+Yes, to get more concrete ideas, right? Or what you already have. Yeah. Uh, so you can use it to have a more concrete idea, right? Check the check that is computer science related, right? That is connected to that. Also, you can use it to narrow your topic if you feel that it's too big, right? You can use it to narrow it. If you feel that it's too small, you can also use it to make a improve it. To improve it. And then build a guy, right? Or you know, multiple parts, whether it's three to five parts. So okay so now we're going to start working. This the workflow. This what we talk about, right? Pick pick an idea something of interest, right? Use the idea generator. Use the AI assistant and then record your guy. Are those four steps easy? Any questions? No questions? Alright so these are the examples here for the prompt card, right?
+00:06:55 Speaker 2
+If you have, Now that let's say you guys to sort of to work with the idea generator, you start to say okay my interest is. Raise your hands somebody that has an interest here that you guys like. Alright so, You cause you have Star Wars right? Star Wars. So you can say my interest is Star Wars right? Give me four computer science project ideas for grades four to five right? That they they uh it's gonna give you some ideas. You select the idea that you want. If you don't like it, you can, you know, rephrase it differently, right? But uh that's where you're gonna shoot your idea. And, then you can ask okay, help me turn my interest, which is say Star Wars right into a computer science project topic. Right? Now from there, you tell it give me four project topic ideas that connect to.
+00:07:48 Speaker 2
+Star Wars, right? Technology and computer science, right? And then this is how you're gonna start speaking your idea. Very simple, right? You're just gonna ask a couple of questions and see whatever it generates and choose what you think is best a best fit. Does that make sense? And after that, You move to the AI assistant to make sure that you know the topic that you chose. My topic is Is this really connected to computer science? Explain. We want to see that explain in there. So make sure you say explain. Alright, cause when I go to your table, You guys have to read that to me and say, why or read out loud to your, to the class why that topic is CS related. Does that make sense? And now, you know, the topic is help me make it smaller and clearer for your project. In the event that you find it too small or too big, you do that. To grow it or make it smaller, And my topic is give me high level guides for three to five part sections or questions. I could use. My project.
+00:08:47 Speaker 2
+This is your guide for next lesson. Alright? So we ready to play? Yes! Alright. Do we have like five minutes to show them as demo or. Alright, So we're gonna do a demo. So you guys see how you're supposed to use it, right? And then you can guys start working on your own ideas.
+00:09:10 Speaker 3
+Um. alright. You guys don't need your computers for this, so why don't you all bring your chairs up so you can. Yeah, we're gonna have a quick game. So yeah,
+00:09:19 Speaker 1
+Bring your chairs up and gather around the heart. The.
+00:09:35 Speaker 3
+Tab to the right here is uh is next to it. Okay.
+00:10:02 Speaker 2
+So it seems like we're ready. The taxi will arrive in eight minutes to take us to the airport.
+00:10:21 Speaker 2
+I just it will say if he's right there. If you already got there, it'll tell you. In nine minutes, that's more than enough. We should be over with this so let's use this. I have an excuse here. Let's see as small samples.
+00:10:51 Speaker 2
+So ID generator. You have a keyboard in there, Mister Rami? Perfect. Let's type my interest is animals, right? And then the prompt is.
+00:11:19 Speaker 2
+You can just copy and paste the prompts from there. You have exactly what I have. There you go. Just go over there. It's much better.
+00:11:36 Speaker 3
+So I copy this and I come over here and paste it? And also.
+00:11:41 Speaker 2
+Just do a Ctrl+ Shift and then. Ctrl+ Shift and then V- V as. Oh.
+00:11:49 Speaker 2
+Right click and then take copy. We can do it from the document also. There you go. Let's put animals in there.
+00:12:12 Speaker 3
+Don't forget, guys, either don't get bogged down with spelling. You can always hit this. If you want animal. Then it should help you to feel talk.
+00:12:25 Speaker 1
+Animals. What kind of food do you like? Chicken. I like it. Chicken! I like it!
+00:12:36 Speaker 2
+There you go. Animals period. This is a period. Let's see what he does, let's see what he gives us.
+00:12:51 Speaker 2
+So look at that. It has how many ideas?
+00:12:59 Speaker 3
+And now again, I don't want you guys to get bogged down if you're struggling to read this large amount of text. You can use this right here and it'll read it to you.
+00:13:08 Speaker 2
+Let's read it out loud.
+00:13:10 Speaker 4
+Animal themed computer science project ideas. Idea one: Create a pet care algorithm flowchart that shows all the steps needed to take care of your favorite animal. Include decision points like, 'Is the food bowl empty?' and 'Does the pet need exercise?' Use different shapes for actions, feed pet, give water, and yes no questions. This teaches you how computers make decisions. Idea two: Design a digital animal habitat where you plan what a computer program would need to create a virtual zoo or pet game.
+00:13:41 Speaker 4
+Draw your animals home and list all the code commands needed, like animal dot eat, animal dot sleep, and animal dot play. Think about what happens when the animal gets hungry or tired. Idea three : Make an animal classification database on paper where you organize different animals using computer style sorting. Create categories like has fur no fur, lives on land in water, and eats plants eats meat. Use binary thinking. Yes, no answers to sort ten to fifteen animals into a tree diagram, just like how computers organize information. Idea four : build a wildlife tracker simulation where you pretend to be a computer program that follows animals. Create a grid map of a forest or ocean, Then plan how a computer would track an animal's movement using coordinates like A three B five C two. Write step by step instructions for how the computer would record where the animal goes each day. These projects can.
+00:14:40 Speaker 4
+Combine your love of animals with cool computer science concepts.
+00:14:44 Speaker 3
+I wonder though, just if you read all those and they were all too complicated. Are you guys serious right now? What am I doing in a kindergarten class?
+00:14:54 Speaker 2
+Oh. Give them an example how to make them easier, make it easier.
+00:14:59 Speaker 3
+You can re-prompt to have it give you different ideas or put the ideas in kid-friendly language or whatever you need from us.
+00:15:09 Speaker 2
+Yeah, see guys, if this is too complex for you guys, I find number one to be actually decent. But we're gonna give an example. They'll give an example how you can rephrase it uh to make it, make it simpler, right and use. Uh uh, use what is that easier words? Yeah, give me simple ideas and in kid friendly language.
+00:15:38 Speaker 2
+There you go. Right off the bat, you can tell these are a lot easier. So if we read it out loud here.
+00:15:59 Speaker 4
+Super fun animal computer projects idea one: Make a feed my pet game plan on paper. Draw pictures showing what happens when you click buttons, like give food or pet the dog. Usearrows to show what happens next. It's like making a map for a computer game about taking care of animals. Idea two, create an animal sorting machine using yes or no questions. Start with, does it have fur? If yes, go one way.
+00:16:18 Speaker 2
+If no,
+00:16:19 Speaker 4
+Go another way. Keep asking simple questions until you can guess, any animal your friends are thinking of. This is how computers think. Idea three, design a robot animal helper that could help real animals. Draw your robot and write simple commands, it needs to know like fill water bowl and open gate. Think about what the robot's job would be at a zoo or animal shelter. Idea four, Make a secret animal code where each animal gets its own, special number or symbol. Write messages to friends using only your animal codes instead of letters. For example, maybe a cat equals A and a dog equals B. This shows how computers turn everything into codes. All of these projects are easy to do with just paper, pencils and your imagination.
+00:16:56 Speaker 2
+Which one do you guys choose? One two three or four? One, One right, Eliza. Alright. So let's choose number one. So, um and then what is the other prompt? The second prompt? There you go. So let's turn it into a project topic. So we chose number one, right? Yeah, just just copy it and then replace the bar for number one.
+00:17:33 Speaker 2
+You can use "Feed My Pet" or number one. So you guys can choose the idea, right? You can choose the idea number one or you can, you know, the name that it has "Feed My Pet". Also if the idea has if there are things that you want to combine, you can ask it to combine it. You understand? Like if you like idea one and two, you can ask it combine idea one and two. Does that make sense? Yeah. There you go. So, now we are turning we're turning into a topic for our project for your project. So here. There you go. We said. Help me turn my interests in idea one to computer project. There you go, So, the project the project topic is design a pet care game, see? Alright, so we can go to step number three.
+00:18:31 Speaker 2
+And then, that's it. That's the last one. Yeah, so, I feel like this is more for brainstorming, right So here, if you guys. Don't like this in here, right? And you wanna you want, you can make changes, so you can you can brainstorm here. That's this what what it is for. But if you find that this topic is not reflecting yours, you can ask it to give you more topics with that with that idea. Alright, should we show them to get more more topics with that idea? With that command. So give me four for uh for yeah for this one. Yeah. So you don't have to choose the first one that it gives you.
+00:19:24 Speaker 2
+Alright, so you turned that into a project idea, right? You don't have to choose the first one. You can ask it to give you more options. There you go.
+00:19:54 Speaker 3
+So now you can see this uh has an app design one smart pet feeder app design virtual pet hospital system, pet adoption matching programs, animal shelter management game.
+00:20:07 Speaker 2
+So there's all these different ideas.
+00:20:10 Speaker 3
+That are around the.
+00:20:11 Speaker 2
+Same idea generator.
+00:20:14 Speaker 3
+So the idea guysum is that you're going to be using AI to try to flush out this idea for a computer based. A computer science based project on whatever interest that you have here. Okay, And then you're going to use AI to flesh that idea out and come up with a plan for this project. You don't have to finish the project today. You don't even have to start the project today. We're really just looking to see that you can brainstorm your idea, and then once you're done, Um using that, uh you'll go through magic school right here when you click this link.
+00:20:52 Speaker 3
+You'll click magic school, and then once this comes up, don't hit don't hit sign in down here. Hit your name. Yeah, it says Derek Romig at three seater or whatever your name is, and then you'll get right into here. And then the last thing after you're done with that, You just have to fill out this exit ticket that's going to make sure that you understood all the things that you had to do.
+00:21:14 Speaker 2
+Yeah, So the same way that we did those prompts because I think we're not going to have time. Yeah. Um You can do it for the AI prompts, To evaluate your work and make sure that it's computer science related. So, I think we yeah, they can start now. You guys have any questions with the prompt? Alright so you can go back to your chairs. Do you guys have any questions? Just raise your hand and we're gonna grab it here. We'll go in and help you out.
+00:22:50 Speaker 1
+Yeah.
+00:23:34 Speaker 2
+Alright, So you guys only have uh ten minutes. You can work in pairs if you want, but make sure that your project is your own, okay? Does that does that okay? You can work in pairs if you want. In groups.
+00:23:52 Speaker 1
+You have each one has to have your own project idea.
+00:24:50 Speaker 1
+I'm going to go. Yeah.
+00:27:50 Speaker 1
+It doesn't.
+00:28:13 Speaker 2
+You got into the tool. Go to your chair so I can help you.
+00:28:16 Speaker 1
+So I can help you there. I didn't know it was a scratch. It is peanut. Oh, I'm getting rocks. Just keep putting it back in the box. Alright,
+00:28:27 Speaker 2
+So the tool is here and the prompt You have to go here for the uh.
+00:28:33 Speaker 1
+Yo! Yo! Get this tool! This one right here? Are you getting it? Yeah, yeah, yeah. You have the prompt in here And I thought you got more. It's called Game Plan from Here to There Says your interest is like. What are you doing?
+00:28:50 Speaker 2
+So I'm gonna show you so you can show her.
+00:28:56 Speaker 1
+Have one foot on the side.
+00:29:47 Speaker 2
+Already set up your project area, and you have to see the prompts with the AI? Use those prompts to validate your work. Just go back.
+00:29:58 Speaker 1
+Look what I have. I'll show you. I'll show it to you. I just deleted the prompt again! Do that! We're gonna hear some.
+00:30:47 Speaker 2
+That's a very simple task. You guys can finish in the next, like you guys have only five minutes. You only have a minute.
+00:30:55 Speaker 1
+I lost my popcorn. Are you gonna start it?
+00:31:16 Speaker 1
+I did not.
+00:32:17 Speaker 1
+Wait, sorry. I'm so like how I lost them. Did you guys see that? I think they are. Come on, get out of here. They are. Oh my gosh, you're gonna get it. They want to go to the other side of the pool. Come here! You're gonna get it! You're gonna get it! Yes! Yes!
+00:35:44 Speaker 1
+It's your turn.
+00:37:43 Speaker 1
+It's gonna stink up the whole room and everybody's gonna suffocate. It's gonna stink up the whole room and everybody's gonna suffocate. Mr. Roman, I'm warning you before you pass this thing around here. You need to get perfume. The whole room is going to smell like those things. Perfume is going to help it? It's better than suffocating in here right now.
+00:38:43 Speaker 1
+I can't do it. I can't do it.
+00:39:43 Speaker 1
+What is this? Are you guys serious?
+00:39:49 Speaker 2
+Seriously, what is this? That's ridiculous. Sit down over there. Hey! Sit down please. It's not a joke, man.
+00:40:09 Speaker 2
+You guys have to line up right now because you guys were so disorganized. Only two groups were able to finish. They did their work. You guys were just playing around. I'm not saying you as in only you. In general, most of you. This is unacceptable behavior. There's no reward. There's no way I'm going to give any rewards to this class. You guys have to learn it.
+00:40:39 Speaker 2
+Anyways, how many of you were able to at least get through the first prompts? Right, so did you guys get to select a project and idea? Yes. How, many of you were able to get through the prompts for the AI assistant? A few of you. Do you guys have a plan, a guide with steps? You do. Okay, so there are, There are about two or three students. That means you guys didn't get to finish that. I mean, I would have, I know there are steps that we could have made it easier for you guys. But like, You're not giving me the room to think about how to make it easier for you because some of you are running around jumping like how can I help you? I cannot help you like that. So I know that if I had the prompt there for you guys to copy and paste, it would have been easier right?
+00:41:36 Speaker 2
+So, those are things that I can think of. And like do it immediately, if you guys at least allow us to like process it, but. It can't work like that next time. If you guys want a reward, you need to earn it so. At least you can do is work on what was assigned and keep it and keep it down. But as you guys can line up, thank you. You might.
+00:42:03 Speaker 1
+Be the only one that did that good job.
+00:42:25 Speaker 1
+They have an idea.
+00:42:26 Speaker 2
+They just didn't get to the exit.
+00:43:04 Speaker 1
+Noah. Noah. They're gonna rock.
+00:43:15 Speaker 3
+You were terrible the whole class, which should be a good choice on the very end. You were right along with them causing trouble the whole class. That was that was like insane.
+00:43:27 Speaker 2
+I don't remember them being this difficult. Yeah,
+00:43:31 Speaker 3
+Uh that's one of the better behaved classes, So, yeah, I was surprised. I was shocked. Um, And maybe they were just having an off day or maybe it could have had something to do with us too. Like no, they did pretty well in the beginning.
+00:43:49 Speaker 2
+Yeah, right? They listened. They came forward. If you take this to Noah and fourth grade and then Barrett and Clint.
+00:44:03 Speaker 2
+I think that it was maybe too loose for them. That could be.

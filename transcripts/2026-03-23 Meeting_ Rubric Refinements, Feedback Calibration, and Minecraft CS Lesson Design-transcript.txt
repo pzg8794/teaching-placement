@@ -1,0 +1,152 @@
+00:00:13 Speaker 1
+One of the areas to grow to.
+00:00:18 Speaker 2
+I think for the first paper, all of your comments seem to be compliments. For students who are doing everything great, you don't want to scare them with negative feedback. But one thing you could do is if there's an idea they could expand on more, just say I really wish you said more about this. You were on such a great track, would love to hear more of what you have to say is a good way to tell students.
+00:00:44 Speaker 1
+That they are doing great, but like of course you can always improve. Mine was kind of similar. Um, also trying to like thinking about both of your questions. Um, I wondered, if like uh like going above and beyond section of the rubric could be added like above an A, but like you're still getting an A, But like I see that you're putting in this extra effort and I want to say that to you. And also like for students who are still getting an A.
+00:01:15 Speaker 1
+Even though you're getting paid, there are still places where you can grow.
+00:01:20 Speaker 3
+I personally would have loved to see them pushing a little bit more towards their viewpoints, even from a personal perspective, not emotional. Kind of like practicing what they're preaching. Don't let emotion take over the rationality of the argument, but you still make your point and you still make it passionate. Which is like one of the first sentences that goes in one of the essays. Where they're passionate about is I think it was a pretty good example. But that's also the engaging aspect of the question that we were asking there in terms of their rubric.
+00:02:05 Speaker 3
+One way I would do it is to make a reviser on work. I would kind of like give them a practice before the lesson itself. They have a little bit of insight of what they're getting into and they're like, I made that wrong. Maybe another essay, shorter or correct, another essays and exercises like that. Or maybe because that would be a group assignment, let's read each other's essay. It's a way of going over your work differently, because now you have feedback that you go over.
+00:02:51 Speaker 2
+On the second student example, there's like three questions that you wrote that are all really close to each other. And I feel like if I got this feedback, I would get kind of like freaked out on, like what to actually do. If you have a question aboutum, Like what's meant by diverse here, that seems like an easy feedback to like respond to, just add a couple of sentences about that. But the should entertainment even be political? Can it ever be apolitical? Seems like two separate essays. So I would not know how to respond to that suggestion. Like maybe um try to like reduce the number of those questions. But like for someone like student one, they could probably get multiple questions for like how to expand their thoughts.
+00:03:35 Speaker 2
+Um, but like if they're always condensed,
+00:03:38 Speaker 1
+There's not really no way to approach. Okay. Um, Want to send you guys first and then.
+00:03:57 Speaker 2
+Come up with one or two action steps? Yeah.
+00:04:01 Speaker 1
+Um, so uh.
+00:04:03 Speaker 2
+I appreciated hearing about students citing each other and their ability to engage with the nuance of these topics. That's definitely a goal that we have.
+00:04:13 Speaker 1
+It seems like they are kind of developing that when they do research and ideas. I definitely appreciate insights about the rubric and about the format, quantity of feedback. I kind of like I think I'm still refining my mental heuristics for how to do that feedback.
+00:04:35 Speaker 2
+I Think I asked a lot of those questions thinking like, oh, I, a student who eventually wanted to teach this would've loved to hear, you know, Half a page of groan comments about random questions or the purpose of Disney movies. But I think it is really important.
+00:04:49 Speaker 1
+And helpful to hear like yeah, it's possible and useful to leverage that kind of right. To do that in a more tailored and thoughtful way. Soum I think going ahead, I really like the idea of having it like.
+00:05:01 Speaker 2
+Extras section with the rubric. I'm curious what my SPC will think of that.
+00:05:07 Speaker 1
+And how students, We definitely have students who I think would be motivated to try to like land in that, you know, stratosphere. So that could be a fun exploration. And I think I will go over these and similar things. I've left a bunch of comments on and see if I can make a couple or three practicum focused takeaways out of the dense few things that I had.
+00:05:36 Speaker 1
+Thank you.
+00:06:24 Speaker 3
+I hope it's not expensive.
+00:06:40 Speaker 1
+And we'll go through the time code and then we'll have questions.
+00:08:50 Speaker 1
+I'm not sure what you mean.
+00:12:00 Speaker 1
+So like how much of theum,
+00:12:17 Speaker 2
+How much freedom do you have in your classroom? It sounds like this was something that was already written, this Minecraft thing. How much did you actually change about it?
+00:12:27 Speaker 3
+How much did we change about the lesson?
+00:12:30 Speaker 2
+Is this supposed to follow a script for this, or is it something you have some freedom in?
+00:12:35 Speaker 3
+That's that's a good question. You do have a lot of freedom in there. Um because they give you the literally the computer science fundamentals in there with the lesson. Uh they have the lesson and better everything. You have the freedom to go inside and make changes to, Each one of the challenges, I guess you can say, yeah. And you can add scaffolding to the already instructions they have in their providing. So, and that could be within the class. In this case, it's for computer science. In this case, You know, they have an agent in there, but right before the agent there is somebody on the front desk that can give even more information. So, uh, you can put information in there, so they engage with, you know characters, and they learn to.
+00:13:21 Speaker 3
+You know, scaffold even further, right? Things that they don't know. Or even with the agent itself, right? You can embed it in there so that they have as much instruction as needed per sections or lessons. Yeah. So it could be any level sections or lessons you can change the instructions. That's one of the cool stuff that.
+00:13:49 Speaker 1
+It has for like any subject.
+00:13:58 Speaker 1
+But it's hard to make them read it sometimes.
+00:14:03 Speaker 1
+I just have two. Is a lesson family, are these the different teachers that teach fourth grade?
+00:14:11 Speaker 3
+Those are different teachers, but that is for one class.
+00:14:16 Speaker 2
+Yeah. And then I know in the I guess, in the last level, they have to like be walking around. And then there are like programmable characters walking around. So they're like playing the game. And then. Character they program is executing whatever they told it to do.
+00:14:28 Speaker 3
+Yes, exactly. Yeah, kind of. Yeah, They're playing the game that gets plates, and then they have to code, and then they continue playing the game. So it's kind of like you want to have fun, you want to have code this to go to the next level, right? So, they're still playing the game by. They go here and there destroy things, destroy wallum and then after that, they get a challenge and they can go to the next level. The beautiful thing about this which is not in here is that each level, It's starting to make you code more. So now you don't destroy stuff on your own, now you have to code an agent to destroy it for you. So it's a little bit exciting and engaging. This is actually my first time doing it through Minecraft, which is pretty cool. Yeah.
+00:15:24 Speaker 1
+I'm not sure what you mean.
+00:17:39 Speaker 1
+The first is the most important.
+00:18:30 Speaker 1
+The first thing to do is to find out what the problem is.
+00:21:31 Speaker 1
+I'm not sure.
+00:22:16 Speaker 1
+I'm not sure what you mean.
+00:22:57 Speaker 1
+Honestly, a lot of this went like over my head. But it looked like from like seeing what they did that they like that they all understood like what each different thing is. Like the move up versus the move down, and so other things. I get the impression they understood that like those were the stakes and what they did. I don't know if I understand it, but they seemed to. I really appreciated how clear the degree of student effort was. It seemed like the students were like really bought into the stakes of moving Minecraft guy around.
+00:23:56 Speaker 1
+And I think that the design of the rubrics supported some iteration from the students. And I think that's like a really powerful thing when you're working on something is, you know, I don't know a ton about programming, but I know like if you fix one bug and 99 more bugs appear. Knowing that students are going to be confronting this process that requires them to improve on and like evaluate their own work, I think that was a strength here as well.
+00:24:37 Speaker 1
+I think the pre- scheduler said that it's helpful to see. It's clear that the student was really grappling with the task in each instance, and I really appreciate that your feedback was encouraging.
+00:24:49 Speaker 2
+So you first texted," The student kept trying multiple times. Each time they got stuck."
+00:24:56 Speaker 2
+Each room, they needed support,
+00:24:58 Speaker 1
+But they kept going. I like to hear you frame that first because it can be challenging to not get something that others are getting.
+00:25:29 Speaker 1
+One of the things to ask for was like.
+00:25:32 Speaker 2
+Feedback on like the rubric itself. And I would recommend just like writing out what gets partial points, Just so that you know what you're looking at if there's like all the teachers that you're like visiting their classrooms, that they can see like what's actually going on. Um and I'd also try to be like deliberate with your word choice for the rubric. Like understood that both the student and the agent had to reach, Like what does understanding mean? What does it look like? What does like recognizing look like for like that pattern.
+00:26:05 Speaker 1
+Recognition part? Yeah, that might be a discipline thing. Area. I noted in the examples in the efficiency category. A lot of those examples seem pretty similar to me and I wonder. How would I see the efficiency or not of a speed like this? Um, I think there's like something that's maybe worth thinking about or exploring just as like a conversation starter. Because of that emphasis on like iteration and the ability to kind of explore. I was left wondering, like, and I got curious about sample C. It seemed that the student got partial credit mostly for rubric three, partially because that their work required help from you.
+00:26:57 Speaker 1
+And and for them to revise. And I was wondering like what it communicates when like a student, gets less credit or work that can be done to support. You know what I mean? Something that stood out to me with sample C in the feedback section, and I think that was also one of your questions. Um, this line of like, Next time, focus on using the correct command blocks first. I was confused about that because like, I think.
+00:27:34 Speaker 2
+It's that wasn't like which one was the correct. One wasn't in the instructions and like telling me to use the correct one without.
+00:27:41 Speaker 1
+Telling me what the correct one is would frustrate in, like revising my work. So make clear what" correct" means. Yeah. Okay.
+00:28:15 Speaker 3
+Yes. Um, so for the warm student success feedback, um, the student understoodum the needs and the target. Um and they clear they also they clear rubrics and the rubric design. Um would provided theum, I believe it was the goal uh to improve their own work and encourage encouraging phrase. Uh phrase phrases for students who are struggling also is a good approach to keep them engaged and encourage them to continue the work um they call our areas to growth um is to write out. Uh what.
+00:29:07 Speaker 3
+Getting partial points means so that teachers that look at the rubric know what's going on. Try to be more deliberate with the words in the rubric, such as what does recognizing look like and how would you see deficiency in, I'm not sure if it's in the rubrics or I believe it's in rubrics and what communicates uh when a student gets credits for it and so work for work and so forth. And lastly, make clear what correct means in the rubrics. I believe, right? Um, what I get from this is.
+00:30:05 Speaker 3
+To continue with, um, the approach to have a lean, clear, Um and uh, this rubrics design that allows them to continue improving on their work. While um at the same time are providing a little bit more of specificity in some of the wording, like um uh recognizing and recognition as well as. The efficiency, part of it with I. Think adding a little bit more of context might help also, because in the beginning, they all got an introduction of the game before that kind of like UBD style, where like one student was chosen, and they would go through all the steps and they would solve it. But the focus was on the instructions.
+00:31:03 Speaker 3
+So that's something that I left out because I didn't want to make it too bulky, But I think that would add a little bit more context in there in a sense. But using that kind of approach and better in here, I guess, and making more reflective in the rubrics would be more.
+00:31:20 Speaker 1
+Efficient, I think. Did I leave something out? Yeah.
+00:31:33 Speaker 1
+Thank you.
+00:31:37 Speaker 3
+Yeah, That part of the Rubik's was a little bit. My first time was a little bit complicated. I didn't know where to start, So I started with their own Rubik's, and it's it was too much. And like no, this is I'm not doing great in these kids.
+00:32:02 Speaker 1
+Okay. Quick announcement. Give them time for that. No class next week, So take some time to work on your field experience, guide and I posted.
+00:32:22 Speaker 2
+An assignment for our CQs. We had to do a makeup for snow day, so instead of adding an extra class, I thought.
+00:32:32 Speaker 1
+So yeah, you'll have a chance. We haven't done one for a while too, so that will be a good opportunity to kind of connect on that.
+00:32:40 Speaker 2
+Um, I sent out on Friday that portfolioum Kristen Love portfolio, uh get together and I'll go. Yeah yeah. So make sure you're going to join in on that. Uh and then did anyone go to the Fridayumum.
+00:33:11 Speaker 3
+It Was good. I'm making me feel bad. Oh my god, I can't force myself.
+00:33:32 Speaker 1
+Districts that signed up at least. So,
+00:33:36 Speaker 3
+I'm assuming they have more. Oh, I'm assuming we'll have more coming in. More of those pairs. We're having more of those hiring events.
+00:33:49 Speaker 2
+Uh, if anything comes my way, I will certainly send it out because that yeah, that was the biggest one for you know,
+00:33:55 Speaker 1
+Uh Gary about here.
+00:34:30 Speaker 1
+Everything going okay? You've been shaken, right? Ah, it could be. Maybe a little sad when this person has. Oh, okay. The other one was great too. Yeah, this one's been pretty. Yeah, so. Okay. Um, did you reach out to your building principal or your AP? I'm talking to the AP to serve. Oh good! Excellent! Yeah yeah Hopefully you're mandated.
+00:35:00 Speaker 1
+Yeah, great. Yes. My plan is to put in like in the margins of all my slides and not mention it. And people are like, why do you have Shrek on your slides? Like I don't know what you're talking about. And then eventually you can. Since there's less than aggressive stuff. I think I got to just do that randomly. Yeah.
+00:36:04 Speaker 1
+I'm not sure what you're asking.
+00:37:21 Speaker 1
+I had.
+00:37:22 Speaker 2
+Reviewed the lesson plan the day before. We chatted about it. Everything was good, and they flew down the stairs to me and they said," We've changed the whole thing." I taught it in first period. It did not go well. Changed the whole thing in the ten minutes between first and second.
+00:37:44 Speaker 1
+Yeah, I mean, I made adjustments every day. And then like first period it took like, let's say a total of fifteen minutes to complete one thing. Chopped it down to four minutes and I was like, okay, progress. Of course in your first class they'll always kind of be. And,
+00:38:00 Speaker 2
+You'll always feel bad for them because by the last class of the day, you get have to tap. Yeah.
+00:38:07 Speaker 1
+That last class of the day I'm sick of it. I'm like yeah you guys can do it if you want. The best part is when you forget what you already taught, because you taught it so many times.
+00:39:03 Speaker 3
+Thank You. Thank you for the printing.
+00:39:10 Speaker 1
+Thanks. See you.
