@@ -29,6 +29,7 @@
 ## 🧠 Lesson / Unit Snapshots
 
 - [ED452B Minecraft Unit Snapshot](</Users/pitergarcia/DataScience/Semester5/Semester3(UofR)/ED452B/Assignments/Minecraft_Innovative_Unit_Plan_2026-03-18/ED452B_Minecraft_Unit_Snapshot_2026-03-18.md>)
+- [EDF436 Minecraft Classroom Challenge Booklet](</Users/pitergarcia/DataScience/Semester5/Semester3(UofR)/EDF436/Snapshots/Artifact_Sharing/Minecraft_CF_Classroom_Challenge_Booklet_2026-03-21.md>)
 
 ## 🧾 Supporting Placement Snapshot
 
