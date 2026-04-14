@@ -19,3 +19,6 @@ transcripts/non-lesson-context/*
 *.nav
 *.snm
 *.vrb
+
+# Local scratch / generated outputs
+tmp/
