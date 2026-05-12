@@ -12,4 +12,6 @@
 - [Letter of Expectations task file](./letter-of-expectations-spring-2026-task.md)
 - [Student Teaching Internship action items and key information](./student-teaching-internship-action-items-and-key-information.md)
 - [Action items](./action-items.md)
+- [CPAST three-way conference prep packet (LaTeX)](./cpast-three-way-conference-prep.tex)
+- [CPAST three-way conference prep packet (PDF)](./cpast-three-way-conference-prep.pdf)
 - [Lesson plan reference bank drive note](./lesson-plan-reference-bank-drive.md)
