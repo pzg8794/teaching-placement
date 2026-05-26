@@ -16,3 +16,7 @@
 - [260311-kindergarten-justinger-cordables](260311-kindergarten-justinger-cordables.md) | [txt](260311-kindergarten-justinger-cordables.txt)
 - [260317-kindergarten-justinger-robot-safety](260317-kindergarten-justinger-robot-safety.md) | [txt](260317-kindergarten-justinger-robot-safety.txt)
 - [260318-kindergarten-justinger-coloring-robotics](260318-kindergarten-justinger-coloring-robotics.md) | [txt](260318-kindergarten-justinger-coloring-robotics.txt)
+
+## 🗃️ Raw Source Files Pending Clean Markdown
+
+- [260407-kindergarten-justinger-circuit-demo-playdoh-airplane-prep.txt](260407-kindergarten-justinger-circuit-demo-playdoh-airplane-prep.txt)

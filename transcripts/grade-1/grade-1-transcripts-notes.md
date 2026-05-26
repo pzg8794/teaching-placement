@@ -14,3 +14,7 @@
 - [260211-grade-1-gargana-word-wall](260211-grade-1-gargana-word-wall.md) | [txt](260211-grade-1-gargana-word-wall.txt)
 - [260212-grade-1-gargana-lego-wall](260212-grade-1-gargana-lego-wall.md) | [txt](260212-grade-1-gargana-lego-wall.txt)
 - [260309-grade-1-gargana-directional-loops](260309-grade-1-gargana-directional-loops.md) | [txt](260309-grade-1-gargana-directional-loops.txt)
+
+## 🗃️ Raw Source Files Pending Clean Markdown
+
+- [260428-grade-1-gargana-collaborative-building-activity.txt](260428-grade-1-gargana-collaborative-building-activity.txt)

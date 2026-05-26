@@ -25,3 +25,15 @@
 - [260317-grade-4-baris-agent-puzzles](260317-grade-4-baris-agent-puzzles.md) | [txt](260317-grade-4-baris-agent-puzzles.txt)
 - [260317-grade-4-baris-block-one](260317-grade-4-baris-block-one.md) | [txt](260317-grade-4-baris-block-one.txt)
 - [260318-grade-4-baris-turtle-rescue](260318-grade-4-baris-turtle-rescue.md) | [txt](260318-grade-4-baris-turtle-rescue.txt)
+
+## 🗃️ Raw Source Files Pending Clean Markdown
+
+- [260324-grade-4-baris-kid-friendly-coding-puzzles-bookmarking-ai-plans.txt](260324-grade-4-baris-kid-friendly-coding-puzzles-bookmarking-ai-plans.txt)
+- [260324-grade-4-baris-minecraft-coding-fundamentals.txt](260324-grade-4-baris-minecraft-coding-fundamentals.txt)
+- [260406-grade-4-baris-minecraft-assignments-classroom-organization.txt](260406-grade-4-baris-minecraft-assignments-classroom-organization.txt)
+- [260410-grade-4-baris-google-classroom-minecraft-forces-workflow.txt](260410-grade-4-baris-google-classroom-minecraft-forces-workflow.txt)
+- [260414-grade-4-baris-codeorg-minecraft-coding-test-video.txt](260414-grade-4-baris-codeorg-minecraft-coding-test-video.txt)
+- [260414-grade-4-fowler-test-prep-video-project-special-education-models.txt](260414-grade-4-fowler-test-prep-video-project-special-education-models.txt)
+- [260420-grade-4-baris-google-classroom-minecraft-curriculum-workflow.txt](260420-grade-4-baris-google-classroom-minecraft-curriculum-workflow.txt)
+- [260423-grade-4-baris-minecraft-progress-classroom-management.txt](260423-grade-4-baris-minecraft-progress-classroom-management.txt)
+- [260430-grade-4-baris-minecraft-assignment-collaborative-learning.txt](260430-grade-4-baris-minecraft-assignment-collaborative-learning.txt)

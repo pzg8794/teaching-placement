@@ -20,3 +20,9 @@
 - [260302-grade-2-callon-robot-guidance](260302-grade-2-callon-robot-guidance.md) | [txt](260302-grade-2-callon-robot-guidance.txt)
 - [260305-grade-2-callon-book-recommendations](260305-grade-2-callon-book-recommendations.md) | [txt](260305-grade-2-callon-book-recommendations.txt)
 - [260305-grade-2-callon-indi-book](260305-grade-2-callon-indi-book.md) | [txt](260305-grade-2-callon-indi-book.txt)
+
+## 🗃️ Raw Source Files Pending Clean Markdown
+
+- [260414-grade-2-callon-codeorg-minecraft-voyage-aquatic.txt](260414-grade-2-callon-codeorg-minecraft-voyage-aquatic.txt)
+- [260414-grade-2-callon-guided-build-boat-iceberg-bathtub.txt](260414-grade-2-callon-guided-build-boat-iceberg-bathtub.txt)
+- [260508-grade-2-callon-sphero-edu-setup-aiming-driving.txt](260508-grade-2-callon-sphero-edu-setup-aiming-driving.txt)

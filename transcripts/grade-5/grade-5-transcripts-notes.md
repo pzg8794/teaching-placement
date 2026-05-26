@@ -15,3 +15,12 @@
 - [260304-grade-5-pickett-tinkercad](260304-grade-5-pickett-tinkercad.md) | [txt](260304-grade-5-pickett-tinkercad.txt)
 - [260310-grade-5-pickett-arch-challenge](260310-grade-5-pickett-arch-challenge.md) | [txt](260310-grade-5-pickett-arch-challenge.txt)
 - [260313-grade-5-pickett-sphero-events-and-minecraft](260313-grade-5-pickett-sphero-events-and-minecraft.md) | [txt](260313-grade-5-pickett-sphero-events-and-minecraft.txt)
+
+## 🗃️ Raw Source Files Pending Clean Markdown
+
+- [260325-grade-5-pickett-tinkercad-classroom-support-and-advising.txt](260325-grade-5-pickett-tinkercad-classroom-support-and-advising.txt)
+- [260326-grade-5-pickett-airplane-building-competition.txt](260326-grade-5-pickett-airplane-building-competition.txt)
+- [260326-grade-5-pickett-coding-workshops-model-airplanes.txt](260326-grade-5-pickett-coding-workshops-model-airplanes.txt)
+- [260326-grade-5-pickett-model-airplanes-fan-circuits.txt](260326-grade-5-pickett-model-airplanes-fan-circuits.txt)
+- [260508-grade-5-pickett-ai-business-project-logistics.txt](260508-grade-5-pickett-ai-business-project-logistics.txt)
+- [260508-grade-5-pickett-javascript-functions-parameters.txt](260508-grade-5-pickett-javascript-functions-parameters.txt)

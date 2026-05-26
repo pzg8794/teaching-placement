@@ -2,9 +2,9 @@
 
 **Color Code:** ⚪ Transcripts
 
-> **📌 What This Is:** Clean transcript index for lesson, class, and teaching material only.
+> **📌 What This Is:** Organized transcript index for lesson, class, raw source files, and teaching material.
 > **🧭 Start Here When:** You want classroom-useful transcript material, or you need to jump into the non-lesson context notes without confusing them with class transcripts.
-> **👀 Best Use:** Open the transcript-derived lesson notes first, then use the fuller Markdown transcript only when you need the source conversation.
+> **👀 Best Use:** Open the grade hub first. Use `.md` files for cleaned transcript notes and `.txt` / audio files when you need the raw source.
 
 ---
 
@@ -24,6 +24,12 @@
 - [🔵 Grade 3](./grade-3/grade-3-transcripts-notes.md)
 - [🟣 Grade 4](./grade-4/grade-4-transcripts-notes.md)
 - [🔴 Grade 5](./grade-5/grade-5-transcripts-notes.md)
+
+## 🗂️ Raw Source Organization
+
+- Raw lesson and meeting transcripts are organized inside the grade folder or `non-lesson-context`.
+- Root-level transcript dumps should not stay here; they should be moved into the correct folder with `260000-grade-teacher-short-topic` style names when a grade is inferable.
+- Cross-grade planning, observation, coaching, personal/context, or logistics transcripts belong in [non-lesson context](non-lesson-context/context-notes.md).
 
 ## 🎓 Teaching / Lesson Transcript Sources
 
