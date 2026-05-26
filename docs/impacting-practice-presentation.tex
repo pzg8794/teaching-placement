@@ -1,0 +1,320 @@
+\documentclass[aspectratio=169,11pt]{beamer}
+
+\usetheme{Madrid}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{footline}[frame number]
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{tikz}
+\usetikzlibrary{positioning,calc}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{ragged2e}
+
+\definecolor{Ink}{HTML}{1D2433}
+\definecolor{Teal}{HTML}{1F6F78}
+\definecolor{Gold}{HTML}{F2B134}
+\definecolor{Sky}{HTML}{EAF6F6}
+\definecolor{Mint}{HTML}{E7F3EC}
+\definecolor{Rose}{HTML}{FCE9E9}
+\definecolor{Sand}{HTML}{F8F4EC}
+
+\setbeamercolor{palette primary}{bg=Ink,fg=white}
+\setbeamercolor{palette secondary}{bg=Teal,fg=white}
+\setbeamercolor{palette tertiary}{bg=Gold,fg=Ink}
+\setbeamercolor{structure}{fg=Teal}
+\setbeamercolor{frametitle}{bg=Sand,fg=Ink}
+\setbeamercolor{block title}{bg=Teal,fg=white}
+\setbeamercolor{block body}{bg=Sky,fg=Ink}
+\setbeamercolor{alerted text}{fg=Gold}
+
+\setbeamertemplate{itemize item}{\color{Gold}$\blacktriangleright$}
+\setbeamertemplate{itemize subitem}{\color{Teal}$\circ$}
+
+\newcommand{\claimbox}[1]{
+  \begin{block}{Big idea}
+  \Large #1
+  \end{block}
+}
+
+\newcommand{\routinecard}[3]{
+  \begin{tikzpicture}
+    \node[
+      draw=Teal,
+      rounded corners=5pt,
+      fill=#1,
+      text width=0.28\linewidth,
+      minimum height=2.6cm,
+      inner sep=8pt,
+      align=left
+    ]{
+      \textbf{\large #2}\par
+      \vspace{0.15cm}
+      #3
+    };
+  \end{tikzpicture}
+}
+
+\title{Impacting Practice}
+\subtitle{From Access to Agency in K--5 Computer Science}
+\author{Piter Garcia}
+\institute{EDU 442 \\ Teaching Placement at Pine Brook IGNITE}
+\date{Spring 2026}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+  \vspace{0.15cm}
+  {\small Built from lesson planning, placement reflection, and classroom patterns across kindergarten through grade 5.}
+\end{frame}
+
+\begin{frame}{Why this project?}
+\claimbox{My placement kept showing me that engagement is not the same thing as access.}
+
+\begin{columns}[T]
+  \column{0.48\textwidth}
+  \begin{block}{What I saw}
+  \begin{itemize}
+    \item Students were excited by robots, coding, Minecraft, LEGO, circuits, and design tools.
+    \item Many lessons were hands-on, creative, and full of energy.
+    \item Some students still got stuck before they could show what they knew.
+  \end{itemize}
+  \end{block}
+
+  \column{0.48\textwidth}
+  \begin{block}{What kept getting in the way}
+  \begin{itemize}
+    \item Hidden steps in directions
+    \item Too much to hold in working memory
+    \item Unclear help routines
+    \item Adults becoming the only path forward
+  \end{itemize}
+  \end{block}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Placement context}
+\begin{itemize}
+  \item My teaching placement was at Pine Brook IGNITE across K--5 computer science and technology-rich lessons.
+  \item The workspace documents show recurring lesson families: coding, robotics, digital design, Book Creator, Canva, Google Slides, Minecraft, and STEM challenges.
+  \item The lesson packets repeatedly emphasize visual supports, chunked steps, flexible entry points, and clear proof of learning.
+  \item Non-lesson reflection notes also highlight two important tensions:
+  \begin{itemize}
+    \item balancing support with independence
+    \item treating care, regulation, and SEL as part of instruction
+  \end{itemize}
+\end{itemize}
+
+\vspace{0.2cm}
+\begin{alertblock}{Core takeaway}
+Inclusive teaching is not just about adding support. It is about designing a path that students can actually enter, stay in, and own.
+\end{alertblock}
+\end{frame}
+
+\begin{frame}{The artifact}
+\begin{block}{My Impacting Practice artifact}
+\Large The Access-to-Agency Routine
+\end{block}
+
+\vspace{0.2cm}
+\begin{itemize}
+  \item A short planning and facilitation routine for K--5 CS and digital learning lessons
+  \item Designed to be ADHD-friendly, inclusion-minded, and realistic for busy classroom teaching
+  \item Built from the repeated needs I saw in placement rather than from one single lesson
+  \item Goal: reduce unnecessary dependence on adult rescue and increase student agency
+\end{itemize}
+\end{frame}
+
+\begin{frame}{What the routine solves}
+\begin{columns}[T]
+  \column{0.49\textwidth}
+  \begin{block}{Before}
+  \begin{itemize}
+    \item Students ask for help before trying
+    \item ``I am done'' often means ``I am stuck''
+    \item Strong ideas disappear under setup friction
+    \item The teacher becomes the bottleneck
+  \end{itemize}
+  \end{block}
+
+  \column{0.49\textwidth}
+  \begin{block}{After}
+  \begin{itemize}
+    \item Students know the first move
+    \item Students can re-enter the task after confusion
+    \item Help becomes structured instead of chaotic
+    \item Success is visible and explainable
+  \end{itemize}
+  \end{block}
+\end{columns}
+\end{frame}
+
+\begin{frame}{The routine in five moves}
+\centering
+\routinecard{Mint}{1. See}{Model the task and name one visible goal.}
+\hspace{0.02\linewidth}
+\routinecard{Sky}{2. Start}{Give only the first one or two moves.}
+\hspace{0.02\linewidth}
+\routinecard{Mint}{3. Try}{Students work with a visible help path.}
+
+\vspace{0.25cm}
+\routinecard{Sky}{4. Check}{Pause once to reset before confusion spreads.}
+\hspace{0.02\linewidth}
+\routinecard{Rose}{5. Show}{Students explain, save, test, or share proof.}
+\end{frame}
+
+\begin{frame}{Why this is ADHD-friendly}
+\begin{columns}[T]
+  \column{0.48\textwidth}
+  \begin{block}{It lowers cognitive load}
+  \begin{itemize}
+    \item One goal at a time
+    \item Fewer hidden steps
+    \item Repeated lesson structure
+    \item Visual anchors students can re-find
+  \end{itemize}
+  \end{block}
+
+  \column{0.48\textwidth}
+  \begin{block}{It protects momentum}
+  \begin{itemize}
+    \item Short chunks of attention
+    \item Quick resets instead of long derailments
+    \item Movement and hands-on learning with purpose
+    \item Structured choice without overload
+  \end{itemize}
+  \end{block}
+\end{columns}
+
+\vspace{0.2cm}
+\claimbox{The goal is not perfect focus. The goal is a lesson structure students can come back to.}
+\end{frame}
+
+\begin{frame}{What I learned from placement materials}
+\small
+\begin{tabularx}{\textwidth}{>{\RaggedRight\arraybackslash}p{0.31\textwidth} >{\RaggedRight\arraybackslash}X}
+\toprule
+\textbf{Repeated pattern} & \textbf{What it taught me} \\
+\midrule
+Visual supports and pictures & Access improves when directions are concrete, not only verbal. \\
+Chunked tasks and short signals & Students need structure that matches real attention patterns. \\
+Choice boards and flexible responses & Entry points matter; students do not all need the same doorway into learning. \\
+Debug and reset moments & Productive struggle needs a map, not just encouragement. \\
+Proof of learning prompts & Students need to know what counts as success before frustration takes over. \\
+\bottomrule
+\end{tabularx}
+\end{frame}
+
+\begin{frame}{Examples from my placement}
+\begin{itemize}
+  \item In Grade 1 lesson packets, the supports repeatedly stress simple language, lots of pictures, short chunks, quiet breaks, and visible checklists.
+  \item In Grade 4 audience notes, the recurring need is clear setup routines, visible success criteria, and prompts that support debugging without rescue.
+  \item Across multiple lesson packets, one revision move appears again and again: make the next step, help routine, and success condition more visible.
+  \item Across the non-lesson context notes, care and regulation are treated as real parts of readiness, not side issues.
+\end{itemize}
+
+\vspace{0.15cm}
+\begin{alertblock}{My synthesis}
+The access problem was not a lack of student ability. It was often a mismatch between task demands and the supports built into the lesson structure.
+\end{alertblock}
+\end{frame}
+
+\begin{frame}{How EDU 442 shaped this project}
+\begin{itemize}
+  \item \textbf{Identity-conscious teaching:} students need pathways into learning that do not require them to mask who they are.
+  \item \textbf{Culturally sustaining pedagogy:} language, collaboration, creativity, and student ways of making meaning are resources, not distractions.
+  \item \textbf{Disability and neurodivergence lenses:} access needs should not be misread as laziness, defiance, or inability.
+  \item \textbf{Joy and refusal:} engagement matters, but joy is strongest when students have some power, not just compliance.
+  \item \textbf{Structural thinking:} when many students get stuck, the first question should be about lesson design, not about student deficits.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{What this looks like in practice}
+\begin{columns}[T]
+  \column{0.5\textwidth}
+  \begin{block}{Teacher planning moves}
+  \begin{itemize}
+    \item Write one student-friendly goal
+    \item Identify the first two steps
+    \item Build one visible help routine
+    \item Plan one midpoint reset
+    \item Decide what proof students will show
+  \end{itemize}
+  \end{block}
+
+  \column{0.46\textwidth}
+  \begin{block}{Student-facing experience}
+  \begin{itemize}
+    \item I know what I am doing
+    \item I know how to begin
+    \item I know what to try if I get stuck
+    \item I know what success looks like
+    \item I can show what I learned
+  \end{itemize}
+  \end{block}
+\end{columns}
+\end{frame}
+
+\begin{frame}{A sample classroom translation}
+\begin{block}{Example: robotics, coding, or digital creation lesson}
+\begin{enumerate}
+  \item Show a model and name the goal in plain language.
+  \item Put the first two moves on the screen.
+  \item Give students a visible help path: partner, checklist, anchor image, then teacher.
+  \item Pause once to debug as a whole group before frustration becomes shutdown.
+  \item End with one proof move: save, test, explain, screenshot, or demonstrate.
+  \end{enumerate}
+\end{block}
+
+\vspace{0.15cm}
+This routine works across lesson types because it is not tied to one app or one grade. It is a structure for access.
+\end{frame}
+
+\begin{frame}{What changed in my thinking}
+\begin{columns}[T]
+  \column{0.48\textwidth}
+  \begin{block}{At first}
+  \begin{itemize}
+    \item I often thought more support meant better support.
+    \item I focused on making lessons engaging and creative.
+    \item I noticed breakdowns but did not always have a framework for them.
+  \end{itemize}
+  \end{block}
+
+  \column{0.48\textwidth}
+  \begin{block}{Now}
+  \begin{itemize}
+    \item I think more about access, entry points, and independence.
+    \item I design for re-entry, not just for attention.
+    \item I see lesson structure itself as an equity practice.
+  \end{itemize}
+  \end{block}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Limits and next steps}
+\begin{itemize}
+  \item This project is a practical routine, not a full solution to institutional inequity.
+  \item It does not remove the need for staffing, planning time, family partnership, or teacher voice.
+  \item It works best when paired with classroom knowledge, flexibility, and relational care.
+  \item My next step would be to pilot the routine across multiple lessons and collect student work, teacher notes, and reflection data on independence and participation.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Closing}
+\claimbox{My impacting practice claim is simple: when access is built into the structure of a lesson, students are more likely to stay in the work, make choices, and show agency.}
+
+\vspace{0.2cm}
+\begin{itemize}
+  \item This project grows directly out of my teaching placement.
+  \item It translates EDU 442 ideas into a usable classroom tool.
+  \item It helps me teach in a way that is more inclusive, more humane, and more realistic.
+\end{itemize}
+\end{frame}
+
+\end{document}

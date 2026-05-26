@@ -1,0 +1,330 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Business Model AI Prompt Cards - Click to Copy</title>
+    <style>
+      :root {
+        --accent1: #2563eb;
+        --accent2: #dbeafe;
+        --accent3: #f59e0b;
+        --accent4: #1e3a8a;
+        --accent5: #10b981;
+        --paper: #f8fbff;
+        --ink: #1f2937;
+      }
+
+      body {
+        margin: 0;
+        font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+        background: linear-gradient(180deg, var(--paper), #ffffff);
+        color: var(--ink);
+      }
+
+      .wrap {
+        max-width: 920px;
+        margin: 0 auto;
+        padding: 24px 16px 56px;
+      }
+
+      h1 {
+        font-size: 24px;
+        margin: 0;
+      }
+
+      .sub {
+        margin: 8px 0 0;
+        color: #374151;
+      }
+
+      .group-title {
+        margin: 22px 0 10px;
+        font-size: 18px;
+        font-weight: 800;
+        color: var(--accent4);
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 12px;
+      }
+
+      .card {
+        width: 100%;
+        text-align: left;
+        border: 1px solid rgba(37, 99, 235, 0.32);
+        background: #ffffff;
+        border-radius: 14px;
+        padding: 14px;
+        cursor: pointer;
+        box-shadow: 0 1px 0 rgba(0, 0, 0, 0.03);
+      }
+
+      .card:focus-visible {
+        outline: 3px solid rgba(245, 158, 11, 0.55);
+        outline-offset: 2px;
+      }
+
+      .chip {
+        display: inline-block;
+        font-size: 12px;
+        font-weight: 800;
+        color: var(--accent4);
+        background: var(--accent2);
+        border: 1px solid rgba(37, 99, 235, 0.45);
+        padding: 4px 8px;
+        border-radius: 999px;
+        margin-bottom: 8px;
+      }
+
+      .tool {
+        display: inline-block;
+        margin-left: 8px;
+        font-size: 12px;
+        color: #475569;
+        font-weight: 700;
+      }
+
+      .prompt {
+        font-size: 16px;
+        line-height: 1.4;
+        margin: 0;
+        white-space: pre-wrap;
+      }
+
+      .toast {
+        position: fixed;
+        left: 50%;
+        bottom: 18px;
+        transform: translateX(-50%);
+        background: rgba(30, 58, 138, 0.96);
+        color: white;
+        padding: 10px 14px;
+        border-radius: 999px;
+        font-weight: 800;
+        font-size: 14px;
+        opacity: 0;
+        transition: opacity 180ms ease;
+        pointer-events: none;
+      }
+
+      .toast.show {
+        opacity: 1;
+      }
+
+      .hint {
+        margin-top: 16px;
+        color: #4b5563;
+        font-size: 13px;
+      }
+
+      .highlight {
+        border-color: rgba(245, 158, 11, 0.9);
+        box-shadow: 0 0 0 3px rgba(245, 158, 11, 0.22);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <header>
+        <h1>Business Model AI Prompt Cards</h1>
+        <p class="sub">Click or tap any card to copy the full prompt.</p>
+      </header>
+
+      <div class="group">
+        <div class="group-title">Lesson 1 - Idea Generator</div>
+        <div class="grid" id="idea-generator"></div>
+      </div>
+
+      <div class="group">
+        <div class="group-title">Lesson 2 - AI Assistant</div>
+        <div class="grid" id="ai-assistant"></div>
+      </div>
+
+      <div class="group">
+        <div class="group-title">Support Prompts</div>
+        <div class="grid" id="support"></div>
+      </div>
+
+      <p class="hint">If copying does not happen automatically, tap the same card again. Some browsers require a direct tap.</p>
+    </div>
+
+    <div class="toast" id="toast" aria-live="polite"></div>
+
+    <script>
+      const PROMPTS = {
+        bmig1: {
+          group: "idea-generator",
+          tool: "Idea Generator",
+          text: "My interests are ____ and ____. Ask me 3 questions, then give me 4 CS-connected business ideas.",
+        },
+        bmig2: {
+          group: "idea-generator",
+          tool: "Idea Generator",
+          text: "I care about ____. What business could I create that uses computer science to help people?",
+        },
+        bmig3: {
+          group: "idea-generator",
+          tool: "Idea Generator",
+          text: "I want to help ____. Give me 4 business ideas that use technology, data, apps, games, or automation.",
+        },
+        bmig4: {
+          group: "support",
+          tool: "Idea Generator",
+          text: "My possible idea is ____. Is it a business model and is it connected to computer science? If not, help me fix it.",
+        },
+        bmaa1: {
+          group: "ai-assistant",
+          tool: "AI Assistant",
+          text: "My business idea is ____. Help me make a 5-slide pitch deck plan.",
+        },
+        bmaa2: {
+          group: "ai-assistant",
+          tool: "AI Assistant",
+          text: "My customer is ____ and the problem is ____. Help me explain the problem clearly.",
+        },
+        bmaa3: {
+          group: "ai-assistant",
+          tool: "AI Assistant",
+          text: "My solution uses computer science because ____. Help me explain that in Grade 5 words.",
+        },
+        bmaa4: {
+          group: "ai-assistant",
+          tool: "AI Assistant",
+          text: "Here is my slide draft: ____. What is missing from my business model?",
+        },
+        bmaa5: {
+          group: "ai-assistant",
+          tool: "AI Assistant",
+          text: "Help me write a 30-second pitch. Keep it clear and student-friendly.",
+        },
+        bmaa6: {
+          group: "ai-assistant",
+          tool: "AI Assistant",
+          text: "Check my business idea for privacy, safety, fairness, and accessibility.",
+        },
+        bms1: {
+          group: "support",
+          tool: "AI Assistant",
+          text:
+            "I am stuck. My business idea is ____. Ask me 3 short questions, then tell me the next small step I should take.",
+        },
+        bms2: {
+          group: "support",
+          tool: "AI Assistant",
+          text:
+            "My idea feels too big: ____. Help me make it smaller so I can present it in 5 slides.",
+        },
+        bms3: {
+          group: "support",
+          tool: "AI Assistant",
+          text:
+            "My business idea is ____. Give me 3 ways to make it easier for different users to understand or use.",
+        },
+      };
+
+      const toastEl = document.getElementById("toast");
+
+      function showToast(message) {
+        toastEl.textContent = message;
+        toastEl.classList.add("show");
+        window.clearTimeout(showToast._t);
+        showToast._t = window.setTimeout(() => toastEl.classList.remove("show"), 1200);
+      }
+
+      async function copyToClipboard(text) {
+        if (navigator.clipboard && typeof navigator.clipboard.writeText === "function") {
+          try {
+            await navigator.clipboard.writeText(text);
+            return true;
+          } catch {
+            // Fall through to fallback.
+          }
+        }
+
+        const ta = document.createElement("textarea");
+        ta.value = text;
+        ta.setAttribute("readonly", "");
+        ta.style.position = "fixed";
+        ta.style.left = "-9999px";
+        ta.style.top = "0";
+        document.body.appendChild(ta);
+        ta.focus();
+        ta.select();
+
+        let ok = false;
+        try {
+          ok = document.execCommand("copy");
+        } catch {
+          ok = false;
+        }
+
+        document.body.removeChild(ta);
+        return ok;
+      }
+
+      function renderPromptCard(id, prompt) {
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = "card";
+        btn.id = `card-${id}`;
+        btn.dataset.promptId = id;
+        btn.setAttribute("aria-label", `Copy prompt: ${prompt.text}`);
+
+        const chip = document.createElement("span");
+        chip.className = "chip";
+        chip.textContent = "Click to copy";
+
+        const tool = document.createElement("span");
+        tool.className = "tool";
+        tool.textContent = prompt.tool;
+
+        const p = document.createElement("p");
+        p.className = "prompt";
+        p.textContent = prompt.text;
+
+        btn.appendChild(chip);
+        btn.appendChild(tool);
+        btn.appendChild(p);
+
+        btn.addEventListener("click", async () => {
+          const ok = await copyToClipboard(prompt.text);
+          showToast(ok ? "Copied!" : "Copy failed - tap again");
+        });
+
+        return btn;
+      }
+
+      function mountCards() {
+        for (const [id, prompt] of Object.entries(PROMPTS)) {
+          const container = document.getElementById(prompt.group);
+          if (!container) continue;
+          container.appendChild(renderPromptCard(id, prompt));
+        }
+      }
+
+      function focusLinkedCard() {
+        const id = (window.location.hash || "").replace(/^#/, "").trim();
+        if (!id || !PROMPTS[id]) return;
+
+        const el = document.getElementById(`card-${id}`);
+        if (!el) return;
+        el.classList.add("highlight");
+        el.scrollIntoView({ block: "center" });
+        copyToClipboard(PROMPTS[id].text).then((ok) => {
+          showToast(ok ? "Copied!" : "Tap the card to copy");
+        });
+      }
+
+      mountCards();
+      focusLinkedCard();
+
+      window.addEventListener("hashchange", () => {
+        document.querySelectorAll(".highlight").forEach((n) => n.classList.remove("highlight"));
+        focusLinkedCard();
+      });
+    </script>
+  </body>
+</html>

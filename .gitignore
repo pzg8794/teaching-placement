@@ -22,3 +22,14 @@ transcripts/non-lesson-context/*
 
 # Local scratch / generated outputs
 tmp/
+**/.venv/
+*.pyc
+__pycache__/
+_tmp_*
+student_prize_tracker.json
+
+# Local prize tracker outputs can contain student names.
+pinebrook_ignite_prize_packing_list.*
+pinebrook_ignite_prize_wheel_class_tracker-old.ipynb
+pinebrook_ignite_prize_wheel_ui_student_manager.ipynb
+wheel_of_fortune/

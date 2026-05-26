@@ -1,0 +1,338 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lesson 1 Prompt Cards — Click to Copy</title>
+    <style>
+      :root {
+        --accent1: #0f766e;
+        --accent2: #99f6e4;
+        --accent3: #f59e0b;
+        --accent4: #134e4a;
+        --paper: #f7fefc;
+        --ink: #1f2937;
+      }
+
+      html,
+      body {
+        height: 100%;
+      }
+
+      body {
+        margin: 0;
+        font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+        background: linear-gradient(180deg, var(--paper), #ffffff);
+        color: var(--ink);
+      }
+
+      .wrap {
+        max-width: 880px;
+        margin: 0 auto;
+        padding: 24px 16px 56px;
+      }
+
+      header {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        margin-bottom: 16px;
+      }
+
+      h1 {
+        font-size: 22px;
+        margin: 0;
+      }
+
+      .sub {
+        margin: 0;
+        font-size: 14px;
+        color: #374151;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 12px;
+      }
+
+      .group {
+        margin-top: 16px;
+      }
+
+      .group-title {
+        font-weight: 700;
+        color: var(--accent4);
+        margin: 18px 0 10px;
+      }
+
+      .card {
+        width: 100%;
+        text-align: left;
+        border: 1px solid rgba(15, 118, 110, 0.35);
+        background: #ffffff;
+        border-radius: 14px;
+        padding: 14px 14px;
+        cursor: pointer;
+        box-shadow: 0 1px 0 rgba(0, 0, 0, 0.03);
+      }
+
+      .card:focus-visible {
+        outline: 3px solid rgba(245, 158, 11, 0.55);
+        outline-offset: 2px;
+      }
+
+      .chip {
+        display: inline-block;
+        font-size: 12px;
+        font-weight: 700;
+        color: var(--accent4);
+        background: rgba(153, 246, 228, 0.45);
+        border: 1px solid rgba(15, 118, 110, 0.5);
+        padding: 4px 8px;
+        border-radius: 999px;
+        margin-bottom: 8px;
+      }
+
+      .prompt {
+        font-size: 16px;
+        line-height: 1.35;
+        margin: 0;
+        white-space: pre-wrap;
+      }
+
+      .toast {
+        position: fixed;
+        left: 50%;
+        bottom: 18px;
+        transform: translateX(-50%);
+        background: rgba(19, 78, 74, 0.95);
+        color: white;
+        padding: 10px 14px;
+        border-radius: 999px;
+        font-weight: 700;
+        font-size: 14px;
+        opacity: 0;
+        transition: opacity 180ms ease;
+        pointer-events: none;
+      }
+
+      .toast.show {
+        opacity: 1;
+      }
+
+      .hint {
+        margin-top: 14px;
+        font-size: 13px;
+        color: #4b5563;
+      }
+
+      .highlight {
+        border-color: rgba(245, 158, 11, 0.85);
+        box-shadow: 0 0 0 3px rgba(245, 158, 11, 0.25);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <header>
+        <h1>Lesson 1 Prompt Cards</h1>
+        <p class="sub">Click (or tap) any card to copy the prompt.</p>
+      </header>
+
+      <div class="group">
+        <div class="group-title">Idea Generator</div>
+        <div class="grid" id="idea-generator"></div>
+      </div>
+
+      <div class="group">
+        <div class="group-title">AI Assistant</div>
+        <div class="grid" id="ai-assistant"></div>
+      </div>
+
+      <div class="group">
+        <div class="group-title">Troubleshooting (If You Get Stuck)</div>
+        <div class="grid" id="troubleshooting"></div>
+      </div>
+
+      <div class="group">
+        <div class="group-title">Planning Sheet</div>
+        <div class="grid" id="planning-sheet"></div>
+      </div>
+
+      <p class="hint">
+        Note: Some browsers require a second tap to allow copying. If you see a message saying copy failed,
+        tap the same card again.
+      </p>
+    </div>
+
+    <div class="toast" id="toast" aria-live="polite"></div>
+
+    <script>
+      const PROMPTS = {
+        ig1: {
+          group: "idea-generator",
+          label: "Idea Generator",
+          text: "My interest is ____. Give me 4 computer-science project ideas for grades 4-5.",
+        },
+        ig2: {
+          group: "idea-generator",
+          label: "Idea Generator",
+          text: "Help me turn my interest in ____ into a computer-science project topic.",
+        },
+        aa1: {
+          group: "ai-assistant",
+          label: "AI Assistant",
+          text: "My topic is ____. Is this really connected to computer science? Explain how.",
+        },
+        aa2: {
+          group: "ai-assistant",
+          label: "AI Assistant",
+          text: "My topic is ____. Help me make it smaller and clearer for a short project.",
+        },
+        aa3: {
+          group: "ai-assistant",
+          label: "AI Assistant",
+          text: "My topic is ____. Give me a high-level guide with 3 to 5 parts, sections, or questions I could use for my project.",
+        },
+        ts1: {
+          group: "troubleshooting",
+          label: "Troubleshooting",
+          text:
+            "I do not know what topic to choose yet. My interests are: ____.\n\nGive me 8 different computer-science project topic ideas.\nFor each idea, include:\n1) topic name\n2) why it connects to computer science (1 sentence)\n3) a project type (example: poster, slideshow, quiz, game, guide, animation)\n\nKeep it school-appropriate and short.",
+        },
+        ts2: {
+          group: "troubleshooting",
+          label: "Troubleshooting",
+          text:
+            "I do not know what I like yet. Ask me 5 quick questions to learn my interests (choices or yes/no).\nThen give me 6 topic ideas connected to computer science that match my answers.",
+        },
+        ts3: {
+          group: "troubleshooting",
+          label: "Troubleshooting",
+          text:
+            "My topic is ____. It feels too big or too complex.\n\nHelp me make it smaller. Give me 3 smaller topic options.\nFor each option, include:\n- what I would make\n- 3-part guide (Part 1, Part 2, Part 3)\n\nKeep it simple and doable.",
+        },
+        ts4: {
+          group: "troubleshooting",
+          label: "Troubleshooting",
+          text:
+            "My topic is ____. It feels too simple.\n\nHelp me make it more interesting (but still doable). Give me 3 upgraded topic versions.\nFor each version, include:\n- a stronger title\n- why it connects to computer science (1 sentence)\n- what I would make\n\nKeep it kid-friendly.",
+        },
+        ts5: {
+          group: "troubleshooting",
+          label: "Troubleshooting",
+          text:
+            "I do not like these ideas: ____.\n\nAsk me 3 questions to learn what I want. Then give me 8 new topic ideas.\nDo NOT repeat the old ideas.",
+        },
+        ps1: {
+          group: "planning-sheet",
+          label: "Planning Sheet",
+          text:
+            "My topic is ____. My interest is ____. Help me fill out my planning sheet.\n\nOutput exactly this format:\nMy topic:\nMy CS connection:\nMy project type:\nMy guide (3 to 5 parts):\n-\n-\n-\n\nKeep it short. Ask me 1 question if you need more info.",
+        },
+      };
+
+      const toastEl = document.getElementById("toast");
+
+      function showToast(message) {
+        toastEl.textContent = message;
+        toastEl.classList.add("show");
+        window.clearTimeout(showToast._t);
+        showToast._t = window.setTimeout(() => toastEl.classList.remove("show"), 1200);
+      }
+
+      async function copyToClipboard(text) {
+        // Attempt modern clipboard API first
+        if (navigator.clipboard && typeof navigator.clipboard.writeText === "function") {
+          try {
+            await navigator.clipboard.writeText(text);
+            return true;
+          } catch {
+            // fall through
+          }
+        }
+
+        // Fallback: execCommand('copy')
+        const ta = document.createElement("textarea");
+        ta.value = text;
+        ta.setAttribute("readonly", "");
+        ta.style.position = "fixed";
+        ta.style.left = "-9999px";
+        ta.style.top = "0";
+        document.body.appendChild(ta);
+        ta.focus();
+        ta.select();
+
+        let ok = false;
+        try {
+          ok = document.execCommand("copy");
+        } catch {
+          ok = false;
+        }
+
+        document.body.removeChild(ta);
+        return ok;
+      }
+
+      function renderPromptCard(id, prompt) {
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = "card";
+        btn.id = `card-${id}`;
+        btn.dataset.promptId = id;
+        btn.setAttribute("aria-label", `Copy prompt: ${prompt.text}`);
+
+        const chip = document.createElement("div");
+        chip.className = "chip";
+        chip.textContent = "Click to copy";
+
+        const p = document.createElement("p");
+        p.className = "prompt";
+        p.textContent = prompt.text;
+
+        btn.appendChild(chip);
+        btn.appendChild(p);
+
+        btn.addEventListener("click", async () => {
+          const ok = await copyToClipboard(prompt.text);
+          showToast(ok ? "Copied!" : "Copy failed — tap again");
+        });
+
+        return btn;
+      }
+
+      function mountCards() {
+        for (const [id, prompt] of Object.entries(PROMPTS)) {
+          const container = document.getElementById(prompt.group);
+          if (!container) continue;
+          container.appendChild(renderPromptCard(id, prompt));
+        }
+      }
+
+      function focusLinkedCard() {
+        const id = (window.location.hash || "").replace(/^#/, "").trim();
+        if (!id || !PROMPTS[id]) return;
+
+        const el = document.getElementById(`card-${id}`);
+        if (!el) return;
+        el.classList.add("highlight");
+        el.scrollIntoView({ block: "center" });
+
+        // Best-effort: try to auto-copy once on arrival.
+        // Many browsers will block this without a user gesture.
+        copyToClipboard(PROMPTS[id].text).then((ok) => {
+          showToast(ok ? "Copied!" : "Tap the card to copy");
+        });
+      }
+
+      mountCards();
+      focusLinkedCard();
+
+      window.addEventListener("hashchange", () => {
+        document.querySelectorAll(".highlight").forEach((n) => n.classList.remove("highlight"));
+        focusLinkedCard();
+      });
+    </script>
+  </body>
+</html>

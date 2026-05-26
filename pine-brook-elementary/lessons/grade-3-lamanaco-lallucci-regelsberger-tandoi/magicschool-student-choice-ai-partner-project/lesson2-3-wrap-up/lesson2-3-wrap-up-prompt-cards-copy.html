@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lesson 2-3 Wrap-Up Prompt Cards</title>
+    <style>
+      :root {
+        --accent1: #0f766e;
+        --accent2: #99f6e4;
+        --accent3: #f59e0b;
+        --accent4: #134e4a;
+        --paper: #f7fefc;
+        --ink: #1f2937;
+      }
+
+      body {
+        margin: 0;
+        font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+        background: linear-gradient(180deg, var(--paper), #ffffff);
+        color: var(--ink);
+      }
+
+      .wrap {
+        max-width: 880px;
+        margin: 0 auto;
+        padding: 24px 16px 56px;
+      }
+
+      h1 {
+        font-size: 24px;
+        margin: 0 0 6px;
+      }
+
+      .sub {
+        margin: 0 0 18px;
+        color: #374151;
+      }
+
+      .group-title {
+        margin: 22px 0 10px;
+        color: var(--accent4);
+        font-weight: 800;
+      }
+
+      .grid {
+        display: grid;
+        gap: 12px;
+      }
+
+      .card {
+        width: 100%;
+        text-align: left;
+        border: 1px solid rgba(15, 118, 110, 0.35);
+        background: #ffffff;
+        border-radius: 12px;
+        padding: 14px;
+        cursor: pointer;
+        box-shadow: 0 1px 0 rgba(0, 0, 0, 0.04);
+      }
+
+      .card:focus-visible {
+        outline: 3px solid rgba(245, 158, 11, 0.55);
+        outline-offset: 2px;
+      }
+
+      .chip {
+        display: inline-block;
+        font-size: 12px;
+        font-weight: 800;
+        color: var(--accent4);
+        background: rgba(153, 246, 228, 0.45);
+        border: 1px solid rgba(15, 118, 110, 0.5);
+        padding: 4px 8px;
+        border-radius: 999px;
+        margin-bottom: 8px;
+      }
+
+      .prompt {
+        margin: 0;
+        font-size: 16px;
+        line-height: 1.4;
+        white-space: pre-wrap;
+      }
+
+      .toast {
+        position: fixed;
+        left: 50%;
+        bottom: 18px;
+        transform: translateX(-50%);
+        background: rgba(19, 78, 74, 0.96);
+        color: white;
+        padding: 10px 14px;
+        border-radius: 999px;
+        font-weight: 800;
+        font-size: 14px;
+        opacity: 0;
+        transition: opacity 180ms ease;
+        pointer-events: none;
+      }
+
+      .toast.show {
+        opacity: 1;
+      }
+
+      .highlight {
+        border-color: rgba(245, 158, 11, 0.85);
+        box-shadow: 0 0 0 3px rgba(245, 158, 11, 0.25);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <h1>Lesson 2-3 Wrap-Up Prompt Cards</h1>
+      <p class="sub">Click or tap a card to copy the full prompt.</p>
+
+      <div class="group-title">Step 1: Recover</div>
+      <div class="grid" id="recover"></div>
+
+      <div class="group-title">Step 2: Build</div>
+      <div class="grid" id="build"></div>
+
+      <div class="group-title">Step 3: Check</div>
+      <div class="grid" id="check"></div>
+
+      <div class="group-title">Step 4: Finish</div>
+      <div class="grid" id="finish"></div>
+    </div>
+
+    <div class="toast" id="toast" aria-live="polite"></div>
+
+    <script>
+      const PROMPTS = {
+        recover: {
+          group: "recover",
+          label: "Recover",
+          text: "My topic is ____. Help me make a simple project guide with 3 parts. Each part should be short and connected to computer science.",
+        },
+        build: {
+          group: "build",
+          label: "Build",
+          text: "My topic is ____. Part __ of my guide is ____. Give me 3 short bullet notes I can use on one slide. Keep it clear for Grade 4.",
+        },
+        check: {
+          group: "check",
+          label: "Check",
+          text: "My topic is ____. My guide is ____. Here is my project text: ____. Tell me what matches, what is missing, and what I should fix first.",
+        },
+        finish: {
+          group: "finish",
+          label: "Finish",
+          text: "Help me write a short final reflection. I used AI to ____. I made my own choices by ____. Keep it 2 sentences.",
+        },
+      };
+
+      const toast = document.getElementById("toast");
+
+      function showToast(message) {
+        toast.textContent = message;
+        toast.classList.add("show");
+        window.setTimeout(() => toast.classList.remove("show"), 1300);
+      }
+
+      async function copyPrompt(id, text) {
+        try {
+          await navigator.clipboard.writeText(text);
+          showToast("Copied prompt");
+          highlight(id);
+        } catch (error) {
+          const area = document.createElement("textarea");
+          area.value = text;
+          document.body.appendChild(area);
+          area.select();
+          document.execCommand("copy");
+          document.body.removeChild(area);
+          showToast("Copied prompt");
+          highlight(id);
+        }
+      }
+
+      function highlight(id) {
+        document.querySelectorAll(".card").forEach((card) => card.classList.remove("highlight"));
+        const card = document.querySelector(`[data-prompt-id="${id}"]`);
+        if (card) card.classList.add("highlight");
+      }
+
+      function render() {
+        Object.entries(PROMPTS).forEach(([id, prompt]) => {
+          const button = document.createElement("button");
+          button.className = "card";
+          button.id = id;
+          button.dataset.promptId = id;
+          button.type = "button";
+          button.innerHTML = `<span class="chip">${prompt.label} - click to copy</span><p class="prompt"></p>`;
+          button.querySelector(".prompt").textContent = prompt.text;
+          button.addEventListener("click", () => copyPrompt(id, prompt.text));
+          document.getElementById(prompt.group).appendChild(button);
+        });
+
+        const hash = window.location.hash.slice(1);
+        if (hash && PROMPTS[hash]) {
+          document.getElementById(hash)?.scrollIntoView({ block: "center" });
+          highlight(hash);
+        }
+      }
+
+      render();
+    </script>
+  </body>
+</html>

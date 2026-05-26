@@ -1,0 +1,241 @@
+\documentclass[aspectratio=169]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{tikz}
+\usepackage{hyperref}
+\hypersetup{hidelinks}
+\usetikzlibrary{positioning,arrows.meta}
+
+\definecolor{accent1}{HTML}{2563EB}
+\definecolor{accent2}{HTML}{DBEAFE}
+\definecolor{accent3}{HTML}{F59E0B}
+\definecolor{accent4}{HTML}{1E3A8A}
+\definecolor{accent5}{HTML}{10B981}
+\definecolor{paper}{HTML}{F8FBFF}
+\definecolor{ink}{HTML}{1F2937}
+
+\newcommand{\PromptCopyBase}{business-model-prompt-cards-copy.html}
+\newcommand{\PromptLink}[2]{\href{\PromptCopyBase\##1}{#2}}
+\newcommand{\CopyChip}[1]{%
+  \href{\PromptCopyBase\##1}{%
+    \tikz[baseline=-0.6ex] \node[
+      rounded corners=6pt,
+      fill=accent2,
+      draw=accent1,
+      line width=0.6pt,
+      inner xsep=6pt,
+      inner ysep=2.2pt
+    ]{\scriptsize\bfseries Copy};%
+  }%
+}
+
+\setbeamertemplate{navigation symbols}{}
+\setbeamercolor{normal text}{fg=ink,bg=white}
+\setbeamercolor{frametitle}{fg=ink,bg=white}
+\setbeamertemplate{itemize item}{\color{accent1}$\blacktriangleright$}
+\setbeamertemplate{enumerate item}{\color{accent1}\insertenumlabel.}
+\setbeameroption{hide notes}
+
+\title{Lesson 1: Find a CS Business Idea}
+\subtitle{Use Idea Generator to brainstorm}
+\author{Pine Brook IGNITE}
+\date{Spring 2026}
+
+\begin{document}
+
+\begin{frame}[plain]
+\begin{tikzpicture}[remember picture,overlay]
+\fill[paper] (current page.south west) rectangle (current page.north east);
+\fill[accent1!9] (0.25,0.4) rectangle (13.05,7.0);
+\draw[line width=7pt, color=accent3] (0.55,6.75) -- (12.75,6.75);
+\draw[line width=7pt, color=accent5] (0.55,0.65) -- (12.75,0.65);
+\end{tikzpicture}
+\vspace{0.45cm}
+{\huge\bfseries Lesson 1: Find a CS Business Idea\par}
+\vspace{0.2cm}
+{\Large Use Idea Generator to turn interests into business ideas.\par}
+\vspace{0.45cm}
+\begin{center}
+\begin{tikzpicture}[node distance=0.45cm]
+\node[rounded corners=14pt, fill=accent3!18, draw=accent3!80, minimum width=2.8cm, minimum height=1.1cm, align=center] (a) {\Large\bfseries Interest};
+\node[rounded corners=14pt, fill=accent2, draw=accent1, minimum width=2.8cm, minimum height=1.1cm, align=center, right=of a] (b) {\Large\bfseries Problem};
+\node[rounded corners=14pt, fill=accent5!16, draw=accent5!80, minimum width=2.8cm, minimum height=1.1cm, align=center, right=of b] (c) {\Large\bfseries CS Business};
+\draw[-{Latex[length=3mm,width=2.2mm]}, line width=1.2pt, color=accent4] (a) -- (b);
+\draw[-{Latex[length=3mm,width=2.2mm]}, line width=1.2pt, color=accent4] (b) -- (c);
+\end{tikzpicture}
+\end{center}
+\note{By the end, students have a business idea, customer, problem, and CS connection.}
+\end{frame}
+
+\begin{frame}[plain]
+\frametitle{Today's Mission}
+\begin{block}{By the end, I will have:}
+\begin{itemize}
+\large
+\item one business idea
+\item one customer or user
+\item one problem the business solves
+\item one computer science connection
+\item one prompt to use in Lesson 2
+\end{itemize}
+\end{block}
+\vspace{0.2cm}
+\begin{center}
+\Large\bfseries We are building a business model, not just picking a topic.
+\end{center}
+\note{Clarify that this is entrepreneurship with CS, not a generic AI lesson.}
+\end{frame}
+
+\begin{frame}[plain]
+\frametitle{What Is a Business Model?}
+\begin{columns}[T,totalwidth=\textwidth]
+\column{0.48\textwidth}
+\begin{block}{A business model explains}
+\begin{itemize}
+\large
+\item who you help
+\item what problem you solve
+\item what you offer
+\item why people would want it
+\end{itemize}
+\end{block}
+\column{0.48\textwidth}
+\begin{block}{Our extra rule}
+\Large Your idea must connect to computer science.
+\end{block}
+\vspace{0.15cm}
+\large Apps, data, algorithms, websites, games, robots, privacy, accessibility, or automation can all count.
+\end{columns}
+\end{frame}
+
+\begin{frame}[plain]
+\frametitle{Computer Science Connection Menu}
+\begin{columns}[T,totalwidth=\textwidth]
+\column{0.48\textwidth}
+\begin{itemize}
+\large
+\item app or website
+\item game or simulation
+\item data tool
+\item algorithm or automation
+\end{itemize}
+\column{0.48\textwidth}
+\begin{itemize}
+\large
+\item robot, sensor, or 3D design
+\item privacy or cybersecurity
+\item accessibility technology
+\item digital communication
+\end{itemize}
+\end{columns}
+\vspace{0.25cm}
+\begin{center}
+\Large\bfseries If you cannot explain the CS connection, the idea is not ready yet.
+\end{center}
+\end{frame}
+
+\begin{frame}[plain]
+\frametitle{Use Idea Generator First}
+\begin{block}{Idea Generator helps you}
+\begin{itemize}
+\large
+\item answer questions about your interests
+\item find a customer or user
+\item turn an interest into a business idea
+\item make sure the idea connects to CS
+\item get a prompt for AI Assistant
+\end{itemize}
+\end{block}
+\vspace{0.2cm}
+\begin{center}
+\Large\bfseries Today, Idea Generator is the main tool.
+\end{center}
+\end{frame}
+
+\begin{frame}[plain]
+\frametitle{Prompt Cards: Idea Generator}
+\begin{block}{Click Copy, then paste into Idea Generator}
+\begin{itemize}
+\large
+\item \CopyChip{bmig1}\hspace{0.5em}\PromptLink{bmig1}{My interests are \_\_\_\_ and \_\_\_\_. Ask me 3 questions, then give me 4 CS-connected business ideas.}
+\item \CopyChip{bmig2}\hspace{0.5em}\PromptLink{bmig2}{I care about \_\_\_\_. What business could I create that uses computer science to help people?}
+\item \CopyChip{bmig3}\hspace{0.5em}\PromptLink{bmig3}{I want to help \_\_\_\_. Give me 4 business ideas that use technology, data, apps, games, or automation.}
+\end{itemize}
+\end{block}
+\vspace{0.2cm}
+\begin{center}
+\Large Pick one idea that feels useful, realistic, and school-appropriate.
+\end{center}
+\end{frame}
+
+\begin{frame}[plain]
+\frametitle{Worked Example}
+\begin{block}{Interest}
+\Large I like recess and sports.
+\end{block}
+\begin{block}{Possible business}
+\Large RecessBuddy: an app that helps students choose fair teams and game options.
+\end{block}
+\begin{block}{CS connection}
+\Large It uses a simple algorithm to balance teams and suggest games.
+\end{block}
+\end{frame}
+
+\begin{frame}[plain]
+\frametitle{Choose One Idea}
+\begin{block}{Your idea is ready when you can say:}
+\begin{itemize}
+\large
+\item My business is called \_\_\_\_.
+\item It helps \_\_\_\_.
+\item The problem is \_\_\_\_.
+\item It uses computer science by \_\_\_\_.
+\end{itemize}
+\end{block}
+\vspace{0.2cm}
+\begin{center}
+\Large\bfseries If one part is missing, ask Idea Generator to help you fix it.
+\end{center}
+\end{frame}
+
+\begin{frame}[plain]
+\frametitle{What Not To Do}
+\begin{columns}[T,totalwidth=\textwidth]
+\column{0.48\textwidth}
+\begin{block}{Do}
+\begin{itemize}
+\large
+\item answer the AI questions
+\item compare ideas
+\item choose one you understand
+\item check the CS connection
+\end{itemize}
+\end{block}
+\column{0.48\textwidth}
+\begin{block}{Do Not}
+\begin{itemize}
+\large
+\item share private information
+\item pick an idea just because AI said it
+\item choose something too huge
+\item skip the CS connection
+\end{itemize}
+\end{block}
+\end{columns}
+\end{frame}
+
+\begin{frame}[plain]
+\frametitle{Exit Ticket}
+\begin{block}{Before you leave, write:}
+\begin{itemize}
+\large
+\item My business idea is \_\_\_\_.
+\item My customer is \_\_\_\_.
+\item The problem is \_\_\_\_.
+\item My CS connection is \_\_\_\_.
+\item The prompt I will use next is \_\_\_\_.
+\end{itemize}
+\end{block}
+\end{frame}
+
+\end{document}

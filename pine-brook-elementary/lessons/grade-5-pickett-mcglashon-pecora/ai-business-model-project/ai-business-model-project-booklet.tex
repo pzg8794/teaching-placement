@@ -1,0 +1,445 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=0.85in]{geometry}
+\usepackage{hyperref}
+\usepackage{xurl}
+\usepackage{enumitem}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage{xcolor}
+
+\definecolor{accent}{HTML}{2563EB}
+\definecolor{accenttwo}{HTML}{10B981}
+\definecolor{soft}{HTML}{EFF6FF}
+\definecolor{ink}{HTML}{1F2937}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=accent,
+  urlcolor=accent
+}
+\setlist[itemize]{leftmargin=*, itemsep=2pt, topsep=3pt}
+\setlist[enumerate]{leftmargin=*, itemsep=2pt, topsep=3pt}
+\titleformat{\section}{\Large\bfseries\color{accent}}{}{0em}{}
+\titleformat{\subsection}{\large\bfseries\color{ink}}{}{0em}{}
+\titleformat{\subsubsection}{\normalsize\bfseries\color{accenttwo}}{}{0em}{}
+
+\title{AI-Supported Business Model Project\\\large CS-Connected Student Entrepreneurship Booklet}
+\author{Pine Brook IGNITE}
+\date{Spring 2026}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\newpage
+
+\section{Quick Scan}
+\begin{itemize}
+  \item Grade: Grade 5 primary target; adaptable for Grade 4 or higher-support learners.
+  \item Lesson shape: two class sessions plus optional presentation/revision time.
+  \item Project goal: students brainstorm, build, and present a simple business model that is clearly connected to computer science.
+  \item AI tools: MagicSchool Idea Generator and MagicSchool AI Assistant.
+  \item Product menu: pitch deck, poster or one-pager, simple site, booklet, or short commercial script.
+  \item Recommended product for the fastest classroom workflow: 5-slide Google Slides pitch deck.
+  \item Core idea: AI helps students ask better questions, generate business options, organize a model, and prepare a presentation. The academic target is the business model and CS connection.
+\end{itemize}
+
+\section{Project Definition}
+\subsection{Student-Friendly Definition}
+A business model explains:
+\begin{itemize}
+  \item who the business helps,
+  \item what problem it solves,
+  \item what product or service it offers,
+  \item why people would want it,
+  \item how the business could work in a fair, safe, and realistic way.
+\end{itemize}
+
+\subsection{Computer Science Requirement}
+Every idea must include at least one computer science connection. Students may choose from:
+\begin{itemize}
+  \item an app, website, game, chatbot, or digital tool,
+  \item data collection, sorting, visualizing, or using data to make decisions,
+  \item an algorithm, automation, step-by-step process, recommendation system, or scheduling tool,
+  \item hardware, robotics, sensors, 3D design, or assistive technology,
+  \item cybersecurity, privacy, safe logins, or responsible digital communication,
+  \item accessibility or usability improvements for different users.
+\end{itemize}
+
+\subsection{Non-Negotiables}
+\begin{itemize}
+  \item Students do not enter full names, passwords, addresses, phone numbers, or private information into AI tools.
+  \item Ideas must be school-appropriate and safe.
+  \item AI can suggest ideas, questions, and wording, but students must choose, check, and explain their business model.
+  \item Students must be able to explain how their idea connects to computer science.
+  \item Students may not make unsupported health, legal, safety, or money promises.
+\end{itemize}
+
+\section{CS Standards Alignment}
+\begin{longtable}{>{\raggedright\arraybackslash}p{0.18\textwidth}>{\raggedright\arraybackslash}p{0.36\textwidth}>{\raggedright\arraybackslash}p{0.36\textwidth}}
+\textbf{Standard} & \textbf{Connection} & \textbf{Evidence in this project} \\
+\hline
+CSTA 1B-DA-06 & Organize and present collected data visually to support a claim. & Students may use customer preference data, survey ideas, or simple comparison tables to explain why people would want the business. \\
+CSTA 1B-DA-07 & Use data to communicate an idea or propose relationships. & Students explain how customer needs, user choices, or product features support the business idea. \\
+CSTA 1B-AP-12 & Develop plans that describe a program's sequence of events, goals, and expected outcomes. & Students describe how their app, site, service, or digital workflow would work step by step. \\
+CSTA 1B-AP-15 & Test and debug a program or algorithm so it works as intended. & Students check whether the business workflow, AI-generated plan, or pitch structure has missing or confusing steps. \\
+CSTA 1B-IC-18 & Discuss computing technologies that have changed the world and how they influence practices. & Students explain how their business uses computing to help people or improve an existing process. \\
+CSTA 1B-IC-19 & Improve accessibility and usability of technology products for diverse users. & Students consider who may need the product, how it can be easier to use, and what accessibility supports are needed. \\
+CSTA 1B-IC-20 & Seek diverse perspectives to improve computational artifacts. & Students use peer feedback, teacher conferencing, and customer thinking to improve their business model. \\
+\end{longtable}
+
+\section{Learning Targets}
+Students will be able to:
+\begin{itemize}
+  \item identify a customer group and a problem worth solving,
+  \item generate a CS-connected business idea using guided AI support,
+  \item explain the product or service in a clear business model,
+  \item use AI-generated prompts to build and improve a pitch,
+  \item check AI output for accuracy, safety, fit, and fairness,
+  \item present a business idea with a clear CS connection and next steps.
+\end{itemize}
+
+\section{Materials and Setup}
+\begin{itemize}
+  \item Teacher-managed MagicSchool access.
+  \item Google Slides or another presentation/product tool.
+  \item Projector for teacher modeling.
+  \item Printed or digital business model organizer.
+  \item Copy-ready prompt cards or classwork post with prompts.
+  \item Rubric and exit tickets.
+  \item Optional: Canva, logo tool, drawing paper, sticky notes, speech-to-text, headphones, partner checklist.
+\end{itemize}
+
+\section{Data to Provide to Both AI Tools}
+\subsection{Paste This Context Into the Tool Setup}
+\begin{quote}
+Students are in Grade 5. They are brainstorming and building a simple business model that must connect to computer science. The business idea should solve a real or realistic problem for a specific customer group. The idea can be an app, website, game, data tool, automation, digital service, robot/sensor product, cybersecurity idea, accessibility tool, or another school-appropriate technology solution. Students should not use private information. Keep language clear, short, and student-friendly. Ask questions before giving final ideas when a student needs help. Help students choose, narrow, organize, and present their own business model.
+\end{quote}
+
+\subsection{CS Connection Menu for Students}
+\begin{itemize}
+  \item App or website: a digital place where users do something helpful.
+  \item Game or simulation: users learn, practice, or solve a problem.
+  \item Data tool: collects, sorts, counts, compares, or visualizes information.
+  \item Algorithm or automation: follows steps to make a decision or complete a task.
+  \item Robot, sensor, or 3D design: uses hardware or design to solve a problem.
+  \item Cybersecurity or privacy: protects information or teaches safe digital choices.
+  \item Accessibility technology: helps more people use, understand, or access something.
+\end{itemize}
+
+\subsection{Business Model Fields}
+\begin{itemize}
+  \item Business name.
+  \item Customer or user.
+  \item Problem.
+  \item CS-connected solution.
+  \item Key features.
+  \item How it helps.
+  \item How people find or use it.
+  \item Safety, privacy, or fairness check.
+  \item Simple pitch sentence.
+\end{itemize}
+
+\section{MagicSchool Idea Generator Setup}
+\subsection{Tool Purpose}
+Use Idea Generator first. Its job is to interview students about interests and needs, then suggest CS-connected business ideas and send students into AI Assistant with useful follow-up prompts.
+
+\subsection{Copy-Ready Setup Fields}
+\subsubsection{Tool Description}
+\begin{quote}
+You are a Grade 5 business idea coach for a computer science entrepreneurship project. Help students turn their interests into school-appropriate business model ideas that clearly connect to computer science. Do not give a final idea immediately if the student is unsure. First ask short questions to learn the student's interests, possible customers, and problems they care about. Then suggest several business ideas. Each idea must include a customer, problem, CS-connected solution, and one prompt the student can copy into AI Assistant to build the business model.
+\end{quote}
+
+\subsubsection{What Do Your Students Need Ideas For?}
+\begin{quote}
+Students need ideas for a simple CS-connected business model they can present. The business should solve a problem for a specific customer group using technology, data, algorithms, apps, websites, games, automation, robotics, cybersecurity, privacy, accessibility, or digital communication.
+\end{quote}
+
+\subsubsection{Additional Fields or Instructions}
+\begin{quote}
+Ask the student 3 quick questions before suggesting ideas if the student has not provided a clear interest. Use choice-based questions when possible. Keep reading level appropriate for Grade 5. Give 4 business ideas. For each idea, include:
+
+1. Business name idea
+
+2. Customer or user
+
+3. Problem solved
+
+4. CS connection
+
+5. Why people might want it
+
+6. Copy-ready AI Assistant prompt for building the idea
+
+Avoid unsafe, private, expensive, or unrealistic ideas. Do not ask for personal information. Do not choose the final idea for the student. End by asking: Which idea do you want to build?
+\end{quote}
+
+\section{MagicSchool AI Assistant Setup}
+\subsection{Tool Purpose}
+Use AI Assistant after a student has one possible business idea. Its job is to help students build a business model, organize a pitch, check the CS connection, and prepare to present.
+
+\subsection{Copy-Ready Setup Fields}
+\subsubsection{Tool Description}
+\begin{quote}
+You are a Grade 5 business model coach for a computer science project. Help students turn one CS-connected business idea into a clear, realistic, school-appropriate business model and presentation. Ask clarifying questions when needed. Keep student voice and student choice at the center. Help with structure, examples, checklist feedback, slide organization, and speaker notes. Do not write a finished project that the student can copy without thinking. Remind students to check the output, make choices, and explain the CS connection in their own words.
+\end{quote}
+
+\subsubsection{Student Task Context}
+\begin{quote}
+The student is creating a simple business model pitch. The pitch should include: business name, customer, problem, CS-connected solution, 3 to 5 key features, why people would want it, safety/privacy/fairness check, and a short presentation script. The product can be a Google Slides pitch deck, poster, one-pager, simple site, booklet, or commercial script. The business must connect to computer science.
+\end{quote}
+
+\subsubsection{Additional Fields or Instructions}
+\begin{quote}
+When students ask for help, respond in short sections. Use this structure when possible:
+
+1. What you already have
+
+2. What to improve
+
+3. Suggested next step
+
+4. Student choice question
+
+If building a pitch deck, suggest exactly 5 slides:
+
+Slide 1: Business name and customer
+
+Slide 2: Problem
+
+Slide 3: CS-connected solution
+
+Slide 4: Features and how it works
+
+Slide 5: Why people would want it and final pitch
+
+Always include a CS check and a privacy/fairness check. Do not ask for personal information. Do not grade students. Do not make the decision for the student.
+\end{quote}
+
+\section{Lesson 1: Discover a CS-Connected Business Idea}
+\subsection{Objective}
+Students use Idea Generator to explore interests, answer guiding questions, and choose one CS-connected business idea. Students leave with a business idea, a CS connection, and copy-ready AI Assistant prompts for Lesson 2.
+
+\subsection{Teacher Mini-Lesson and Modeling}
+\begin{enumerate}
+  \item Define a business model in kid language: customer, problem, solution, value.
+  \item Model the difference between a general idea and a CS-connected business idea.
+  \item Show one example: ``I like recess'' becomes ``RecessBuddy, a scheduling app that helps students find fair teams and game choices.''
+  \item Model how Idea Generator asks questions before suggesting ideas.
+  \item Name the success criteria: one customer, one problem, one CS-connected solution.
+\end{enumerate}
+
+\subsection{Guided Practice}
+Use a shared class example:
+\begin{quote}
+Interest: animals. Possible business: PetCare Helper, a kid-friendly app that reminds families about feeding, walks, and cleaning.
+\end{quote}
+Ask students to identify:
+\begin{itemize}
+  \item Who is the customer?
+  \item What problem is solved?
+  \item What makes it computer science?
+  \item Is it small enough to present?
+\end{itemize}
+
+\subsection{Work Time}
+\begin{enumerate}
+  \item Students list 2 interests or problems they notice.
+  \item Students use Idea Generator to answer questions and get 4 CS-connected business ideas.
+  \item Students choose 1 idea to consider.
+  \item Students copy the AI Assistant prompt connected to that idea.
+  \item Students complete the Lesson 1 business idea ticket.
+\end{enumerate}
+
+\subsection{Lesson 1 Student Prompt Frames}
+\begin{itemize}
+  \item My interests are \_\_\_\_ and \_\_\_\_. Ask me 3 questions, then give me 4 CS-connected business ideas.
+  \item I care about \_\_\_\_. What business could I create that uses computer science to help people?
+  \item I want to help \_\_\_\_. Give me 4 business ideas that use technology, data, apps, games, or automation.
+  \item My possible idea is \_\_\_\_. Is it a business model and is it connected to computer science?
+\end{itemize}
+
+\subsection{Closure and Proof of Learning}
+Students complete:
+\begin{itemize}
+  \item My business idea is:
+  \item My customer is:
+  \item The problem is:
+  \item My CS connection is:
+  \item The AI Assistant prompt I will use next is:
+\end{itemize}
+
+\section{Lesson 2: Build and Present the Business Model}
+\subsection{Objective}
+Students use AI Assistant to turn one approved idea into a simple business model pitch. Students build a product and prepare to explain the customer, problem, CS solution, value, and responsible technology choices.
+
+\subsection{Teacher Mini-Lesson and Modeling}
+\begin{enumerate}
+  \item Reopen the class example from Lesson 1.
+  \item Show how one AI Assistant prompt becomes a 5-slide pitch plan.
+  \item Model checking the AI output: Does it name the customer? Is the CS connection real? Is it safe and realistic?
+  \item Model turning AI suggestions into student choices, not copying a finished answer.
+\end{enumerate}
+
+\subsection{Guided Practice}
+Students compare two sample slides:
+\begin{itemize}
+  \item Weak: ``My app is cool and everyone will use it.''
+  \item Strong: ``RecessBuddy helps Grade 5 students choose fair teams by using a simple algorithm that balances player choices.''
+\end{itemize}
+Discuss which one is clearer and why.
+
+\subsection{Work Time}
+\begin{enumerate}
+  \item Students open their Lesson 1 idea ticket.
+  \item Students paste the AI Assistant prompt they saved.
+  \item Students build a 5-part pitch: customer, problem, CS solution, features, and value.
+  \item Students check the pitch against the rubric.
+  \item Students prepare a 30-second explanation.
+\end{enumerate}
+
+\subsection{Lesson 2 Student Prompt Frames}
+\begin{itemize}
+  \item My business idea is \_\_\_\_. Help me make a 5-slide pitch deck plan.
+  \item My customer is \_\_\_\_ and the problem is \_\_\_\_. Help me explain the problem clearly.
+  \item My solution uses computer science because \_\_\_\_. Help me explain that in Grade 5 words.
+  \item Here is my slide draft: \_\_\_\_. What is missing from my business model?
+  \item Help me write a 30-second pitch. Keep it clear and student-friendly.
+  \item Check my business idea for privacy, safety, fairness, and accessibility.
+\end{itemize}
+
+\subsection{Closure and Proof of Learning}
+Students submit or show:
+\begin{itemize}
+  \item one completed slide, section, or poster area,
+  \item one sentence explaining the CS connection,
+  \item one revision they made after using AI or feedback,
+  \item one next step before presenting.
+\end{itemize}
+
+\section{Student Presentation Requirements}
+\subsection{Recommended 5-Slide Pitch Deck}
+\begin{enumerate}
+  \item Business name and customer.
+  \item Problem.
+  \item CS-connected solution.
+  \item Features and how it works.
+  \item Why people would want it and final pitch.
+\end{enumerate}
+
+\subsection{Simple Pitch Script}
+\begin{quote}
+Our business is called \_\_\_\_. It helps \_\_\_\_ who need \_\_\_\_. The problem is \_\_\_\_. Our solution uses computer science by \_\_\_\_. People would want it because \_\_\_\_. One safety, privacy, or fairness choice we made is \_\_\_\_.
+\end{quote}
+
+\section{Rubric}
+\begin{longtable}{>{\raggedright\arraybackslash}p{0.18\textwidth}>{\raggedright\arraybackslash}p{0.24\textwidth}>{\raggedright\arraybackslash}p{0.24\textwidth}>{\raggedright\arraybackslash}p{0.24\textwidth}}
+\textbf{Category} & \textbf{Beginning} & \textbf{Developing} & \textbf{Meeting} \\
+\hline
+Customer and problem clarity & Customer or problem is missing, too broad, or difficult to explain. & Names a customer and problem, but the connection may need more detail or focus. & Clearly names a customer and a realistic problem the business is trying to solve. \\
+CS connection & The idea does not yet show a clear computer science connection. & The idea includes technology, but the CS connection needs clearer explanation. & The idea clearly connects to computing, data, algorithms, apps, automation, privacy, accessibility, or another CS concept. \\
+Business model logic & The product or service is unclear or unrealistic. & The business idea mostly makes sense but needs stronger features, audience fit, or value explanation. & The business model explains the solution, key features, and why people would want it. \\
+Use of Idea Generator & Uses AI only with heavy support or accepts ideas without thinking. & Uses Idea Generator to get ideas and chooses one with some support. & Uses Idea Generator to explore options, compare choices, and select a CS-connected idea. \\
+Use of AI Assistant & Copies too much or does not check the AI response. & Uses AI Assistant for help, but checking and revising are inconsistent. & Uses AI Assistant to organize, improve, check, and present the business model while keeping student decision-making visible. \\
+Responsible technology choices & Does not yet address privacy, safety, fairness, or accessibility. & Mentions one responsible technology issue but needs clearer connection to the business. & Explains at least one privacy, safety, fairness, or accessibility choice connected to the idea. \\
+Presentation and communication & Presentation is incomplete or hard to follow. & Presentation communicates the main idea but needs clearer organization or evidence. & Presentation is clear, organized, and explains the customer, problem, CS solution, and value. \\
+\end{longtable}
+
+\section{Exit Tickets}
+\subsection{Lesson 1 Exit Ticket}
+\begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}p{0.26\textwidth}|X|}
+\hline
+Question & Student Response \\
+\hline
+What is your business idea? & \\
+\hline
+Who is your customer or user? & \\
+\hline
+What problem does it solve? & \\
+\hline
+How is it connected to computer science? & \\
+\hline
+Which AI Assistant prompt will you use next? & \\
+\hline
+\end{tabularx}
+
+\subsection{Lesson 2 Exit Ticket}
+\begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}p{0.26\textwidth}|X|}
+\hline
+Question & Student Response \\
+\hline
+What part of your pitch did you build today? & \\
+\hline
+What did AI help you improve? & \\
+\hline
+What did you choose or change yourself? & \\
+\hline
+What is your strongest CS connection? & \\
+\hline
+What is your next step before presenting? & \\
+\hline
+\end{tabularx}
+
+\section{Inclusive Strategies and Supports}
+\begin{itemize}
+  \item Start with oral rehearsal: students talk or draw before typing.
+  \item Provide interest lanes: sports, animals, games, food, school helpers, environment, art, music, safety, accessibility, community.
+  \item Use choice-based AI questions for students who struggle with open-ended prompts.
+  \item Pair students with clear roles: driver, reader, checker, presenter.
+  \item Give reduced-text organizers with only customer, problem, solution, CS connection, and pitch sentence.
+  \item Allow speech-to-text, teacher scribing, drawing, icons, labels, or verbal explanation.
+  \item Use checkpoints: idea approved, CS connection approved, pitch structure approved, presentation ready.
+  \item Extend advanced learners by asking them to compare two customer groups, improve accessibility, add simple data evidence, or explain a privacy tradeoff.
+\end{itemize}
+
+\section{Teacher Look-Fors}
+\begin{itemize}
+  \item Students can explain who the business helps.
+  \item Students can name the problem before naming the product.
+  \item Students can explain why the solution is connected to computer science.
+  \item Students use AI to ask questions, organize, check, and revise.
+  \item Students do not copy a finished response without understanding it.
+  \item Students include at least one responsible technology choice.
+\end{itemize}
+
+\section{Student Slide Deck Outlines}
+\subsection{Lesson 1 Presentation: Find Your Business Idea}
+\begin{enumerate}
+  \item Today: find a business idea.
+  \item What is a business model?
+  \item Your idea must connect to CS.
+  \item Use Idea Generator first.
+  \item Questions the AI may ask.
+  \item Prompt cards.
+  \item Example from interest to business idea.
+  \item Choose one idea.
+  \item Exit ticket.
+\end{enumerate}
+
+\subsection{Lesson 2 Presentation: Build Your Pitch}
+\begin{enumerate}
+  \item Today: build and present.
+  \item Recover your Lesson 1 idea.
+  \item Use AI Assistant.
+  \item 5-slide pitch structure.
+  \item Prompt cards.
+  \item Worked example.
+  \item Check for CS, privacy, fairness, and accessibility.
+  \item Rehearse a 30-second pitch.
+  \item Exit ticket.
+\end{enumerate}
+
+\section{Official References}
+\begin{itemize}
+  \item CSTA. K-12 Computer Science Standards. \url{https://csteachers.org/k12standards/}
+  \item CSTA. K-12 Standards interactive site. \url{https://csteachers.org/k12standards/interactive/}
+  \item MagicSchool. MagicSchool AI FAQ. \url{https://www.magicschool.ai/faq}
+  \item MagicSchool. AI Data Privacy in Education. \url{https://www.magicschool.ai/privacy}
+  \item MagicSchool. Quality and Responsible AI in Education. \url{https://www.magicschool.ai/privacy/quality}
+  \item ISTE. Artificial Intelligence in Education. \url{https://iste.org/areas-of-focus/AI-in-education}
+\end{itemize}
+
+\end{document}
