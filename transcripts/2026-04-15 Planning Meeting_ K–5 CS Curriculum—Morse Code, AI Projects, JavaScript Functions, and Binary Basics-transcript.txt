@@ -1,0 +1,312 @@
+00:00:00 Speaker 1
+This is your AI. This is your AI.
+00:00:02 Speaker 2
+So we're wrapping up Minecraft for the last time. We checked, they're actually pretty good there.
+00:00:09 Speaker 1
+That's one of the better classes that are actually going to wrap it up.
+00:00:12 Speaker 2
+And then we go from fifth grade and fourth grade; we're going to wrap up AI.
+00:00:16 Speaker 1
+We'll do lesson two in AI for these guys.
+00:00:19 Speaker 2
+Oh, this is for this week? Yes 
+00:00:22 Speaker 1
+Yeah And then so we have two this says two. So we have two first grade classes to teach Yeah. Um So. Let's take a look real quick. Since we have the time right now, see like what we should do with the first grade classes, And also um I want to just take I want to real quick show you these, where the fourth and fifth grade classes can go after this AI thing. So, and I don't even know if you'll be around for this, But I need I need to talk through it with you because if you're not going to be around for it, I'm a little uncomfortable teaching it just because of the job. We're going to be set. Yeah. So um I guess as far as the first grade classes.
+00:00:59 Speaker 1
+Concern. We've been doing squishy circuits with them. We've been doing Codelab stuff with them, so that's all fine. We did the Minecraft coding with some of the second graders, which they like. You do that again? I like that.
+00:01:16 Speaker 2
+Let's see something that there's a whole.
+00:01:21 Speaker 1
+I think there's a lesson with slides and all the stuff on this.
+00:01:27 Speaker 2
+The good thing is thatum, Like, it is perfect for this class because we're teaching pattern, we're teaching loop. Like I couldn't, I don't like. I don't even know how I came up with that. It's just like, But you gave me the idea when you showed me that thing with the pattern and that thing. I'm like, wait, we were just. I'm like, We were just talking about this yesterday or that thing that looks like molecular and I was like, yeah, this is actually perfect.
+00:01:57 Speaker 2
+I can, you know, I can pull up the formalum because I am sure they have lessons for this from their side. I can pull up the formal lesson plan that they have for that from ZooBuilders.
+00:02:10 Speaker 1
+Yeah, the stuff yeah They should haveum zoo builders.
+00:02:17 Speaker 2
+Let me pull my laptop, they should have that somewhere, even if they don't have it in their own. Web site they should have it somewhere. We collaborate usually they collaborate with some organizations before they build these things because that's how they make their money. The first clients. I see.
+00:02:59 Speaker 2
+I'm looking it up and doing an AI search to find it.
+00:03:17 Speaker 2
+By the way, I have the lesson already. I'm going to share it because I already shared a Google Doc and I'm going to update it in the Drive.
+00:03:29 Speaker 2
+Actually, I'm just gonna create a new Google Doc for lesson two. And then one one Google Doc that that references all of them together. And what we're going to do, you say we with for this class, We're just gonna combine lesson two and three. Um so so that way they can get to build and present something. Okay.
+00:03:59 Speaker 2
+So okay, so I'm gonna look it up here. What's the name of it.
+00:04:06 Speaker 1
+Z o p. Z.
+00:04:13 Speaker 2
+O P.
+00:04:34 Speaker 1
+Oh shoot. What happened? We were supposed to use pipe cleaners for that. For the spring. Do I have a million of those?
+00:04:49 Speaker 2
+I thought I did. We didn't?
+00:04:52 Speaker 1
+I thought I had a ton of pipe cleaners. Pipe cleaners are, right?
+00:04:59 Speaker 2
+Pipe cleaner.
+00:05:16 Speaker 1
+I think I've just heard a rumor that I might not be having a classroom next year.
+00:05:24 Speaker 2
+Really? Why?
+00:05:26 Speaker 1
+Um, they have very limited space here.
+00:05:31 Speaker 2
+So they are getting rid of the program? No. Oh, they're going to have you go to each class? Right, yeah. Like Mo's? Yeah. Oh my god, that is not convenient.
+00:05:47 Speaker 2
+So, what are they thinking to do with this room? They are thinking to teach something new, like a lab or something.
+00:05:56 Speaker 2
+Yeah. Where where are they gonna put all the C S stuff though. I guess they're they're planning to keep it here.
+00:06:05 Speaker 1
+Um no, it'll be in a closet somewhere, and then I get a cart and I load it up. And then bring it to them,
+00:06:10 Speaker 2
+Oh man, oh man, oh Jesus, That's gonna be work. That means that you're gonna need, uh, time, to get ready every day. That is so no ideal. So what is it that you say we were missing Yeah. So look at this.
+00:06:48 Speaker 2
+Crack the code. Oh, I see. I see. Let me put this here because the internet works here actually in this corner. It doesn't work in any other corner. Alright, so crack the code, I see. Ee There is a.
+00:07:17 Speaker 2
+I know we have we might have time. There is a notebook that I have that is very engaging, that is for that practical. So here, so we go here where we are asking them to let's see, crack the code,
+00:07:40 Speaker 1
+Same and different. So talk about how technology has changed over time, so that they understand, like what more it's called.
+00:07:50 Speaker 1
+Oh my god,
+00:07:50 Speaker 2
+You went you went old school.
+00:07:52 Speaker 1
+Yeah, I didn't make this last one. Who who made this last one? Um, so this is uh Morse code. Wow. Oh wait, let me click here.
+00:08:03 Speaker 2
+I'll be able to play with the owner of the document. Oh my goodness. I I don't even know if are they really ready for this like Morse code?
+00:08:17 Speaker 2
+Sure. Like this is cool stuff, but this is like. This is like the.
+00:08:25 Speaker 1
+The birth of programming. I think that's what they're they're trying to cause they do this with young kids, think they're trying to like get them to just understand like. Yeah, no, it's it's it's like laying the groundwork for yeah understanding like you know, these dots and dashes can equal letters. One zero, and everything come after that. I I.
+00:08:52 Speaker 2
+Honestly like, I rather show them videos that is engaging than like a bunch of pictures. Yeah,
+00:09:01 Speaker 1
+So this also has a website here. This link they're gonna post it. So the kids can look at if you look here. Yeah, this website is like uh was maybe so like you type in.
+00:09:17 Speaker 2
+Good morning, Casey. And I showed you the board. I can literally build this thing in a notebook with. This so. It's really old school. I can improve this. This is. I don't want to say bad, but this boring. So, This cool when websites are there like you need that in the lesson itself.
+00:09:47 Speaker 2
+Yeah, but it's not a better. You know what I mean?
+00:09:51 Speaker 1
+So, They they the way this person intended for this lesson to come across was for this slideshow to be shared. Teach one more code is that have them play that and then have them do have them make with the bees or you could do the same thing with the zoos. Have their make their own like code like spell something with a code.
+00:10:13 Speaker 2
+Let me see if I have access to the notebook. Who look at this. Who did this? This girl, she's always taking that. So I'm gonna show you what I mean. So, why? I, I think don't get me wrong, I think this is cool. But um it needs to be engaging um.
+00:10:45 Speaker 2
+In a way that they remember something. The first slides are perfect, right? How compare before and after. When it gets to the Morse code part, that's where we're going to lose them. Because yeah, this is like yeah, they're glyphs so I'm sure they understand. Let me see if I can find. because I did something similar but it's not in Morse code.
+00:11:17 Speaker 2
+I wanna see if I can show you because I can we can also use it. So cause remember you were talking about Java, right? This is perfect to migrate from this to that scripting sure.
+00:11:31 Speaker 1
+Well, the JavaScript was gonna be for the fourth and fifth graders. Yeah,
+00:11:35 Speaker 2
+No, but that's what I'm saying like when when they get to the scripting.
+00:11:38 Speaker 1
+Oh, right, you're saying it's good underlying. Yeah,
+00:11:41 Speaker 2
+They're gonna have a good underlying. Yeah yeah. So let me see.
+00:11:47 Speaker 1
+So, for just for to for the sake of quickness. Something like this could be taught to the first graders tomorrow. So if you feel like changing it and making it more engaging and flipping it off, that's fine. Or, if you just want to walk in and do this, just so you don't have to do any other work. Yeah,
+00:12:07 Speaker 2
+I'll improve this. I'll improve these slides. Okay, I have access to this right? I should have access.
+00:12:12 Speaker 1
+It's right, so it's called" Crack the Code." Crack the code, yeah. It's in the first grade, right here. So, first grade communication at the end.
+00:12:22 Speaker 2
+That's what we're going to do then. By the way, I look; I pulled the lessons from online resources from formal online resources. Yeah. They have kindergarten K one C T four They have grade one.
+00:12:41 Speaker 1
+CT 4, I'm not sure what that standard is.
+00:12:43 Speaker 2
+No, it does computer science standard CT 4.
+00:12:46 Speaker 1
+Click on the uh that's computational thinking. So I wonder if that's if that's uh, if that has something to do with what you're talking about.
+00:12:54 Speaker 2
+Probably look at this slide here we're going to look at this slide. Oh, he actually created it based on the That's crazy. I didn't even ask her to do that. What is she doing all this work for me? Yeah, this this might be better. So. Building an animal habitat. Planning and inclusion, this is, I want the. Okay, this the document. See. Quick scan.
+00:13:43 Speaker 2
+I thought he pulled the lesson. Apparently, he hasn't. This just a layout for us to teach it, but he didn't pull the lesson. I can pull the lesson later, but this just a layout how to teach it. It's right here basically. But we have the inclusion part, we have the CS standards, We have the snapshot in here, meaning of like stuff that we have already covered. It's like linking it to this. Um, and some tips and scaffolding. We're just missing Oh, the lesson is right here. Okay, official lesson is right here. Never mind. It was giving me the link, the online link. I didn't know that. There you go That's what I asked for Is. It should have just like make a big Then give me the rest Like I didn't ask for the rest. I just asked for this one. Is. The internet is taking long.
+00:14:42 Speaker 2
+Yes, so it's here. So, um, we agree with this. We have four more online sources for this. And, we have a layout that is linking into the work that we already did and the CS standards and inclusion. So I can start to you. So oh here it is. This is perfect. Look at that Ah. I didn't know this wait. These are the standards.
+00:15:12 Speaker 2
+Oh, the AI just linked it. Okay. It literally just created a layout by linking with this, but that's what it calls artificialism or reference something no reference. Right,
+00:15:31 Speaker 1
+That's fine. So yeah, We got like maybe fifteen twenty minutes here and I feel like we have a decent plan for this. If we do. Code stuff for this, and then AI for these, and then Minecraft after that. Yeah. We're going to go for tomorrow with that. Do you want to real quick? I think this would help me. I don't want to waste your time. You never waste my time. So, what if we what if we pulled these up? And I'll pretend like I'm a kid with my Chromebook? Yeah And we'll go through these and you could just Let's do that, yeah So if I get stuck,
+00:16:04 Speaker 2
+Then you're here And very quickum just review it so, We're gonna do uh tomorrow. We're gonna do the, that this uh the uh crack the code right, with the first grade. Yeah,
+00:16:19 Speaker 1
+If you feel like doing something different.
+00:16:21 Speaker 2
+Yeah, I'll take this slide that we have. I think the beginning is perfect. Sure. I'll justum I'll improve it. That's all Um I'm not gonna make it too fancy or anything because we don't even have the time for that But I'm just gonna make sure that we improve it. And we have something engaging to show the coding part Yeah Because. The coding part is where I know. We're gonna lose them. Yeah. Uh, If we make a phone, like you see how it makes that that sound right, we can make that sound to sound in a pattern. You know what I mean like a music or something. That, they will like cause they because they love music, right They. They love that thing when they're doing thetyping. And it does that sound. They love it so if we do similar to that, Like a like a keyboard, right Like, a piano right It's so easy because they're gonna be able to connect it Yeah.
+00:17:07 Speaker 1
+Alright, so let's go ahead. So, why don't we? So, This is the progression of lessons that I think would be like the good way to like essentially wet their whistles with JavaScript before they leave.
+00:17:19 Speaker 2
+They need it. This is the simplest one. So, we go here, right? Let's see. This is they're going to find this everywhere everywhere They're going to find it in high school.; they're going to find it in college:" Hello World." so, We teaching it, then, Is like the best thing ever for them because it's gonna prepare them for what they're about to come. So, for what they are gonna be facing in the future. So this is the. This.
+00:17:51 Speaker 1
+Is instruction. This is the instruction. So if you want to okay. I.
+00:17:59 Speaker 2
+Just wanted to check what it was Let's go back Alright and.
+00:18:06 Speaker 2
+And this is the assignment, right here. Your assignment, right?
+00:18:09 Speaker 1
+Scroll back up for a second. So, If you hit" Open in Sphero Edu Web App," I think it might let you actually like take it with. something, yeah. Oh, here we go. Okay. So now your screen looks just like mine as a student here does. So like it has this what you're supposed to do over here. And then over there is.
+00:18:31 Speaker 2
+This is awesome because hello world programs are. They're designed to be so simple that you don't really need to do much. Like in here, for example, this is what the ball is going to say: "Hello world." That's all. So if we go here, let's see what this description. So what does it say here? In this activity, you will explore functions in the text programming canvas and get started with your first lines of JavaScript.
+00:19:04 Speaker 2
+This a great activity to begin JavaScript programming after you have finished blocks one to eight. This basically teaching you how to display text. That's basically it. Um, and how and how to do so using using coding. I love this because um now they're being introduced to JavaScript, right? But it's only to generate text so they don't have too many things, Yeah. No move left, no move right, you know, no circle, no. Because that might be a little bit complicated. So I love that they have this Hello World as an introduction for JavaScript. This is the perfect introduction. Here I can explain what makes JavaScript useful is the fact I think. Well, how are they going to explain it here? I don't know what it is, but what makes JavaScript useful is the fact that it's a live program. And it can be used.
+00:19:59 Speaker 2
+Um, anywhere that's why it's like used everywhere in the web. It's like I don't know what they're going to say here. I am sure they have no explanation, but in the real world is that otherwise we use the verbal Java right? Right, I can modify and execute a text program. Yes, So this is just literally just one and I can define and use and use functions. So defining use functions it means, Like we would have to here, like right here, call another function that we're gonna build. So, I don't know how.
+00:20:38 Speaker 1
+That must be what we do, right? Because it looks like that is gonna just make it say" hello world." So, they must want us to change it at some point to do something.
+00:20:45 Speaker 2
+Yeah, yeah. It looks like they they, they want us to They wanted to learn how to use functions, right? So in that case. To teach them that, we would need like another function that we can build here, that we can ask them to build. Something that displays something else and then put it in here instead of the word. Put that function in here as an input. So now they learn how they can use a function as an input to another function. Does that make sense? Yeah, yeah. So I don't know if that's what they meant by this is here, but That's how you learn how to.
+00:21:25 Speaker 2
+You don't have to use functions, because now you know, functions don't have to be only functions.;, they can be input and output. Make sense? Yeah, yeah. So, looking for the old version of this lesson, you can find it here. No, that's definitely an older version. I already think this is a little bit outdated. Yeah, there's going to give me an older version.
+00:21:43 Speaker 1
+So, this is where the student stuff starts like I didn't have all that other stuff on there. That must just be for the teacher version. Okay, but my like as a student, it just starts you off right here. So this is what your.
+00:21:56 Speaker 1
+So, okay, I see.
+00:21:58 Speaker 2
+That was like for the teacher, right? Yeah. So they read it. Javascript is a programming language that makes it easier for us humans to communicate with computers. Computers work because they can read something called binary. Binary is a series of zeros and ones, which can be challenging for humans to understand. For example, if you wanted to write hello in binary, you would need this so, I wouldn't do this this way. I would just put a video in here first. They can see this, what binary is, and have you know a clear video, a good video. Um and there are so many good videos out there for this. And then I would take this thing here becauseum this is a lot ofum talking, but they're not gonna know what it is. They're not gonna know what it is. Yeah.
+00:22:52 Speaker 1
+So that's the kind of thing we need to do. Maybe we should sit down right now and also, like, we could have a slideshow that goes along with this. And when the kids you know so when when the kids would be reading this, we say okay, hold on before we get into this. Take a second and watch this video real quick.
+00:23:08 Speaker 2
+I can do that. Um I can put that together, one, two, three, because I already went through this for another lesson that I created. And soum there are two ways to do it, right? Um, I we can do it with kindergarten. So this is a kindergarten. This is a kindergarten lesson. Um, meaning you can make this kindergarten as well.
+00:23:32 Speaker 1
+Yeah, I think that, that cracked the code lesson was someone's attempt at making this idea accessible for younger kids.
+00:23:39 Speaker 2
+Yeah, because here for example, For kindergarten, it's as simple as like making them stand here for example, and having zero than one, what is an on what is an off? So simple, and they show a number, right Like a number is like this, and this, and this. Right How would you make You know. I can show them like this For the next number, Right I turn this one on Right for the next number So for the next number I turn these ones. So you can see it You can see it right here Right For. The next number I turn these and these one on For. The next one.
+00:24:19 Speaker 2
+I turned those off and then I turned these on. For the next one, right? Uh, it's same. And then for the next one.
+00:24:30 Speaker 1
+Because those are both L's.
+00:24:31 Speaker 2
+Yes, and for the next one I turn the last two on. That's it. Right? So you can teach that even for kindergarten, um. And and and that's something that they wouldn't know what it is because we're talking about on and off. For the older kids, Right now, we can we can talk about them and tell them why each one of them has a value, Right And, how you add them up and how they turn into number like that. And and then it might help them. They don't need to know it, right Like they don't need to know that logic behind it, but they they can know that when you add them up, right If if you add up to that number. And it'll help them in for their class when they go to high school because.
+00:25:15 Speaker 2
+This gonna be math. Right. Yeah, they're gonna need like whether they like it or not, they're gonna go through that. Yes, so. Website. Yeah, so I think this perfect. I think we can have a presentation for binary. Um, They that's gonna be useful for them just to know it right or a video. Because the lesson is very simple. The lesson is, you know, first part of the lesson, right?
+00:25:46 Speaker 2
+Let's make it work. Let's make it say "hello world." When you guys are done, great. Second part: let's build a function that says that returns a string, right? And says "this is my hello world," for example, right? And put it in here, right? And I think that's that's it. Like we can leave it there in two parts. They they just make this running. Um. We can make them change this, Just to know, just you know, just to make them do something. You can make them change this to like their name, like" hello," um, whatever student name is there. Um and that might get them a little bit more excited.
+00:26:32 Speaker 1
+I like that. Yeah. So if you go down to the next thing, like mark off that you've finished this. Yeah. Um so if you mark this complete, then it'll just get it out of your way. So you can look at step two, so. Um, wait. So, like, right? Should be step two. Oh, okay. Okay, so this one. So for step two, it looks like you just um make a like a, you read the code, look at the code and assess what you think it's going to do. So down here is like a multiple choice question, like, what do you think will happen when you do that? I'm a little confused because the code in the snippet there am I wrong that the code in the snippet above is different than that?
+00:27:15 Speaker 2
+Um, I don't think so. Honestly. And what I Wait, did I mark it on? I didn't mean to. Okay, here. Is the color is different but that's the method is the same. Okay Yeah, It's the same So.
+00:27:30 Speaker 1
+They changed the color of it. And for some reason, they have that copy button there Wonder, if the kids are going to want to copy that and paste it into here. And like what will happen if they do They can do that.
+00:27:41 Speaker 2
+But uh That might be helpful for their own method.
+00:27:46 Speaker 2
+Not for. Okay. Yeah, and and make it and make it return something here like, instead of async. Um. You can just, And they don't need this. Yeah, they don't need async, and they don't need await, They just need a return in here.
+00:28:06 Speaker 1
+So I tried to I tried to copy that and paste it in here. Yeah. And then when I went to go run,
+00:28:12 Speaker 2
+It is is not not It's not gonna work. Because uh. It's gonna be give you a compile issue, because it has two methods with the same name. But if you do this, look. If you do this. I mean, I need a keyboard for that. If you do this for example here. Blah blah blah functions. So You don't need async, because async is what for threads And here. And you're definitely gonna have the same names so you can put start program.
+00:28:45 Speaker 2
+And then I'm a input, right? Now it's not going to complain about it. But it's complaining about await because await is for threads, which means you need async. But we don't need that, so we just do return. And with do return, we're just telling them, you know, return this. There you go.
+00:29:07 Speaker 1
+Instead of a wait, I'm doing return?
+00:29:09 Speaker 2
+Exactly. Yep. And here we don't need this method, So we just make a return a text. Because we're making a return an input. So we're going to make a return a text, whatever we want it to be. And we can, we don't need this either. There you go. Now, in here, We can make a return something like Uh.
+00:29:43 Speaker 1
+You need all the color stuff, the RGB. No, no need that.
+00:29:48 Speaker 2
+I mean we could, we could return this and it's just going to color it for us. But we're putting it right in here so we don't need it. Okay. Because when you put it right in here, it's still going to do it. Sure. Yeah, so here we can put like return my world for example right? Right? And now here, put it right in here. That's it. See? So, that's how I would teach how to use functions, because now they know, you know, a function is not just a function. ;, you can also serve as an input or an output.
+00:30:42 Speaker 2
+Right, you can also you can literally return, um, you can literally make a return, another function which means is acting as an output. Does that make sense? So.
+00:30:57 Speaker 4
+Does it does it document for you? Oh. Shoot the world. It worked. I mean, it has to, if it doesn't work, something is broken my world there you go.
+00:31:11 Speaker 2
+Oh, You were testing it here.
+00:31:13 Speaker 1
+Yeah. So, okay. So if so if they copy that code and then throw it out here, it doesn't work just as is. What, if they copy the code and then get rid of everything that's on that in theirum thing. And then just drop that in?
+00:31:28 Speaker 2
+What we could do is that we can make sure that theirs don't have anything there. Just to make them make sure that they are reading. We can do that. We can make sure this is empty. So,
+00:31:40 Speaker 1
+If I just deleted everything in my thing and then ran that code and it did work, yeah,
+00:31:48 Speaker 2
+Yeah, exactly. Yeah, yeah, because it is. Yeah, it's the same code. I don't know why they have the whole copy in there, but I would remove this. Like, if you have the copy here and you want to do, you want to copy that we just remove it. I don't know why they have this in here then.
+00:32:02 Speaker 1
+Sure. Okay. Yeah so after that it tells us to guess what we think, Going to do and then it says, um, run the code and see what happens. And then it has an explanation of what's going to happen here. So I don't know if you want to go down to step three. Step three? And and tell me if that explanation seems like a good explanation to you. Because here's the other thing, dude. If it makes more sense, we can just scratch all this and pull up a blank canvas, put it in JavaScript mode, give our own.
+00:32:38 Speaker 1
+Descriptions of how they should be doing it.
+00:32:40 Speaker 2
+I wouldn't use Canvas, I would use Google Notebook.
+00:32:43 Speaker 1
+Um, I mean like, am I using the wrong words? Yeah. This thing over here, a blank this thing.
+00:32:48 Speaker 2
+Yeah yeah yeah. I would do that. This for the beginning, I think it's fine. Um, but we can build our own too. And the reason why i'm saying we'll call out is because we can literally replicate this in Collab with code, like replicate it. Have this like that. Have this like that.
+00:33:07 Speaker 1
+Oh, you mean like have two screens up like you did with the other kids? Which I meant to tell you too. Like that piece of that lesson, even though you might not have thought like of that, that's a big part of the lesson right there. Like the kids don't know that they can split their screens like that, And that's something they'll need to do or will be helpful for them to do for the rest of their careers as students. They'll have to do it. Yeah, copying and pasting from one document to the next.
+00:33:32 Speaker 2
+Yeah, in CS there is no other way of coding if they're coding. They're going to have to do it, like so. That's why I said, you know, instead of letting them juggle through it, let me teach them something they're going to use. And that setup is very important when you are dealing with computer science. Yes, so I think it makes sense. Let me read this one quickly when they go to see what happens. So what's going on here? Is a function.
+00:34:03 Speaker 2
+Functions are great because they read arguments and perform the same task as many times as you need them. If you're familiar with block coding, you have already used functions. So, the ah blah blah, see. Linking it to block coding that they have already done would be awesome as well. Like, you know like this block coding and now this the code. But that, but that might be a little That would be time consuming and I don't think we'll have time for that. Uh, functions will make life easier. Speaking of time,
+00:34:34 Speaker 4
+We just ran out of time.
+00:34:35 Speaker 2
+And you can write it. No, it's fine. I gotta go down too. Oh, you have to go down? Arguments about yeah so So. Okay, oh dude, look at it. Oh here it is here it is. This is a new function that is making me.
+00:34:51 Speaker 1
+Use Oh because now I want to just speak it and scroll up Yeah. Yeah. And then so this is way down. But like if you look down all the way down onum. The bottom of this thing, They they're showing the block that they would have used to do the same thing. So oh, right here. Here's right.
+00:35:06 Speaker 2
+Yeah, right there. Yeah. So these see see how I'm doing it differently, because I'm teaching them something else that they're not doing here. Yeah, Here, they're teaching you that functions are help you to reuse code great, right, but they need to know more than that functions are not just functions. Functions are objects. You can use them as objects for everything, input, output and the body. So.
+00:35:30 Speaker 1
+Well, let me ask you this. This program seems to just be okay with them, copying code that somebody else wrote over here and dumping it in there. Is that still is that fine?
+00:35:41 Speaker 2
+That's how you learn. Okay, how you learn? Yeah, okay. That's how you learn. But, you know, I'm making it build something from whatever they copied is even better. They're not doing that here.;, they're just like copying, which is fine. I want them to like, okay, copy the function, right change it like I want to give them this. You know what I mean, and and leave this in blank. Like you know, make your like and and and leave this blank as well. Name your own function. They name it whatever they want to. They're gonna learn about naming functions. It's very important you need to know how to name your function.
+00:36:17 Speaker 1
+But so dude, when you when you were like learning this in college, like or wherever I, don't know when you learned this. But like how did your teachers like push something out to every student in the class where the same. Pieces of that were blank. Is that hard to do or?
+00:36:31 Speaker 2
+The first thing they do is that they teach you what functions are. That's what the first thing they do, right? Right. And they teach the importance of knowing how to name them properly. They're not doing that here because I guess they just wanted to expose them, right? But we can do that easily, quickly. Like we can take you know a couple of minutes and say, what are functions? There it is, right? And link it to a real world thing that they can connect it to. And then, How would you name, for example, you can ask them very simple. How would you name something about like uh like uh like if you're writing, for example, right? How would you name something that will write for you? Right? Writer. Alright or something similar to that. So you want to make sure your functions are named properly. So you know what they do. Because if you don't name it properly, we don't know what it's doing. We can use this and it's like why why are we using speak? Because it's going to speak.
+00:37:26 Speaker 2
+Why are we using this called matrix, right? Because it's gonna use a text. It's gonna use a matrix to make to make the text colorful. Right, so yeah, so things like that we can go quickly over there explaining what it is. We're explaining what binary is, what functions are and then we show them how they how they work, how they can be used. And I think just in that would have about. Okay, we can have we can make it within five and ten minutes presentation. If we want to make it five minutes, then we just basically show them the video binary, tell them where the functions are and how they can be used, and then tell them to go for it.
+00:38:06 Speaker 1
+Dude. Man. What happened? Nothing. I just. I wish that. I wish that we had time or I wish that we could have hashed this out so that I could have just. I can hash it out for you so that I could have just watched you teach the kids and learn with the kids on this. We don't have time for this actually. Yeah. Well, we'd have to just can the and I mean, I don't even care. We could pick a group of like a group of fifth graders and say, okay, cause I mean at this point, I think I understand where you are going with the AI. Yeah. So, what if we took one cohort or like one or two fifth grade classes and said, okay, We're going to do this with these two classes, and everyone else gets the AI. And then.
+00:38:51 Speaker 1
+If you have to leave in two weeks or whatever, or at the end of uh whatever you have to leave, Then I can do the AI project that I know how to do already with the fifth grade classes that stopped.
+00:39:02 Speaker 2
+I like your idea. You know why Becauseum they class from yesterday. They they seem to be on point with AI and I think they're gonna be able to finish together, so we might be able to use them for this. Yesterday, so we're talking. We might be able to use them for this. Barris, yeah. So, yeah, cause they won is USA. Yeah, yes. So, yep, I I think they're they're in a good place because they're the They are all finishing on on the same And I saw them copying their ideas, all of them Yeah So. They are a little bit more on top of what they need to do than.
+00:39:48 Speaker 2
+The class today, so I think they they are perfect candidate for this. Yeah, so we can wrap it up. Was he there night?
+00:39:57 Speaker 1
+You got this right? Yeah, he was there night the whole time. Uh, You got caught walking down the hallway there at some point with I was going to look for my car. Janine Janine got on him and came back here,
+00:40:09 Speaker 3
+And he came back, but he was in a night. Yeah,
+00:40:10 Speaker 1
+Yeah, I saw him,
+00:40:11 Speaker 3
+And then he left at night to go to music to go to music.
+00:40:14 Speaker 1
+To go to music. Yeah Andum, to be honest with you like, I didn't see him. I assumed he was in the line. I didn't like see him or count him when I got down there or anything.
+00:40:22 Speaker 3
+Miss, You said she hadn't seen him in music the whole time until I just took him down there at three o two Oh,
+00:40:30 Speaker 2
+He was here and he did his yeah He did his work also? I don't But, where are you from? Did you go to the store?
+00:40:38 Speaker 3
+Like what are you doing? He was running around the hallways when I came down here on the stage, jumping around That's like forty five minutes,
+00:40:44 Speaker 1
+Dude Wow.
+00:40:47 Speaker 1
+Wow, I remember he was here. He did his work and he got his project too.
+00:41:17 Speaker 3
+There's three other kids. Who are the other ones? And Mark, one and five. Sorry, five. But some of those kids I know are standing in the line down there. I don't know how they got on stage that way. They kept sneaking out. They kept sneaking out.
+00:41:47 Speaker 4
+You just said the back of the line, so I didn't do come out of the classroom or what. Okay, we're all in the line. I saw him in the line too. So I.
+00:41:55 Speaker 3
+Think we just sit down in front of stage area.
+00:41:58 Speaker 1
+And then walk to there. It's like bad choice, but also like it's like you're damaging your relationship with me. Like you made me look like an idiot or whatever. Like I don't know what my students thought is really embarrassing. I'm sure that Teresa feels the same way. Yeah, Miss Teresa said hey.
+00:42:21 Speaker 1
+Three oh two. Like not for nothing, I'm sure she's got a whole thing. You're gonna have to go through right now, but you owe both of us an apology.
+00:42:37 Speaker 2
+Yeah, I. I told them in the line. Now that I'm thinking. Did they just like? Like snake out? Bizarre.
+00:42:46 Speaker 1
+That kid's like a fucking con artist. Um, Alright, I gotta go back here for the parents to come up here. But uh, we'll pick up on that tomorrow whenever we get here.
+00:42:56 Speaker 2
+The reason why I know he was here is because I know that he will try to take anything else as an excuse to not do the work for me. Yeah. So I purposely made time to go to him and have him on point, you know? Yeah. So he can continue engage so he continueum, I'm surprised uh.
+00:43:21 Speaker 2
+The whole group do that. It.
+00:43:26 Speaker 1
+Is what it does. Um, if you if you are ready, like it doesn't matter to me either way, but if you're ready for this first grade class when you get here tomorrow, then yeah, You can either work to get ready for this, or if you are ready for it already, we can continue working on.
+00:43:41 Speaker 2
+Yeah. Regardless of whatever I'm, we are ready to start because we have that presentation, which means we at least have the the beginning of it. Yeah yeah, So that's easy. Um. Oh, What is uh your people coming to Do, you know that they haven't set up yet? I send them the I send them the itinerary Okay So, there's no two different dates. Yeah. Um. I don't know if they answer me to be honest. So I have to go and check it out. But I I, I doubt they answer Okay Yeah yeah No, they haven't answered yet Yeah so okay.
+00:44:19 Speaker 1
+I thought I saw something from Susan. Susan saying she was gonna be on vacation.
+00:44:24 Speaker 2
+Yes, I saw that too. I never responded. Alright, I'll see you later. See you. Yeah, I see it, but she never responded on my.
+00:44:49 Speaker 3
+I'm just.

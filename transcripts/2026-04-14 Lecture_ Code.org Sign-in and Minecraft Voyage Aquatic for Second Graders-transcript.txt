@@ -1,0 +1,180 @@
+00:00:00 Speaker 1
+[ 0m0 s12 5 ms - 0m 1s 345 ms ] [ 0m 1s 345 ms - 0 m2 s6 85 ms ] [ 0 m2 s6 85 ms - 0 m3 s7 95 ms ] [ 0 m3 s7 95 ms - 0 m4 s89 5 ms ] [ 0 m4 s89 5 ms - 0 m6 l 715 ms ].
+00:00:38 Speaker 2
+Everyone. Five to ten minutes. Code. Org for ten minutes.
+00:01:37 Speaker 3
+You lost them last time, and I gotta get a new one for you. Dude, you had help last time. I will literally kill you in the game.
+00:01:48 Speaker 1
+I'll call it a timeout. Hold on. Yo!
+00:02:07 Speaker 1
+I don't have.
+00:03:27 Speaker 1
+[ Children talking] Teacher: Alright
+00:03:45 Speaker 4
+That looks interesting. Second graders, come here for a second. Come to the carpet. Oh. Alright.
+00:04:15 Speaker 4
+Okay. If you don't have a code dot org card, I've made one for you and I'll give it to you right after we're done here. Pay attention everyone. Rosemary. I want to show you guys this thing that I want you to do today to get you ready for when you are Minecrafters for me next year. You guys all want to do Minecraft, right? So, so listen, next year is going to be a big year for you guys in Minecraft. But, this is an activity in Poe dot org to get you ready for that. Okay? So.
+00:04:53 Speaker 4
+How you get to it, I'm gonna show you. I'm gonna give you your card and then you're gonna sign in. So, you click code dot org in classlink. Okay, go to classlink, click code dot org and it takes you to this page. You press sign in up here. Once you hit sign in, don't hit continue with Google. You got to put your class section code right here, Most of you when you click on it, It'll just show up It'll just drop down But. If it doesn't It's, okay, 'cause it's on your card right here. So I'm gonna um, I'm gonna uh sign in at the time like I'm the king, okay? So it's Q L A G Y W. Then I hit go. Now, it's gonna ask me to find my name and I'm pretending like I'm the king. So I go to Frank. Then I gotta find the monster that's on my card or the character.
+00:05:50 Speaker 4
+You don't pick whatever one you like. You pick the character that's on your card. You go here to to the octopus and then hit sign in. Watch this. Now look, I gave you guys a new assignment on here. It's called Minecraft Voyage Aquatic. So you're gonna, click on it and get started with this new twelve lesson series, okay? Watch me do the first one, and then you guys can be off to the races.
+00:06:21 Speaker 5
+Hello, you're just in time. Welcome to thevoyage of Plankton. I'm about to embark on a quest to find hidden treasure. And we're very glad to have you.
+00:06:38 Speaker 2
+Come with us.
+00:06:50 Speaker 4
+Try this again.
+00:06:51 Speaker 5
+Come to the Voyage Aquatic. I'm about to embark on a quest to find hidden underwater treasure, and I'm very glad to have your help. Who knows what we'll encounter along these mysterious waterways? We're meant to meet our first guide somewhere on this dock.
+00:07:07 Speaker 6
+Welcome, adventurers! To complete the Voyage Aquatic, you'll need to solve a series of puzzles using code. Here's how it works: Your screen is split into three main parts. On the left, you'll see the Minecraft world, The middle area is your toolbox, where you can find coding commands. And on the large area on the right is your workspace. This is where you can stack commands to build your program and control your movements. The instructions for each level are at the top of the page. Click the plus signs to change between block and short instructions. Try dragging blocks from toolbox into workspace, stacking them and then click the run button to execute your commands.
+00:07:47 Speaker 6
+You might have to try a few times to get it right, and some of the puzzles have more than one solution. So experiment to see what works. If you want to try again, click the reset button to go back where you started. If you need to delete a command, just drag the block from your workspace back into the toolbox. Remember, click run to see what your code looks like in action.
+00:08:08 Speaker 5
+Okay, I love my robot adventure! Let's start coding to find some underwater treasure! Okay.
+00:08:16 Speaker 4
+So you choose your guy. Okay, you read the directions here. It goes collect the boat. I hit okay. Alright, now keep in mind, you can move this to change the size. But I got a towel here. Look at this, I got to go forward up facing this way. I got to forward once, Twice and then I'll be at the chest So. It already says one run, move forward That's the next level. So now when I hit run, it should move forward once, move forward twice, and then I'm there. So now I'll make this smaller. You need to make the directions bigger. You can make the directions bigger or smaller. I hit run. What do you guys think?
+00:09:00 Speaker 7
+Good because. A little bit good. I wish it was like.
+00:09:03 Speaker 1
+Better but. What do you mean by that? I know what you're saying but.
+00:09:09 Speaker 4
+We'll make it happen. Get out of here. We're not here if you don't have a card.
+00:09:13 Speaker 1
+I'm on level three. Stop. I'm on level three. Rosemary. Wait, are you Rosemary or your sister's Rosemary? Oh, come here. Where's all my food? It's the airplane!
+00:09:46 Speaker 3
+Take that, put your name on it. I'll read it. Ellie.
+00:09:58 Speaker 3
+Miss Castro, get over here. Ellie,
+00:10:04 Speaker 1
+Give me that one right there. David? Wait, is this even.
+00:10:11 Speaker 1
+Yeah.
+00:10:47 Speaker 3
+He Didn't lose a credit card. He doesn't have a credit card. He's four. Let me see. Let me take that thing to the mall. Let me take that thing to Home Depot.
+00:11:00 Speaker 7
+My mom has to put the money on it that I give her, but right now I only have 19 cents on it. Wait, how does this work?
+00:11:09 Speaker 4
+Oh my god. My phone's gonna die. 30% battery.
+00:11:13 Speaker 3
+I gotta hold it like this or it doesn't charge.
+00:11:19 Speaker 7
+Use a different outlet then. Watch what's about to do this. Soon as I let it go, it pops out. You guys your phone just the right one? My phone what? Your phone probably isn't the right charger for it. Why don't you just use this charger?
+00:11:43 Speaker 7
+Where is it charging to? It's working. Don't touch it. Let's get away. What can I go on that's not the panda thing but still hurts?
+00:12:12 Speaker 1
+Alright, and Steve.
+00:13:23 Speaker 3
+I need you to like know what the video Is.
+00:14:09 Speaker 1
+I Almost choked.
+00:14:42 Speaker 1
+I already watched. I don't know what to do. I think we need. What? Mr. Romig, how do I do it? I can't see anything. You might know, you might not know. There is a.
+00:15:35 Speaker 4
+There is a. Not alone, shell. Right now we're we're going to go on a shipwreck to reach the chest.
+00:15:45 Speaker 3
+Zero rules. Oh, appropriateness, nothing. Well, I got it.
+00:15:53 Speaker 1
+Fiona, Dominic come here. We just need to get more cannons and traps. Just like a plan. Oh my.
+00:16:01 Speaker 3
+Gosh two more videos Do you guys see me? Next year, You guys are probably gonna be working together a lot, because she helps me a lot. So I'm sure you guys will all be involved with morning show and everything. So, um, I just wanted to introduce you guys because we see each other so. Um, alright. So, we did this project where we wanted to go somewhere in the world and learn about their country. Okay so didn't you guys change what she said?
+00:16:37 Speaker 3
+Can you cross, if you did, can you cross that out and put whatever she actually said there? And then someone needs to say that. You said," you said right." I think we already did that. So write that there. And now really you just need to get Gargan on it.
+00:16:54 Speaker 2
+What do you want to go that way? Going inside? Am I gonna get this car? Right? So what do you need?
+00:17:04 Speaker 4
+What do we do? So make sure you write down, what Keith said here. So I can have it all down. And then we'll need to edit them all together. Um, Gargan is going to be weird. Like, what do we make Gargan say? David! David! You're screaming, dude. And there's no reason Everyone Here.
+00:17:27 Speaker 2
+You guys can do this. All right We want to go around and open the cards and read them, right?
+00:17:33 Speaker 4
+So let's do that.
+00:18:04 Speaker 2
+I want I like I cannot hear you class.
+00:18:35 Speaker 1
+It's gonna take you to your goal. I know, I know how to do it. I can't see him. I don't see him. Do that differently? Okay, how did you do that? I can't see him. You have an idea? Yeah, what's that? Can't see Sam. Sam! No, no, no!
+00:19:15 Speaker 2
+I Have an idea. I I have a solution, but I want to see what you guys come up With.
+00:19:36 Speaker 1
+I can't see. I can't see. Okay,
+00:19:42 Speaker 2
+Let's try it. She has an idea now. You wanna try it? Let's try it.
+00:19:49 Speaker 1
+Stay down, stay down. Right? Wait a second! No way! I'm hopping over legs! Bro, go back! Why are you doing that to me?
+00:20:39 Speaker 1
+This one's from. Yeah, that's how it is. So what you do? Actually, I need help. Yes, you can do like left or right. Yes, sir, I need help. So, this is the left. Just I will keep going to the right side of this pole.
+00:21:01 Speaker 3
+And then do read, that's what it tells us over here. Now, your big swing. So you were doing the other box. And you didn't like read. [ Children talking]- Steven!- Steven!-.
+00:21:20 Speaker 1
+He's hurting himself. Somebody save him.
+00:21:24 Speaker 2
+Can do it.- Alright, go ahead. He has a solution.- Pay attention, this is the solution. Hey, what is the solution? I need help! Can you help?
+00:21:37 Speaker 1
+Come here. Show me.
+00:21:41 Speaker 1
+I'm gonna go on my camera. I'm on level three. Look what he's doing. No, no, no! I did it! It's turning red. You're supposed to do this. Look at this one here. You don't need three, you only need two. What are you doing? Could you help me? You got it! Owie! Owie! What is that thing? Look at that one there.
+00:22:23 Speaker 1
+I already did it.
+00:22:40 Speaker 2
+I know it's gonna be healthier.
+00:22:45 Speaker 1
+Alright. Who needs help? Me! I'm coming to you right now. She just called me. I know you're fine with this one. You need your soup, get a little bit of water here, right? Yeah, That's what we're trying to do here at the program here at the school for kids to eat healthy food and get active and have fun while they're doing it so that they can grow up into healthy adults who are happy with their lives and don't have diabetes or heart disease or cancer, or any of those things that plague our society today, because we don't take care of ourselves when we're young. So let's start young and make sure that our kids are eating good food every day.
+00:23:13 Speaker 1
+I need help.
+00:23:44 Speaker 1
+I need help.
+00:23:45 Speaker 2
+So here, coming to you right now. Here is the same thing, right? Soum. Looks freezing out there. Navigate through the ice and reach something. So up.
+00:23:59 Speaker 1
+One two three four. One two three four. One two three four. One two three four. It's a bit big. Yeah, get that.
+00:25:14 Speaker 1
+I was I was seeing if you paid attention. So does that make sense now?
+00:25:43 Speaker 1
+I can't wait to see.
+00:26:13 Speaker 1
+Which one is that I don't know.
+00:26:42 Speaker 3
+Turn that off.
+00:27:42 Speaker 1
+Thank you.
+00:29:15 Speaker 2
+I Need a.
+00:29:25 Speaker 1
+Difficult. I have a difficult for me.
+00:29:43 Speaker 1
+Oh, he's right here. Okay. Let's do it. Don't move!
+00:29:46 Speaker 2
+I really need it! Let's do it. Let's do it together. Willie, you've been here the whole time? Uh- huh. Let's do it together! All right, you can be the last name around, don't worry about that. See? What do we what do we need to do in here? Forward. Five times, So let's see here. You found it on the water line. Search the sandstone for a chest containing rosemary. Is that how you say it, Christian? Rosemary! Oh, is that rosemary or prismary? Oh, I have no idea. I have no idea anyway. Soum. Okay so. I think that's amic crack. Is that where we need to go? Yeah! Right by the box?
+00:30:37 Speaker 1
+All right. Hey.
+00:31:07 Speaker 1
+All the way up. We have to figure out what what we're doing first. So, yes. Okay, so you think you can do that?
+00:31:25 Speaker 2
+Yeah. All right, so let's see. You step forward, how many times forward? Six! Five! Six! Five! I don't know. Start it off. Five!
+00:31:36 Speaker 1
+What should I say, Matrix?
+00:32:08 Speaker 1
+I need help. I need help.
+00:32:11 Speaker 4
+Hey, guys, here's the deal. If, you're one of the kids that's screaming" I need help" over and over again. And meanwhile, putting no effort into doing the work, stop talking. Raise your hand if you need help. Ellie,
+00:32:29 Speaker 1
+You come sit here, I'm going to help you. Good job. I know how. Oh!
+00:32:40 Speaker 1
+Too many uh too.
+00:33:07 Speaker 3
+Many times.
+00:33:24 Speaker 1
+I'm A girl. I want to be a guy.
+00:34:01 Speaker 3
+I'm Gonna go Back.
+00:34:11 Speaker 2
+I want to I want to see little more. I do. She.
+00:34:21 Speaker 1
+Came back to the right, you have to change this spot and then we're going to go forward again.
+00:34:27 Speaker 3
+We're here, all we got to do now. Oh, we got turn left. He's doing it.
+00:34:36 Speaker 1
+Then we go forward again.
+00:34:45 Speaker 3
+Now, I want to show you something. It's kind of advanced, but I think you can do it.
+00:34:50 Speaker 1
+So you put this stuff in the middle and then you reach. See this right here? You just throw it in there.

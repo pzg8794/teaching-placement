@@ -1,0 +1,218 @@
+00:00:01 Speaker 1
+Oh, something that I.
+00:00:03 Speaker 2
+Was making up this morning. What's the new stuff? My daughter's four. She has no clue how to do her makeup. She tries to do it every day, so I got her like this little fake makeup thing. It's a disaster. She looks like a scary clown when she gets done with it. Class clap! You got a class clap. Yes. So boys and girls, couple things. Thing number one, today is unfortunate Mr Garcia's last day here. I'm super sad too guys, but you know what Mr Garcia is in the he's doing a lot of schooling right now, and you're probably gonna see Mr Garcia one day again, maybe he'll be a teacher or a.
+00:00:59 Speaker 2
+Principle next time you see him. But I might visit you guys. I want to make sure that you guys get some chill time and some time to just hang out, and we'll do some computer free time with Mr. Garcia. But I also am really, really hyped up to show you guys. I want to get you guys moving on the robot that I'm going to transition you guys to. In third grade, you guys as first and second graders should have become experts in these robots, which are the Indy cars that react to the colors underneath them. But unfortunately, you guys are too stinking smart. And so now I got to give you guys harder robots to learn how to use. But they're also way more fun.
+00:01:55 Speaker 2
+Some of you may have used these already before. I know some of you I've done special projects with where we learned how to drive these robots or aim these robots. So today we're going to do a little refresher on how to First, we're going to have to download the right app in case you guys don't have it. And then if you do have it, we're going to learn how to connect your robot, how to aim your robot so that it's traveling in the right direction. And then last but not least, we're going to learn how to drive the robot around the room. And then if you guys get to it, maybe Mr. Garcia will show you guys this cool thing where you can like use what you know about shapes to, go up two spaces. Dude, This so this will probably help you with your math work, even though it's fun because you're going to code your robot to go in shapes using this like drawing tool. Right? Yes Callie? This better than I have anything do at stake.
+00:02:55 Speaker 2
+Were you just gonna tell me that I look really handsome today? Do you want McDonald's? Do I want McDonald's? He wants McDonald's. I already had it.
+00:03:06 Speaker 1
+I'm telling you to stay here. Why are we going to McDonald's?
+00:03:11 Speaker 2
+Everybody here put your finger on your nose. Everybody here put your finger on your forehead. Everybody here put your finger on the chin. So check this out. I wanna plug in that computer right there, can you hand me that cable please? I'm going to use this to see if you guys have the app and then I'm going to show you how to put the app on your computer. And then after everyone gets the app on their computer, you guys are going to come back up here and we're going to do this, do the thing. Can we have that chair over there?
+00:03:44 Speaker 3
+Sir, how many more days until I come here?
+00:03:49 Speaker 2
+How many more days until you come here? You're here right now.
+00:04:07 Speaker 2
+I'm getting.
+00:04:23 Speaker 2
+Make a logo.
+00:04:25 Speaker 1
+Figure out what we want.
+00:04:28 Speaker 2
+I know what it is. Is that what I was asking you? So it looks like Rayshawn already has this app. I'm thinking you guys might, which will be good. So what I'm going to do is show you how to get to it. I'm going to show you what to do when you do get to it. And then when I send you off, it'll just be your job to check to see if you have the app. If you don't, you'll download the app. And then I'm gonna show you how to get to a robot, connect to it and aim it. I guess I'll show you how to drive it too. So this is what the app looks like right here: Sphero Edu. Hey, my computer's right there if you need it. You don't need it?
+00:05:18 Speaker 4
+Hi Zach! Hey Jack.
+00:05:20 Speaker 2
+Once you if you don't have this app on your computer, what would what do you guys think you would go to? What would you click on? What do you think we should go to? The app's not there. How do you get an app on your computer? You search it, But where what do you need to search it in There's another app that you go to in order to get apps. The Play Store. Very good. So we're going to go to the Play Store. And then once you've hit the Play Store, you're going to come over here and find the thing that looks like Spiro. Alright? It may take a minute.
+00:06:05 Speaker 1
+What was that? A movie that was made in nineteen thirty three called "Snow White and the Seven Dwarfs." We saw it on Netflix. I like the slide. I want to play on here, but I also want my sister to go on it. One of my sisters was just. Can you hear that doorbell? She wasn't like.
+00:06:33 Speaker 2
+Hey. Sorry, that was my fault for sidetracking you. So look, this is what it looks like in here. Once you're in here, you'll click on this Seer EDU app and then this says open because he already has it. If you don't have it on here, this will say install. You press that and wait for it to download. Does everybody understand how to get this app? Once you get the app, the next thing you got to do is you're going to get in here and connect to a robot. Okay, so I think we need to make sure that the user has access to the right data.
+00:07:17 Speaker 2
+Yeah.
+00:07:47 Speaker 5
+And if you guys listen, if you keep it quiet, we can move quickly and then you guys can spin the wheel for a gift.
+00:07:54 Speaker 6
+Why? We like this class, right Mr. Rami? So maybe you guys just spin the wheel quick. It's not gonna be any worse if you guys don't let Mr. Rami tell me what he wants to tell me. Let's go through the lesson quick.
+00:08:13 Speaker 5
+Guys can get something nice as a memory from me for all the hard work you guys did during our classes.
+00:08:20 Speaker 2
+I'm gonna start in three, two, one. Once I get here, I have to connect to a robot. You see up here in the corner that says connect. I will click on that, and then I have to choose the type of robot. Does anybody know what type of robot this is here? What type of robot is it?
+00:08:43 Speaker 4
+Those are all Spheros.
+00:08:46 Speaker 2
+But there's look at there's different. Which bolt? That's the bolt. The plus one. This is a Sphero Bolt Plus. If you click Bolt, it will not work. Please pay attention. You're gonna go and click on Bolt Plus, and then you must shake the robot to wake it up. You have to pay close attention. See how there's more than one up there? If there is everyone trying to get on at once, these robots are gonna see like ten of them up there. You got to match them up with the number that's on here. So two C nine B. That's the third one down in the bottom. Once I click on it, you can see it's connecting. It's connecting now.
+00:09:38 Speaker 2
+A million different things you could do with this robot. I'm going to teach you guys all kinds of coding, you can do with this thing when you get old. For today, All I want to do is make sure that you can aim it and drive it. So what we're going to do is we're going to quiz you guys. Can you guys all stand up and move off the carpet? Mr. Garcia and I are going to walk around, and if you're sitting here with your robot, Mr. Garcia might walk up to you and say, "Hey," Aim the robot and then drive it at my foot. And your job is going to be able to hit his foot while you're driving it. I'm connected. I hit drive here. Drive pulls up this screen here. I can change the display by hitting this. I can change that changes the picture on here. I can change the color by changing here.
+00:10:37 Speaker 2
+You guys have to stop your side comments or I'll never get through this. Montgomery's. Eyes on the prize here. I'm waiting for all the kids' eyes to be on my sphero. Actually, on my screen. This changes the brightness of the LED lights on the sphero. And then over here we have the speed with which we're traveling. I know you guys are all going to crank it up. It's fine. Now there is two different types of ways to control this. You can use the A W S D on your keyboard, or you can change it to a joystick.
+00:11:31 Speaker 2
+No Matter what, you must aim your robot before you drive it or you won't know which way is forward. So I want you to watch this real quick. If I want to go forward, I press up, forward, left, right, down. I'm going to hit forward right now. So let's say I'm aiming at Ruby. I'm going to go forward. Watch. Wrong way. It didn't know what way was forward so it didn't work. If I put it back here now remember.
+00:12:06 Speaker 2
+It'll come back. If I want this to know what weighs what, I need to aim it like this. It's got arrows on it that tell us which way is forward and that blue dot shows which way is its tail. Now remember, so Mr Garcia or Mr Roman walk up to you and say okay, roll it at my foot. So I'm going to try to hit Mr Garcia's foot now. So I aim, it's aimed at his foot. And now I go forward. Boom. You just accomplished the task that I'm looking for you to do today. You guys think you can do this? Yeah! Go give it a shot.
+00:13:04 Speaker 1
+Where are we Zach? You don't know? We were trying to get it up there. You're doing this. That's good. I know what to do.
+00:14:15 Speaker 1
+Oh my god, your hair's like a little ponytail.
+00:14:17 Speaker 2
+I'm a little scared about how that one came out. Brow. We are booking right now. Booking! So look at this. This is called the bamboo handi app. Now we have to.
+00:14:34 Speaker 1
+Slices.
+00:15:34 Speaker 6
+Check
+00:15:35 Speaker 1
+I agree. I've been waiting for you to come over here. What are you doing?
+00:15:40 Speaker 2
+I'm trying to aim it towards the. Make sure you tell your mom how much fun this was because this was the last thing yesterday, she was thinking about. I need an update.
+00:15:53 Speaker 1
+Update what? That's mine! You're about to hit my foot!
+00:16:04 Speaker 1
+I'm spinning it. Open. We're ready. I know. Are you all right? I don't know how to do that. You already have this app installed, just update it. Updating right now. Hi my name is Callie Keeney and I'm five years old. You're good.
+00:16:34 Speaker 1
+I'm going to get a new one.
+00:18:36 Speaker 1
+What happened.
+00:19:09 Speaker 1
+Oh my god.
+00:20:10 Speaker 2
+So go to joystick. Pick that up. There you go.
+00:20:20 Speaker 1
+Ready? Mr. Rolly! Mr. G, I already won! It hit Boston outside the zone, right? So do you want joystick or put it down. There you go. You don't need me anymore?
+00:20:39 Speaker 1
+I went into the bathroom. What's that? Help me. There you go. Come on. Oh yeah! You want to get it out? I'm getting it out now! It's stuck in her. Almost there. You know, I think this is going to work. You want to get a knife? Get a knife! There we go. We can get this thing out now! Oh. Oh. I'm not even touching it. You're the one that's touching it. No! Hey! I got it! I got it! What's the matter with you? No! What's the matter with you? You look upset. That's mine. My robot. My robot. Stop! Did you really just. That doesn't open. It doesn't open.
+00:21:40 Speaker 2
+Hey. You want me to help you out? I'll get you all the way started. Where did you go?
+00:21:44 Speaker 6
+What else is done? Whoa! Whoa! Whoa! Whoa! It's ready for my face. Give me help. My gosh.
+00:21:55 Speaker 1
+We need more water. Are you letting her?
+00:22:42 Speaker 1
+[ Children talking and.
+00:22:46 Speaker 6
+Laughing]" Mine!""."" This.
+00:22:57 Speaker 1
+Way! This way!
+00:23:06 Speaker 2
+That's mine! That's mine! Lydia! Hey, stop yelling at each other.
+00:24:12 Speaker 1
+This is not mine. Mine is purple. This one I did not make. Let's make him make a sound. Mine here is not purple.
+00:24:36 Speaker 2
+Hey! Gwen, come here, I'll help you out. Why are you whining instead of asking for help? Mr. Romick's here for you, girl. Get over there. I'm trying to find her.
+00:24:48 Speaker 1
+I tried to put it right here, but I. There you go, that's two. You're gonna have to go over there and get the robot and have a prize when you're done spinning the. The little robot is spinning like crazy now! Where?
+00:25:11 Speaker 1
+I'm sorry. Don't touch it. I'll take it. I said don't touch it. Oh no! Let me see if you can go on ice cream now. Now I can't eat my.
+00:25:42 Speaker 1
+Yeah.
+00:27:47 Speaker 1
+You're using my Chromebook.
+00:31:05 Speaker 1
+I'm ready.
+00:31:35 Speaker 1
+It's been charging overnight.
+00:32:07 Speaker 1
+Yeah.
+00:32:37 Speaker 1
+Hey, Jamarius, that dude's your cousin?
+00:33:05 Speaker 1
+She's really smart. She was saying something the other day I didn't even know that. She knows all about protein. You want to have all the.
+00:33:36 Speaker 2
+I've mostly done this. Katie, you want to run around? We haven't put the robots away. We're just going to keep them here for a few more minutes.
+00:33:44 Speaker 1
+It's okay. No. Look over there now. Oh! Hey!
+00:35:03 Speaker 6
+And then start spinning. Those are happy moments. Give me him!
+00:35:16 Speaker 1
+You want to have your attention? Alright. Do you guys want to spin the wheel? I want to!
+00:35:32 Speaker 1
+I need you.
+00:36:01 Speaker 6
+Those that don't see time are not playing with us. We're not playing with you.
+00:36:14 Speaker 5
+If I hear anyone talking, that person is not playing.
+00:36:27 Speaker 2
+Is this the one that we use? You cannot. I'm sorry, I didn't realize.
+00:36:59 Speaker 5
+Everybody's quiet, right? Everybody's ready for the wheel, right? We're going to do it quietly and I'm going to call one at a time. Alright, I need to see people sitting down. Everyone needs to sit down. Come here honey. Come put your name in here. Put your name in here.
+00:37:28 Speaker 5
+The good news is that we have time, because you guys leave at thirty five and you guys finish the work. It's twenty one, so we have enough time. Go over there and hit spin. It's not working? Technology. I forgot to run it before coming here, let me see if the internet allows me. Hold on. I think it's the school might be blocking me. That's why I use my. We might still have time, guys, so don't worry about it, let's see. The school is blocking me.
+00:38:34 Speaker 4
+I'm gonna use my phone because the school is blocking me. Let's go, we did it. We finished just in time. 'Cause the school is blocking the wheel.
+00:38:59 Speaker 1
+Alright.
+00:39:33 Speaker 5
+Exercise, I like that.
+00:39:51 Speaker 5
+Hi. I'm gonna try this again.
+00:40:28 Speaker 3
+I don't know why they're blocking this. The collab.
+00:40:34 Speaker 5
+Book from Google. I don't know why they're blocking. You guys can sit down. I'm gonna work on this. We might have time, but we'll see. You guys sit down. If you guys make it too noisy, I won't be able to concentrate. I need to fix this for you guys. They can. You guys have free time now.
+00:41:16 Speaker 2
+You can go on your Chromebooks right now. You cannot be up wrestling and dancing, so sit down. Do something on your computers.
+00:41:32 Speaker 1
+I feel like it's something that.
+00:43:11 Speaker 5
+So maybe it'll work now. I think it's gonna work now. I think it's gonna work now.
+00:43:28 Speaker 5
+Anybody that is causing a disorder from now on is not going to play. If you guys are talking, you guys are not playing. Just so you know. Give me your initials, honey, two letters.
+00:43:45 Speaker 1
+B: Um, what's your name? Vivian.
+00:44:02 Speaker 1
+What'd you got? She got a fidget spinner.
+00:44:32 Speaker 1
+I'm gonna get it. What's it on? I'm gonna get it. Here. Your name? Where? What do you guys need?
+00:45:19 Speaker 5
+And then I'll call you.
+00:47:05 Speaker 1
+You need to pay attention.
+00:47:17 Speaker 5
+Calling you next. You're not paying attention, so you come. You're next, pay attention because I called you twice.
+00:47:50 Speaker 1
+Lego lights up the ring.
+00:48:25 Speaker 1
+I like.
+00:48:55 Speaker 1
+I did not. Who did not do the presentation? Did you guys do it?
+00:49:09 Speaker 5
+I didn't. Don't talk, guys. If you're talking, you're losing your prize. Because I need to pay attention to who's presenting. You come. Quill has to come first.
+00:49:21 Speaker 1
+Next after him. Baby y'all, The A right there at the end of the word.
+00:50:02 Speaker 5
+You guys need to sit down immediately after you spin, because if I have time to give you your game, I can't give it to you right now.
+00:50:51 Speaker 5
+You guys have to line up now. Line up and stay there. I'm gonna go one at a time and if we have time, it's gonna stay here. Everybody line up and stay quiet because I'm gonna be. We literally only have one minute. Let's see.
+00:51:21 Speaker 4
+I got LED lights. You have to line up. Can I use the bathroom? Yes.
+00:51:33 Speaker 5
+What's that? Can I go to the bathroom? You need to line up because I need to go to you guys. Bracelet.
+00:52:15 Speaker 5
+We're gonna go from the beginning. Let's see. From the last one, Monty. Who's Monty? It spins. Who's Gabe? We're remaining quiet, right, so I can see who is who. Davian.
+00:52:50 Speaker 5
+Everybody needs to be lining up because otherwise I don't know what you guys are. Davion, who's Davion? Blue or green? Presley. Who's Presley? There you go. Stir it up. Eva! Eva. You got a bracelet. You got a bracelet. Hey, honey, you got a bracelet right? So I thought you got a ring. That's Eva's bracelet Louis.
+00:53:51 Speaker 5
+What color? Hurry up, we don't have time. Wait. You guys gotta go. It's gonna be here with your name. Can I have blue? It's gonna be here with your name. Don't worry. You guys got to go. It's gonna be here with your name. It's not gonna go anywhere.
+00:54:21 Speaker 5
+No. Who was the last one? The Lloyd, right? There you go.
+00:54:30 Speaker 3
+Wait, and I need it. I need it. 
+00:54:35 Speaker 5
+It's gonna have your name.
+00:54:36 Speaker 3
+When you're gonna get.
+00:54:37 Speaker 5
+Out. You guys have to go to class now, but I'm gonna. It's gonna have your name here. So when you're done, you come and get it. I had the blue one. You're gonna get out. You guys are done, just come and get it.
+00:54:58 Speaker 6
+You guys did a great job.
+00:55:41 Speaker 6
+Yes.
+00:55:48 Speaker 5
+Hello. How are you? What's your name?
+00:56:02 Speaker 4
+I'm Delina. And what grade? Start. I really hope I get headphones.
+00:56:10 Speaker 5
+Let me Today's my last day, so I'm just doing this year. Today's my last day. Are you doing yo-yo? So basically I they had a project and all the.

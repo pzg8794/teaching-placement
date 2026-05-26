@@ -10,12 +10,6 @@
 *.synctex.gz
 ~$*
 
-# Keep raw transcripts markdown-only in Git.
-transcripts/*
-!transcripts/*.md
-!transcripts/non-lesson-context/
-transcripts/non-lesson-context/*
-!transcripts/non-lesson-context/*.md
 *.nav
 *.snm
 *.vrb
@@ -27,6 +21,7 @@ tmp/
 __pycache__/
 _tmp_*
 student_prize_tracker.json
+!transcripts/student_prize_tracker.json
 
 # Local prize tracker outputs can contain student names.
 pinebrook_ignite_prize_packing_list.*

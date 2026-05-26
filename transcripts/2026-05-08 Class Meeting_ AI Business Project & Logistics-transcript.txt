@@ -1,0 +1,344 @@
+00:00:00 Speaker 1
+You guys, um, I know a lot of you guys are still wanting to um present your Minecraft thing, and I want you to be able to do that. What we're going to do instead of having entire classes that are dedicated to that, We're going to start off class with it from now like from now until we're done. So like we'll do one or two presentations at the beginning of every class where you get to come up here, show off your stuff, and then we'll move on to what we're working on. Okay? So I want to, show you guys. The next thing that we're going to be like doing until, um, until pretty much the end of the school year. You guys will probably you probably have maybe four more sections with me. Um and four more class meetings with me, and then after that we are going to be done for the year. So, you guys have like a culminating project where you are going to use. AI and learn a couple new programs, and also.
+00:00:59 Speaker 1
+Hopefully, Kind of show some creativity that you may not get to do in your regular classroom. Okay, so I what I want to do today is just explain this project. If you want to get in and start playing around, you can. Things are going to change. So like Mr. Garcia and I will like kind of Tweak your AI engines so that they work a little differently. So if you go in today and do some work.
+00:01:29 Speaker 1
+And then. And then tomorrow you go in and it's the same thing. Why you looking at me like I'm a mean teacher? I'm up here talking to you guys. You're playing a video game while I'm talking to you. I'll send you down to Miss Weiss. So, this is what we're doing. Okay, you guys are going to come up. With a business idea. I'd like you to work in pairs, like with one other person. Ah, ah, ah You don't need to pick your partner right now. Okay, if you want to work by yourself, you can. I don't want people working in groups of three, because I feel like that gives you an opportunity to just sit and do nothing. While your group does all the work for you. So, if you want to work with one other person, you can. You want to work by yourself, you can. If you are working with one other person, you got to have.
+00:02:26 Speaker 1
+One idea that you're both working toward, okay? What we're doing is you're coming up with a business idea. Now, I've had kids that actually launched businesses from this before. Okay, So kids that like did a project like this, and then they actually started selling something and making money from it. I'm not telling you that you need to do that, But what you're going to do is you're going to come up with a business idea using AI. You're going to figure out how much startup costs you will need. Okay, you guys know what the startup costs are? It's like buying presents. It could be right. So like startup cost is like the money that it costs you to start your business. So, if you are selling neatos, You got to go buy a hundred neatos so that when people come into your store, t here is stuff for them to look at, right? Or maybe you don't if you have an online store.
+00:03:24 Speaker 1
+You just need pictures of neato's, but you have to pay to have a website. You have to pay to host a website. You have to pay. Somebody like Mr. Garcia to design your website for you, so those are all startup costs. What's it going to cost me to get my business up and running? Okay, so you're gonna use the AI to brainstorm your idea. You're gonna use the AI to determine what those startup costs will be, like what things you'll have to pay for. And then you're going to use a program called Google Sheets to make a table, which is like a document that's going to show somebody at one glance. These are the things I have to buy to start my business, and this is how much it'll cost. And I'll get into showing you how that works. Um, on the next day that we work on this.
+00:04:19 Speaker 2
+Work The system.
+00:04:20 Speaker 1
+So I'll show you. You guys have probably seen it before. Have you guys ever seen this? This is called Google Sheets. Okay, so this has a lot of application for adults. And I'm just going to show you guys some real basic stuff in it so that you can understand how to use it a little bit and then go from there. After you figured out your startup costs.
+00:04:48 Speaker 1
+You guys probably got a little bit of money, right? Like you do chores, you got piggy bank, you save up your cash. Like a normal business, typically has a big amount of startup costs, like thousands, right? Thousands of dollars. Most people don't already have all the money they need to start the business that they're trying to start. So what do you think they do?
+00:05:12 Speaker 3
+They would do like. They would do stuff like. So they would go get their own jobs.
+00:05:20 Speaker 1
+Okay, so they save up, they make money and save up. What else? Cause that would take a long time, right? Is there is there a faster way?
+00:05:26 Speaker 2
+Like open.
+00:05:27 Speaker 1
+Up the lemonade stand. Okay, but where are you gonna buy You gotta buy the lemonade. You gotta buy the stand itself. You gotta buy wood to make the stand. You need cups. You need The pitcher that the lemonade goes in. You got all kinds of stuff you need. If you don't have enough money, how do you get it? Fundraiser.
+00:05:44 Speaker 1
+Okay, you guys are getting closer now. Fundraising. Let me ask a question.
+00:05:48 Speaker 4
+I think I can help you here, guys. How do you think the, the kids or kids or adults that play, ah. NFL or baseball, basketball. How do you think they they they actually make money.
+00:06:03 Speaker 3
+Twilight. Entertaining people and like stuff and like. Yeah.
+00:06:13 Speaker 4
+What about Nike's?
+00:06:16 Speaker 4
+Fundraisers. Fundraisers, but what about companies like Nike, for example? I what do they do. Ah, sell stuff, right? To whom?
+00:06:27 Speaker 2
+The people will buy it.
+00:06:29 Speaker 4
+No, to whom do they sell stuff?
+00:06:34 Speaker 4
+Websites. Yeah, but like, who do they get to sell their stuff? Companies. Companies. Like.
+00:06:42 Speaker 3
+Ca shiers.
+00:06:44 Speaker 4
+What about the players? Right, they give the players to advertise their, their their merchandise. Right. So, they are sponsoring right. So what do you think you guys need.
+00:07:01 Speaker 3
+We need people to like, be on the commercials, and like. Advertise.
+00:07:08 Speaker 4
+And sponsor your work, right? Exactly. Yeah. So and those are, investors.
+00:07:14 Speaker 1
+So, investors. Are people that give money to somebody with the hope of getting that money back when your business is profitable? Okay, so let me give you an example. Let's say Willie came up to me and she was like," Look, dude, I really want to start a sneaker company, but I only got eight dollars from doing my chores. I need you to give me a thousand bucks so I can go." So I can start to do some advertising for my sneakers that I want to sell, okay? And I would say, "Listen, Lily, I'll give you a thousand bucks. " But, you got to give me a hundred dollars every month for the rest of the time you are in business. Does that sound like a good deal? Well, it's a good deal for Lily, right? Because she's going to make money off her thing. Maybe she'll make five hundred dollars a month. So then she gets to keep four hundred and give one hundred to me. It's also a good deal for me.
+00:08:10 Speaker 1
+I gave her a thousand dollars that I could have used to go somewhere else and do some other things, but. I get to get a hundred dollars for the whole time she's in business. How long does she have to be in business for before I get paid back my thousand dollars? I'm getting a hundred bucks a month. How many hundreds are there in a thousand? Ten right, so in ten months I got my thousand dollars back. Then everything else she gives me is just profit. Now I'm making a hundred dollars a month, and I don't have to do anything. So that's what an investor is. Okay, Now the tricky part is, how are you going to convince me to give you that thousand dollars instead of giving it to Piscotty, who's got a business making uh selling Meta AI glasses and I think he might be more profitable than you. I got to decide who to give my money to. Oh, you guys never see this the the T V show Shark Tank.
+00:09:07 Speaker 4
+Oh, there you go. There you go.
+00:09:08 Speaker 1
+That that's what Shark Tank is investors. Yeah, and the people that are in the middle that are pitching their business, those are business owners that need money from the investors. So if you watch Shark Tank, you're watching this exact process that I'm talking about.
+00:09:23 Speaker 3
+Mister Roman You had to choose between people. People could be like one hundred dollars. I'll give you one hundred dollars, and then the other person would be like five hundred.
+00:09:37 Speaker 1
+That's Exactly right. So back and forth to see how much I am giving, how much I am getting back, all the stuff. Okay, so after you are done coming up figuring out your startup costs. You're gonna make an investor presentation to try to get, Mister Garcia and I to give you cash for your business. And. Then the last thing you're going to do is you're going to come up with a marketing plan. And what that means is, You got to figure out how you're going to get customers to buy your product. Okay. So that means, like Mister Garcia was saying, are you gonna sell your product on a commercial. Are, you going to have a little flyer that goes in a mailbox and goes to people's houses? And it really all depends, right? Like, a commercial might be the best thing if you are selling like jewelry. But if you're if you have like a lawn mowing service, if your company's going to be a lawn mowing service, Maybe putting a flyer in people's mail would be just as effective and maybe less expensive. Okay.
+00:10:35 Speaker 4
+What someone would you already talk about Like having a lemonade stand, right That's that's another way of doing it. Right, how you gonna sell Right, you're gonna sell through. Um, stands or commercials or advertisements. You know things like that.
+00:10:51 Speaker 1
+So, you guys have the tools now as third graders to do all that stuff. You can go on Canva. I use Canva for my business all the time, all the time. You can see you can see if you pull up my Canva on here. Actually, I'll pull it up for you real quick. You can see I'm constantly making marketing materials. On this website, And the reason why this so great is because it's not exactly the same, but I am getting work that's. In the ballpark of quality that I would get from a graphic designer. And I am getting it for free, okay? Like so, if you look here, this a.
+00:11:34 Speaker 1
+Okay, let me back up for a second. My business is I manage um vacation rentals. How many people have ever been on vacation? Okay, So you go with your family, and you stay in a house that doesn't belong to you, right? Does that feel a little bit weird? That, so your family is paying money to some other person who owns that house, who rents it out to your family. So I help make those connections. So you can see here like this is a book That I put in the house to try to help the person be more comfortable in that home. Okay, and I made this. I just took some pictures. Look, there's a picture of me and my wife and my dog. Here's a bunch of recommendations for where people can go to get food. Down here, there's like different things you can do in the area, okay? And you can as as I go through here, there's literally hundreds of different things. This trying to get this like a big, huge sign that goes on a golf course, trying to get you to rent a house.
+00:12:33 Speaker 1
+This is a flyer that I sent to people in the mail, that has information about a house that I'd like people to rent. Same thing with this, okay? So there is all kinds of different things you can make a video. If you guys, you guys that are like Google Biz. You could make a video of yourself trying to sell your product, and as we get closer to that stage of it, I'll give you guys some strategies for trying to convince people to do things or buy things. That will help you to be more persuasive in your in your marketing. Okay, I know that's a lot. I am just trying to give you an overview right now. This is what I am going to say today. I would like you guys to get in magic school. You are going to go to magic school by going to Google Classroom. It's confusing right now because it's big, but I don't want you to worry about that. Go to magic school; you can go to Lelouchie. This right here.
+00:13:30 Speaker 1
+That will take you in. There's an idea generator in there. Click on idea generator and just say hey. This is how you're going to come up with your thing. Say, I'd like to start a business. About blank and put things that you're interested in there and see what ideas you can get to come up through magic school. So I want to start a business. About blank, okay, and blank is anything you are interested in. It could be video games. Sports.
+00:14:00 Speaker 1
+It could be, uh, food. It could be desserts, candy. Whatever you're into. Okay.[ Music].
+00:14:16 Speaker 2
+I'm not going to be here. I love you. I see you. Thank you. I didn't get any time. Why are you guys doing Minecraft? I'm sorry. Yes. Oh.
+00:15:34 Speaker 3
+Wait, are we joining a new group?
+00:15:37 Speaker 1
+Uh, you shouldn't have to. I just changed some things. Don't touch it. The only tools in there right now are your idea generator and your image generator. I thought you guys might use the image generator, like let's say you wanted to sell a product. That doesn't necessarily exist. Well, you could ask. Mag ic school to show you what that project would look like by prompting it. Right, so if I wanted to sell uh neos that were shaped like Kylie's ear. I could be like, Make me a neato that's shaped like a little kid's ear and see what it came up with.
+00:16:21 Speaker 1
+But Start off in the idea generator.
+00:16:27 Speaker 1
+U m. After you come up with your idea for what your business is, I don't really care what you do for the rest of the day. I like, I said, I want you guys to just chill and hang out with Mister Garcia and Um, yeah. We had a little bit of a change of game plan here. I think I bought that thing and I didn't need to. What thing? Um, something for Zach's. Oh. So.
+00:16:58 Speaker 4
+So I um, I share with you so we can start modifying the um. They think the way we, the way you want it. But, uh. This is some ideas. Yes, so. So the project definition.
+00:17:30 Speaker 2
+Do I copy this into ours? Did.
+00:17:37 Speaker 1
+You did you read this Like which one of these do you like? And right now, you don't have to do anything other than know in your mind, okay, I'm gonna sell. I'm gonna Whatever, whatever this is. So.
+00:17:59 Speaker 1
+So this is all about. Because you put, I made a product that's a video game. So. I want to start.
+00:18:18 Speaker 2
+A business. That has something to do with this video game. Right.
+00:18:32 Speaker 1
+Start a game testing blog, where you go and try new games and write simple reviews. So that's like a really good idea, and you could make like a, you could make like a website or something where you had advertisements on it. Advertise for the video games, and you guys are like, doing the game. You could even like have little video clips. Playing the games while like giving commentary on it, create a video game tips and tricks guide. Yes.
+00:19:08 Speaker 2
+I Just wanted to.
+00:19:10 Speaker 1
+Yeah, I'm not. I have. He said," I'm.
+00:19:28 Speaker 2
+Going to play."
+00:19:34 Speaker 1
+You can if you want to. You can make a logo for yourself. I want.
+00:19:41 Speaker 2
+To thank you. Thank you. I'm Sorry.
+00:19:56 Speaker 1
+We Need to get your your thing on.
+00:19:58 Speaker 2
+That computer over there.
+00:20:02 Speaker 2
+Can you get can you I.
+00:20:09 Speaker 1
+Guess you gotta. We have to get all of your things on my tank. So that we can pull it up over there and put it in Bangles'hand.
+00:20:26 Speaker 2
+Do you know how to do that?
+00:20:29 Speaker 1
+Can You figure it out?
+00:20:34 Speaker 2
+Did you say, yeah, what's your what's your business idea Like.
+00:20:46 Speaker 1
+A chocolate sales company. Okay, I like that. Bring your computer over here for a second. I just want to show you something. Guys, if you get if you finish, You got your business idea, and you know the name, what the name of your business is gonna be. Go in that image generator and see if you can make a logo for it. That'd be pretty cool. What are you going to call it? Make me a logo for my. New chocolate sale is coming. Oh, the chocolate wizard. What was your question?
+00:21:27 Speaker 2
+I actually love.
+00:21:31 Speaker 2
+I actually do a business every year. I.
+00:21:36 Speaker 4
+Don't even know. Dude, look at how sick that logo is.
+00:21:49 Speaker 1
+Which one do you like the best? Wait, this might actually. Okay.
+00:21:59 Speaker 1
+Went back and forth with magic school. He's gonna do a chocolate sales company, like a company that sells chocolate bars. His company's name is The Chocolate Wizard. And then check out this logo that you got. That's sick, right? So like he could put the words, the chocolate wizard around here or something. That'd be that'd be an awesome logo for this company. What's that? Oh yeah, yeah, yeah. So guys, this is this is that's really all I want you to do. You should have fun with this. Just come up with a company name, what you're going to sell and then get yourself a logo. Yeah. Okay,
+00:22:43 Speaker 2
+So I think we're gonna go with the.
+00:23:26 Speaker 2
+I s there a button that says share or something? What about this copy link? I'm going to go. I need all three of the parts. I can't.
+00:23:40 Speaker 1
+Six. I'm going to Go.
+00:23:58 Speaker 3
+Wait, where's the pen? Mr. Romans, where's the thing that connects it to the screen? Mr. Romans, where's the thing that. It's.
+00:24:10 Speaker 2
+On the floor up there. Here? No, is this the right one? Are you are you rolling over there or what?
+00:24:22 Speaker 1
+Uh, that's sick, but turn it into a logo. So watch this.
+00:24:28 Speaker 1
+Make, make me a logo for my new business. The.
+00:24:37 Speaker 2
+Name of the company is what? Nice. I'm so excited.
+00:24:57 Speaker 1
+So now look, you could do, you could say like, like you got this right. Now let's say. They sell milk. Put a, you want like a, you want, like a man like a little man in it, like it was in the other one. Put a small man as the. Character. And the logo. What colors do you want it to be? Who needs help? Who needs help? Yeah, is there like a specific color theme that you like, like Here actually, let's just generate and then we'll screw around with what they give us. What's up, big papa? Oh, that's for your video game thing, right? So, you like any of those?
+00:25:56 Speaker 1
+Which one are you digging right now? Yeah. Can we go on canvas? Of course. You can use any tools you know about, huh?
+00:26:06 Speaker 2
+Wait, am I done?
+00:26:08 Speaker 1
+Which one do you like, she's right. Oh. If you know what your business is going to do, you have a name for your company and you've looked up a logo, then you can do whatever you want for the rest of class.
+00:26:25 Speaker 2
+I have to. I discovered something online. Like a block you can only get if you use like, What's that look like.
+00:26:33 Speaker 4
+You want in the background there?
+00:26:36 Speaker 2
+Any idea? Okay. I'm.
+00:26:43 Speaker 4
+Sorry. I wanted to show you the problem. I'm just saying standards. Thank you.
+00:26:57 Speaker 2
+Yeah. Do you need help? Okay, so I go into Minecraft. Uh. Also, I'm trying to. Show Mr. Romans something. It's taking a while. I don't know why it's taking. This is great.
+00:27:20 Speaker 1
+Good job. You're done for the day. It's a.
+00:27:26 Speaker 2
+Okay. This is so easy. Why don't they care? That's right. What if I make it? Wait.
+00:27:51 Speaker 1
+Wait where you going?
+00:27:53 Speaker 2
+It's gonna let me make my thing. And you can say you're like.
+00:28:00 Speaker 1
+You can now you you can download. What do you do? I don't understand. Like, She's she got to you have to go in here and tell her what you're doing. Watch this, create. And come in here, we find the word logo. Would you like to create logo? Hey, look at that. You can get the animated logo. You can do a regular logo. But hey, hey, hey, hey. So like. One thing that I was like the reason why I did it and what I did, because it's easy like this is great like. You know, you could you could essentially find a template that you like, And then come in here and change the letters to say Lily's flowers or whatever you're selling. You copying Sebastian?
+00:28:48 Speaker 1
+No. What are you doing here?
+00:28:50 Speaker 3
+I was gonna make a chocolate factory.
+00:28:52 Speaker 1
+Oh, like Willy Wonka. What's the name of it?
+00:29:05 Speaker 1
+It's Just a little bit.
+00:29:08 Speaker 1
+You can't copy the name of a movie, bro. Charlie in the truck. Uh, I like this. So you wanna make chocolate? Okay, so you want to make chocolate and then sell it. Two stores. So you what you don't need a picture of your factory. You need oh dude that's a sweet logo. What's the words in it? What's that say?
+00:29:36 Speaker 4
+She wants like something for like a slime thing, squishy, and that's what he generated for her. But I want one like heart things. It's funny because I I click on save. Any safety, but. K icked her out of the generator. That's weird. Yeah, so she can't she can't get in it. She can go back to it, but it's just that is She's gonna have to type the prompt again. Generate image.
+00:30:07 Speaker 1
+Oh, she can do a better image, I think. And you might remember her last image. So now she's gonna have to type it again. I'm getting rowdy. Another thing you could do, Uh, like some of the kids are going are using the Canva logo generators and such, which is. Yeah, but I downloaded it. So make a logo like a company logo, not a picture of your of your factory. You could you could have that factory picked to that factory. You could have that. I'm going with that.
+00:30:47 Speaker 1
+doesn't have to be a circle, you know, just some sort of shape to keep it enclosed. I want a. Once you're once you're done with the things that I told you to do, I don't care what you do next. You got fifteen minutes left in class. So.
+00:31:01 Speaker 2
+It's a block in Minecraft that like you have to use commands like there's like a feature where you can use commands. It's called a barrier block. You need help with something? Oh,
+00:31:14 Speaker 4
+That's your logo.
+00:31:22 Speaker 4
+This Is perfect. All you need now is just to have works in there, you know. You can edit it here. If you want to like if you don't want to use AI to do it, you can literally add the text here yourself if you want to. Yeah, but you.
+00:31:42 Speaker 1
+Definitely need.
+00:31:43 Speaker 4
+Tell it to put some words. But this is great. Look, this is awesome. Oh,
+00:31:51 Speaker 1
+Dude, that is sick.
+00:31:52 Speaker 4
+Yeah. You just need some words in there because,
+00:31:55 Speaker 1
+Yeah, and maybe what you can do is like, and I don't know how hard this would be, but maybe you could. Cut this out of this program. Oh, right there, he can do it. And then put it into put this program intoum. Look, I'm trying to put this image into Canva and then add some. Add your add your words and stuff like you can bend text. stuff in that program. Yeah, right here you can do it. Or even in Google Slides, to be honest with you, bro. Literally just copy paste. Control C, Control V. Alright. What do you two want? This is gonna be great. Whatever this is, it's gonna be great.
+00:32:33 Speaker 2
+Dancing and we're wondering, do you know how to like mash up songs? Do, you know anything like if you want me to teach how to mash up songs? You're not like naughty. So we have dances we're gonna do, but it's only certain times that we need like blend it in. Alright,
+00:32:48 Speaker 1
+First we need a preview of the dance. You.
+00:33:00 Speaker 2
+Bye bye.
+00:33:10 Speaker 4
+Thank you.
+00:33:11 Speaker 2
+But we don't know how to.
+00:33:12 Speaker 1
+You asked for the preview, wasn't present. Okay, So you're asking me if.
+00:33:18 Speaker 2
+I can send you theum the time that we need each song. Can you blend them in together On iMovie or something. Yeah,
+00:33:26 Speaker 1
+But like I, uh, like I feel like Apple Music even does that. You put the three of them in a playlist, it'll like it like speeds it up sometimes. It's not the full.
+00:33:39 Speaker 1
+What type of files are they that you have these songs on? Are they MP four orum.
+00:33:47 Speaker 1
+So You want me to somehow take a YouTube video, peel the audio off it, and then mash it together like I'm a professional DJ. No.
+00:33:54 Speaker 2
+What I could do.
+00:33:57 Speaker 1
+Oh, now now that is an idea.
+00:34:01 Speaker 4
+I'm sorry.
+00:34:05 Speaker 4
+I guess I'm getting just like a clip. I guess I kind of like when you wore it and just recorded. And then you can tell, like,
+00:34:12 Speaker 1
+Kind of background noise. So quality then, honestly Marshawn might be able to, you know Marshawn's like a professional DJ right?
+00:34:24 Speaker 1
+Oh, It's so cute. This is beautiful. You could you put if you have the audio files to do that, you could.
+00:34:35 Speaker 2
+Let's see.
+00:34:40 Speaker 1
+Oh, you're saying like put it right.
+00:34:45 Speaker 4
+You can do it here. See, you can edit it here. You can crop. Sorry I wasn't more helpful, but I'm glad that I got to see a little bit of it. And. You can copy it too, and in Canva you can add text. Oh, Google Slides. What was your prompt? You're looking at text. Well, not right now you're gonna copy it. I didn't do anything yet,
+00:35:13 Speaker 1
+But I'm. Okay, make an image of an ice cream stand for the logo. Oh, okay. Oh, so this is your logo.
+00:35:23 Speaker 4
+That's awesome. Okay. Uh, what do you want to code in? So you wanted to say, right on top of the sun.
+00:35:37 Speaker 4
+Al right, so go to Home Depot. And then put it where you want it. You want it here? Oh. So,
+00:35:45 Speaker 1
+There's issues with the way you prompted it. Cause I'm gonna delete all of this. Yeah. Uh, let's see here. So, when you get an image like that, You know how I said it was like You said it was like Oh wait, never mind.
+00:35:56 Speaker 4
+He he can copy and paste and then change the text. Can he So he He can erase also. No, I'm sorry.
+00:36:03 Speaker 1
+How can he so, but can he re prompt it now that he has that? Oh,
+00:36:08 Speaker 4
+Oh, yeah, he can, but he, he has to download it and then go back to the generator and upload it. Yeah, Oh, he can click on edit. Um, like if you go back to the generator. No, that no, that get out, get out first. You need yeah you need to get out. Yeah download it just in case right there yeah. And then go back to image generator prompter.
+00:36:34 Speaker 4
+Yeah, to the tool. Yeah, right there. Now, right here it says" edit an image." Right here. Let's see. Now they want go to the beach. We have. So now he can prompt directly. Oh, it's not.
+00:36:58 Speaker 1
+So he can do things like.
+00:37:01 Speaker 4
+You can just stop in there manually, yeah. But I don't understand why it's not letting me prompt the edit.
+00:37:11 Speaker 1
+That's kind of annoying because you know, he wants to change some minor things about this. Yeah. So, it's like a good It's, a good uh opportunity for him to re prompt things. Exactly, yeah.
+00:37:22 Speaker 2
+I don't I don't really mind how it is, but that's just what I wanted to do.
+00:37:29 Speaker 4
+What You can do is that in there, you can remove whatever you want. And then you can copy the image, paste it in Canva or Google Slide, and put your own text. Because, um. For some reason, he's making a. So The.
+00:38:00 Speaker 4
+I S making it that once you save the image to Magisk You cannot reprompt. Once you save the image, it might just cool. You cannot reprompt. Unfortunately.
+00:38:12 Speaker 1
+Zach, stop waiting patiently over there. Budge in here, dude. I got people are waiting for me. Where are you at? Have you emailed me all the stuff? Let me download the game. Okay, go upstairs. See if you can pull up my email on that screen. And what we have to do.
+00:38:28 Speaker 1
+I s somehow download those files to that computer. I know this is complicated, but go try to figure it out up there.
+00:38:35 Speaker 3
+Mr. Romig, I'm just gonna go ahead and go to the table.
+00:38:37 Speaker 1
+Okay? Um.
+00:38:41 Speaker 4
+I was I was gonna ask if you if you're okay with this. Alignment for the lesson.
+00:38:53 Speaker 2
+Mr. Obeck, can I push the Google probe?
+00:38:58 Speaker 2
+What? Zach,
+00:39:02 Speaker 1
+You are the smartest kid in fourth grade. Go figure it out, bro. Oh dude,
+00:39:11 Speaker 4
+That's sick. So now you can add stuff in there. So what have you to boost resolution? I don't know how to change it. You can literally.
+00:39:31 Speaker 4
+It's a gaming.
+00:39:34 Speaker 1
+Shop. Look at these guys, Gadget Galaxy. Nice. Prompt details: A whimsical illustration of a dog standing upright on its hind legs, its fur shimmering with the iridescent hues of a distant galaxy. Can I?
+00:39:57 Speaker 2
+I'm scared. One finger right here. Hello? Where are you? Ellie's. No.
+00:40:09 Speaker 1
+Eddie. I asked you to do something that takes five minutes, and then you can play Minecraft. Did you do the five minutes? What's your company? This is sick, boys. Good job. What do you mean by a gaming company? Okay, this is this is something you couldn't have do on your own. Yeah, if you have your company, company name and a logo, you can do Minecraft.
+00:40:37 Speaker 2
+I don't want to do this. I am not going to give you any more money.
+00:40:49 Speaker 1
+I love this email. The fact that you earmarked them like that and labeled them excellent job, buddy. I'm so tired. You don't know how to do what? You don't need to, John. Oh, dude, that's awesome. You know you're done. You don't need to do anything else. Download this so you have a copy of it. Okay, so now you got your logo. You're good to go. What's called gaming competition? So what's your company do? What are you, what's your how are you gonna make money? Let's see.
+00:41:26 Speaker 1
+I mean, you need to know that. Sick robot, dude. What's your company? I'm not.
+00:41:37 Speaker 1
+I Don't know. Wait a minute. What are you? Are you like a sword? Online or in person. Alright.
+00:41:58 Speaker 1
+So you are a store. This one, and you're selling what stuff? They are a textbook on the sport arts.
+00:42:09 Speaker 1
+Gaming Shop right?
+00:42:14 Speaker 1
+Do You have robot stuff? Mm. Okay. Like in real life? The name of the village is derived from the river. Let's see. So, What kind of robot stuff do you want to sell? I guess like you got to focus this idea in a little bit. This.
+00:42:39 Speaker 4
+One has multiple options, but of course you have to make a. Yeah, two option. You can make a wider. I don't like you.
+00:42:52 Speaker 1
+I'll go. Is this you right here, Powerful Jibon? Is that too white? So, I just feel like you need to like hone your idea here. How are you gonna make money here? You're selling robotic stuff that you have at your house. So, is that right? Now the only thing you have to do. Hey, hey! Keep the volume down.
+00:43:28 Speaker 4
+I'm Not going to do that. Okay, alright. Everyone, keep the volume down,
+00:43:33 Speaker 1
+Guys. I like your idea of selling something robotics- related, but you got to get asked. You didn't tell Magic School about this. Magic School told you sell random robotics stuff that you have at your house? There's no way. Go into magic school, into the idea generator, and say," I want to have I want to start a business that has something to do with robots," for example. Okay, and see what it says. And then, and then if it gives you an idea and you don't like it, then you can re-prompt it and ask it for more. Okay? Idea generator. Yeah, what color do you like? Here you go. Go right in here. I want to start a business with this dude, bro. What do you. what's up? I need him. Can you go say Mr. Romig's asking if he can stay longer or was working on an important project with him? If it's an issue, then tell her that they'll come back.
+00:44:27 Speaker 1
+Al right, you did something wrong on there, bro. Here, give it to me.
+00:44:38 Speaker 4
+Yeah, that makes sense. So you did copy length. What if we go in it? Alright, so with this animation, you can choose how you want it. Right. For example, you can make it disappear, fading. You want to fade in? Invite people. We're popular.
+00:45:04 Speaker 1
+Let's try that. I'm gonna try this one at a time. You can play with that. Hey, Lily? Lily? Was that you that just screamed? No. All the girls in the room, whichever one of you just screamed, we don't do that in this classroom. Okay? Thank you. I know it was one of the young ladies. Good friend, was that you? Good friend. Kylie. Kylie, was that you screaming a second ago? Kylie, I will call your Dada right now. I got your Dada on speed dial over here. Your Dada. Look look. Okay, now watch this. I got it. I hit X.
+00:45:57 Speaker 1
+S T L That's all we need. Can you do that with the other two? Were you watching me? Were you watching me? Okay, get it done. What does it say? You.
+00:46:14 Speaker 2
+Didn't read it.
+00:46:26 Speaker 1
+It's got three ideas there. Read those three ideas and see which one you like the best, or maybe you need to ask it to do more. If you don't want to read it. And it'll lead it to you. Did you see this thing Zach's working on?
+00:46:43 Speaker 4
+Yeah, you uh you say he's gonna actually sell it.
+00:46:48 Speaker 1
+I'm like hyped for this. You know what I think I was thinking, Zach? I got like a design note. I don't know, the ones we saw online like the. They had like little things that in the pad that the food falls on to make it harder for the cat to get it. What if we raise the word food up so like, it's a little bit of an obstacle. You know what I mean like. So it's it comes up off of the plate just a slight amount.
+00:47:18 Speaker 1
+I don't want to do that now. Never mind. Let's print out our prototype. We got to, we got to make sure we can print this stuff, so Copy the link from there, emailed it to myself, and then when then it then it worked. The the link you you sent was not right. I don't know what was wrong with this one. Oh, you guys are late. Get out of here.
+00:47:39 Speaker 2
+No! I still drink. Thank you.
+00:47:50 Speaker 4
+And the time, the time's going so fast.[ Music] I'm not going to go. I'm not going.
+00:47:56 Speaker 2
+To do that. I'm not sure what you're talking about. And I was like, really? You're the worst person. And that's because I need you.

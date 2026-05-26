@@ -1,0 +1,400 @@
+00:00:00 Speaker 1
+I see hands. So you first. What can you tell us about JavaScript? Then go here. You can go to the bathroom. Programming. It's a high level programming language Go ahead.
+00:00:27 Speaker 2
+mine.
+00:00:31 Speaker 1
+So you see that drop down in there? If you guys want to zoom in or zoom out, there's a drop down. Click on resizable in the middle, which says landscape. Click on resizable. Resizable and then double click 'Add Step.' And then double click again, what you were trying to do before. You can do that now. Oh! Yeah, you need to go 'Okay' though.
+00:01:02 Speaker 1
+Let's let them know. They should work now. So JavaScript is a programming language. It's mostly used heavily for websites. I wanted you to know that we're gonna be going forward because you're gonna see a lot of the stuff. You guys use Google right? How many use Google? You guys go on websites right? A lot of those web sites are for searching up things.
+00:01:32 Speaker 1
+And Google itself uses JavaScript a lot. So this is what we're going to be doing. We're going to be working with functions. How many of you know what a function is? A function.
+00:01:46 Speaker 3
+Function is it's like just.
+00:01:48 Speaker 1
+Whatever you can think about a function, what do you think it is? Any guess? So a function, You can think of a function as a You're good. Just mark it up. Where is what I just did? And over here. You're good. You can think of a function as, you see when you give something a task to do, right? You can think of it, a function at like as a method or step to perform the task. So.
+00:02:31 Speaker 1
+This is the function start program. What do you think is the task of that function, start program? Says start program. What do you think the function.
+00:02:54 Speaker 1
+The first one that you said is the right one. It will activate the program. Activate means. The name of the function needs to say what it does, right? Tell me something you guys do daily. Raise your hand. Something you guys do daily. Brush your teeth. That's a function in there, right? To brush, right? What else? Eat. Also a function.
+00:03:30 Speaker 1
+Move. Right here, everyone is here. Number two. Check which make sure you complete first one here.
+00:04:11 Speaker 3
+What do I do right here? What do you do Oh, there you go. There you go. What happened? It.
+00:04:25 Speaker 1
+Shoots I don't know why it's not like that the red. Let's go to the code because we're going to be in the code. So this is what I want you to do. You see the word here? Hello world. I'm on. Hello world. Why don't you change that.
+00:05:00 Speaker 1
+Put your name. Is that a world? Put your name in there. I'm gonna give you an example. Look at this, my name is Garcia, right? Garcia. Who can tell me here? It says here scroll matrix test and he's taking, A message and coordinates. Who can tell me what this function here. I already told you what the function sub program does, right? We all know that it's going to start the program. Who can tell me what the scroll matrix is going to do? Oh it's not deleted it's dropped down.
+00:05:56 Speaker 1
+We're Going over that right now. Alright. So you we've read this. We've read number one, right? We're on step two. Step two, we are here on step two. Read. It's not going to be.
+00:06:18 Speaker 3
+Goldfish for dinner? Yes.
+00:06:22 Speaker 1
+Change it to precisely.
+00:06:30 Speaker 1
+We're doing this second one. Are we all on the second step?
+00:06:40 Speaker 3
+What's the second step?
+00:06:43 Speaker 1
+The second step. You see it right there.
+00:07:03 Speaker 1
+Now it's normal. So you can mark this down. We are on step number two. We're gonna stop at number two. You can mark number one. Ready?
+00:07:29 Speaker 3
+I don't know.
+00:08:18 Speaker 1
+We all have second set. So who can tell me what this function does? We know what the subprogram does. Here it says scroll matrix text. Question. What do you think the code snippet does, the one that is here? Does it scroll "hello world"? Does it flash "hello world"? Does it print "hello world"? Who can tell me? Scroll. Who else can tell me? We all agree? Nice job. Let's go to number three. Right now.
+00:08:58 Speaker 1
+Who has ever heard about arguments?
+00:09:02 Speaker 2
+You mean drama
+00:09:03 Speaker 1
+Who can tell me what arguments are drama?
+00:09:08 Speaker 3
+Now.
+00:09:27 Speaker 1
+I'm gonna give you a synonym of that. Because argument can be also interpreted as when you're having a disagreement with someone. Who can tell me, have you guys heard about parameters? What? Parameters? In math maybe? Parameters? No? You've heard of parameters, right? Do you know what parameters are?
+00:09:56 Speaker 1
+In math, you've heard of it. For equations like that. Do you guys know what an equation is? Yes. So you know what those letters are. They're parameters. Yes. So here arguments are also parameters. But they are used for input. You guys know what that means? Input. So when you have a function, for example, you were talking about going to school. If you have a function, the function will be move only. You would need a parameter like for example school. To say move or go to school. Oh okay we're not doing that. Actually thank you very much. I'll just put this away.
+00:10:52 Speaker 1
+Let me put it that way because it was getting you guys distracted. So we're talking about arguments and parameters, right? Who can give me an example of a parameter or argument? Anybody? What about an example of a parameter? No argument. What about an example of a parameter?
+00:11:22 Speaker 1
+You have one. What's that? You need to go? We are going to work with parameters now. I'm gonna show you something quick that we're gonna do. It's this parameter here. It's a hello world. We're gonna change it to hello Brazil. This is the string because it has quote.
+00:11:52 Speaker 1
+This is string because it's between quotes. What do you think these ones are? Number, right? What type of parameter is this? It's a num, it's a number, right? So it's numeric, right? So we have a string. We have numeric. And true and false are boolean. You guys know what a boolean is? Boolean. It's where like you would be meeting over. That's not what I'm talking about. I'm talking about boolean. Boolean, B O L E A N.
+00:12:51 Speaker 1
+That's a type of parameter or argument that is true or false. It's either one or zero, true or false. In this case, we have two, we have fifteen, and we have hello over here. Those brackets here, that's a dictionary. That's a dictionary. That's not going to be enough though. I just wanted to go over string, numeric and bullying. I need you guys to go on number three, all of you, and make sure you have that program right here copied. I need to do that right now. Copy code? This code right here, make sure it's on your notes.
+00:14:23 Speaker 1
+Alright. Are we done copying? 
+00:14:28 Speaker 3
+I'm copying. Did we copy the code? Can you stop looking at her stuff now?
+00:14:40 Speaker 1
+You can just change this again here. Did we copy the code? What code are you talking about? The code on the left. Like this? There's a code on the left. I did, I copied. Replace it for that. This one? Completely replace it. So we do this. So A is from B, and now you can change this to your name here, put your name here. Did you copy the code? The other code, not that one. You can check Doge Check number two with Doge.
+00:15:19 Speaker 1
+Check number two.
+00:17:03 Speaker 3
+You Got It.
+00:17:49 Speaker 1
+Okay.
+00:18:47 Speaker 3
+Alright, so.
+00:18:48 Speaker 1
+You see that over here it says speak. What do you think that function is? I want to see hands. What do you think that function is? The ones that participate the most are going to get a second spin, which means you can get a better gift. Who can tell me what this function speak is for? Make your spirit speak. You guys agree? Exactly. Now what we're going to do is finish this, and it says here let us put here look at this. It's a wait. What's up?
+00:19:35 Speaker 3
+It's a wait speech.
+00:19:40 Speaker 4
+All right, so you want any chances to speak? Knock it off now. Focus on Mr. Garcia.
+00:19:51 Speaker 1
+We're running out of time and then we're not gonna have time. Alright? You see the quotes in there?
+00:19:59 Speaker 4
+Put the same thing that you're displaying. Instead of hello, Anika, you're gonna put the same thing: Hello Anika.
+00:20:06 Speaker 3
+It's Annika.
+00:20:07 Speaker 1
+Anika. Sorry honey. It's okay. Anika So hello Annika Right so you guys are gonna put the same, Because you want this video to display your name and to say your name, right? So how many functions are we calling here inside of the subprogram? Who can tell me? Two. Exactly. Two functions. One to display and one to speak, right? Yes. So here,
+00:20:34 Speaker 2
+It'sum a wait speak.
+00:20:36 Speaker 1
+A wait speak, right?
+00:20:38 Speaker 2
+The bottom one.
+00:20:40 Speaker 1
+Let's see what was the question. Where should you put the argument "hello world" in the function? Exactly. You can mark that. Oh wait, last one. This is the last one and then we can move on quickly. We might not have time for the ball. Let's change the value p from two twenty five to twenty five.
+00:21:14 Speaker 1
+Can we do this? He's in charge of this panel. Can I change the value? Change the value of B from 255 to 25. Then we're going to change the value of 15 all the way to the end. From 15 to five or 55, whatever you want. To 55 or five? Whatever you want, five or fifty-five. It's giving you an option here. Then the true in the score matrix function to false. Let's set this to false. The true to false. There you go. False F A L F A.
+00:22:13 Speaker 1
+L S E. So we are done with this. Everybody changed it? Everybody has it? Wait, no one. What do we change it to? Let's see if we have time. We might have time. We have ten minutes to. Ready here! Raise your hands those that are done. We don't want forty minutes. We have ten minutes to finish this, and then we want to spin the wheel for the kids. Otherwise, we won't have time. Alright. So those that finish first, raise your hands and then I'm gonna. And those that need help, I'm gonna help you then. Right now you're gonna connect your ball. Yes! That is correct.
+00:23:11 Speaker 1
+You have to make sure you have that.
+00:23:42 Speaker 1
+Both. Connect. You're done. Do connect. She's gonna show you how to do it, guys.
+00:23:52 Speaker 3
+Who else is done? Me. I'm done.
+00:23:59 Speaker 1
+Just make sure this is first.
+00:24:04 Speaker 3
+There's some this goes inside the cone and this goes inside the cone. I'm gonna help you now. But it's not. Yes. Here. Yes. You already have this problem before that. L A L O K, you're finished. You have to put something down that you didn't know it's not needed
+00:24:32 Speaker 1
+You don't need to put it down. Did you do the Lego? Which one is Lego? 8926. Clicking this. So you put it, you wrap it in?
+00:24:49 Speaker 3
+It needs to be inside the. I need a spoon. Mr Garcia! I'll help you.
+00:25:00 Speaker 1
+Why don't you help her? Give her a spoon. Help her! Mr. Garcia has the right. Can you help me? I got it here.
+00:25:13 Speaker 1
+Her name is not right. Now you go next.
+00:25:22 Speaker 3
+Zerovolt plug, you got it? You're not supposed to make it all clean. You got an idea. Here, work with her. Show him what we're doing. Come on. Who else have you done? Bring the.
+00:26:11 Speaker 3
+You just got here? Go there. So I'm doing Douglas Tower's script with Mr. Randles and Mr. Randles is going to be my scene partner and I'm so excited because it's like the first time I've ever done a scene with someone else in front of an audience, and it's going to be so much fun because we're doing okay, so go this is Aggie. How well did he do? You might be going to. I don't know what happened. Alright. Then didn't see that one. We might have to start again. You don't have to! You need to do it inside the box. Mr Garcia? Did I just. Mr Garcia! Hold on now you're done.
+00:27:40 Speaker 1
+I.
+00:27:54 Speaker 3
+Just like did it.
+00:29:08 Speaker 3
+So
+00:31:00 Speaker 1
+I have another student here for you to help.
+00:31:36 Speaker 3
+Yes.
+00:32:06 Speaker 3
+You saw it. I know I saw it. You're ready, you're yeah, you're ready. Oh my god.
+00:32:22 Speaker 1
+Take one thirty doesn't matter. You got it to spin right? Your I mean not to spin your what's the name right? Perfect, you're good. Alright so Mr Garcia.
+00:32:35 Speaker 3
+I'm going to set up the wheel and I'm gonna call people. Everyone sit down so I know who I'm calling.
+00:33:06 Speaker 1
+Mr. Garcia, Mr. Garcia? Yes.
+00:33:12 Speaker 3
+I'm trying to get this. You got it? Is that connected? It is. I'm done.
+00:33:22 Speaker 1
+Yes! We're gonna do the spinning and hopefully we have time.
+00:33:32 Speaker 2
+Can I get two spins? Since I did a lot.
+00:33:35 Speaker 1
+But you need to sit down.
+00:33:53 Speaker 1
+You Connected it?
+00:34:32 Speaker 1
+We don't have time for this. This needs to work right now. We don't have time.
+00:34:43 Speaker 2
+Remember we had to push it in?
+00:34:45 Speaker 1
+Leave it there. Please. I don't know what's happening, guys. This wasn't happening before.
+00:34:54 Speaker 2
+There was something on your screen saying would you allow that.
+00:34:59 Speaker 1
+Oh is that it? Thank you. I'm sweating and you guys are running out of time. Alright? Everybody sit down. I'm gonna go one at a time.
+00:35:21 Speaker 3
+I'm second.
+00:35:22 Speaker 1
+Everyone sit down, I'm gonna go one at a time. What's your name? Emma. Alright.
+00:35:32 Speaker 1
+The puffer ball. Take one of those over there in the box. You pick there? There's no line. You can go sit down.
+00:35:44 Speaker 2
+Mr Garcia.
+00:35:45 Speaker 1
+Honey, you have to be quick. Your classmates are waiting. What's your name? Jackson? How do you spell it?
+00:35:55 Speaker 3
+J- A- X- E-.
+00:35:57 Speaker 1
+N X- C- N X- E- N Like that, E N. Z.
+00:36:06 Speaker 2
+N. No X J A X L E N.
+00:36:10 Speaker 1
+E N. Yes.
+00:36:18 Speaker 1
+What is it doing? It's supposed to show.
+00:36:21 Speaker 2
+What does it say?
+00:36:22 Speaker 1
+What is it? A ring!
+00:36:24 Speaker 2
+Now I get one more?
+00:36:26 Speaker 1
+Later You have to you're they're waiting, Pick one. Let's see. You're done, buddy. Wait. Pick one, buddy, and go sit down. You can change your name if we have time. Go ahead. Jack Frost. Who next? What's your name? Maddie. Maddie? Yes. You can go to your computer and I'll call you in a second.
+00:36:49 Speaker 2
+M A D Y M A D Y There you go.
+00:36:53 Speaker 3
+Thank you. Someone's here who was right there at the door.
+00:36:58 Speaker 1
+You guys are finishing. In ten minutes, so we're almost there. Ring. Pick up one ring. There. What's your name, honey? Ellie. Eddie? Ellie. Ellie.
+00:37:10 Speaker 2
+Eddie? So whose sphere was that?
+00:37:16 Speaker 1
+Put it away. Those are done. You need to put the spheres away. Mr. Go pick up everything. What's your name, honey?
+00:37:25 Speaker 3
+L- I- N- A.
+00:37:27 Speaker 1
+L- I- N- A? Lina.
+00:37:33 Speaker 1
+You need to sit down. The other ones can be right behind her. Bracelet from here, pick one. Hurry up. What's your name, honey? What's that?
+00:37:43 Speaker 2
+Y E V A.
+00:37:45 Speaker 1
+Y E V A like that? Pick one and sit down so I bought for wall. Is that it? A pofer LED pofer ball. It's one of those.
+00:38:05 Speaker 2
+It's something like Juan away. What's your name? Joanna, J U A N A. G J? J what? U A N A.
+00:38:13 Speaker 1
+A N A Bracelet! Pick one from there. What's your name buddy? Mateo M-A-T-H-E-O is that it E-O.
+00:38:33 Speaker 2
+Everyone sit down on your chairs because you guys. What is it? Flashlight.
+00:38:49 Speaker 2
+What's your name? Yuri. Spell it. Y U R I.
+00:38:55 Speaker 1
+R I? No
+00:38:56 Speaker 2
+It's one R.
+00:38:59 Speaker 1
+You did it. There you go, nice.
+00:39:07 Speaker 2
+Hello world. Mine said that it's not a column seven two or seven six.
+00:39:13 Speaker 1
+Mine says bang shaking gang. I don't hear it, but you did it right. Oh there you go, I heard now. I heard now, perfect, alright. That's your name right? Yeah, be something good.
+00:39:30 Speaker 1
+A bracelet, a magic bracelet.
+00:39:34 Speaker 3
+Big one. I'll get the pinky one.
+00:39:36 Speaker 1
+What's your name? What is yours? I did it.
+00:39:42 Speaker 2
+But then I closed my Chromebook.
+00:39:44 Speaker 1
+Somebody had to tell me that you did it. Get somebody to tell me that you did it. What's your name?
+00:39:49 Speaker 2
+Aaliyah 
+00:39:50 Speaker 1
+Try Aaliyah Try Aaliyah What's. Spell it A O R.
+00:39:56 Speaker 3
+A L I.
+00:39:57 Speaker 1
+A L I That's it?
+00:40:02 Speaker 1
+Who so that you did it? Charles. Same Charles here. Charles, come here buddy. You were supposed to be one of the first ones.
+00:40:19 Speaker 3
+What's your name? Spell it.
+00:40:22 Speaker 1
+Your name.
+00:40:23 Speaker 3
+Charles.
+00:40:24 Speaker 1
+Charles like that?
+00:40:28 Speaker 3
+Yours broke?
+00:40:33 Speaker 1
+How did it break?
+00:40:38 Speaker 1
+Here, hold it and then at the end of the class, see me. Alright. Yes. A flashlight. Hey everybody. At the end of the class, you get he help. Does that help? Let me know at the end of the class.
+00:40:58 Speaker 1
+Did I have?
+00:41:00 Speaker 3
+Because I helped her because a lot of people were coming.
+00:41:04 Speaker 1
+Go sit down and then I have to see you at the end of the day anyway.
+00:41:07 Speaker 2
+Do I get two things or one thing?
+00:41:10 Speaker 1
+See me at the end of class. What's your name? Annika. Annika, spell it N.
+00:41:15 Speaker 2
+A N I K A.
+00:41:18 Speaker 1
+Like N like that Annika.
+00:41:20 Speaker 2
+There's two n's at two n's.
+00:41:22 Speaker 1
+There you go Honey, you need to sit down. I'm gonna flash by. See me at the end, alright? 'Cause you helped. What's happening with this class? Isma Latif. Nobody helped you? I help you. Go sit down, we have time, don't worry about it. What's your name? Jojo. Jojo? Jojo.
+00:41:58 Speaker 1
+Noah.
+00:42:28 Speaker 2
+What's that? Please. A minute.
+00:42:31 Speaker 1
+Hey bro. Just I don't I won't know it's you if you don't have it show me at the end. Everyone you guys need to be in your chairs Alright?
+00:42:42 Speaker 2
+Can I get another one? Lucia, we got classes over. We need to go. Sit down, Minnie. Sit down. We get a prize after this. We have to go.
+00:43:00 Speaker 1
+What's your name? Vlad. Vlad? Like that?
+00:43:09 Speaker 3
+Your teacher is here.
+00:43:11 Speaker 1
+Your teacher is here. Let's go. Take your ring. Take your ring, buddy. You just do the start and that's it. Everybody line up. You got him? Yeah. Come on, let me know. Alright, let's get started.
+00:43:44 Speaker 4
+Line up.
+00:43:47 Speaker 1
+you gotta go? You gotta go!
+00:44:20 Speaker 1
+What was your prize? What was your name?
+00:44:27 Speaker 1
+You're welcome. I'm gonna miss you too, buddy. Remember me, okay? Of course. Here, you want one of this? Because we might not have time later to get extra tickets, but here you have an extra ticket. Thank you for remembering me. Doing the work. Of course I remember you, buddy. That's it? We made it through!
+00:45:26 Speaker 1
+We made it through and I'm glad that I was able to give them something to remember. And that was how's it going? Good, how are you? Today is my last day. I heard congratulations for making it through.
+00:45:40 Speaker 3
+Making it through. Good luck. What's next for you?
+00:45:44 Speaker 1
+I have to go to another school with older kids. And then after that, I don't know I'll be doing my research also in parallel at the same time. Hope to see you around Greece again. Good luck and congrats. Good luck. I told Derek that I'll keep in touch, so call me and help me whatever I can. And he's a good guy for us. So if you also need me anytime with technology or anything, it's great. Awesome, thank you. With my pleasure. You pick up your gift now. There's a graduation that I'm.
+00:46:25 Speaker 1
+I didn't get a prize. What was your prize? I didn't get a prize. You didn't get a prize? What prize? You work, you working, you gonna get a prize? What price? He wasn't in here. I didn't get a price. I'm gonna give you one then. I thought you got a price. How's everybody coming in here now? Because we're getting free prizes. Take one.
+00:46:56 Speaker 1
+I got.
+00:47:12 Speaker 2
+A fidget spinner. What's your name? Tommy. I got a fidget spinner.
+00:47:16 Speaker 1
+I got you here, don't worry, Tommy.
+00:47:22 Speaker 2
+Tommy! I remember what I got. I don't remember what I got. My name's Bella. Jesus. I got a puffle ball thing. Mhm.
+00:47:33 Speaker 1
+Why is it that far? Can't see you. You got a spinner. Oh my god, you know not many people have gotten them.
+00:47:50 Speaker 2
+Small cup milk carton milk.
+00:47:51 Speaker 1
+Cup please.
+00:47:58 Speaker 1
+These alreadyum they already earned them.
+00:48:02 Speaker 2
+Can you check what I got, please?
+00:48:04 Speaker 1
+I'll check what you got.
+00:48:05 Speaker 2
+Is this the puffer ball?
+00:48:07 Speaker 1
+This is a puffer ball. I got a football. Etsy, what's your name? Charlotte. Charlotte and Bella.
+00:48:15 Speaker 2
+I'm Bella and I'm Charlotte. So Charlotte got puffer ball.
+00:48:18 Speaker 1
+We got me. Thank you. And you're welcome. You did, you earned it. You did your work. Charlotte? LED project.
+00:48:28 Speaker 2
+Can I do another slide for it where I'm going to make stairs around it while it's walking?
+00:48:34 Speaker 1
+To like make it more.
+00:48:36 Speaker 2
+I can have it as one picture, and then fade into the other picture.
+00:48:43 Speaker 1
+See Bella, I know. You just passed my name. Oh really? Oh.
+00:48:48 Speaker 2
+Let her keep yo-yoing.
+00:48:54 Speaker 2
+I did three spins, but I don't know what I want.
+00:49:00 Speaker 1
+Got two gifts because you worked for it. I got two. She worked for it. She got her project done and she was attentive today.
+00:49:11 Speaker 2
+I think I did the yo-yo with the flashlight. We're gonna go. Oh here. Go. Take your yo-yo. I don't know. Blue. Can we get one?
+00:49:25 Speaker 1
+We'll go on. You can have this? I don't know if they already got all the yo- yo s. You're welcome We're gonna get this Let me see Hold on, I have to check the All right, I think Nobody else has gotten a yo- yo, so this is safe. Alright.'Cause I want to make sure that your classmate, we have to be fair. Alright. Which one do you want? That one? There you go. That's it buddy? I'm not here anymore after this if that doesn't work. Too bad. Alright?
+00:50:10 Speaker 4
+Right bye Go back to class Be.
+00:50:16 Speaker 1
+Careful, you don't wanna break it.
+00:50:18 Speaker 4
+He broke it before he gets back to class. We'll be back for another one. You know these kids. One's not enough. I broke it.
+00:50:28 Speaker 1
+I broke it. Wait, you're handling it?
+00:50:31 Speaker 3
+Oh.
+00:50:37 Speaker 1
+There you go, here is the document. I want to print this.
+00:51:10 Speaker 1
+What was your name again?
+00:51:12 Speaker 4
+My name is Sukhover. Sukhover. 
+00:51:15 Speaker 1
+I've I was just, that's so rude of me. I was gonna tell you, it's so nice to meet you, and it's so great the way you helped me. That was so helpful. No problem. It made a difference.
+00:51:27 Speaker 4
+I'm familiar with some of these cases Oh
+00:51:29 Speaker 1
+You're familiar with some oh I see why they they're like.
+00:51:33 Speaker 4
+I don't allow for too much nonsense.
+00:51:37 Speaker 1
+I or disrespect
+00:51:39 Speaker 4
+Let's put it that way.
+00:51:41 Speaker 1
+That's the way I like it, honestly.
+00:51:42 Speaker 4
+I really think kids need to show respect and listen to what the adult is asking them to do.
+00:51:47 Speaker 1
+Exactly because without arguing. I personally, for example, Ium.
+00:51:54 Speaker 4
+This is a fun classroom.
+00:51:56 Speaker 1
+That's what I was gonna say.
+00:51:57 Speaker 4
+So I don't take it to the next level sometimes.
+00:51:59 Speaker 1
+Exactly like I don't want to change the style that Miss Romi has.

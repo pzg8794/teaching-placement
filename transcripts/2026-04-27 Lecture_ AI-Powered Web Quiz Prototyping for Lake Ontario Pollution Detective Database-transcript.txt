@@ -1,0 +1,214 @@
+00:00:00 Speaker 1
+But if it's what you want, and the AI is giving it to you, the AI gives it to you because you ask for it. You gave instructions. You gave an idea. It's not coming out of the blue. You get it? If you're asking the AI to do it for you, that's a whole different thing. Like in this case, for example, it's giving a draft. But you're not gonna come in here and leave it as Ontario. Like if you're going here with you.
+00:00:30 Speaker 1
+Right here. So this is the view. So if you come here and say Lake Ontario Pollution Detective Database, you can leave it like that if it represents what you want.
+00:00:42 Speaker 2
+That was I because I went through the idea generator and I picked that one out.
+00:00:46 Speaker 1
+This is what happens sometimes when you ask for a draft. You actually happen to get what you want, which is even better. Because the whole point of this lesson is for you to learn how to work with an AI and learn how to own what AI is giving you. You get it. So right now this is all your idea. Lake Ontario pollution detected database that was your idea. What you got what you got from? That's the idea. You got brainstorming with AI, but it's yours because you brainstormed with AI.
+00:01:24 Speaker 1
+When you come here, that's a trap. You can say it's completely legit to say I used a template. That's legit. You can say I use the template that AI gave me. I made sure that it meets my requirements. Now here for CS and JS. So I copy CS. You see how it changed here? The CSS just changes your background. It changes your colors.
+00:01:48 Speaker 2
+The everything.
+00:01:49 Speaker 1
+Everything you can think of it as a blueprint. When you're building a house, you need a blueprint. CS is the blueprint of your house. Because you won't have doors if the CS doesn't allow you to. Does that make sense? And now, if you go here, for example, for your AI project. You have this, which is very critical, which is your cases, right and is see. You didn't have to build all of this. It gave you draft. For your project, it all depends on the task that you're trying to do for this task. You don't need to build it yourself. What you need to do is get the tools that help you build it. With you.
+00:02:37 Speaker 2
+So it was so sort of like I thought when the idea when. We went through the idea generator, and it's gonna be like, sort of like a game where you had to like figure out what happened to.
+00:02:47 Speaker 1
+You can tell her now if that's not what you were expecting. This is the time for you to talk to the AI. Make it interactive.
+00:02:54 Speaker 2
+It's an interactive guessing game.
+00:02:56 Speaker 1
+Or make it an interactive quiz. Make it an interactive guessing game.
+00:03:06 Speaker 2
+Like a quiz game.
+00:03:08 Speaker 1
+Quiz. Qui z game. Make the draft. I'm gonna ask the draft. So that it is an interactive quiz game. Let's see.
+00:03:37 Speaker 1
+The whole point of this, again, I'm gonna reiterate is to teach you how to work with AI to accomplish what you want faster, efficiently and honestly. When you are making the AI make changes because of your requirements, you're already making it yours. You know that this is one of the things I want you guys to learn because there's a lot of taboo out there where like, oh, if you do it with AI, you're cheating. In the real world, that's not true. Like if you go and you have an idea to build something, you can go and get a patent just on the idea. If you got an idea and you're telling the AI how to do it, it's your idea. Got it?
+00:04:28 Speaker 2
+Ium at home I made a which Olympian are you, Qui z on Canva with just AI. I just literally with just AI.
+00:04:39 Speaker 1
+Exactly. These are the type of things. See, this is the type of things that are difficult for you to make that you don't need to make on your own. What you need to make is your idea. Here you go. That's a quiz. You already built that. Your project is done. All you needed was the right prompt. See?
+00:05:03 Speaker 2
+It's already all done.
+00:05:04 Speaker 1
+Look at that. But you just need to change the wording to match whatever you like. You see? For example, it says a factory pipe is releasing brown liquid into a lake. What type of pollution is this? I'm going to put chemical, right? See, so good, correct. Now I'm going to put noise pollution. See, it's not working. It's saying everything correct. So this is a good thing, right? Actually, it is working. I guess it just has true or false. So now you can tell, you see how now it's doing it. So all the answers are either true or false in here. That's not a quiz. What would you tell her now?
+00:05:48 Speaker 2
+May
+00:05:50 Speaker 1
+You ask it. Ask it.
+00:05:52 Speaker 2
+Mr. Garcia, do you want me to put the microphone?
+00:05:57 Speaker 1
+It goes right there. Thank you.
+00:06:00 Speaker 2
+And I was actually thinking of a different type of quiz, or you're a detective and you have to figure out.
+00:06:06 Speaker 1
+Don't you want it to make the quiz? So it has true and false together, mixed?
+00:06:13 Speaker 2
+Make the graph.
+00:06:16 Speaker 1
+Now you can ask her to make the quiz have true and false answers mixed. Because now you can only answer true or false, right? What kind of quiz is that? This is good. This is good for you to now explain when you're going to explain your project and say, see, it gave me a quiz, but not the quiz I wanted. It gave me a quiz that you either answer true or you answer false. What kind of quiz is that? You either fail or pass. That's not a quiz, right? And also tell like you know, keep track of the questions answered correctly.
+00:06:52 Speaker 2
+Yes. Click the answers, get feedback, and see your final.
+00:06:57 Speaker 1
+So here make the quiz have true and false. What answers right?
+00:07:01 Speaker 2
+Yeah. I was.
+00:07:03 Speaker 1
+And then tell it and now tell it. Track the questions. They also have a limit of questions if you want. Track the number of questions answered correctly and those answered incorrectly. We are picky.
+00:07:26 Speaker 1
+He already finished. He's finished the website. I didn't.
+00:07:32 Speaker 2
+I got the foundation.
+00:07:34 Speaker 1
+You're improving it for the project. All you had to do was do your idea. That's all. So make the quiz have true and false answers, and track the number of questions answered correctly and incorrectly. Look at this guy. This guy became a coder with the help of AI.
+00:07:57 Speaker 1
+I'm so proud. I'm so proud of you. Make.
+00:08:01 Speaker 2
+The quiz has true and false answers.
+00:08:03 Speaker 1
+And drag the number of equations answered correctly and incorrectly.
+00:08:07 Speaker 2
+It should be correct and not correct because otherwise it's going to be true or false this and this.
+00:08:13 Speaker 1
+It's the same thing in coding. True or false, incorrect or correct. It's gonna know what you mean. It's always gonna be zero and one. Incorrect. And if you want to put a limit on questions, you can put it in there.
+00:08:30 Speaker 1
+So now it's gonna give you some changes now. See? So now you go here, and let's see what is giving you exactly. Is it what is giving you? So he's saying here True false like Ontario
+00:08:45 Speaker 1
+So it's giving you HTML. Go copy and paste it there. Do the same thing I did. There's a copyright on it. There's a copyright on the other. Did you copy already?
+00:08:57 Speaker 2
+No. Will we Nelson here.
+00:09:01 Speaker 1
+Control A.
+00:09:01 Speaker 2
+Control A. Willie did it right. We're gonna talk about it.
+00:09:09 Speaker 1
+That is.
+00:09:11 Speaker 2
+HTML,
+00:09:13 Speaker 1
+So copy that one. And then, and then control V.
+00:09:20 Speaker 2
+I got my boat. You did? I did.
+00:09:23 Speaker 1
+I didn't notice it. So do control A. That way you know it works.
+00:09:27 Speaker 2
+I brought my boat with me to the house.
+00:09:29 Speaker 1
+Alright. So that was just the look and feel that I changed a little bit. I don't maybe because it wasn't using the right containers, and that's why I was giving you either false or truth. Now you copy the CSS, do the same thing, do control A, then delete. Control A, do delete and then control V.
+00:09:53 Speaker 2
+It's like already so much.
+00:09:55 Speaker 1
+Mhm,
+00:09:56 Speaker 2
+Where are you? It's got a script. JavaScript. That's my favorite coding language.
+00:10:09 Speaker 1
+Your favorite coding language? So you're going to be building websites?
+00:10:13 Speaker 2
+Ah, I guess.
+00:10:19 Speaker 2
+I hit it with a blower yesterday. That was not cooked. A leaf blower. I think you need more than a leaf blower. It just was flying around. See? True or false.
+00:10:38 Speaker 1
+It didn't go well. I'm doing exactly what you're doing right now with AI.
+00:10:44 Speaker 2
+So I'm gonna I'm gonna go and.
+00:10:46 Speaker 1
+So wait. That's not what you asked. That's not what I asked exactly.
+00:10:50 Speaker 2
+So that's what I thought would happen if I put in true or false.
+00:10:54 Speaker 1
+That's why you thought.
+00:10:56 Speaker 2
+It's kind of picky.
+00:10:57 Speaker 1
+Let's see if it works. It's not working.
+00:11:01 Speaker 2
+So you can still change your answer after.
+00:11:09 Speaker 1
+Now you have to tell me I was wrong.
+00:11:15 Speaker 1
+That was wrong. He needs to know it was wrong, and then you can tell him. I need to write it for you because it's a little bit advanced. So you go and tell, for example. I need the same type of quiz.
+00:11:38 Speaker 2
+I wanted to be like, show a picture and then what type of pollution is this?
+00:11:44 Speaker 1
+I won the quiz. We're gonna put it into two ways. First
+00:11:57 Speaker 1
+The quiz question should have multiple answers for the user to choose from. That's what you want.
+00:12:07 Speaker 2
+After already selected.
+00:12:10 Speaker 1
+To choose from after already selected.
+00:12:14 Speaker 2
+If you click an answer, you can't click on the other answer.
+00:12:20 Speaker 1
+You mean it can change it. It can change it. Yes. So second
+00:12:23 Speaker 2
+You go to the next. It'll automatically go to the next question just so that you can't.
+00:12:28 Speaker 1
+If it's correct.
+00:12:30 Speaker 2
+It's correct or incorrect. It'll just go to the next question.
+00:12:33 Speaker 1
+Second, if it is correct or incorrect, it will automatically.
+00:12:43 Speaker 1
+Go to the next question.
+00:12:49 Speaker 1
+Third, what is the third thing? You want a picture. You said third.
+00:12:52 Speaker 2
+Third, put a picture and then what type of pollution is this?
+00:12:57 Speaker 1
+So before, third, the questions should be picture-based.
+00:13:03 Speaker 2
+Picture-based.
+00:13:05 Speaker 1
+Show a picture. I'm gonna say the drive. The draft is wrong. So now third the question should show a picture. You said right, a picture. It should be picture base is fine. Should be picture.
+00:13:31 Speaker 2
+Should be picture based.
+00:13:32 Speaker 1
+Picture based, you show a picture and as on the left you say right. On the left and ask on the right.
+00:13:41 Speaker 2
+It doesn't really matter.
+00:13:42 Speaker 1
+It doesn't matter how you want it because it's your design.
+00:13:45 Speaker 2
+I guess left and right
+00:13:46 Speaker 1
+And as on the right, what type of pollution?
+00:13:52 Speaker 2
+And then I have this.
+00:13:53 Speaker 1
+This is and then provide possible right answers, where only one of those is correct. One of those is correct, right? And then what else do you want it to.
+00:14:14 Speaker 2
+I think that's it.
+00:14:15 Speaker 1
+Make sure to keep track of correct and incorrect answers. How many is the limit of questions?
+00:14:28 Speaker 2
+Ten questions.
+00:14:30 Speaker 1
+And have a limit of ten questions. So that should be good. That's good. Update the draft to match this. Foundations are required. This is more explicit with the AI. You have to be very explicit, otherwise it's gonna try to guess what you want. Like the way we did it, apparently that wasn't as clear as I thought it was.
+00:14:59 Speaker 2
+Copy the HTML.
+00:15:02 Speaker 1
+I'm not sure how it's going to do the picture thing. It might actually have a placeholder in there for you, but even if it has a placeholder, it's fine. It doesn't matter.
+00:15:15 Speaker 1
+Cause it's still writing. That's why. Oh. There you go.
+00:15:29 Speaker 2
+And then I can only stay for these
+00:15:31 Speaker 1
+Mom. Did it copy everything? There you go.
+00:15:37 Speaker 2
+Nice. It's gonna do a placeholder for it.
+00:15:40 Speaker 1
+Let's see, let's see now. Let's see'cause it might do it through JS. Might do it.
+00:15:49 Speaker 2
+Blake's just waiting for me. I'm trying to go fast.
+00:15:56 Speaker 1
+Am. Shocked that you were able to, that you thought about this. Go ahead.
+00:16:06 Speaker 1
+Until A. Look at that. It might actually work.
+00:16:21 Speaker 1
+With the placeholder is fine. Because you can ask a lady to describe the picture right under the. And we'll say. It's good. Based on the audio, the type of pollution being shown is noise pollution. The speaker exclaims, "This is awesome!" and "Hey!", which indicates a very loud and potentially disruptive sound. The context suggests they are reacting to an overwhelming amount of noise. We're gonna say, let's. Air pollution. Perfect.
+00:16:48 Speaker 2
+But it doesn't go out of the. Just so you know, the rest of this class is gonna be your show-off time to show off your whatever you group built. So if you built a fortress or a bridge.
