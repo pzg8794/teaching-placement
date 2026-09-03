@@ -28,4 +28,7 @@ pinebrook_ignite_prize_packing_list.*
 pinebrook_ignite_prize_wheel_class_tracker-old.ipynb
 pinebrook_ignite_prize_wheel_ui_student_manager.ipynb
 wheel_of_fortune/
+
+# Raw/private placement transcripts stay local and out of Git.
+first-placement/transcripts/private/
 second-placement/transcripts/private/
