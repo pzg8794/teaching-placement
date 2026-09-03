@@ -1,12 +1,18 @@
-# First teaching placement
+# First teaching placement — Spring 2026
 
-This directory is the stable index for the first teaching placement (Spring 2026).
+This is the canonical boundary for the first teaching placement.
 
-The historical artifacts remain in their original repository paths for now so that
-existing links, notebook references, and the user's uncommitted work are not broken.
-Use the repository root, `pine-brook-elementary/`, `coursework/`, `docs/`,
-`transcripts/`, and `archives/` as the preserved first-placement record.
+## Structure
 
-Do not add Fall 2026 placement records here. Do not move student-identifying,
-mentor-identifying, or raw transcript evidence into public Git history.
+- `communications/` — placement communications and action summaries.
+- `planning/` — lesson/placement planning and coordination material.
+- `transcripts/private/` — raw Plaud exports and other private transcripts; local only and excluded from Git.
+- `transcripts/de-identified/` — privacy-reviewed transcript-derived notes that are safe to commit.
 
+## Legacy compatibility layer
+
+A substantial part of the Spring 2026 archive predates the first/second-placement split and still lives at repository root, including `pine-brook-elementary/`, `coursework/`, `docs/`, `transcripts/`, `archives/`, and related root files. Those are first-placement historical materials even though they have not yet been physically moved.
+
+They are intentionally preserved in place until their links, notebook references, and provenance can be migrated safely. Do not interpret their root location as belonging to the Fall 2026 placement.
+
+No Fall 2026 placement records should be added to the root compatibility layer or this first-placement archive.
