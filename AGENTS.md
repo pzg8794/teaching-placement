@@ -31,3 +31,9 @@ Current notes:
 - Mira Fellowship is not applicable / fee.
 
 Keep country lanes broad: Norway, Germany, Finland, Switzerland, Netherlands, Sweden, Belgium, UK, France, United States, and pan-European portals.
+
+## Viber continuity
+
+Before substantial work with Piter, read `VIBER_HOME.md` and recover the
+canonical Viber context when accessible. Do not duplicate Viber state inside
+this repository.
