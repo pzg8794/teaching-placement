@@ -21,7 +21,17 @@ mailbox. They do not expose or replace the original communication.
 | Sep 2 | Signed policy acknowledgment and initial coordination schedule sent | Message `1a063f43eebadaf7` | Piter sent the signed district-policy acknowledgment and an initial schedule summary describing RIT DSCI 602 conflicts relevant to placement coordination. | Acceptance/processing of the signed form, a complete teaching-placement schedule, or permission for every listed absence |
 | Sep 2 | Schedule-document correction | Message `1a06404fcd23a2b5` | Piter told the SBTE to disregard the earlier detailed attachment and use the revised coordination document instead. | The contents of either attachment or confirmation that the revision was received and accepted |
 
-## Missing source — do not overclaim
+## September 8 correction — original recording located
+
+The September 2 recording is available in [Plaud: Planning and Academic Discussions for Upcoming Teaching Placements](https://web.plaud.ai/file/cca0fff9980bb312aed2f3bdd58db043). Its existence and relevant transcript passage were inspected directly on September 8. The earlier local-search failure below must NOT be interpreted as absence of the recording.
+
+- At **00:27:20**, the transcript records the placement arrival clarification: class starts at 7:30, so arrival should be by 7:00. At **00:27:54**, the response refers to getting organized.
+- Piter explicitly confirmed **Monday–Friday, 7:00 AM–3:00 PM** in the September 8 conversation. The calendar was corrected to that full-day schedule. The 3:00 PM departure is user-confirmed; it is not claimed here as independently transcript-verified.
+- The revised September 2 DSCI602 attendance PDF was visually inspected: RIT attendance requires date-specific coordination, not standing Tuesday/Thursday exemptions from placement.
+- Calendar series identifier: `j112kfpsmcc9gi06h5ar4vrh4g`. School closures and individually agreed absences still require reconciliation.
+- Raw recording/transcript remains private in Plaud; no raw transcript or private contact information is published here.
+
+## Historical September 7 missing-local-source finding — superseded in part
 
 The project previously attributed the September 8 start logistics and placement
 timing to a **September 2 call transcript**. A bounded local search found no such
