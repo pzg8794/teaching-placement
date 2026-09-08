@@ -3,7 +3,7 @@
 **Purpose:** Public-safe index to the authoritative private communications for
 the second teaching placement.
 **Mailbox verified:** University of Rochester Gmail account
-**Last reconciled:** September 7, 2026
+**Last reconciled:** September 8, 2026
 **Privacy rule:** Do not copy message bodies, phone numbers, email addresses,
 signatures, signed forms, credentials, student information, or attachments into
 this Git repository.
@@ -12,6 +12,8 @@ Gmail IDs below are evidence locators usable only from Piter’s authenticated
 mailbox. They do not expose or replace the original communication.
 
 ## Verified communication chain
+
+Open originals: [outreach/SBTE response](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/19feb3d34b313b41) · [call arrangement](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a060cf9644ddc2c) · [initial signed-policy/schedule message](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a063f43eebadaf7) · [revised attachment](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a06404fcd23a2b5).
 
 | Date | Privacy-safe event | Gmail locator(s) | What the source establishes | What it does **not** establish |
 |---|---|---|---|---|
@@ -31,31 +33,20 @@ The September 2 recording is available in [Plaud: Planning and Academic Discussi
 - Calendar series identifier: `j112kfpsmcc9gi06h5ar4vrh4g`. School closures and individually agreed absences still require reconciliation.
 - Raw recording/transcript remains private in Plaud; no raw transcript or private contact information is published here.
 
-## Historical September 7 missing-local-source finding — superseded in part
+## Additional verified email evidence
 
-The project previously attributed the September 8 start logistics and placement
-timing to a **September 2 call transcript**. A bounded local search found no such
-transcript in this repository, the ignored second-placement transcript landing
-area, or the surrounding DataScience course workspace.
+| Source | Establishes | Limit |
+|---|---|---|
+| [September 3 district access email](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a067275570320de) | September 8–November 20 placement; signed acknowledgment returned; mandatory training confirmed | Access requested, not proof of successful login |
+| [September 3 completion reply](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a067278dfcf9dbf) | District confirmation replying to 12/12 completion report | Does not establish daily hours |
+| [September 2 revised attachment](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a06404fcd23a2b5) | Earlier detailed attachment explicitly superseded | Does not independently authorize every absence |
 
-Therefore:
+These three full email bodies were re-read September 8. Links select the UofR mailbox; verify account identity after opening. Other rows above retain prior inspected evidence, not a claim of another exhaustive mailbox audit.
 
-- the Gmail chain proves the call was **arranged**, not completed;
-- no statement about what was said on the call should be treated as transcript-verified;
-- the current project values—September 8 start, 7:00 AM arrival, 7:30 AM class,
-  and November 20 end—remain planning facts requiring recovery of the original
-  source or independent verification from an authoritative placement form,
-  calendar entry, or school communication;
-- recurring weekdays and daily departure time remain unresolved and must not be inferred.
+The revised PDF was visually read September 8: DSCI602 attendance is date-specific, with temporary departure/absence impact to coordinate. It does not authorize standing Tuesday/Thursday exemptions.
 
-## Private-source recovery workflow
+## Agent routing
 
-1. Open the UofR Gmail account and use the thread/message IDs above to recover
-   the original messages and attachments.
-2. Search the private Plaud/export archive for a September 2 recording or
-   transcript near the scheduled 3:00 PM call.
-3. If recovered, keep the raw file under the ignored
-   `second-placement/transcripts/private/` boundary or another approved private
-   location.
-4. Add only a de-identified summary of verified logistics to Git and record the
-   private source locator. Do not publish the raw transcript.
+[Back to MASTER](../MASTER-TODO.md) · [Transcript evidence](../transcripts/2026-09-02-CALL-EVIDENCE.md)
+
+Historical missing-local-source claims are superseded and preserved only in Git history. Add each new message's original link, date, request/reply distinction, exact supported fact, unresolved dependency and next action. Never infer completion from a request. Full-hours email corroboration remains to locate; preserve the user-confirmed schedule while doing so.

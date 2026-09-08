@@ -29,24 +29,6 @@ they are not substitutes for the original messages.
 
 Raw Plaud/course/placement transcripts belong in each placement's local/private `transcripts/private/` directory and are excluded from Git. Only privacy-reviewed, de-identified transcript-derived material may be committed under `transcripts/de-identified/`.
 
-## Fall 2026 source status
+## Fall 2026 — canonical starting point
 
-The written email chain verifies initial outreach, the SBTE response, arrangement
-of a September 2 call, and the sending and later correction of placement-related
-schedule material. See the privacy-safe
-[source summary](second-placement/communications/PLACEMENT-SOURCE-SUMMARY.md).
-
-**The September 2 call transcript is not present in the local TeachingPlacement
-workspace.** The email chain proves that the call was arranged, not that it
-occurred or what was said during it.
-
-The current project planning record lists:
-
-- first day: Tuesday, September 8, 2026;
-- arrive by 7:00 AM;
-- class starts at 7:30 AM;
-- placement period ends November 20, 2026.
-
-Those timing values must remain labeled as planning facts until their underlying
-primary source is recovered or independently reverified. Recurring weekdays and
-daily departure time remain pending and must not be inferred.
+Read [the placement MASTER](second-placement/MASTER-TODO.md) before calendar or workload changes. The September 2 call has been located in Plaud. The MASTER links transcript timestamps, district emails, user-confirmed hours and remaining checks. Older contradictory source-status statements are superseded; preserved Git history is not current operational guidance.

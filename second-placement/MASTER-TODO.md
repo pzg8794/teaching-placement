@@ -3,7 +3,22 @@
 **Project role:** Public-safe index and execution tracker for the Grade 6–12 placement; sensitive evidence stays local/private
 **Course owner:** [EDF436 master](https://github.com/pzg8794/EDF436/blob/main/MASTER-TODO.md)
 **Placement period:** September 8–November 20, 2026
-**Last reconciled:** September 7, 2026
+**Last reconciled:** September 8, 2026
+
+## READ FIRST — authoritative evidence and operating schedule
+
+| Fact | Current record | Source / evidence limit |
+|---|---|---|
+| Full working schedule | Monday–Friday, 7:00 AM–3:00 PM | Piter explicitly confirmed September 8 in this task; USER-CONFIRMED, not independently email-verified |
+| Arrival / class begins | 7:00 AM / 7:30 AM | [Original call](https://web.plaud.ai/file/cca0fff9980bb312aed2f3bdd58db043), transcript 27:20–27:54, inspected September 8 |
+| Placement dates | September 8–November 20 | [District email](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a067275570320de), full body read September 8 |
+| Mandatory training / signed acknowledgment | District confirmed completion and return | Same district email; [completion reply](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a067278dfcf9dbf) |
+| RIT conflicts | Date-specific coordination, NOT standing Tuesdays/Thursdays off | [Revised attachment message](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a06404fcd23a2b5); PDF visually inspected September 8 |
+| Calendar | Full weekday 7–3 series saved/read back | Series `j112kfpsmcc9gi06h5ar4vrh4g`; calendar save is not independent schedule/attendance proof |
+
+**Agent rule:** Open linked originals before making a new verification claim. Keep user-confirmed, transcript-verified, email-verified and calendar-saved states separate. Do not delete or shorten confirmed hours because corroborating evidence has not yet been located. Never substitute M/W/F, 9–3 or an arrival-only marker.
+
+**Open evidence work:** locate written corroboration of full daily hours; reconcile school closures and individually agreed absences. These remain checks, not reasons to erase the established schedule.
 
 This project indexes placement logistics, private-source locators, public-safe
 planning, and de-identified reflections. Original private evidence stays in the
@@ -15,19 +30,16 @@ completion states here.
 
 - Written Gmail evidence is indexed in the
   [placement source summary](communications/PLACEMENT-SOURCE-SUMMARY.md).
-- The written chain proves a September 2 call was arranged, but not that it
-  occurred or what was discussed.
-- **The September 2 call transcript is not found locally.** Do not attribute
-  start/end-time or recurrence claims to that transcript unless it is recovered.
+- The September 2 recording is located in Plaud; see the linked original above and [transcript evidence record](transcripts/2026-09-02-CALL-EVIDENCE.md).
 
 ## Current actions
 
 | Priority | Action | Deadline / trigger | Source | State | Evidence location | Next step |
 |---|---|---|---|---|---|---|
-| P0 | Begin Grade 6–12 placement | **Sep 8; planning record says arrive 7:00 AM for 7:30 AM class** | Current project planning record; the previously cited call transcript is not found locally | SCHEDULED IN PROJECT; underlying primary source needs recovery/reverification; attendance not yet evidenced | Keep attendance/private notes outside public Git | Verify against the authoritative calendar/form if available, pack materials, and retain private attendance evidence |
-| P0 | Follow the SBTE-confirmed daily schedule | Sep 8 and subsequent assigned placement days | [Gmail source summary](communications/PLACEMENT-SOURCE-SUMMARY.md) plus authoritative private schedule | Recurring weekdays and daily departure time still not recorded in this project | [`communications/`](communications/) | Capture the current schedule from the authoritative communication; do not infer recurrence |
-| P1 | Recover or reverify the September 2 call record | Before using call-derived facts as confirmed evidence | [Gmail source summary](communications/PLACEMENT-SOURCE-SUMMARY.md) | Call was arranged; transcript not found locally | Ignored `transcripts/private/` if recovered; only a de-identified summary may enter Git | Search the private Plaud/export archive or independently verify the schedule from an authoritative form/calendar |
-| P1 | Record privacy-safe placement reflection/evidence | After each placement day | Direct placement experience | NOT STARTED | [`transcripts/de-identified/`](transcripts/de-identified/) or private evidence area | Record grade band, lesson/context, action, learning, and next move without student identifiers |
+| P0 | Preserve full weekday 7–3 schedule | Each placement day | Source register above | USER-CONFIRMED; calendar saved | Calendar series above | Reconcile exceptions without fabricating them |
+| P1 | Corroborate full hours in writing | Next evidence check; internal workflow target | User reports email evidence | OPEN | Authenticated mailbox | Locate exact message; do not ask user to repeat hours |
+| P1 | Read original call when interpreting logistics | Before new call-derived claims | Linked Plaud record | LOCATED; relevant passages inspected | Transcript evidence record | Do not repeat missing-source claim |
+| P1 | Record privacy-safe placement reflection/evidence | After each placement day; workflow recommendation | Actual private attendance evidence | Not audited here | Private evidence area | Check existing work before declaring it missing |
 | P1 | Coordinate MCQ, Collaborative Noticing, Snapshot, Letter, observations, and Resource Guide | Per EDF436 deadlines | [EDF436 master](https://github.com/pzg8794/EDF436/blob/main/MASTER-TODO.md) | OPEN | [`planning/`](planning/) | Link artifacts back to the owning EDF436 row; keep signatures, media, and evaluations private |
 
 ## Source and evidence map
@@ -46,7 +58,7 @@ completion states here.
 
 | Date | Placement event | Artifact prepared | Participation verified | Private receipt/evidence | Next action |
 |---|---|---|---|---|---|
-| Sep 8 | First placement day | NO | NO — future at last check | None recorded | Attend; then add a de-identified reflection and update schedule facts |
+| Sep 8 | First placement day | Not audited here | Not independently audited here | Check private records | Do not infer attendance from calendar or nonattendance from missing audit |
 
 ## Update protocol
 
