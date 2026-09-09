@@ -1,12 +1,11 @@
 # Planning
 
-The current project planning record says to arrive by 7:00 AM on the Tuesday
-start date for a 7:30 AM class. The previously cited September 2 call transcript
-is not found locally, so confirm those values against an authoritative private
-calendar, form, or school communication before treating them as primary-source
-facts.
+- [Placement MASTER — current tasks and schedule provenance](../MASTER-TODO.md)
+- [September 9: Day 2 pocket guide](2026-09-09-DAY-2-GUIDE.md)
+- [September 8: first-day overview and transcript locators](2026-09-08-DAY-1-OVERVIEW.md)
+- [September 2 call evidence](../transcripts/2026-09-02-CALL-EVIDENCE.md)
+- [Email source summary](../communications/PLACEMENT-SOURCE-SUMMARY.md)
 
-Use the public-safe
-[placement source summary](../communications/PLACEMENT-SOURCE-SUMMARY.md) to
-recover the original Gmail evidence. Do not assume recurring weekdays or a
-departure time until the authoritative private schedule confirms them.
+Use the MASTER's source distinctions; daily working hours, bell schedules and
+internal preparation targets are different facts. Raw classroom transcripts stay
+local/private. Suggestions in the pocket guide are not new school requirements.
