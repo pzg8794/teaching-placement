@@ -87,7 +87,7 @@ signed forms, credentials, or screenshots into this public-reader folder.
 | Date | Placement event | Artifact prepared | Participation verified | Private receipt/evidence | Next action |
 |---|---|---|---|---|---|
 | Sep 8 | First placement day | [Overview](planning/2026-09-08-DAY-1-OVERVIEW.md) and [Day 2 guide](planning/2026-09-09-DAY-2-GUIDE.md) | Transcript-supported participation; not a signed hours log | Three local originals indexed in overview | Execute Day 2 plan; record outcomes separately |
-| Sep 9 | Second placement day | [Transcript summary](planning/2026-09-09-TRANSCRIPT-SUMMARY.md), [Day 3 guide](planning/2026-09-10-DAY-3-GUIDE.md), and [revised Chapter 1 + Microsoft 365 deck](planning/2026-09-10-M365-Workflow-Team-Building.pptx) | Transcript-supported planning/classroom activity; not a signed hours log | Five raw exports remain local-only and ignored by Git | Use morning agenda check; offer the book-aligned sequence; record outcomes separately |
+| Sep 9 | Second placement day | [Transcript summary](planning/2026-09-09-TRANSCRIPT-SUMMARY.md), [Day 3 guide](planning/2026-09-10-DAY-3-GUIDE.md), and [revised Chapter 1 + Microsoft 365 deck](planning/2026-09-10-M365-Workflow-Team-Building.pptx) | Transcript-supported planning/classroom activity; not a signed hours log | Six raw exports remain local-only and ignored by Git | Use morning agenda check; offer the book-aligned sequence; record outcomes separately |
 
 ## Update protocol
 
