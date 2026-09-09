@@ -3,18 +3,19 @@
 **Project role:** Public-safe index and execution tracker for the Grade 6–12 placement; sensitive evidence stays local/private
 **Course owner:** [EDF436 master](https://github.com/pzg8794/EDF436/blob/main/MASTER-TODO.md)
 **Placement period:** September 8–November 20, 2026
-**Last reconciled:** September 9, 2026 — Chapter 1 transcript/PDF alignment, Day 3 plan revision, and Drive mirror update; no new calendar verification
+**Last reconciled:** September 9, 2026 — final classroom transcript reviewed, workplace-norms slide prepared, and remote archive plan updated; no new calendar verification
 
 ## TOMORROW — September 10, third placement day
 
-**[Open Day 3 preparation guide: what to say and do](planning/2026-09-10-DAY-3-GUIDE.md)** · [Chapter 1 + Microsoft 365 workflow deck](planning/2026-09-10-M365-Workflow-Team-Building.pptx) · [September 9 transcript summary and handoff](planning/2026-09-09-TRANSCRIPT-SUMMARY.md) · [Day 1 overview and exact transcript locators](planning/2026-09-08-DAY-1-OVERVIEW.md)
+**[Open Day 3 preparation guide: what to say and do](planning/2026-09-10-DAY-3-GUIDE.md)** · [student-created workplace norms slide](planning/2026-09-10-Our-Workplace-Norms-One-Slide.pptx) · [Chapter 1 + Microsoft 365 workflow deck](planning/2026-09-10-M365-Workflow-Team-Building.pptx) · [September 9 transcript summary and handoff](planning/2026-09-09-TRANSCRIPT-SUMMARY.md)
 
-**Yesterday in 30 seconds:** partner interviews were carried out; the SBTE then asked for a new team-building activity, two agendas for tomorrow, and brief course-relevant starters while keeping technology for Friday. Chapter 1 and the additional planning transcript now give the content sequence: purchase question → business/marketing → goods/services/ideas → marketing concepts. The revised deck models that sequence and stages the Microsoft 365 workflow for Friday; the morning agenda check remains authoritative.
+**Yesterday in 30 seconds:** partner interviews were carried out; the final planning conversation then made the next team-building task specific. Students should develop workplace-style classroom norms around being **on time, prepared, productive, and kind**, then combine their ideas into a shared contract. The one-slide PowerPoint is the prepared discussion surface. Chapter 1 and Microsoft 365 materials remain available for the SBTE's chosen sequence; the morning agenda check remains authoritative.
 
 | Task | When | State | Underlying source |
 |---|---|---|---|
 | Bring two agenda choices and one new team-building activity | Sep 10 arrival | READY TO USE; SBTE selection required | `09-09 Lecture...` 00:46:09–00:48:27 |
 | Prepare short course-relevant brain-teaser/starter ideas | Sep 10 planning / as requested | READY TO USE; no grade implied | `09-09 Weekly Meeting...` 00:13:41–00:14:18 |
+| Use the one-slide workplace-norms activity so students draft their own class contract | Sep 10; only after SBTE confirms | READY TO USE; student-created norms, not predetermined rules | `09-09 Teaching placement — Eastridge...` 00:42:54–00:44:21 |
 | Offer the Chapter 1 purchase-question starter and goods/services/ideas classification | Sep 10 marketing/business class; only if SBTE selects | READY TO USE; book-aligned, low-stakes | `09-09 Lecture Plan...` 00:08:14–00:16:50; Chapter 1 PDF pp. 4, 16 |
 | Use PowerPoint as an editable teaching/chart tool, not an assumed student assignment | Sep 10 or later, at SBTE direction | PREPARED; no new grade implied | `09-09 Lecture Plan...` 00:10:20–00:16:50; revised deck |
 | Take one supported role: introduce, time, circulate, or debrief | During selected activity | SUGGESTED SUPPORT; not a new requirement | `09-09 Lecture...` 00:46:09–00:48:05; gradual participation in Day 1 sources |

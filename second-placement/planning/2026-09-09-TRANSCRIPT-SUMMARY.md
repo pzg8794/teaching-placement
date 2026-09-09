@@ -1,6 +1,6 @@
 # September 9 transcript summary and September 10 handoff
 
-[Open the September 10 preparation guide](2026-09-10-DAY-3-GUIDE.md) · [Placement MASTER](../MASTER-TODO.md) · [verified Drive folder](https://drive.google.com/drive/folders/1l2EO2iRNDvzVQEapWE_lUBFqJ6S7u1Ls)
+[Open the September 10 preparation guide](2026-09-10-DAY-3-GUIDE.md) · [workplace norms slide](2026-09-10-Our-Workplace-Norms-One-Slide.pptx) · [Placement MASTER](../MASTER-TODO.md) · [verified Drive folder](https://drive.google.com/drive/folders/1l2EO2iRNDvzVQEapWE_lUBFqJ6S7u1Ls)
 
 ## Read this first
 
@@ -9,6 +9,7 @@
 - **Technology timing:** the September 9 follow-up places deeper technology/Teams work later, with Friday mentioned as the technology day. Do not build or promise a full technology lesson for Thursday without a new SBTE decision.
 - **Chapter 1 alignment:** the book is now the content authority for the opening work. The sequence is the purchase question, business and marketing, goods/services/ideas, economics and business activities, marketing concept, marketing mix, and marketing functions.
 - **Friday systems plan:** the additional September 9 planning transcript describes a later Microsoft 365 workflow: create a class folder, archive older work, name files meaningfully, download the first vocabulary assignment, and upload it to Teams. The deck models this without turning it into a Thursday requirement.
+- **Latest explicit activity:** the final September 9 transcript asks for a business-oriented slideshow that helps students create classroom norms around being on time, prepared, productive, and kind. The prepared one-slide PowerPoint leaves the rules blank so teams can propose, combine, and agree on the contract.
 - **Evidence state:** these are transcript-supported plans and conversations. They do not prove attendance, a completed assignment, a final seating chart, a school-wide policy, or approval of any new activity.
 
 ## Explicit SBTE requests versus support I prepared
@@ -18,6 +19,7 @@
 | **SBTE planning direction (tentative scope)** | Prepare brief “brain teaser”/course-relevant starter ideas for the next few days; the exact activity choice remains subject to the SBTE's selection. | `09-09 Weekly Meeting...` 00:13:41–00:14:18; `09-09 Lecture_ High School Marketing...` 00:44:04–00:48:05 |
 | **SBTE request** | Build another team-building activity for the next day and keep technology for Friday. | `09-09 Lecture_ High School Marketing...` 00:46:09–00:48:05 |
 | **SBTE request** | Have two agendas ready for the next day: one for each class. | `09-09 Lecture_ High School Marketing...` 00:48:05–00:48:27 |
+| **SBTE final activity direction** | Frame the class like a workplace and have students develop classroom norms they can agree upon around being on time, prepared, productive, and kind. | `09-09 Teaching placement — Eastridge...` 00:42:54–00:44:21 |
 | **SBTE course-content direction** | Use Chapter 1 discussion questions and chapter concepts to create the opening work; start with the last-purchase question and connect it to marketing. | `09-09 Lecture Plan_ Business and Marketing First Lessons...` 00:12:57–00:13:45; Chapter 1 PDF p. 16 |
 | **SBTE activity direction** | Have students map an industry or app across one good, one service, and one idea, and explain the classification. | `09-09 Lecture Plan_ Business and Marketing First Lessons...` 00:08:14–00:08:45; Chapter 1 PDF p. 4 |
 | **SBTE later Microsoft 365 plan** | Set up a class folder, archive older work, teach meaningful file names, download the vocabulary assignment, and upload it to Teams. | `09-09 Lecture Plan_ Business and Marketing First Lessons...` 00:00:00–00:02:30 |
@@ -99,15 +101,21 @@ Source: `second-placement/transcripts/09-09 Weekly Meeting_ School Operations, S
 - **00:19:11–00:21:45:** co-op phone-box/check-in logistics were discussed for the large co-op class; use the SBTE's system and do not independently change attendance or release decisions.
 - **00:23:53–00:26:23:** the transition into first block and the need to keep the agenda/classroom organization visible were discussed; counts and room arrangements were still changing.
 
+Source: `second-placement/transcripts/09-09 Teaching placement — Eastridge · 7_00 AM–3_00 PM-transcript.txt`.
+
+- **00:01:59–00:04:30:** the SBTE connected readiness to having a computer, organized materials, ongoing work, independent responsibility, and collaboration without doing another student's work.
+- **00:35:01:** the SBTE explicitly appreciated students being on time.
+- **00:42:54–00:44:21:** the SBTE requested a high-school-appropriate, business-oriented slideshow about workplace expectations. The class should develop norms it can agree upon around being on time, prepared, productive, and kind. The one-slide PowerPoint turns that request into a student drafting process rather than presenting finished rules.
+
 ## What is still not established
 
 - The exact September 10 bell schedule, class order, attendance procedure, and which of the two agenda cards the SBTE will select.
 - That any suggested starter, seating arrangement, technology workflow, or assessment is approved or completed.
-- The latest raw September 8–9 transcript exports are cloud-visible: the verified Drive mirror currently contains public-safe Markdown navigation/planning files, while those raw `.txt` exports remain local-only.
+- Any final wording of the student-created class contract; the prepared slide supports discussion but does not prove the class or SBTE adopted a specific norm.
 - Any student identity, diagnosis, motivation, ability, family situation, or health finding. The transcript's garbled or subjective statements are not evidence for those claims.
 
 ## Source and privacy note
 
-The raw exports were read locally for this summary but are not added to public Git. The repository now ignores `second-placement/transcripts/*.txt`. The current Drive placement folder is shared as anyone-with-link reader, so it must remain limited to public-safe documentation.
+The raw exports are not added to public Git or the public-reader Drive placement folder. The latest transcript has a separate private GitHub and owner-only Drive archive so Piter can access the source remotely without publishing student names or classroom details.
 
 [Back to planning index](README.md)

@@ -2,6 +2,7 @@
 
 - [Placement MASTER — current tasks and schedule provenance](../MASTER-TODO.md)
 - [September 10: Day 3 preparation guide](2026-09-10-DAY-3-GUIDE.md)
+- [September 10: student-created workplace norms — one-slide PowerPoint](2026-09-10-Our-Workplace-Norms-One-Slide.pptx) — teams draft, combine, and agree on a class contract around being on time, prepared, productive, and kind
 - [September 10: Chapter 1 + Microsoft 365 workflow deck](2026-09-10-M365-Workflow-Team-Building.pptx) — editable Chapter 1 teaching sequence, goods/services/ideas team activity, PowerPoint chart model, and staged Friday Teams workflow
 - [September 9: transcript summary and handoff](2026-09-09-TRANSCRIPT-SUMMARY.md)
 - [September 9: Day 2 pocket guide](2026-09-09-DAY-2-GUIDE.md)
