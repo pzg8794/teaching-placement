@@ -7,6 +7,8 @@
 - **Chronology:** September 8 onboarding and co-planning, then September 9 marketing-class introduction and school-operations planning.
 - **Tomorrow's source-grounded outcome:** arrive with two short, board-ready agenda choices and one manageable team-building activity; ask the SBTE which class uses which option.
 - **Technology timing:** the September 9 follow-up places deeper technology/Teams work later, with Friday mentioned as the technology day. Do not build or promise a full technology lesson for Thursday without a new SBTE decision.
+- **Chapter 1 alignment:** the book is now the content authority for the opening work. The sequence is the purchase question, business and marketing, goods/services/ideas, economics and business activities, marketing concept, marketing mix, and marketing functions.
+- **Friday systems plan:** the additional September 9 planning transcript describes a later Microsoft 365 workflow: create a class folder, archive older work, name files meaningfully, download the first vocabulary assignment, and upload it to Teams. The deck models this without turning it into a Thursday requirement.
 - **Evidence state:** these are transcript-supported plans and conversations. They do not prove attendance, a completed assignment, a final seating chart, a school-wide policy, or approval of any new activity.
 
 ## Explicit SBTE requests versus support I prepared
@@ -16,12 +18,30 @@
 | **SBTE planning direction (tentative scope)** | Prepare brief “brain teaser”/course-relevant starter ideas for the next few days; the exact activity choice remains subject to the SBTE's selection. | `09-09 Weekly Meeting...` 00:13:41–00:14:18; `09-09 Lecture_ High School Marketing...` 00:44:04–00:48:05 |
 | **SBTE request** | Build another team-building activity for the next day and keep technology for Friday. | `09-09 Lecture_ High School Marketing...` 00:46:09–00:48:05 |
 | **SBTE request** | Have two agendas ready for the next day: one for each class. | `09-09 Lecture_ High School Marketing...` 00:48:05–00:48:27 |
+| **SBTE course-content direction** | Use Chapter 1 discussion questions and chapter concepts to create the opening work; start with the last-purchase question and connect it to marketing. | `09-09 Lecture Plan_ Business and Marketing First Lessons...` 00:12:57–00:13:45; Chapter 1 PDF p. 16 |
+| **SBTE activity direction** | Have students map an industry or app across one good, one service, and one idea, and explain the classification. | `09-09 Lecture Plan_ Business and Marketing First Lessons...` 00:08:14–00:08:45; Chapter 1 PDF p. 4 |
+| **SBTE later Microsoft 365 plan** | Set up a class folder, archive older work, teach meaningful file names, download the vocabulary assignment, and upload it to Teams. | `09-09 Lecture Plan_ Business and Marketing First Lessons...` 00:00:00–00:02:30 |
+| **SBTE review direction** | Use the textbook's review modes: define terms, test knowledge, read/write, listen/speak, or create/design; assignment selection remains the SBTE's decision. | `09-09 Lecture Plan_ Business and Marketing First Lessons...` 00:10:20–00:11:50; Chapter 1 PDF p. 16 |
 | **SBTE request / end-of-week goal** | Work toward seating charts so names and locations become manageable; keep the larger classes strategically organized. | `Co-planning_ Business Course Operations...` 01:56:52–01:57:59; `09-09 Weekly Meeting...` 00:11:40–00:13:41 |
 | **Previously discussed, not Thursday's new assignment** | Prepare textbook/Teams materials, Office 365 Chapter 2 materials, marketing notes, vocabulary, and review questions as the course moves into instruction. | `Co-planning_ Business Course Operations...` 01:23:03–01:27:18 |
 | **My support** | Two low-stakes, no-grade agenda cards with a 3–5 minute starter, a short partner/team exchange, and an SBTE transition. | Prepared in [the September 10 guide](2026-09-10-DAY-3-GUIDE.md); not a transcript requirement |
 | **My support** | A short arrival script, a three-item priority list, a materials list, and a low-energy fallback. | Prepared in [the September 10 guide](2026-09-10-DAY-3-GUIDE.md); not instructor approval |
 
 Do not convert the suggested agenda cards into a graded assignment, a new classroom rule, a new accommodation, or a replacement for the SBTE's existing plan.
+
+## Chapter 1 course alignment now prepared
+
+The revised student deck follows the actual book rather than using a generic team exercise:
+
+1. **Opening question:** the chapter asks students to name a recent purchase and explain how marketing affected the decision.
+2. **Core distinctions:** business, product, marketing, good, service, idea, and economics.
+3. **Team classification:** choose an industry or app and add one good, one service, and one idea to the editable PowerPoint chart.
+4. **Business reasoning:** connect limited resources to operational, investing, and financial activities.
+5. **Marketing concept:** connect customer needs, company goals, and profits.
+6. **Marketing mix:** identify product, promotion, price, and place.
+7. **Later systems work:** use PowerPoint to build a clear chart, then use folders, meaningful names, downloads, and Teams when the SBTE opens the Microsoft 365 workflow.
+
+The deck presents these as teacher-guided discussion and practice. It does not claim that a Chapter 1 assignment, grade, student choice, or Friday technology release has already been approved.
 
 ## Chronology with exact timestamp anchors
 
@@ -62,6 +82,15 @@ Source: `second-placement/transcripts/09-09 Lecture_ High School Marketing_Busin
 - **00:44:04–00:46:09:** the SBTE described the next steps as getting textbook access into Teams and setting up vocabulary work, while allowing a choice between short brain teasers and another team-building activity.
 - **00:46:09–00:48:05:** the clearest new direction: use another team-building activity tomorrow, postpone technology until Friday, and prepare brief course-relevant starters that can be discussed while attendance is taken.
 - **00:48:05–00:48:27:** the SBTE asked for two agendas for tomorrow, one for each class.
+
+Source: `second-placement/transcripts/09-09 Lecture Plan_ Business and Marketing First Lessons-transcript.txt`.
+
+- **00:00:00–00:02:30:** the later technology sequence was described: create a class folder, archive older work, use meaningful file names, download the vocabulary assignment, and upload the completed file to Teams.
+- **00:06:54–00:10:20:** the Chapter 1 key terms were reordered to follow the textbook, beginning with business and product, then marketing, good, service, idea, economics, marketing concept, market share, marketing mix, marketing function, market research, and target market.
+- **00:08:14–00:08:45:** the proposed team activity was to select an industry or app and map a good, a service, and an idea.
+- **00:10:20–00:11:50:** the planning conversation reviewed the chapter's five review formats and the use of PowerPoint teaching tools, including a goods/services/ideas chart.
+- **00:12:57–00:16:50:** the chapter discussion question, fill-in teaching approach, and editable chart activity were discussed as ways to guide students through the material.
+- **00:20:51–00:23:13:** the team considered asking students to match marketing-function examples to concepts, explain their reasoning, and check their work after trying first.
 
 Source: `second-placement/transcripts/09-09 Weekly Meeting_ School Operations, Student Management, and Class Planning-transcript.txt`.
 

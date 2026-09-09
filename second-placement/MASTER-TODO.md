@@ -3,20 +3,22 @@
 **Project role:** Public-safe index and execution tracker for the Grade 6–12 placement; sensitive evidence stays local/private
 **Course owner:** [EDF436 master](https://github.com/pzg8794/EDF436/blob/main/MASTER-TODO.md)
 **Placement period:** September 8–November 20, 2026
-**Last reconciled:** September 9, 2026 — Day 2 transcript review and Drive mirror verification; no new calendar verification
+**Last reconciled:** September 9, 2026 — Chapter 1 transcript/PDF alignment, Day 3 plan revision, and Drive mirror update; no new calendar verification
 
 ## TOMORROW — September 10, third placement day
 
-**[Open Day 3 preparation guide: what to say and do](planning/2026-09-10-DAY-3-GUIDE.md)** · [Microsoft 365 workflow and team-building deck](planning/2026-09-10-M365-Workflow-Team-Building.pptx) · [September 9 transcript summary and handoff](planning/2026-09-09-TRANSCRIPT-SUMMARY.md) · [Day 1 overview and exact transcript locators](planning/2026-09-08-DAY-1-OVERVIEW.md)
+**[Open Day 3 preparation guide: what to say and do](planning/2026-09-10-DAY-3-GUIDE.md)** · [Chapter 1 + Microsoft 365 workflow deck](planning/2026-09-10-M365-Workflow-Team-Building.pptx) · [September 9 transcript summary and handoff](planning/2026-09-09-TRANSCRIPT-SUMMARY.md) · [Day 1 overview and exact transcript locators](planning/2026-09-08-DAY-1-OVERVIEW.md)
 
-**Yesterday in 30 seconds:** partner interviews were carried out; the SBTE then asked for a new team-building activity, two agendas for tomorrow, and brief course-relevant starters while keeping technology for Friday. The guide prepares those materials as optional, low-stakes supports; the morning agenda check remains authoritative.
+**Yesterday in 30 seconds:** partner interviews were carried out; the SBTE then asked for a new team-building activity, two agendas for tomorrow, and brief course-relevant starters while keeping technology for Friday. Chapter 1 and the additional planning transcript now give the content sequence: purchase question → business/marketing → goods/services/ideas → marketing concepts. The revised deck models that sequence and stages the Microsoft 365 workflow for Friday; the morning agenda check remains authoritative.
 
 | Task | When | State | Underlying source |
 |---|---|---|---|
 | Bring two agenda choices and one new team-building activity | Sep 10 arrival | READY TO USE; SBTE selection required | `09-09 Lecture...` 00:46:09–00:48:27 |
 | Prepare short course-relevant brain-teaser/starter ideas | Sep 10 planning / as requested | READY TO USE; no grade implied | `09-09 Weekly Meeting...` 00:13:41–00:14:18 |
+| Offer the Chapter 1 purchase-question starter and goods/services/ideas classification | Sep 10 marketing/business class; only if SBTE selects | READY TO USE; book-aligned, low-stakes | `09-09 Lecture Plan...` 00:08:14–00:16:50; Chapter 1 PDF pp. 4, 16 |
+| Use PowerPoint as an editable teaching/chart tool, not an assumed student assignment | Sep 10 or later, at SBTE direction | PREPARED; no new grade implied | `09-09 Lecture Plan...` 00:10:20–00:16:50; revised deck |
 | Take one supported role: introduce, time, circulate, or debrief | During selected activity | SUGGESTED SUPPORT; not a new requirement | `09-09 Lecture...` 00:46:09–00:48:05; gradual participation in Day 1 sources |
-| Keep technology/Teams work at the SBTE's chosen boundary | Sep 10; technology mentioned for Fri Sep 11 | CONFIRM FIRST | `09-09 Lecture...` 00:46:09–00:48:05 |
+| Keep hands-on Microsoft 365/Teams work at the SBTE's chosen boundary | Sep 10; workflow mentioned for Fri Sep 11 | CONFIRM FIRST; deck previews folder, archive, names, download, Teams upload | `09-09 Lecture...` 00:46:09–00:48:05; `09-09 Lecture Plan...` 00:00:00–00:02:30 |
 | Work toward seating-chart organization; keep names private | By end of week | OPEN | `Co-planning...` 01:56:52–01:57:59; `09-09 Weekly...` 00:11:40–00:13:41 |
 | Verify Drive mirror and use only the current placement folder link | Sep 9 verification completed | VERIFIED; public-reader boundary documented | Drive connector readback; planning README |
 
@@ -85,7 +87,7 @@ signed forms, credentials, or screenshots into this public-reader folder.
 | Date | Placement event | Artifact prepared | Participation verified | Private receipt/evidence | Next action |
 |---|---|---|---|---|---|
 | Sep 8 | First placement day | [Overview](planning/2026-09-08-DAY-1-OVERVIEW.md) and [Day 2 guide](planning/2026-09-09-DAY-2-GUIDE.md) | Transcript-supported participation; not a signed hours log | Three local originals indexed in overview | Execute Day 2 plan; record outcomes separately |
-| Sep 9 | Second placement day | [Transcript summary](planning/2026-09-09-TRANSCRIPT-SUMMARY.md) and [Day 3 guide](planning/2026-09-10-DAY-3-GUIDE.md) | Transcript-supported planning/classroom activity; not a signed hours log | Five raw exports remain local-only and ignored by Git | Use morning agenda check; take one supported role; record outcomes separately |
+| Sep 9 | Second placement day | [Transcript summary](planning/2026-09-09-TRANSCRIPT-SUMMARY.md), [Day 3 guide](planning/2026-09-10-DAY-3-GUIDE.md), and [revised Chapter 1 + Microsoft 365 deck](planning/2026-09-10-M365-Workflow-Team-Building.pptx) | Transcript-supported planning/classroom activity; not a signed hours log | Five raw exports remain local-only and ignored by Git | Use morning agenda check; offer the book-aligned sequence; record outcomes separately |
 
 ## Update protocol
 

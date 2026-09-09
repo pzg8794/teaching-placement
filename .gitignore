@@ -33,3 +33,7 @@ wheel_of_fortune/
 first-placement/transcripts/private/
 second-placement/transcripts/private/
 second-placement/transcripts/*.txt
+
+# The textbook chapter is retained locally as source evidence; do not publish
+# the licensed/encrypted PDF to the public course repository.
+second-placement/Chapter 1 Introduction to Business and Marketing.pdf

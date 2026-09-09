@@ -2,7 +2,7 @@
 
 - [Placement MASTER — current tasks and schedule provenance](../MASTER-TODO.md)
 - [September 10: Day 3 preparation guide](2026-09-10-DAY-3-GUIDE.md)
-- [September 10: Microsoft 365 workflow and team-building deck](2026-09-10-M365-Workflow-Team-Building.pptx)
+- [September 10: Chapter 1 + Microsoft 365 workflow deck](2026-09-10-M365-Workflow-Team-Building.pptx) — editable Chapter 1 teaching sequence, goods/services/ideas team activity, PowerPoint chart model, and staged Friday Teams workflow
 - [September 9: transcript summary and handoff](2026-09-09-TRANSCRIPT-SUMMARY.md)
 - [September 9: Day 2 pocket guide](2026-09-09-DAY-2-GUIDE.md)
 - [September 8: first-day overview and transcript locators](2026-09-08-DAY-1-OVERVIEW.md)
@@ -23,3 +23,6 @@ local-only and are protected by the repository ignore rule.
 Use the MASTER's source distinctions; daily working hours, bell schedules and
 internal preparation targets are different facts. Raw classroom transcripts stay
 local/private. Suggestions in the pocket guide are not new school requirements.
+The Chapter 1 deck and guide support the SBTE's business/marketing instruction;
+they do not replace the SBTE's lesson, add a grade, or launch Microsoft 365 work
+before the agreed point.
