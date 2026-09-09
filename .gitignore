@@ -32,3 +32,4 @@ wheel_of_fortune/
 # Raw/private placement transcripts stay local and out of Git.
 first-placement/transcripts/private/
 second-placement/transcripts/private/
+second-placement/transcripts/*.txt

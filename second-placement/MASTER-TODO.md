@@ -3,24 +3,22 @@
 **Project role:** Public-safe index and execution tracker for the Grade 6–12 placement; sensitive evidence stays local/private
 **Course owner:** [EDF436 master](https://github.com/pzg8794/EDF436/blob/main/MASTER-TODO.md)
 **Placement period:** September 8–November 20, 2026
-**Last reconciled:** September 9, 2026 — Day 1 transcript review; no new calendar verification
+**Last reconciled:** September 9, 2026 — Day 2 transcript review and Drive mirror verification; no new calendar verification
 
-## TODAY — September 9, second placement day
+## TOMORROW — September 10, third placement day
 
-**[Open Day 2 pocket guide: what to say and do](planning/2026-09-09-DAY-2-GUIDE.md)** · [Day 1 overview and exact transcript locators](planning/2026-09-08-DAY-1-OVERVIEW.md)
+**[Open Day 3 preparation guide: what to say and do](planning/2026-09-10-DAY-3-GUIDE.md)** · [September 9 transcript summary and handoff](planning/2026-09-09-TRANSCRIPT-SUMMARY.md) · [Day 1 overview and exact transcript locators](planning/2026-09-08-DAY-1-OVERVIEW.md)
 
-**Yesterday in 30 seconds:** onboarding and classroom routines; partner/group introductions; Office practice-to-mastery workflow; marketing guided notes/vocabulary; co-op contracts/check-in. SBTE invited gradual participation through small activities. Today's planned interviews and co-op support do not require building a full new lesson overnight. Sources A/B and timestamps are in the overview; plans still need the morning agenda check.
+**Yesterday in 30 seconds:** partner interviews were carried out; the SBTE then asked for a new team-building activity, two agendas for tomorrow, and brief course-relevant starters while keeping technology for Friday. The guide prepares those materials as optional, low-stakes supports; the morning agenda check remains authoritative.
 
 | Task | When | State | Underlying source |
 |---|---|---|---|
-| Confirm agenda; offer interview instructions, timing or circulation | Sep 9 arrival | READY TO USE; not performed | B 00:57:06–01:00:15; guide above |
-| Support returned co-op forms using SBTE's system | Sep 9 co-op | OPEN | B 00:54:56–00:57:06, 01:23:41 |
-| Test current access; learn copier; resolve authenticator only if still needed | Shared planning period | CHECK CURRENT STATE | A 04:59:14; B 01:23:03, 01:46:50 |
-| Try assigned Office packet; record confusing steps | Shared planning / before leading it | OPEN; packet selection needed | A 01:24:18–01:25:59, 03:48:55 |
-| Prepare marketing notes/vocabulary using actual chapter and SBTE templates | Next-week plan by Fri Sep 11; planning target | OPEN | A 01:30:30; B 01:25:18–01:27:18 |
-| Help prepare Teams/files orientation | Tentatively Thu/Fri | PLAN; confirm timing | B 01:02:56–01:04:57, 01:24:48 |
-| Support seating-chart planning; keep names private | End of week goal | OPEN | A 01:56:52–01:57:59 |
-| Brief debrief and one agreed next action | End of Day 2 | RECOMMENDED, not instructor deadline | Assistant planning recommendation |
+| Bring two agenda choices and one new team-building activity | Sep 10 arrival | READY TO USE; SBTE selection required | `09-09 Lecture...` 00:46:09–00:48:27 |
+| Prepare short course-relevant brain-teaser/starter ideas | Sep 10 planning / as requested | READY TO USE; no grade implied | `09-09 Weekly Meeting...` 00:13:41–00:14:18 |
+| Take one supported role: introduce, time, circulate, or debrief | During selected activity | SUGGESTED SUPPORT; not a new requirement | `09-09 Lecture...` 00:46:09–00:48:05; gradual participation in Day 1 sources |
+| Keep technology/Teams work at the SBTE's chosen boundary | Sep 10; technology mentioned for Fri Sep 11 | CONFIRM FIRST | `09-09 Lecture...` 00:46:09–00:48:05 |
+| Work toward seating-chart organization; keep names private | By end of week | OPEN | `Co-planning...` 01:56:52–01:57:59; `09-09 Weekly...` 00:11:40–00:13:41 |
+| Verify Drive mirror and use only the current placement folder link | Sep 9 verification completed | VERIFIED; public-reader boundary documented | Drive connector readback; planning README |
 
 ## READ FIRST — authoritative evidence and operating schedule
 
@@ -42,6 +40,17 @@ planning, and de-identified reflections. Original private evidence stays in the
 authenticated mailbox, approved private storage, or ignored local directories.
 EDF436 owns course deadlines and submission status. Do not duplicate course
 completion states here.
+
+## Verified Drive mirror
+
+[Open the current second-placement folder](https://drive.google.com/drive/folders/1l2EO2iRNDvzVQEapWE_lUBFqJ6S7u1Ls)
+
+The authenticated Google Drive search resolved the current placement folder
+under the current `TeachingPlacement` mirror. The folder and
+its public-safe planning files are readable by anyone with the link. The latest
+raw September 8–9 `.txt` transcript exports were not present in that cloud
+folder and remain local-only. Do not upload raw transcripts, student records,
+signed forms, credentials, or screenshots into this public-reader folder.
 
 ## Source status at a glance
 
@@ -76,6 +85,7 @@ completion states here.
 | Date | Placement event | Artifact prepared | Participation verified | Private receipt/evidence | Next action |
 |---|---|---|---|---|---|
 | Sep 8 | First placement day | [Overview](planning/2026-09-08-DAY-1-OVERVIEW.md) and [Day 2 guide](planning/2026-09-09-DAY-2-GUIDE.md) | Transcript-supported participation; not a signed hours log | Three local originals indexed in overview | Execute Day 2 plan; record outcomes separately |
+| Sep 9 | Second placement day | [Transcript summary](planning/2026-09-09-TRANSCRIPT-SUMMARY.md) and [Day 3 guide](planning/2026-09-10-DAY-3-GUIDE.md) | Transcript-supported planning/classroom activity; not a signed hours log | Five raw exports remain local-only and ignored by Git | Use morning agenda check; take one supported role; record outcomes separately |
 
 ## Update protocol
 
