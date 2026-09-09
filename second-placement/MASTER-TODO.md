@@ -7,7 +7,7 @@
 
 ## TOMORROW — September 10, third placement day
 
-**[Open Day 3 preparation guide: what to say and do](planning/2026-09-10-DAY-3-GUIDE.md)** · [September 9 transcript summary and handoff](planning/2026-09-09-TRANSCRIPT-SUMMARY.md) · [Day 1 overview and exact transcript locators](planning/2026-09-08-DAY-1-OVERVIEW.md)
+**[Open Day 3 preparation guide: what to say and do](planning/2026-09-10-DAY-3-GUIDE.md)** · [Microsoft 365 workflow and team-building deck](planning/2026-09-10-M365-Workflow-Team-Building.pptx) · [September 9 transcript summary and handoff](planning/2026-09-09-TRANSCRIPT-SUMMARY.md) · [Day 1 overview and exact transcript locators](planning/2026-09-08-DAY-1-OVERVIEW.md)
 
 **Yesterday in 30 seconds:** partner interviews were carried out; the SBTE then asked for a new team-building activity, two agendas for tomorrow, and brief course-relevant starters while keeping technology for Friday. The guide prepares those materials as optional, low-stakes supports; the morning agenda check remains authoritative.
 

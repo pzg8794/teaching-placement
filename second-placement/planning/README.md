@@ -2,6 +2,7 @@
 
 - [Placement MASTER — current tasks and schedule provenance](../MASTER-TODO.md)
 - [September 10: Day 3 preparation guide](2026-09-10-DAY-3-GUIDE.md)
+- [September 10: Microsoft 365 workflow and team-building deck](2026-09-10-M365-Workflow-Team-Building.pptx)
 - [September 9: transcript summary and handoff](2026-09-09-TRANSCRIPT-SUMMARY.md)
 - [September 9: Day 2 pocket guide](2026-09-09-DAY-2-GUIDE.md)
 - [September 8: first-day overview and transcript locators](2026-09-08-DAY-1-OVERVIEW.md)
