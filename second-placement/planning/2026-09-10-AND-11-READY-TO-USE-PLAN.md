@@ -72,3 +72,11 @@ Use one per day. Give students 60 seconds of quiet thinking before discussion. A
 - Chapter 1 PDF: the purchase discussion question and course concepts.
 
 Raw transcripts remain in the private source archive. This public-safe guide contains no student names or identifiable classroom records.
+
+## Remote copies
+
+- [GitHub planning package](https://github.com/pzg8794/teaching-placement/tree/teaching_placement_shared/second-placement/planning)
+- [Drive copy of this guide](https://drive.google.com/file/d/1vW9u5rbth4D3ogrjFkeMASXvE7bAu5Vj/view)
+- [Drive copy of the Friday PowerPoint](https://docs.google.com/presentation/d/1nkGA0LZSyLg-I-ftwe8rIRiqQ8uTojFq/edit)
+
+The Drive copies inherit public reader access from the placement mirror. Raw transcripts are intentionally excluded from that public folder and remain in the established private archive.
