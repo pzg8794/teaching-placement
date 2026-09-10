@@ -3,9 +3,15 @@
 **Project role:** Public-safe index and execution tracker for the Grade 6–12 placement; sensitive evidence stays local/private
 **Course owner:** [EDF436 master](https://github.com/pzg8794/EDF436/blob/main/MASTER-TODO.md)
 **Placement period:** September 8–November 20, 2026
-**Last reconciled:** September 9, 2026 — final classroom transcript reviewed, workplace-norms slide prepared, and remote archive plan updated; no new calendar verification
+**Last reconciled:** September 10, 2026 — September 9 transcripts reconciled into ready-to-use Thursday and Friday materials; no new calendar verification
 
-## TOMORROW — September 10, third placement day
+## TODAY AND FRIDAY — September 10–11
+
+**[Open the ready-to-use two-day plan](planning/2026-09-10-AND-11-READY-TO-USE-PLAN.md)** · [Thursday workplace norms slide](planning/2026-09-10-Our-Workplace-Norms-One-Slide.pptx) · [Friday brain teasers and Microsoft 365 workflow](planning/2026-09-11-Chapter-1-Brain-Teasers-and-M365-Workflow.pptx)
+
+Thursday's student-created workplace norms activity is ready to facilitate. Friday's deck now contains the Chapter 1 purchase opener, Microsoft 365 folder and file-name workflow, vocabulary download and Teams submission checkpoints, an exit check, and five additional Chapter 1 brain teasers for next week. Confirm the live agenda and approved Teams materials with the SBTE before students act.
+
+## SEPTEMBER 10 — third placement day
 
 **[Open Day 3 preparation guide: what to say and do](planning/2026-09-10-DAY-3-GUIDE.md)** · [student-created workplace norms slide](planning/2026-09-10-Our-Workplace-Norms-One-Slide.pptx) · [Chapter 1 + Microsoft 365 workflow deck](planning/2026-09-10-M365-Workflow-Team-Building.pptx) · [September 9 transcript summary and handoff](planning/2026-09-09-TRANSCRIPT-SUMMARY.md)
 

@@ -1,5 +1,8 @@
 # Planning
 
+- [September 10 and 11 ready-to-use plan](2026-09-10-AND-11-READY-TO-USE-PLAN.md)
+- [Friday Chapter 1 brain teasers and Microsoft 365 workflow](2026-09-11-Chapter-1-Brain-Teasers-and-M365-Workflow.pptx)
+
 - [Placement MASTER — current tasks and schedule provenance](../MASTER-TODO.md)
 - [September 10: Day 3 preparation guide](2026-09-10-DAY-3-GUIDE.md)
 - [September 10: student-created workplace norms — one-slide PowerPoint](2026-09-10-Our-Workplace-Norms-One-Slide.pptx) — teams draft, combine, and agree on a class contract around being on time, prepared, productive, and kind
