@@ -3,13 +3,27 @@
 **Project role:** Public-safe index and execution tracker for the Grade 6–12 placement; sensitive evidence stays local/private
 **Course owner:** [EDF436 master](https://github.com/pzg8794/EDF436/blob/main/MASTER-TODO.md)
 **Placement period:** September 8–November 20, 2026
-**Last reconciled:** September 10, 2026 — September 9 transcripts reconciled into ready-to-use Thursday and Friday materials; no new calendar verification
+**Last reconciled:** September 11, 2026 — all 18 local transcript files (17 unique) and all three `digital_notes` groups reviewed; September 10 final planning direction controls Friday and the September 14–18 draft; no new calendar verification
 
-## TODAY AND FRIDAY — September 10–11
+## SEPTEMBER 11–18 — current teaching package
+
+**[Open the complete teaching plan](planning/2026-09-11-to-18-Teaching-Plan.md)** · [Friday STBE-ready setup deck](planning/2026-09-11-STBE-Ready-Class-Setup-and-Teams.pptx) · [September 14–18 Chapter 1 draft deck](planning/2026-09-14-to-18-Chapter-1-Draft-Week.pptx) · [Word Level 1 run-through](practice/Word-Level-1/)
+
+| Workstream | Current state | Next action |
+|---|---|---|
+| Friday Sep 11 class | **READY TO USE** — 39-minute icebreaker, norms, Teams, Marketing/Text/Notes/Vocabulary folders, download/move/rename, AutoSave, and Turn in explanation | Confirm the live file and naming convention with the SBTE; do **not** begin Chapter 1 notes Friday |
+| Monday Sep 14 | **DRAFT READY FOR SBTE CHECK** — pages 4–5, four notes slides, reading, first six vocabulary cards, aligned review | Confirm page/term endpoint and approved Teams template Monday morning |
+| Tue–Fri Sep 15–18 | **DRAFT READY FOR SBTE CHECK** — pages 5–15, four notes targets per day, reading, terms, review, exit | Adjust to the live stopping point; carry unfinished marketing functions to Monday rather than rush |
+| Word Level 1 | **1.1–1.4 COMPLETED FROM AVAILABLE DIRECTIONS** — two DOCX outputs, one PDF, and a two-page run-through report | Request full directions/starter files for 1.5–1.9; do not claim those lessons complete |
+| Public-safe synchronization | **VERIFIED SEP 11** — selected package is mirrored on local, GitHub branch `teaching_placement_shared`, and [placement Drive](https://drive.google.com/drive/folders/1l2EO2iRNDvzVQEapWE_lUBFqJ6S7u1Ls); Drive byte sizes and inherited reader access were read back | Preserve raw transcripts, student records, `digital_notes`, and medical images as local/private source evidence |
+
+The latest September 10 planning transcript is explicit: Friday is setup, Chapter 1 notes begin Monday, and the repeatable sequence is attendance → icebreaker → notes → reading → vocabulary → aligned review. Earlier September 10–11 material remains historical preparation where it conflicts with that final direction.
+
+## HISTORICAL SEPTEMBER 10–11 PREPARATION
 
 **[Open the ready-to-use two-day plan](planning/2026-09-10-AND-11-READY-TO-USE-PLAN.md)** · [Thursday workplace norms slide](planning/2026-09-10-Our-Workplace-Norms-One-Slide.pptx) · [Friday brain teasers and Microsoft 365 workflow](planning/2026-09-11-Chapter-1-Brain-Teasers-and-M365-Workflow.pptx)
 
-Thursday's student-created workplace norms activity is ready to facilitate. Friday's deck now contains the Chapter 1 purchase opener, Microsoft 365 folder and file-name workflow, vocabulary download and Teams submission checkpoints, an exit check, and five additional Chapter 1 brain teasers for next week. Confirm the live agenda and approved Teams materials with the SBTE before students act.
+This was the preparation state before the final September 10 planning conversation. Preserve it as history, but use the current September 11–18 package above for class. The final direction makes Friday a norms-and-digital-setup day and moves Chapter 1 notes to Monday.
 
 ## SEPTEMBER 10 — third placement day
 
