@@ -13,7 +13,7 @@ mailbox. They do not expose or replace the original communication.
 
 ## Verified communication chain
 
-Open originals: [outreach/SBTE response](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/19feb3d34b313b41) · [call arrangement](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a060cf9644ddc2c) · [initial signed-policy/schedule message](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a063f43eebadaf7) · [revised attachment](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a06404fcd23a2b5).
+Open originals: [outreach/SBTE response](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/19feb3d34b313b41) · [call arrangement](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a060cf9644ddc2c) · [initial signed-policy/schedule message](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a063f43eebadaf7) · [revised attachment](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a06404fcd23a2b5) · [September 11 UBTE welcome](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a091a9d05c63f03).
 
 | Date | Privacy-safe event | Gmail locator(s) | What the source establishes | What it does **not** establish |
 |---|---|---|---|---|
@@ -22,6 +22,7 @@ Open originals: [outreach/SBTE response](https://mail.google.com/mail/?authuser=
 | Sep 2 | Call scheduling | Thread `1a060cf9644ddc2c`; messages `1a062052301fc342`, `1a06334209178f4c`, `1a063417014ccf87` | The parties agreed on a 3:00 PM call for September 2. | That the call occurred or any facts allegedly discussed during it |
 | Sep 2 | Signed policy acknowledgment and initial coordination schedule sent | Message `1a063f43eebadaf7` | Piter sent the signed district-policy acknowledgment and an initial schedule summary describing RIT DSCI 602 conflicts relevant to placement coordination. | Acceptance/processing of the signed form, a complete teaching-placement schedule, or permission for every listed absence |
 | Sep 2 | Schedule-document correction | Message `1a06404fcd23a2b5` | Piter told the SBTE to disregard the earlier detailed attachment and use the revised coordination document instead. | The contents of either attachment or confirmation that the revision was received and accepted |
+| Sep 11 | UBTE placement welcome and expectations | Message/thread `1a091a9d05c63f03` | Zenon Borys identifies himself as the UBTE and program director; describes the second placement as nine weeks / approximately 45 school days and more-or-less full-time participation; sets Letter of Expectations, three typical observations, and two CPAST administrations as the intended process. | An extension of daily Eastridge attendance beyond the district's November 20 end date; exact observation/CPAST dates; the December 14 conference appointment time |
 
 ## September 8 correction — original recording located
 
@@ -44,6 +45,7 @@ The change is a **user-directed operating decision**, not a new email, transcrip
 | Source | Establishes | Limit |
 |---|---|---|
 | [September 3 district access email](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a067275570320de) | September 8–November 20 placement; signed acknowledgment returned; mandatory training confirmed | Access requested, not proof of successful login |
+| [September 11 UBTE welcome](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a091a9d05c63f03) | Nine-week / approximately-45-school-day placement; placement responsibilities and assessment process | Does not replace the district's exact November 20 end date or set individual observation/conference times |
 | [September 3 completion reply](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a067278dfcf9dbf) | District confirmation replying to 12/12 completion report | Does not establish daily hours |
 | [September 2 revised attachment](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a06404fcd23a2b5) | Earlier detailed attachment explicitly superseded | Does not independently authorize every absence |
 

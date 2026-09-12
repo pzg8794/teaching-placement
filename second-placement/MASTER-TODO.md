@@ -2,8 +2,9 @@
 
 **Project role:** Public-safe index and execution tracker for the Grade 6–12 placement; sensitive evidence stays local/private
 **Course owner:** [EDF436 master](https://github.com/pzg8794/EDF436/blob/main/MASTER-TODO.md)
-**Placement period:** September 8–November 20, 2026
-**Last reconciled:** September 12, 2026 — current bell-schedule images and the transcript-supported placement block map rechecked; user-directed travel/departure plan kept separate from school facts; both placement series, all DSCI602-date overrides, 11 class-guide series, two orange departure alerts, a visible orange home/family boundary, a turquoise DSCI602 travel series, and seven red GA work blocks created/read back
+**Daily school-site placement period:** September 8–November 20, 2026
+**Post-placement EDF436 obligations:** seminar/course work continues through the December 14 individual UBTE conference; this does not extend daily Eastridge attendance
+**Last reconciled:** September 12, 2026 — September 3 district dates and Zenon Borys's September 11 nine-week/approximately-45-school-day placement message re-read; December seminar/course obligations kept separate from daily placement; current bell-schedule images and the transcript-supported placement block map rechecked; user-directed travel/departure plan kept separate from school facts; both placement series, all DSCI602-date overrides, 11 class-guide series, two orange departure alerts, a visible orange home/family boundary, a turquoise DSCI602 travel series, and seven red GA work blocks created/read back
 
 ## SEPTEMBER 11–18 — current teaching package
 
@@ -51,7 +52,8 @@ This was the preparation state before the final September 10 planning conversati
 | Arrival / class begins | 7:00 AM / 7:30 AM | [Original call](https://web.plaud.ai/file/cca0fff9980bb312aed2f3bdd58db043), transcript 27:20–27:54, inspected September 8 |
 | Departure rules | **11:30 AM on DSCI602 meeting dates; otherwise 2:15 PM preferred / 2:30 PM latest** | September 12 user decision; supersedes the prior user-confirmed 3:00 PM departure for current planning; not claimed as SBTE policy |
 | Class blocks | Regular and advisory times recorded in the [weekday plan](planning/2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md) | Local schedule images plus transcript-supported placement map; live school/SBTE changes supersede |
-| Placement dates | September 8–November 20 | [District email](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a067275570320de), full body read September 8 |
+| Daily school-site placement dates | September 8–November 20 | [District email](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a067275570320de), full body re-read September 12; [September 11 UBTE welcome](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a091a9d05c63f03) independently describes the placement as nine weeks / approximately 45 school days |
+| December boundary | Daily Eastridge attendance ends November 20; EDF436 seminar/course obligations continue after placement, including the December 7 Resource Guide and December 14 individual UBTE conference | [EDF436 official-syllabus tracker](https://github.com/pzg8794/EDF436/blob/main/MASTER-TODO.md); December 14 appointment time remains TBD |
 | Mandatory training / signed acknowledgment | District confirmed completion and return | Same district email; [completion reply](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a067278dfcf9dbf) |
 | RIT conflicts | Date-specific coordination, NOT standing Tuesdays/Thursdays off | [Revised attachment message](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a06404fcd23a2b5); PDF visually inspected September 8 |
 | Calendar | **IMPLEMENTED AND READ BACK SEP 12** — placement/class guides are light blue; normal placement ends at the 2:15 target; orange hard-stop and visible 2:30–3:00 home/family blocks protect the boundary; DSCI dates use an orange 11:30 stop and turquoise travel block; GA work is red | UofR future series `0gns2heojj7k7954c7r0dshiac`; RIT future series `r5ep5gsd9r0h75516f0kr04ml4`; [implementation receipt, colors, and event IDs](planning/2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md#calendar-implementation-receipt--september-12); a calendar save is not independent schedule/attendance proof |

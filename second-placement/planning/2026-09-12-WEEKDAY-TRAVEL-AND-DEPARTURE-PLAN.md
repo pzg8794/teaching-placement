@@ -1,10 +1,12 @@
 # Weekday travel, class-block, and departure plan
 
-**Effective:** September 14–November 20, 2026, subject to school closures and live SBTE/school updates
+**Daily Eastridge schedule effective:** September 14–November 20, 2026, subject to school closures and live SBTE/school updates
 **Decision owner:** Piter Garcia
 **Last reconciled:** September 12, 2026
 
 [Back to Placement MASTER](../MASTER-TODO.md) · [Drive mirror of this plan](https://drive.google.com/file/d/1hLsIKDlN-DhjNZke7ljQ5L8tqHdkpiNm/view) · [Email/source index](../communications/PLACEMENT-SOURCE-SUMMARY.md) · [September 2 call evidence](../transcripts/2026-09-02-CALL-EVIDENCE.md)
+
+The written duration evidence is now explicit: the district's September 3 message sets the school-site placement dates as **September 8–November 20**, and Zenon Borys's September 11 UBTE message describes the same placement as **nine weeks / approximately 45 school days**. EDF436 seminar and course work continues after the daily placement ends—including the December 7 Resource Guide and the December 14 individual UBTE conference—but those obligations do not justify December Eastridge attendance blocks.
 
 ## Daily operating plan
 
