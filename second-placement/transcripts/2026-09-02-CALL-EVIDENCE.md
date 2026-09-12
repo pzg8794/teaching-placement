@@ -14,7 +14,7 @@ Relevant transcript passages inspected September 8. This is not a full audio ver
 | 27:20 | Class starts at 7:30; arrival should be by 7 | Supports 7 AM arrival |
 | 27:54 | Follow-up about getting organized | Preparation is part of the workday, not its entire duration |
 
-These inspected passages do not independently establish 3 PM departure or all weekdays. Piter explicitly confirmed those separately September 8. Preserve the full user-confirmed schedule while locating written corroboration.
+These inspected passages do not independently establish a departure time or all weekdays. Piter separately confirmed a 3:00 PM departure on September 8, then superseded that planning choice on September 12 with a [2:15 PM preferred / 2:30 PM latest departure plan](../planning/2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md). Do not retroactively attribute either departure decision to this call.
 
 The recording includes unrelated later conversations. Do not attribute another speaker's schedule to Piter. Automated speaker labels/transcription may be imperfect. Inspect Transcript, not only Summary or Ask Plaud.
 

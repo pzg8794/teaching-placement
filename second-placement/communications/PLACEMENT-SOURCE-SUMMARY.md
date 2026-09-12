@@ -3,7 +3,7 @@
 **Purpose:** Public-safe index to the authoritative private communications for
 the second teaching placement.
 **Mailbox verified:** University of Rochester Gmail account
-**Last reconciled:** September 8, 2026
+**Last reconciled:** September 12, 2026
 **Privacy rule:** Do not copy message bodies, phone numbers, email addresses,
 signatures, signed forms, credentials, student information, or attachments into
 this Git repository.
@@ -28,10 +28,16 @@ Open originals: [outreach/SBTE response](https://mail.google.com/mail/?authuser=
 The September 2 recording is available in [Plaud: Planning and Academic Discussions for Upcoming Teaching Placements](https://web.plaud.ai/file/cca0fff9980bb312aed2f3bdd58db043). Its existence and relevant transcript passage were inspected directly on September 8. The earlier local-search failure below must NOT be interpreted as absence of the recording.
 
 - At **00:27:20**, the transcript records the placement arrival clarification: class starts at 7:30, so arrival should be by 7:00. At **00:27:54**, the response refers to getting organized.
-- Piter explicitly confirmed **Monday–Friday, 7:00 AM–3:00 PM** in the September 8 conversation. The calendar was corrected to that full-day schedule. The 3:00 PM departure is user-confirmed; it is not claimed here as independently transcript-verified.
+- Piter explicitly confirmed **Monday–Friday, 7:00 AM–3:00 PM** in the September 8 conversation. That was the calendar state at the time. The 3:00 PM departure was user-confirmed, not independently transcript-verified, and is preserved as historical provenance.
 - The revised September 2 DSCI602 attendance PDF was visually inspected: RIT attendance requires date-specific coordination, not standing Tuesday/Thursday exemptions from placement.
-- Calendar series identifier: `j112kfpsmcc9gi06h5ar4vrh4g`. School closures and individually agreed absences still require reconciliation.
+- Historical UofR Calendar series identifier through September 11: `j112kfpsmcc9gi06h5ar4vrh4g`. The September 12 future-only update created UofR series `0gns2heojj7k7954c7r0dshiac` and RIT mirror `r5ep5gsd9r0h75516f0kr04ml4`. Calendar state is an execution record, not independent proof of attendance or school policy.
 - Raw recording/transcript remains private in Plaud; no raw transcript or private contact information is published here.
+
+## September 12 user operating-plan update
+
+Piter directed a future calendar change to begin the travel block at **6:30 AM**, preserve the transcript-supported **7:00 AM arrival / 7:30 AM first class**, leave by **11:30 AM on verified DSCI602 meeting dates**, and otherwise target departure at **2:15 PM** with **2:30 PM** as the hard latest. This supersedes the earlier 3:00 PM user-confirmed departure for current planning.
+
+The change is a **user-directed operating decision**, not a new email, transcript statement, or SBTE authorization. The detailed regular/advisory class map, verified DSCI602 meeting-date list, implementation receipt, and planning boundary are in the [weekday travel and departure plan](../planning/2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md).
 
 ## Additional verified email evidence
 
@@ -47,6 +53,6 @@ The revised PDF was visually read September 8: DSCI602 attendance is date-specif
 
 ## Agent routing
 
-[Back to MASTER](../MASTER-TODO.md) · [Transcript evidence](../transcripts/2026-09-02-CALL-EVIDENCE.md)
+[Back to MASTER](../MASTER-TODO.md) · [Current weekday plan](../planning/2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md) · [Transcript evidence](../transcripts/2026-09-02-CALL-EVIDENCE.md)
 
-Historical missing-local-source claims are superseded and preserved only in Git history. Add each new message's original link, date, request/reply distinction, exact supported fact, unresolved dependency and next action. Never infer completion from a request. Full-hours email corroboration remains to locate; preserve the user-confirmed schedule while doing so.
+Historical missing-local-source claims are superseded and preserved only in Git history. Add each new message's original link, date, request/reply distinction, exact supported fact, unresolved dependency and next action. Never infer completion from a request. Preserve the difference between school facts and Piter's current travel/departure planning choices.

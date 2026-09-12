@@ -3,11 +3,11 @@
 **Project role:** Public-safe index and execution tracker for the Grade 6–12 placement; sensitive evidence stays local/private
 **Course owner:** [EDF436 master](https://github.com/pzg8794/EDF436/blob/main/MASTER-TODO.md)
 **Placement period:** September 8–November 20, 2026
-**Last reconciled:** September 11, 2026 — all 18 local transcript files (17 unique) and all three `digital_notes` groups reviewed; September 10 final planning direction controls Friday and the September 14–18 draft; no new calendar verification
+**Last reconciled:** September 12, 2026 — current bell-schedule images and the transcript-supported placement block map rechecked; user-directed travel/departure plan kept separate from school facts; both placement series, 36 DSCI602-date overrides, 11 class-guide series, two departure alerts, and seven distributed GA work blocks created/read back
 
 ## SEPTEMBER 11–18 — current teaching package
 
-**[Open the complete teaching plan](planning/2026-09-11-to-18-Teaching-Plan.md)** · [Friday STBE-ready setup deck](planning/2026-09-11-STBE-Ready-Class-Setup-and-Teams.pptx) · [September 14–18 Chapter 1 draft deck](planning/2026-09-14-to-18-Chapter-1-Draft-Week.pptx) · [Word Level 1 run-through](practice/Word-Level-1/)
+**[Open the weekday travel/departure plan](planning/2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md)** · [complete teaching plan](planning/2026-09-11-to-18-Teaching-Plan.md) · [Friday STBE-ready setup deck](planning/2026-09-11-STBE-Ready-Class-Setup-and-Teams.pptx) · [September 14–18 Chapter 1 draft deck](planning/2026-09-14-to-18-Chapter-1-Draft-Week.pptx) · [Word Level 1 run-through](practice/Word-Level-1/)
 
 | Workstream | Current state | Next action |
 |---|---|---|
@@ -47,14 +47,16 @@ This was the preparation state before the final September 10 planning conversati
 
 | Fact | Current record | Source / evidence limit |
 |---|---|---|
-| Full working schedule | Monday–Friday, 7:00 AM–3:00 PM | Piter explicitly confirmed September 8 in this task; USER-CONFIRMED, not independently email-verified |
+| Calendar/travel span | Monday–Friday from **6:30 AM**; end **11:30 AM on verified DSCI602 meeting dates**, otherwise preferred 2:15 PM / latest 2:30 PM | [September 12 operating plan](planning/2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md); USER-DIRECTED planning choice, not school hours |
 | Arrival / class begins | 7:00 AM / 7:30 AM | [Original call](https://web.plaud.ai/file/cca0fff9980bb312aed2f3bdd58db043), transcript 27:20–27:54, inspected September 8 |
+| Departure rules | **11:30 AM on DSCI602 meeting dates; otherwise 2:15 PM preferred / 2:30 PM latest** | September 12 user decision; supersedes the prior user-confirmed 3:00 PM departure for current planning; not claimed as SBTE policy |
+| Class blocks | Regular and advisory times recorded in the [weekday plan](planning/2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md) | Local schedule images plus transcript-supported placement map; live school/SBTE changes supersede |
 | Placement dates | September 8–November 20 | [District email](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a067275570320de), full body read September 8 |
 | Mandatory training / signed acknowledgment | District confirmed completion and return | Same district email; [completion reply](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a067278dfcf9dbf) |
 | RIT conflicts | Date-specific coordination, NOT standing Tuesdays/Thursdays off | [Revised attachment message](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a06404fcd23a2b5); PDF visually inspected September 8 |
-| Calendar | Full weekday 7–3 series saved/read back | Series `j112kfpsmcc9gi06h5ar4vrh4g`; calendar save is not independent schedule/attendance proof |
+| Calendar | **IMPLEMENTED AND READ BACK SEP 12** — future-only weekday correction, date-specific 11:30 departures, regular/advisory class guides, and departure alerts | UofR future series `0gns2heojj7k7954c7r0dshiac`; RIT future series `r5ep5gsd9r0h75516f0kr04ml4`; [implementation receipt and event IDs](planning/2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md#calendar-implementation-receipt--september-12); a calendar save is not independent schedule/attendance proof |
 
-**Agent rule:** Open linked originals before making a new verification claim. Keep user-confirmed, transcript-verified, email-verified and calendar-saved states separate. Do not delete or shorten confirmed hours because corroborating evidence has not yet been located. Never substitute M/W/F, 9–3 or an arrival-only marker.
+**Agent rule:** Open linked originals before making a new verification claim. Keep user-directed planning, transcript-verified, image-verified, email-verified and calendar-saved states separate. Preserve 6:30 as travel time, 7:00 as arrival, 7:30 as first class, **11:30 as the DSCI602-class-day departure**, and 2:15 preferred / 2:30 latest on other days. Do not represent those planning choices as school/SBTE policy.
 
 **Open evidence work:** locate written corroboration of full daily hours; reconcile school closures and individually agreed absences. These remain checks, not reasons to erase the established schedule.
 
@@ -85,8 +87,8 @@ signed forms, credentials, or screenshots into this public-reader folder.
 
 | Priority | Action | Deadline / trigger | Source | State | Evidence location | Next step |
 |---|---|---|---|---|---|---|
-| P0 | Preserve full weekday 7–3 schedule | Each placement day | Source register above | USER-CONFIRMED; calendar saved | Calendar series above | Reconcile exceptions without fabricating them |
-| P1 | Corroborate full hours in writing | Next evidence check; internal workflow target | User reports email evidence | OPEN | Authenticated mailbox | Locate exact message; do not ask user to repeat hours |
+| P0 | Preserve weekday travel/departure boundary | Each placement day | [September 12 operating plan](planning/2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md) | USER-DIRECTED; CALENDAR IMPLEMENTED AND READ BACK | Calendar series and receipt above | Leave by 11:30 on verified DSCI602 meeting dates; otherwise leave at 2:15 when possible and no later than 2:30; propagate live changes |
+| P0 | Preserve class-level bell schedule | Each placement day | Local schedule images plus transcript-supported placement map | VERIFIED baseline; CALENDAR GUIDES CREATED; live exceptions control | Weekday plan and implementation receipt | Keep regular/advisory times distinct and check for assembly/school updates |
 | P1 | Read original call when interpreting logistics | Before new call-derived claims | Linked Plaud record | LOCATED; relevant passages inspected | Transcript evidence record | Do not repeat missing-source claim |
 | P1 | Record privacy-safe placement reflection/evidence | After each placement day; workflow recommendation | Actual private attendance evidence | Not audited here | Private evidence area | Check existing work before declaring it missing |
 | P1 | Coordinate MCQ, Collaborative Noticing, Snapshot, Letter, observations, and Resource Guide | Per EDF436 deadlines | [EDF436 master](https://github.com/pzg8794/EDF436/blob/main/MASTER-TODO.md) | OPEN | [`planning/`](planning/) | Link artifacts back to the owning EDF436 row; keep signatures, media, and evaluations private |

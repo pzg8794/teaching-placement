@@ -1,5 +1,6 @@
 # Planning
 
+- [Current weekday travel, class-block, and departure plan](2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md) — 6:30 AM travel start; 7:00 AM arrival; 11:30 AM departure on DSCI602 meeting dates; regular/advisory bell times; otherwise 2:15 PM preferred and 2:30 PM latest departure
 - [September 11–18 complete teaching plan and exercise status](2026-09-11-to-18-Teaching-Plan.md)
 - [September 11: STBE-ready class setup and Teams deck](2026-09-11-STBE-Ready-Class-Setup-and-Teams.pptx) — 39-minute Friday setup; timed speaker notes; Chapter 1 notes explicitly begin Monday
 - [September 14–18: Chapter 1 week draft](2026-09-14-to-18-Chapter-1-Draft-Week.pptx) — 37-slide editable draft, marked for the SBTE check, covering pages 4–15 and all 13 terms

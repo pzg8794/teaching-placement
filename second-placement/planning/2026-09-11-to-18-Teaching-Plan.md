@@ -2,10 +2,11 @@
 
 **Status:** Friday September 11 is ready to use. Monday–Friday September 14–18 is an editable draft for the SBTE morning check.
 
-**Class length:** 39 minutes. Keep the live stopping point visible and carry unfinished work forward rather than rushing.
+**Class length:** Friday September 11 used the 39-minute advisory schedule. September 14–18 uses the regular 42-minute bell schedule unless the school/SBTE announces an exception. Keep the live stopping point visible and carry unfinished work forward rather than rushing; the 39-minute sequences below remain the base plan with up to three minutes of flex/checkpoint time on regular days.
 
 ## Open these first
 
+- [Current weekday travel, bell schedule, and departure plan](2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md)
 - [Friday setup and Teams deck](2026-09-11-STBE-Ready-Class-Setup-and-Teams.pptx) — 10 slides, ready to use, with timed speaker notes and a low-energy option on every slide.
 - [Chapter 1 week draft](2026-09-14-to-18-Chapter-1-Draft-Week.pptx) — 37 slides, visibly marked **DRAFT — STBE CHECK**, with one complete seven-slide sequence for each day.
 - [Word Level 1 practice package](../practice/Word-Level-1/) — completed evidence for the available Lessons 1.1–1.4 and a source-status record for Lessons 1.5–1.9.
