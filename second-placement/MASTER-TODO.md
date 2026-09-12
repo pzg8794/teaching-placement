@@ -3,7 +3,7 @@
 **Project role:** Public-safe index and execution tracker for the Grade 6–12 placement; sensitive evidence stays local/private
 **Course owner:** [EDF436 master](https://github.com/pzg8794/EDF436/blob/main/MASTER-TODO.md)
 **Placement period:** September 8–November 20, 2026
-**Last reconciled:** September 12, 2026 — current bell-schedule images and the transcript-supported placement block map rechecked; user-directed travel/departure plan kept separate from school facts; both placement series, 36 DSCI602-date overrides, 11 class-guide series, two departure alerts, and seven distributed GA work blocks created/read back
+**Last reconciled:** September 12, 2026 — current bell-schedule images and the transcript-supported placement block map rechecked; user-directed travel/departure plan kept separate from school facts; both placement series, all DSCI602-date overrides, 11 class-guide series, two orange departure alerts, a visible orange home/family boundary, a turquoise DSCI602 travel series, and seven red GA work blocks created/read back
 
 ## SEPTEMBER 11–18 — current teaching package
 
@@ -54,7 +54,7 @@ This was the preparation state before the final September 10 planning conversati
 | Placement dates | September 8–November 20 | [District email](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a067275570320de), full body read September 8 |
 | Mandatory training / signed acknowledgment | District confirmed completion and return | Same district email; [completion reply](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a067278dfcf9dbf) |
 | RIT conflicts | Date-specific coordination, NOT standing Tuesdays/Thursdays off | [Revised attachment message](https://mail.google.com/mail/?authuser=pgarcia8%40u.rochester.edu#all/1a06404fcd23a2b5); PDF visually inspected September 8 |
-| Calendar | **IMPLEMENTED AND READ BACK SEP 12** — future-only weekday correction, date-specific 11:30 departures, regular/advisory class guides, and departure alerts | UofR future series `0gns2heojj7k7954c7r0dshiac`; RIT future series `r5ep5gsd9r0h75516f0kr04ml4`; [implementation receipt and event IDs](planning/2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md#calendar-implementation-receipt--september-12); a calendar save is not independent schedule/attendance proof |
+| Calendar | **IMPLEMENTED AND READ BACK SEP 12** — placement/class guides are light blue; normal placement ends at the 2:15 target; orange hard-stop and visible 2:30–3:00 home/family blocks protect the boundary; DSCI dates use an orange 11:30 stop and turquoise travel block; GA work is red | UofR future series `0gns2heojj7k7954c7r0dshiac`; RIT future series `r5ep5gsd9r0h75516f0kr04ml4`; [implementation receipt, colors, and event IDs](planning/2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md#calendar-implementation-receipt--september-12); a calendar save is not independent schedule/attendance proof |
 
 **Agent rule:** Open linked originals before making a new verification claim. Keep user-directed planning, transcript-verified, image-verified, email-verified and calendar-saved states separate. Preserve 6:30 as travel time, 7:00 as arrival, 7:30 as first class, **11:30 as the DSCI602-class-day departure**, and 2:15 preferred / 2:30 latest on other days. Do not represent those planning choices as school/SBTE policy.
 
@@ -87,7 +87,7 @@ signed forms, credentials, or screenshots into this public-reader folder.
 
 | Priority | Action | Deadline / trigger | Source | State | Evidence location | Next step |
 |---|---|---|---|---|---|---|
-| P0 | Preserve weekday travel/departure boundary | Each placement day | [September 12 operating plan](planning/2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md) | USER-DIRECTED; CALENDAR IMPLEMENTED AND READ BACK | Calendar series and receipt above | Leave by 11:30 on verified DSCI602 meeting dates; otherwise leave at 2:15 when possible and no later than 2:30; propagate live changes |
+| P0 | Preserve weekday travel/departure boundary | Each placement day | [September 12 operating plan](planning/2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md) | USER-DIRECTED; CALENDAR IMPLEMENTED, COLOR-CODED, AND READ BACK | Calendar series and receipt above | Leave by 11:30 on verified DSCI602 meeting dates; otherwise leave at 2:15 and no later than 2:30; the visible 2:30–3:00 home/family block explains why the boundary cannot slide; propagate live changes |
 | P0 | Preserve class-level bell schedule | Each placement day | Local schedule images plus transcript-supported placement map | VERIFIED baseline; CALENDAR GUIDES CREATED; live exceptions control | Weekday plan and implementation receipt | Keep regular/advisory times distinct and check for assembly/school updates |
 | P1 | Read original call when interpreting logistics | Before new call-derived claims | Linked Plaud record | LOCATED; relevant passages inspected | Transcript evidence record | Do not repeat missing-source claim |
 | P1 | Record privacy-safe placement reflection/evidence | After each placement day; workflow recommendation | Actual private attendance evidence | Not audited here | Private evidence area | Check existing work before declaring it missing |

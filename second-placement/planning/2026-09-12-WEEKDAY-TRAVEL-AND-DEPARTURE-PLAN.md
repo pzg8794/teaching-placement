@@ -65,19 +65,21 @@ The schedule images also show assembly and school-calendar exceptions. Assembly 
 
 ## Calendar implementation rule
 
-- Main placement/travel block on non-RIT-class days: **6:30 AM–2:30 PM**, Monday–Friday baseline.
+- Main placement/travel block on non-RIT-class days: **6:30 AM–2:15 PM**, Monday–Friday baseline. The title preserves the 2:15 target.
 - Main placement/travel block on verified DSCI602 meeting dates: **6:30–11:30 AM**.
 - RIT-class-day departure cue: **11:15–11:30 AM**, ending at the required 11:30 departure.
 - Other-day departure cue: **2:15–2:30 PM**, with the title explicitly preserving the 2:15 target and 2:30 hard latest.
-- Class sub-blocks use official bell times and are transparent calendar guides nested inside the main placement block.
+- A separate, visible **2:30–3:00 PM HOME/FAMILY RESPONSIBILITIES** block immediately follows the hard-stop cue on normal placement days. It shows the SBTE-facing operational reason that the departure boundary cannot slide later.
+- Class sub-blocks use official bell times and are light-blue calendar guides nested inside the main placement block.
 - Class sub-blocks after 11:30 are omitted from Piter's attendance view on DSCI602 meeting dates.
 - Regular and advisory weeks must use their respective official times.
+- Color code: EDF436/placement and its class guides = **light blue**; departure hard stops and home/family transitions = **orange**; DSCI602 travel/class = **turquoise**; EDE477 = **green**; GA work = **red**.
 - Do not convert planning buffers into claimed school hours.
 - Do not mark an individually cancelled, changed, or assembly-schedule day until a source establishes it.
 
 ## Why the boundary exists
 
-This operating decision protects home responsibilities and transition time before coursework, preserves travel to the noon RIT class, creates space to distribute GA work across shorter sessions, and prevents a low-value final co-op period from silently consuming the rest of the afternoon. The public record intentionally omits private family and health details; those may remain in Piter's private Calendar description.
+This operating decision protects home responsibilities and transition time before coursework, preserves travel to the noon RIT class, creates space to distribute GA work across shorter sessions, and prevents a low-value final co-op period from silently consuming the rest of the afternoon. The visible Calendar block names the minimum shareable reason—**check Dad, walk dog, and change clothes**—without adding sensitive medical or family details.
 
 ## GA scheduling boundary
 
@@ -89,21 +91,25 @@ The future placement schedule was updated without rewriting the September 8–11
 
 | Calendar control | Verified implementation |
 |---|---|
-| Main placement/travel series | UofR future series `0gns2heojj7k7954c7r0dshiac`; RIT future series `r5ep5gsd9r0h75516f0kr04ml4`; normal span 6:30 AM–2:30 PM |
-| DSCI602-class-day overrides | All 18 dates listed above were read back on both calendars as 6:30–11:30 AM; 36 instance updates completed without error |
-| Regular class guides | P1 `7hajnlpqtq9gghq80dft13nqns`; P4 `kqgrcj6oeqq3fivrleo1nf4qk4`; P5C6A `3uondr042442plreg1dbisrb8g`; P7 `av5e3ldurd8bi6t5k105tiditk`; P8 `l207a7kaaebkmbn3s8e64129to` |
-| Advisory-week guides | Advisory `55suor1t5tvng3f42g26ch5dck`; P1 `45smejohjvcvfmvde548long98`; P4 `8j4c8pn220jqctad5jqa3c3jc4`; P5C6A `srnv4c10f0ienbf5e1ocg78jvc`; P7 `9d1ko03rprerdvi9fo4q4shm34`; P8 `labdmt0hpufgs0lc20rcss967o` |
-| Departure alerts | Normal-day 2:15–2:30 PM cue `pluhhjdlak2q2s03deutth1itc`; DSCI602-day 11:15–11:30 AM cue `l45jn8i18rtloh4od5mme5rrsc`; each has alerts 15 minutes before and at the cue start |
+| Main placement/travel series | UofR future series `0gns2heojj7k7954c7r0dshiac`; RIT future series `r5ep5gsd9r0h75516f0kr04ml4`; normal span 6:30 AM–2:15 PM; light blue (color ID 1) |
+| DSCI602-class-day overrides | All 18 dates listed above were restored after the parent-series edit and read back on both calendars as 6:30–11:30 AM; DSCI title preserved on both copies |
+| Regular class guides | P1 `7hajnlpqtq9gghq80dft13nqns`; P4 `kqgrcj6oeqq3fivrleo1nf4qk4`; P5C6A `3uondr042442plreg1dbisrb8g`; P7 `av5e3ldurd8bi6t5k105tiditk`; P8 `l207a7kaaebkmbn3s8e64129to`; all light blue (color ID 1) |
+| Advisory-week guides | Advisory `55suor1t5tvng3f42g26ch5dck`; P1 `45smejohjvcvfmvde548long98`; P4 `8j4c8pn220jqctad5jqa3c3jc4`; P5C6A `srnv4c10f0ienbf5e1ocg78jvc`; P7 `9d1ko03rprerdvi9fo4q4shm34`; P8 `labdmt0hpufgs0lc20rcss967o`; all light blue (color ID 1) |
+| Departure alerts | Normal-day 2:15–2:30 PM cue `pluhhjdlak2q2s03deutth1itc`; DSCI602-day 11:15–11:30 AM cue `l45jn8i18rtloh4od5mme5rrsc`; both orange (color ID 6) and busy; each has alerts 15 minutes before and at the cue start |
+| Visible post-placement boundary | UofR series `748tam6c1p74dfgnrnbp16qii8`, 2:30–3:00 PM on normal placement days; orange (color ID 6), busy; excludes DSCI602 meeting dates and verified school exceptions |
+| DSCI602 travel | UofR series `70di9bqne0027r30t1lnhuns4s`, 11:30 AM–12:00 PM on verified DSCI602 meeting dates; turquoise (color ID 7), busy, with clickable Eastridge-to-RIT directions |
+| Monday supervisor planning | Personal event `uogeuogcpa3ltgfbm1u6qk60lo` moved inside Period 8 planning time, September 14 from 1:40–2:10 PM, so it does not consume the protected departure transition |
+| Cross-workstream colors | EDF436/placement = light blue (1); transition/hard stop = orange (6); DSCI602 = turquoise (7); EDE477 = green (10); GA = red (11) |
 | Conference-link control | Every newly created class, departure, and GA block was created with Google Meet disabled; the first accidental task-created test series was deleted and replaced before sign-off |
 
 The regular and advisory class guides after 11:30 AM exclude DSCI602 meeting dates. The class guides and departure alerts exclude the verified October 12, October 16, and November 11 school-calendar exceptions; the main placement block remains visible on those dates until placement-attendance evidence specifically establishes that it should be removed.
 
 Readback regression checks passed:
 
-- September 17 shows the 6:30–11:30 placement override, P1, P4, and the 11:15–11:30 departure cue; P5C6A, P7, and P8 are absent.
+- September 17 shows the 6:30–11:30 placement override on both calendars, P1, P4, the 11:15–11:30 orange departure cue, and the 11:30–12:00 turquoise travel block; P5C6A, P7, and P8 are absent.
 - September 28 shows the advisory-week schedule rather than the regular bell schedule.
 - September 29 and October 1 preserve only the advisory, P1, and P4 guides before the 11:30 DSCI602 departure.
-- October 13 is a DSCI602 no-class date and therefore retains the normal 2:15–2:30 departure cue.
+- October 13 is a DSCI602 no-class date and therefore retains the normal 2:15–2:30 orange departure cue and 2:30–3:00 orange home/family block.
 
 ## Distributed GA-work pilot — week of September 14
 
@@ -112,7 +118,7 @@ Seven private RIT Calendar work blocks total **10 planned hours**. They are plan
 | Date | Planned block | Hours |
 |---|---:|---:|
 | Monday, September 14 | 5:15–6:15 PM | 1.0 |
-| Tuesday, September 15 | 2:50–3:50 PM | 1.0 |
+| Tuesday, September 15 | 3:00–4:00 PM | 1.0 |
 | Wednesday, September 16 | 3:45–4:45 PM | 1.0 |
 | Thursday, September 17 | 2:00–3:30 PM | 1.5 |
 | Friday, September 18 | 3:00–4:30 PM | 1.5 |
