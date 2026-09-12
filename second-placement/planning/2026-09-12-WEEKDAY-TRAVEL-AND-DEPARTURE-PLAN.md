@@ -49,7 +49,7 @@ The DSCI602 schedule explicitly identifies September 15, October 13, and Novembe
 
 ## Advisory-week exception
 
-The photographed advisory schedule identifies the **week of September 28** and the **week of November 2** as advisory weeks.
+The photographed advisory schedule shows that advisory recurs at selected points throughout the school year. **Within Piter's September 8–November 20 placement window, there are two advisory weeks:** the **week of September 28** and the **week of November 2**. The week of September 14 is therefore a regular-schedule week.
 
 | Block | Official advisory-week time |
 |---|---:|
