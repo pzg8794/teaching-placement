@@ -41,7 +41,7 @@ This preserves retrieval, choice of response mode, processing time, and visible 
 
 - **Purpose:** Retrieve page 4 definitions after Thursday's reading, or provide a supported preview if the class did not finish.
 - **Content:** A good is tangible, a service is a task performed for money, and an idea is a formulated thought or opinion.
-- **Deck:** [Friday Goods, Services, and Ideas Icebreaker](2026-09-18-Friday-Icebreaker-Goods-Services-Ideas-Revised.pptx)
+- **Deck:** [Friday Goods, Services, and Ideas Icebreaker](2026-09-18-Friday-Icebreaker-Goods-Services-Ideas-Revised-v2.pptx)
 - **Transition:** Continue **1.0 Terms to Know**, then prepare for **Chapter #1 Review**.
 
 ## Teams status checked September 16
