@@ -1,6 +1,6 @@
 # September 11–18 teaching plan
 
-**Status:** Friday September 11 is ready to use. Monday–Friday September 14–18 is an editable draft for the SBTE morning check.
+**Status:** Updated September 16 from the latest September 15–16 transcripts, Chapter 1 pages 4–7, and live Teams assignments. Thursday and Friday now begin with three-minute quick diagnostics and carry forward the reading displaced on Wednesday.
 
 **Class length:** Friday September 11 used the 39-minute advisory schedule. September 14–18 uses the regular 42-minute bell schedule unless the school/SBTE announces an exception. Keep the live stopping point visible and carry unfinished work forward rather than rushing; the 39-minute sequences below remain the base plan with up to three minutes of flex/checkpoint time on regular days.
 
@@ -9,6 +9,12 @@
 - [Current weekday travel, bell schedule, and departure plan](2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md)
 - [Friday setup and Teams deck](2026-09-11-STBE-Ready-Class-Setup-and-Teams.pptx) — 10 slides, ready to use, with timed speaker notes and a low-energy option on every slide.
 - [Chapter 1 week draft](2026-09-14-to-18-Chapter-1-Draft-Week.pptx) — 37 slides, visibly marked **DRAFT — STBE CHECK**, with one complete seven-slide sequence for each day.
+- [Tuesday UDL-ready deck](2026-09-15-Chapter-1-Tuesday-UDL-Ready.pptx) — self-explanatory student directions, visual figures, visible timers, teacher cues, notes through slide 5, pp. 3–7 reading, and the Terms to Know model.
+- [Tuesday five-minute icebreaker](2026-09-15-Tuesday-Icebreaker-Choices-and-Limited-Money.pptx) — separate four-slide sequence: choose, partner, three answers, then a 30-second bridge to economics.
+- [Wednesday five-minute icebreaker](2026-09-16-Wednesday-Icebreaker-How-Businesses-Help.pptx) — four self-explanatory UDL slides: a school-neighborhood bakery scenario, visual response choices, partner sentence frame, and a Chapter 1 pp. 8–9 bridge.
+- [September 16 transcript and icebreaker update](2026-09-16-TRANSCRIPT-AND-ICEBREAKER-UPDATE.md) — de-identified record of the latest SBTE feedback, reading alignment, Teams dates, and privacy boundary.
+- [Thursday revised icebreaker](2026-09-17-Thursday-Icebreaker-Business-Activities-Revised.pptx) — three-minute supported preview of operational, investing, and financial activity before reading pp. 4–7.
+- [Friday revised icebreaker](2026-09-18-Friday-Icebreaker-Goods-Services-Ideas-Revised.pptx) — three-minute retrieval of page 4 goods, services, and ideas, with a direct transition to Teams work.
 - [Word Level 1 practice package](../practice/Word-Level-1/) — completed evidence for the available Lessons 1.1–1.4 and a source-status record for Lessons 1.5–1.9.
 
 ## Friday, September 11 — ready to use
@@ -45,11 +51,25 @@ Students leave with the agreed classroom norms and the Microsoft 365 workflow ne
 6. Complete the work in Word, not inside Teams.
 7. Upload the saved file from the Marketing folder when an assignment is actually ready for **Turn in**.
 
-## Monday, September 14 — draft ready for the SBTE check
+## Monday, September 14 — observed outcome
 
-### Intended endpoint
+### What the transcripts show
 
-Students can distinguish business, product, and marketing; classify a good, service, and idea; and begin the first six vocabulary cards using Chapter 1 pages 4–5.
+- Students created or checked the correct OneDrive course folder and downloaded the textbook, Chapter 1 notes, and Terms to Know file from Teams.
+- Piter led the purchase-influence icebreaker. Students connected choices to quality, price, convenience, availability, design, reviews, brand familiarity, discounts, need, and exclusivity.
+- The discussion produced useful marketing examples, but it ran about 25–30 minutes. Most classes therefore did not reach the Terms to Know model.
+- Students received the Chapter 1 structure, objectives, working routine, and due dates.
+- The SBTE confirmed that good discussion may extend when learning is occurring, but the standard icebreaker target remains five minutes.
+
+### Feedback to apply Tuesday
+
+1. Say only what students must do: **what, how, and how long**.
+2. If the timer says one minute, transition after one minute.
+3. Take two or three share-outs rather than going around the entire room.
+4. Do not repeat every student's full answer. Repeat only a quiet answer or the key marketing word.
+5. Face the whole class. Ask students to speak to the room instead of moving close and turning away from others.
+6. Use silence as work time rather than filling it with extra explanation.
+7. Keep a visible handoff cue with the SBTE when discussion or behavior needs support.
 
 ### 39-minute sequence
 
@@ -69,22 +89,47 @@ Students can distinguish business, product, and marketing; classify a good, serv
 - What exact file-naming convention should appear on the model?
 - Should the aligned review be collected, checked informally, or saved for later?
 
-## Tuesday–Friday draft map
+## Tuesday, September 15 — ready-to-use sequence
+
+### Intended endpoint
+
+Students distinguish economics from everyday spending, identify the three types of business activity, recognize the four operational functions, and complete at least one correctly structured Terms to Know entry.
+
+| Time | Display / teacher move | Student evidence | UDL / attention support |
+|---|---|---|---|
+| 0:00–0:03 | Entry screen: open Chapter 1 notes and textbook; check missing Monday downloads | Both files visible | Numbered two-step visual; icons and spoken direction |
+| 0:03–0:08 | Limited-resources starter | One choice and one reason | 60-second visual timer, partner option, two or three responses only |
+| 0:08–0:15 | Notes through slide 5 | Missing words entered | One concept per slide; figure plus plain-language text |
+| 0:15–0:30 | Read Chapter 1 pp. 3–7 | Each student follows and reads one paragraph when called | Page range stays visible; teacher may read difficult paragraphs |
+| 0:30–0:35 | Model one Terms to Know entry | One complete model | Picture, definition, example, and file-location reminder |
+| 0:35–0:41 | Independent Terms to Know work | At least one student-created entry or exact stopping point | Six-minute timer; students may ask a partner before teacher help |
+| 0:41–0:42 | Exit check | Identify operational, investing, or financial | Point, say, or write |
+
+### Tuesday teacher script boundary
+
+“You have 60 seconds to choose. Then you will tell your partner what you chose and why. I will take three answers. When the timer ends, we move to the notes.”
+
+## Wednesday–Friday live correction
+
+### Wednesday outcome confirmed September 16
+
+The September 16 transcript supersedes the prior draft: the opener ran about 90 seconds long and the planned pages 4–7 reading did not occur. The SBTE requested an easier opener without a think-pair-share sequence and a hard stop by 7:38. Thursday therefore begins with a three-minute supported prediction activity, then moves directly into pages 4–7.
 
 | Day | Reading | Four notes targets | Vocabulary / practice | Intended checkpoint |
 |---|---|---|---|---|
-| Tue Sep 15 | pp. 5–7 | Economics, profit and business activity, three business activities, four operational functions | Add **economics** and review Monday’s six cards; sort operational, investing, and financial examples | Explain how limited resources shape decisions and sort one business activity |
-| Wed Sep 16 | pp. 8–9 | How businesses contribute, needs/wants, markets, economic benefits | Review prior seven cards; business-contribution response | Explain two ways one business contributes |
-| Thu Sep 17 | p. 10 | Purpose of marketing, marketing concept, its three elements, market share | Add **marketing concept, market share, market research**; complaint scenario | Explain the three elements and use *market share* correctly |
-| Fri Sep 18 | pp. 11–15 | Marketing mix, product/promotion, price/place, seven marketing functions | Add **marketing mix, marketing function, target market**; apply the 4 Ps | Apply the 4 Ps and name the functions reached; carry unfinished functions to Monday |
+| Wed Sep 16 | Reading displaced | Student responses about business contributions; business-activity examples | Terms to Know began; exact completion varies by block | Record the actual stopping point and recover reading Thursday |
+| Thu Sep 17 | pp. 4–7 | Business, product, goods/services/ideas, operational/investing/financial activities | Use the three activity clues; continue **1.0 Terms to Know** | Correctly classify one operational, investing, and financial example |
+| Fri Sep 18 | Retrieval of p. 4; continue from Thursday's exact stop | Goods, services, ideas; business, marketing, product | Continue **1.0 Terms to Know**; prepare for **Chapter #1 Review** | Define good/service/idea and connect the offering to marketing |
 
-The deck distributes all 13 official Chapter 1 terms: **business, economics, good, idea, market research, market share, marketing, marketing concept, marketing function, marketing mix, product, service, target market**.
+Do not advance automatically to pages 8–15 until pages 4–7 are completed and the SBTE confirms the next endpoint.
+
+The full week distributes all 13 official Chapter 1 terms: **business, economics, good, idea, market research, market share, marketing, marketing concept, marketing function, marketing mix, product, service, target market**. Tuesday should model the process and begin entries in chapter order rather than requiring six Monday cards that the classes did not reach.
 
 ## Repeatable routine for the week
 
 1. Students read the agenda as they enter.
 2. Run one short chapter-connected brain teaser while taking attendance.
-3. Discuss the starter for no more than three to five minutes unless the discussion is genuinely useful and relevant.
+3. End the current starter at three minutes and no later than 7:38. Use silent thinking plus simultaneous pointing, writing, or fingers; do not add partner talk unless the SBTE explicitly changes the plan.
 4. Teach two to four notes slides.
 5. Read two to three pages and connect details back to the notes.
 6. Build the vocabulary cards reached in that day’s reading; reveal the term or definition after the picture prompt.
@@ -155,3 +200,13 @@ The Drive upload was read back by file ID, MIME type, parent folder, and byte si
 - Device or access problem and the exact workaround approved by the SBTE
 - Any SBTE change to Monday or the rest of the week
 - Whether the missing Word 1.5–1.9 source pages were received
+- Actual icebreaker duration and whether the visible timer was followed
+- Which Terms to Know entry was modeled and how many entries each section completed
+- Teams status verified September 16: **1.0 Terms to Know** is due September 22 at 9:00 AM; the four-point **Chapter #1 Review** is due September 23 at 9:00 AM. These live dates supersede older draft dates.
+
+## EDF436 items surfaced in the September 14 roundtable
+
+- Bring MCQs to the next seminar; time may allow only one round before Snapshot practice.
+- Confirm the Snapshot/practice-date signup when the announcement link appears.
+- Complete two Letters of Expectations by approximately Friday, September 18, adjusted to placement start date.
+- After agreement, email the letters to the three required recipients. The instructor explicitly said not to submit them through Blackboard.

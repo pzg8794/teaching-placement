@@ -4,21 +4,38 @@
 **Course owner:** [EDF436 master](https://github.com/pzg8794/EDF436/blob/main/MASTER-TODO.md)
 **Daily school-site placement period:** September 8–November 20, 2026
 **Post-placement EDF436 obligations:** seminar/course work continues through the December 14 individual UBTE conference; this does not extend daily Eastridge attendance
-**Last reconciled:** September 12, 2026 — September 3 district dates and Zenon Borys's September 11 nine-week/approximately-45-school-day placement message re-read; December seminar/course obligations kept separate from daily placement; current bell-schedule images and the transcript-supported placement block map rechecked; user-directed travel/departure plan kept separate from school facts; both placement series, all DSCI602-date overrides, 11 class-guide series, two orange departure alerts, a visible orange home/family boundary, a turquoise DSCI602 travel series, and seven red GA work blocks created/read back
+**Last reconciled:** September 16, 2026 — September 15–16 transcripts, Chapter 1 pages 4–7, live Teams assignments, and the SBTE's September 16 pacing feedback reviewed; Thursday and Friday icebreakers corrected and synchronized without publishing identifiable student discussion
 
 ## SEPTEMBER 11–18 — current teaching package
 
-**[Open the weekday travel/departure plan](planning/2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md)** · [complete teaching plan](planning/2026-09-11-to-18-Teaching-Plan.md) · [Friday STBE-ready setup deck](planning/2026-09-11-STBE-Ready-Class-Setup-and-Teams.pptx) · [September 14–18 Chapter 1 draft deck](planning/2026-09-14-to-18-Chapter-1-Draft-Week.pptx) · [Word Level 1 run-through](practice/Word-Level-1/)
+**[Open the weekday travel/departure plan](planning/2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md)** · [complete teaching plan](planning/2026-09-11-to-18-Teaching-Plan.md) · [September 16 transcript update](planning/2026-09-16-TRANSCRIPT-AND-ICEBREAKER-UPDATE.md) · [Thursday revised icebreaker](planning/2026-09-17-Thursday-Icebreaker-Business-Activities-Revised.pptx) · [Friday revised icebreaker](planning/2026-09-18-Friday-Icebreaker-Goods-Services-Ideas-Revised.pptx) · [Word Level 1 run-through](practice/Word-Level-1/)
 
 | Workstream | Current state | Next action |
 |---|---|---|
 | Friday Sep 11 class | **READY TO USE** — 39-minute icebreaker, norms, Teams, Marketing/Text/Notes/Vocabulary folders, download/move/rename, AutoSave, and Turn in explanation | Confirm the live file and naming convention with the SBTE; do **not** begin Chapter 1 notes Friday |
-| Monday Sep 14 | **DRAFT READY FOR SBTE CHECK** — pages 4–5, four notes slides, reading, first six vocabulary cards, aligned review | Confirm page/term endpoint and approved Teams template Monday morning |
-| Tue–Fri Sep 15–18 | **DRAFT READY FOR SBTE CHECK** — pages 5–15, four notes targets per day, reading, terms, review, exit | Adjust to the live stopping point; carry unfinished marketing functions to Monday rather than rush |
+| Monday Sep 14 | **COMPLETED / TRANSCRIPT REVIEWED** — classes organized OneDrive/Teams materials, completed the purchase-influence discussion, received the Chapter 1 overview and due dates; most sections did not reach the Terms to Know model | Start Tuesday from each section's actual stopping point; do not assume vocabulary work was completed |
+| Tuesday Sep 15 | **READY TO USE** — five-minute icebreaker, notes through slide 5, Chapter 1 reading pp. 3–7, one modeled Terms to Know entry, then independent work | Use the UDL deck; display the timer; directions follow what / how / how long; stop the icebreaker at five minutes |
+| Wednesday Sep 16 | **COMPLETED / TRANSCRIPT REVIEWED** — the opener exceeded the intended endpoint and pages 4–7 were displaced | Apply the SBTE's easier opener, no partner sequence, and 7:38 hard stop |
+| Thursday Sep 17 | **REVISED AND READY** — three-minute supported preview of operational, investing, and financial activity | Read Chapter 1 pp. 4–7; use the three clues to verify predictions; continue Terms to Know |
+| Friday Sep 18 | **REVISED AND READY** — three-minute retrieval of goods, services, and ideas | Continue **1.0 Terms to Know** and prepare for the four-point **Chapter #1 Review** |
 | Word Level 1 | **1.1–1.4 COMPLETED FROM AVAILABLE DIRECTIONS** — two DOCX outputs, one PDF, and a two-page run-through report | Request full directions/starter files for 1.5–1.9; do not claim those lessons complete |
 | Public-safe synchronization | **VERIFIED SEP 11** — selected package is mirrored on local, GitHub branch `teaching_placement_shared`, and [placement Drive](https://drive.google.com/drive/folders/1l2EO2iRNDvzVQEapWE_lUBFqJ6S7u1Ls); Drive byte sizes and inherited reader access were read back | Preserve raw transcripts, student records, `digital_notes`, and medical images as local/private source evidence |
 
-The latest September 10 planning transcript is explicit: Friday is setup, Chapter 1 notes begin Monday, and the repeatable sequence is attendance → icebreaker → notes → reading → vocabulary → aligned review. Earlier September 10–11 material remains historical preparation where it conflicts with that final direction.
+The September 14 transcripts now supersede the earlier draft where they differ. The live sequence is attendance and setup, a five-minute icebreaker, notes through slide 5, reading pp. 3–7, one Terms to Know model, and independent vocabulary work. Monday established these Chapter 1 targets: Terms to Know due Sep 22, notes complete Sep 23, review due Sep 24, and assessment planned Sep 25 subject to the shortened-day schedule.
+
+## SEPTEMBER 15 — P0 teaching and course follow-up
+
+| Priority | Action | State | Evidence / next move |
+|---|---|---|---|
+| P0 | Deliver the Tuesday marketing sequence | READY | Use the UDL deck and the section's actual Monday stopping point |
+| P0 | Keep the icebreaker within five minutes | SBTE FEEDBACK | Give 60 seconds to think, brief partner talk, take two or three responses, then transition |
+| P0 | Make every direction concrete | SBTE FEEDBACK | State what students do, how they do it, and how long they have; display the timer and honor it |
+| P0 | Maintain whole-room awareness | SBTE FEEDBACK | Face the class, ask quiet speakers to repeat loudly, summarize only when needed, and avoid walking into one table while others disengage |
+| P0 | Publish or confirm the Terms to Know Teams assignment | SBTE ACTION | Students downloaded the file Monday; the submission location still needed to be created/confirmed |
+| P1 | Prepare the Chapter 1 review assignment | SBTE ACTION | Monday transcript says it should be available Tuesday so students can answer while content is fresh |
+| P1 | Bring EDF436 MCQs to the next seminar | OPEN | September 14 roundtable reminder; one round may be used before Snapshot practice |
+| P1 | Confirm Snapshot/practice signup | OPEN | Use the seminar announcement link when posted; do not claim signup without receipt |
+| P1 | Email two Letters of Expectations to the three required recipients | DUE ABOUT SEP 18 | Seminar says email after agreement; do not submit through Blackboard |
 
 ## HISTORICAL SEPTEMBER 10–11 PREPARATION
 
@@ -113,6 +130,8 @@ signed forms, credentials, or screenshots into this public-reader folder.
 |---|---|---|---|---|---|
 | Sep 8 | First placement day | [Overview](planning/2026-09-08-DAY-1-OVERVIEW.md) and [Day 2 guide](planning/2026-09-09-DAY-2-GUIDE.md) | Transcript-supported participation; not a signed hours log | Three local originals indexed in overview | Execute Day 2 plan; record outcomes separately |
 | Sep 9 | Second placement day | [Transcript summary](planning/2026-09-09-TRANSCRIPT-SUMMARY.md), [Day 3 guide](planning/2026-09-10-DAY-3-GUIDE.md), and [revised Chapter 1 + Microsoft 365 deck](planning/2026-09-10-M365-Workflow-Team-Building.pptx) | Transcript-supported planning/classroom activity; not a signed hours log | Six raw exports remain local-only and ignored by Git | Use morning agenda check; offer the book-aligned sequence; record outcomes separately |
+| Sep 14 | Monday Chapter 1 launch and Word setup | [Tuesday UDL-ready deck](planning/2026-09-15-Chapter-1-Tuesday-UDL-Ready.pptx) and updated [weekly plan](planning/2026-09-11-to-18-Teaching-Plan.md) | Five transcript exports verify Piter's icebreaker role, student setup work, SBTE feedback, and next-day planning; not a signed hours log | Raw classroom and roundtable transcripts remain local/private | Apply the five-minute timer, whole-room positioning, concise directions, and section-specific stopping points Tuesday |
+| Sep 16 | Chapter 1 pacing correction | [September 16 update](planning/2026-09-16-TRANSCRIPT-AND-ICEBREAKER-UPDATE.md), [Thursday deck](planning/2026-09-17-Thursday-Icebreaker-Business-Activities-Revised.pptx), and [Friday deck](planning/2026-09-18-Friday-Icebreaker-Goods-Services-Ideas-Revised.pptx) | Two September 16 exports plus the latest class transcript document the lost reading time, easier-opener request, and 7:38 stop; not a signed hours log | Raw transcripts remain local/private | Use the three-minute quick diagnostic, read pp. 4–7 Thursday, and record the actual stopping point |
 
 ## Update protocol
 
