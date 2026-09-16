@@ -13,7 +13,7 @@
 - [Tuesday five-minute icebreaker](2026-09-15-Tuesday-Icebreaker-Choices-and-Limited-Money.pptx) — separate four-slide sequence: choose, partner, three answers, then a 30-second bridge to economics.
 - [Wednesday five-minute icebreaker](2026-09-16-Wednesday-Icebreaker-How-Businesses-Help.pptx) — four self-explanatory UDL slides: a school-neighborhood bakery scenario, visual response choices, partner sentence frame, and a Chapter 1 pp. 8–9 bridge.
 - [September 16 transcript and icebreaker update](2026-09-16-TRANSCRIPT-AND-ICEBREAKER-UPDATE.md) — de-identified record of the latest SBTE feedback, reading alignment, Teams dates, and privacy boundary.
-- [Thursday revised icebreaker](2026-09-17-Thursday-Icebreaker-Business-Activities-Revised.pptx) — three-minute supported preview of operational, investing, and financial activity before reading pp. 4–7.
+- [Thursday revised icebreaker](2026-09-17-Thursday-Icebreaker-Business-Activities-Revised-v2.pptx) — three-minute supported preview of operational, investing, and financial activity before reading pp. 4–7.
 - [Friday revised icebreaker](2026-09-18-Friday-Icebreaker-Goods-Services-Ideas-Revised.pptx) — three-minute retrieval of page 4 goods, services, and ideas, with a direct transition to Teams work.
 - [Word Level 1 practice package](../practice/Word-Level-1/) — completed evidence for the available Lessons 1.1–1.4 and a source-status record for Lessons 1.5–1.9.
 

@@ -34,7 +34,7 @@ This preserves retrieval, choice of response mode, processing time, and visible 
 
 - **Purpose:** Preview Chapter 1 pages 4–7 without assuming students already know the vocabulary.
 - **Content:** Page 4 introduces business, marketing, products, goods, services, and ideas. Pages 5–7 introduce operational, investing, and financial activities.
-- **Deck:** [Thursday Business Activities Icebreaker](2026-09-17-Thursday-Icebreaker-Business-Activities-Revised.pptx)
+- **Deck:** [Thursday Business Activities Icebreaker](2026-09-17-Thursday-Icebreaker-Business-Activities-Revised-v2.pptx)
 - **Transition:** Read pages 4–7 and use the three visible clues to check predictions.
 
 ### Friday, September 18
