@@ -2,17 +2,13 @@
 
 This is the local staging area for materials that can be shared with the cooperating teacher. It is intentionally limited to classroom-ready and professional work products.
 
-## Daily Slides
+## Introduction to Marketing - Blocks 1 and 5
 
-Current teaching and icebreaker presentations. Superseded drafts are not copied here.
+Current Chapter 1 teaching and icebreaker presentations, plus the Block 1 and Block 5 norms flyers. Superseded drafts are not copied here.
 
-## Classroom Materials
+## Principles and Tools of Business - Blocks 4 and 7
 
-Student-facing norms flyers and similar classroom resources that contain no student records.
-
-## Practice and Keys
-
-Completed Word practice samples, PDFs, teacher run-throughs, and answer keys prepared for the Microsoft Word lessons.
+Completed Microsoft Word practice samples, PDFs, teacher run-throughs, answer keys, and the Block 4 and Block 7 norms flyers.
 
 ## Excluded
 

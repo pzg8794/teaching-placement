@@ -14,7 +14,7 @@ The existing second-placement folder is the public-safe Drive mirror. Its curren
 
 ## OneDrive
 
-The OneDrive folder `Teaching Placement Shared with SBTE` is the restricted collaboration surface for the three curated compartments: Daily Slides, Classroom Materials, and Practice and Keys. It is shared directly with the SBTE rather than made public.
+The OneDrive folder `Teaching Placement Shared with SBTE` is the restricted collaboration surface for two subject-based compartments: `Introduction to Marketing - Blocks 1 and 5` and `Principles and Tools of Business - Blocks 4 and 7`. It is shared directly with the SBTE rather than made public.
 
 ## Update rule
 
