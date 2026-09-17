@@ -37,3 +37,19 @@ second-placement/transcripts/*.txt
 # The textbook chapter is retained locally as source evidence; do not publish
 # the licensed/encrypted PDF to the public course repository.
 second-placement/Chapter 1 Introduction to Business and Marketing.pdf
+
+# Restricted SBTE collaboration files remain local/OneDrive rather than the
+# public GitHub repository. Keep only the share index and policy in Git.
+second-placement/shared-with-sbte/Daily Slides/
+second-placement/shared-with-sbte/Classroom Materials/
+second-placement/shared-with-sbte/Practice and Keys/
+
+# Workbook-derived completed samples and answer keys are shared directly with
+# the SBTE, not published in the public repository.
+second-placement/practice/Word-Level-1/1.5 Believe Me Ideas.docx
+second-placement/practice/Word-Level-1/1.6 How to Get There.docx
+second-placement/practice/Word-Level-1/1.7 What Kind of Learner Am I.docx
+second-placement/practice/Word-Level-1/1.8 You Are So Smart.docx
+second-placement/practice/Word-Level-1/1.9 My Action Plan.docx
+second-placement/practice/Word-Level-1/1.9 My Action Plan.pdf
+second-placement/practice/Word-Level-1/*Answer-Key-and-Teaching-Notes.docx

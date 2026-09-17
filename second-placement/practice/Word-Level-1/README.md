@@ -1,26 +1,32 @@
-# Word Level 1 teacher run-through
+# Word Level 1 teacher run-through and completed samples
 
 This folder contains the public-safe outputs from the September 11 teacher run-through requested in the September 10 planning transcript.
 
-## Completed from available directions
+## Completed materials
 
 - `1.3 Start of the Year Goals.docx`
 - `1.4 Start of the Year Goals 2.docx`
 - `1.4 Start of the Year Goals 2.pdf`
+- `1.5 Believe Me Ideas.docx`
+- `1.6 How to Get There.docx`
+- `1.7 What Kind of Learner Am I.docx`
+- `1.8 You Are So Smart.docx`
+- `1.9 My Action Plan.docx`
+- `1.9 My Action Plan.pdf`
 - `2026-09-11-Word-Level-1-Teacher-Run-Through.docx` — process, time, likely student issues, and suggested improvements
+- `Part-1-Document-Basics-Answer-Key-and-Teaching-Notes.docx` — Lessons 1.1–1.5
+- `2026-09-16-Word-Level-1-Part-1-Lessons-1.6-to-1.9-Answer-Key-and-Teaching-Notes.docx` — Lessons 1.6–1.9
 
-Lessons 1.1 and 1.2 were navigation/save-location checks and did not require a separate output file in the available pages. Lessons 1.3 and 1.4 were completed and visually checked.
+Lessons 1.1 and 1.2 were navigation/save-location checks and did not require a separate output file. The sample files for Lessons 1.3–1.9 and both answer keys were rendered and visually checked.
 
-## Blocked source material
+## Source limitation retained in the answer key
 
-The supplied photographs and current placement Drive contain the titles but not the complete directions or starter files for Lessons 1.5–1.9. Those lessons are **not complete** and should not be represented as complete:
+The photographed Packet 2 pages provide the required final states for Lessons 1.6–1.9, but the instruction page for Lesson 1.9 was not photographed. The sample therefore reproduces the visible Figure 1.9 result. The answer key does not invent an unseen required filename or unseen command sequence.
 
-- 1.5 Believe Me Ideas — Sharing a Document
-- 1.6 How to Get There — Editing Basics
-- 1.7 What Kind of Learner Am I? — Customizing the Quick Access Toolbar
-- 1.8 You Are So Smart — Getting Help and Information
-- 1.9 My Action Plan — Working with PDF File Types
+## Classroom adaptations from the September 16 transcripts
 
-Request the missing pages and starter files from the SBTE, then continue the same timing-and-issues record.
+- Lesson 1.6 is one document: Figure 1.6A is the starting state and Figure 1.6B is the final state.
+- Routine Word files are saved in `<My Word Projects>` and shown on screen for review; students do not print or share them unless a lesson specifically requires it.
+- Lesson 1.9 is the PDF-focused task.
 
 No raw transcript, student record, medical image, or private screenshot belongs in this folder.
