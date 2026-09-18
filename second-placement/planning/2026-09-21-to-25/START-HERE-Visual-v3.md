@@ -2,7 +2,7 @@
 
 ## Click-controlled presentation
 
-**Tomorrow Sep. 18:** use [Friday Visual v3](../2026-09-18-Friday-Icebreaker-Visual-v3.pptx), now matching this week's revised three-slide sequence: whole scene, numbered choices, then focused answer/reading/closer. The older four-slide Revised-v2 is superseded. The page 4 content remains retrieval, followed by the actual section stopping point.
+**Tomorrow Sep. 18:** use the established [Friday Revised-v2 file](../2026-09-18-Friday-Icebreaker-Goods-Services-Ideas-Revised-v2.pptx), now updated in place to match this week's revised three-slide sequence: whole scene, numbered choices, then focused answer/reading/closer. The page 4 content remains retrieval, followed by the actual section stopping point.
 
 The entry deck and September 18 Friday Revised-v2 now use simple PowerPoint appear/disappear effects. Run Slide Show to use them; static previews and PDFs show all objects.
 

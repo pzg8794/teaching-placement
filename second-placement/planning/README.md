@@ -1,6 +1,6 @@
 # Planning
 
-- [Tomorrow Friday Sep. 18: Visual v3 icebreaker](2026-09-18-Friday-Icebreaker-Visual-v3.pptx). CURRENT: three-slide notice/choose/check format matching next week's revised deck. Whole neighborhood image, numbered choices shown one at a time, image-first answer with sneakers, then closer. No G/S/I matching codes. Page 4 retrieval; resume the section's actual reading afterward. Use PowerPoint Slide Show. Supersedes Revised-v2, preserved as a previous version.
+- [Tomorrow Friday Sep. 18: current icebreaker](2026-09-18-Friday-Icebreaker-Goods-Services-Ideas-Revised-v2.pptx). CURRENT: three-slide notice/choose/check format matching next week's revised deck. Whole neighborhood image, numbered choices shown one at a time, image-first answer with sneakers, then closer. No G/S/I matching codes. Page 4 retrieval; resume the section's actual reading afterward. Use PowerPoint Slide Show. The filename remains Revised-v2 so the already-shared reference stays valid.
 
 - **[September 21–25 Visual v3 — START HERE](2026-09-21-to-25/START-HERE-Visual-v3.md)** — rebuilt image-led openers, Chapter 1 alternative, five one-page teacher run sheets, and revised source-matched plan. READY FOR PITER REVIEW. OneDrive upload is on hold; original SBTE files are unchanged.
 
