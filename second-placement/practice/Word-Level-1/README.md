@@ -16,6 +16,7 @@ This folder contains the public-safe outputs from the September 11 teacher run-t
 - `2026-09-11-Word-Level-1-Teacher-Run-Through.docx` — process, time, likely student issues, and suggested improvements
 - `Part-1-Document-Basics-Answer-Key-and-Teaching-Notes.docx` — Lessons 1.1–1.5
 - `2026-09-16-Word-Level-1-Part-1-Lessons-1.6-to-1.9-Answer-Key-and-Teaching-Notes.docx` — Lessons 1.6–1.9
+- `2026-09-18-Word-Level-1-Monday-Assessment-Review-UDL.pptx` — 5–10 minute interactive review with instructional figures and staged click reveals; it reviews skills without reproducing the assessment answers
 
 Lessons 1.1 and 1.2 were navigation/save-location checks and did not require a separate output file. The sample files for Lessons 1.3–1.9 and both answer keys were rendered and visually checked.
 

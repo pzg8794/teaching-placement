@@ -1,6 +1,6 @@
 # Sharing manifest
 
-Updated September 16, 2026.
+Updated September 18, 2026.
 
 ## Introduction to Marketing - Blocks 1 and 5
 
@@ -21,6 +21,7 @@ Updated September 16, 2026.
 - Word Level 1 teacher run-through
 - Lessons 1.1 through 1.5 answer key and teaching notes
 - Lessons 1.6 through 1.9 answer key and teaching notes
+- September 18 Word Level 1 Monday Assessment Review UDL deck
 - Block 4 Class Norms Flyer
 - Block 7 Class Norms Flyer
 
