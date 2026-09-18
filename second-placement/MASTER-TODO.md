@@ -2,7 +2,7 @@
 
 ## September 21–25 visual rebuild — review copy
 
-- [Start here: revised decks and daily run sheets](planning/2026-09-21-to-25/START-HERE-Visual-v2.md). Visual-v2 / Alternative-v2 supersede the first draft for review; original SBTE deck remains unchanged.
+- [Start here: revised decks and daily run sheets](planning/2026-09-21-to-25/START-HERE-Visual-v3.md). Visual-v3 / Alternative-v3 supersede the first draft for review; original SBTE deck remains unchanged.
 - Confirm Sep. 18 outcomes separately for Blocks 1, 5, and 7. Block 7 progress is not confirmed by the evidence used in this package.
 - Resolve Terms Sep. 22, 9 AM / Review Sep. 23, 9 AM scope against unread content before announcing next week's route.
 - Confirm Sep. 25 assessment. First comparison: same Place concept, same p. 12 reading, same four minutes and two-point check.

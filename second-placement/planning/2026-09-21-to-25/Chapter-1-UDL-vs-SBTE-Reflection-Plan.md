@@ -26,9 +26,9 @@ Do not deliberately weaken one condition or choose only the most cooperative sec
 
 ## Suggested first comparison
 
-Test only **Place**, not the whole marketing mix at once. Use SBTE slide 10 versus Alternative-v2 slide 20, with the same p. 12 Place paragraph. Four minutes per condition: 60 seconds explanation, 90 seconds the same reading, 60 seconds the same check, 30 seconds transition. Keep the teacher, response options, academic expectations, and support comparable. Do not add the three-minute opener to only one condition.
+Test only **Place**, not the whole marketing mix at once. Use SBTE slide 10 versus Alternative-v3 slide 20, with the same p. 12 Place paragraph. Four minutes per condition: 60 seconds explanation, 90 seconds the same reading, 60 seconds the same check, 30 seconds transition. Keep the teacher, response options, academic expectations, and support comparable. Do not add the three-minute opener to only one condition.
 
-> “A fictional school hoodie arrives after the event. Which P most directly needs attention? Explain how one change could address the problem.”
+> “A fictional snack order arrives after the event. Which P most directly needs attention? Explain how one change could address the problem.”
 
 Score two points identically: one for **Place**; one for a reason linking timing/distribution/access to the customer, such as an earlier pickup or delivery route. Accept spoken or written explanations in both conditions. Pointing to C alone earns selection evidence, not an explanation point. Compare accurate responses / responses received and responses received / students present; missing responses are visible, not silently dropped.
 
@@ -72,14 +72,14 @@ Use the SBTE slide in one section and the UDL alternative in another only if bot
 
 | SBTE slide/concept | UDL alternative | what changed | why |
 |---|---|---|---|
-| 1–3: title/objectives/discussion | v2 slide 1 | Objectives and one fictional choice | Clarify the learning target |
-| 4: business, marketing, G/S/I | v2 slides 2–4 | Separate concepts with nearby scene and question | Concrete representation beside academic language |
-| 5–7: business activities | v2 slides 7–10 | Same pizza business, separate activity/function screens | Clarify differences without losing the shared context |
-| 8: contributions | v2 slides 11–12 | Market contribution and hoodie needs/wants scenes | Connect the source to familiar situations |
-| 9: marketing concept | v2 slides 13–14 | Research scene, then all three elements | Predict before naming; retain needs, goals and profits |
-| 10: 4 Ps | v2 slides 16–20 | Overview and one screen per P | Chunking, scenario and visible academic labels |
-| 11–13: seven functions | v2 slides 21–28 | Overview plus one screen per function | Preserve all seven while reducing density |
-| 14: review | v2 slide 29 | Explain a Figure 1.4 example using the actual text | Evidence-based application, not invented review prompts |
-| Textbook pp. 5, 10 supplements | v2 slides 5–6, 15 | Economics, profit/net worth, market share | Keep reading vocabulary even where SBTE overview is shorter |
+| 1–3: title/objectives/discussion | v3 slide 1 | Objectives and one fictional choice | Clarify the learning target |
+| 4: business, marketing, G/S/I | v3 slides 2–4 | Separate concepts with nearby scene and question | Concrete representation beside academic language |
+| 5–7: business activities | v3 slides 7–10 | Same pizza business, separate activity/function screens | Clarify differences without losing the shared context |
+| 8: contributions | v3 slides 11–12 | Market contribution and hoodie needs/wants scenes | Connect the source to familiar situations |
+| 9: marketing concept | v3 slides 13–14 | Research scene, then all three elements | Predict before naming; retain needs, goals and profits |
+| 10: 4 Ps | v3 slides 16–20 | Overview and one screen per P | Chunking, scenario and visible academic labels |
+| 11–13: seven functions | v3 slides 21–28 | Overview plus one screen per function | Preserve all seven while reducing density |
+| 14: review | v3 slide 29 | Explain a Figure 1.4 example using the actual text | Evidence-based application, not invented review prompts |
+| Textbook pp. 5, 10 supplements | v3 slides 5–6, 15 | Economics, profit/net worth, market share | Keep reading vocabulary even where SBTE overview is shorter |
 
-All v2 slides use cream/navy contrast, Arial, large text, meaningful fictional illustrations, a predictable check band, page cues and speaker notes. These are supports to test, not evidence that learning has already improved. No names, seating records, student screenshots, individual labels or published identifiable observations belong in the reflection log.
+All v3 slides use cream/navy contrast, Arial, large text, meaningful fictional illustrations, a predictable check band, page cues and speaker notes. These are supports to test, not evidence that learning has already improved. No names, seating records, student screenshots, individual labels or published identifiable observations belong in the reflection log.

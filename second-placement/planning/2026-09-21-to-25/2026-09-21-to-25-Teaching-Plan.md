@@ -1,4 +1,4 @@
-# September 21–25: visual teaching plan, revision 2
+# September 21–25: visual teaching plan, revision 3
 
 READY FOR PITER REVIEW. This replaces the instructional sequence in the first draft. OneDrive upload is on hold.
 
@@ -9,6 +9,10 @@ The September 17 evidence confirms Block 1 notes through SBTE slide 7 and readin
 Friday's proposed sequence in the September 17 transcript, 01:55:11–02:01:38, is review slide 7, teach slide 8, read pp. 7–9, then Review 1–2 with question 8 discussed and Terms if time. Verify the actual assignment prompts.
 
 **Deadline/content conflict:** Terms is due Sep. 22 at 9 AM and Review Sep. 23 at 9 AM in the existing assignment evidence. The first draft scheduled later chapter content near or after those deadlines. Before Monday, confirm whether the assigned scope requires those unread concepts and resolve the pacing/due-date issue with the SBTE. Do not silently extend deadlines, assume all students have read ahead, or skip reading. For sections meeting before 9 AM say “due at 9,” not “overdue.” The Sep. 25 assessment remains unconfirmed.
+
+## Revision 3: distinct daily situations
+
+Monday merchandise; Tuesday snack delivery; Wednesday esports research; Thursday bicycle-repair pickup; Friday sneakers/haircut/anti-litter message. Reuse an image within one opener to maintain continuity, not as the same case on several days. Reading, academic terms, deadlines and section-progress caveats remain unchanged. Use the v3 decks and color-coded v3 run sheets.
 
 ## What students see
 
@@ -66,7 +70,7 @@ A fictional school-spirit shop is choosing its next hoodie. **Target:** pp. 10�
 
 ## Tuesday
 
-A fictional hoodie arrives AFTER the school event. **Target:** pp. 11–12, SBTE 10.
+A fictional popcorn order arrives AFTER the school event. **Target:** pp. 11–12, SBTE 10.
 
 | Time | Piter | SBTE | Students | Chapter 1 source | UDL support | Evidence/checkpoint |
 |---|---|---|---|---|---|---|
@@ -80,9 +84,9 @@ A fictional hoodie arrives AFTER the school event. **Target:** pp. 11–12, SBTE
 
 **Question:** Which change fixes the problem?
 
-**Choices:** A  Change its design; B  Ask about colors; C  Fix pickup and delivery
+**Choices:** A  Change the packaging; B  Make a bigger ad; C  Deliver before the event
 
-**Expected:** C. The missed event is a delivery/distribution problem. A better ad or new color would not fix the stated problem.
+**Expected:** C. The missed event is a delivery/distribution problem. A better ad or new package would not fix the stated problem.
 
 **Optional follow-ups (choose at most one):** Could a great product still disappoint a customer? How? / Which detail tells you delivery is the issue?
 
@@ -90,9 +94,9 @@ A fictional hoodie arrives AFTER the school event. **Target:** pp. 11–12, SBTE
 
 **One-line closer:** “A product has to reach its customer at the right time.”
 
-**Transition:** “Keep that late hoodie in mind. Pages 11–12 explain all four decisions in the marketing mix.”
+**Transition:** “Keep that late popcorn order in mind. Pages 11–12 explain all four decisions in the marketing mix.”
 
-**Matched check:** A hoodie is advertised well but arrives too late. Which P needs attention, and why?
+**Matched check:** A popcorn order is advertised well but arrives too late. Which P needs attention, and why?
 
 **Key:** Place; distribution did not deliver it when needed.
 
@@ -134,7 +138,7 @@ A fictional esports event wants players AND spectators. **Target:** pp. 13–15,
 
 ## Thursday
 
-The pickup table closes before customers can get there. **Target:** pp. 13–15 and Figure 1.4, SBTE 11–14.
+A repaired bicycle needs a pickup option students can use after school. **Target:** pp. 13–15 and Figure 1.4, SBTE 11–14.
 
 | Time | Piter | SBTE | Students | Chapter 1 source | UDL support | Evidence/checkpoint |
 |---|---|---|---|---|---|---|
@@ -146,7 +150,7 @@ The pickup table closes before customers can get there. **Target:** pp. 13–15 
 | 36–40 | Give the matched check below | Tally response and explanation | Respond with term + reason | pp. 13–15 and Figure 1.4 | Same prompt and criteria; response mode choice | Concept accuracy |
 | 40–42 | Record exact page, heading, slide, work | Verify next starting point | Save; note next task | Section record | Predictable close | Exact stop, not “Chapter 1” |
 
-**Question:** Which function should repair this first?
+**Question:** Which function organizes the handoff?
 
 **Choices:** A  Product/service management; B  Marketing information management; C  Channel management
 
@@ -154,9 +158,9 @@ The pickup table closes before customers can get there. **Target:** pp. 13–15 
 
 **Optional follow-ups (choose at most one):** How could research help choose a better pickup time? / Why wouldn’t a louder advertisement fix this alone?
 
-**Hard stop:** “We’ve identified the immediate repair. Save the other fixes for our application.”
+**Hard stop:** “We’ve identified who organizes the handoff. Save the other fixes for our application.”
 
-**One-line closer:** “Customer access is part of the product’s success.”
+**One-line closer:** “A service needs a workable way to reach customers.”
 
 **Transition:** “Page 13 explains the distribution decisions; Figure 1.4 shows how they support customer needs.”
 
@@ -164,11 +168,11 @@ The pickup table closes before customers can get there. **Target:** pp. 13–15 
 
 **Key:** Channel management coordinates distribution; place is that path within the marketing mix.
 
-**Teaching caution:** If the section has not read the functions, use the plain-language choices A change the hoodie, B ask preferences, C fix pickup. Reveal channel management as a preview and finish the reading before independent application.
+**Teaching caution:** If the section has not read the functions, use the plain-language choices A change the repair service, B ask preferences, C fix pickup. Reveal channel management as a preview and finish the reading before independent application.
 
 ## Friday
 
-Imagine a neighborhood market in Rochester. No visit needed. **Target:** p. 4 retrieval; cumulative Chapter 1, SBTE 4, 9–14.
+Imagine sneakers, a salon and an anti-litter message around Rochester. No visit needed. **Target:** p. 4 retrieval; cumulative Chapter 1, SBTE 4, 9–14.
 
 | Time | Piter | SBTE | Students | Chapter 1 source | UDL support | Evidence/checkpoint |
 |---|---|---|---|---|---|---|
@@ -181,11 +185,11 @@ Imagine a neighborhood market in Rochester. No visit needed. **Target:** p. 4 re
 
 **Question:** Match G = good, S = service, I = idea.
 
-**Choices:** 1  Food to buy; 2  A paid bicycle repair; 3  “Recycle in our community”
+**Choices:** 1  Sneakers for sale; 2  A paid haircut; 3  “Keep our community clean”
 
-**Expected:** Food is a good, paid repair is a service, the recycling message is an idea. The printed poster is also a good; we are classifying the message, not its paper.
+**Expected:** Sneakers are a good, a paid haircut is a service, and the anti-litter message is an idea. The printed poster is also a good; we are classifying the message, not its paper.
 
-**Optional follow-ups (choose at most one):** If we classify the poster’s MESSAGE, what is it? / Which P or function could help the repair stall?
+**Optional follow-ups (choose at most one):** If we classify the poster’s MESSAGE, what is it? / Which P or function could help the salon?
 
 **Hard stop:** “Pens down. Keep your response; we’re moving to today’s directions.”
 
@@ -195,7 +199,7 @@ Imagine a neighborhood market in Rochester. No visit needed. **Target:** p. 4 re
 
 **Matched check:** Give a correct offering category and one linked P or function.
 
-**Key:** For example: bike repair is a service; promotion communicates it, pricing sets its charge, and selling helps match it to a customer.
+**Key:** For example: haircut is a service; promotion communicates it, pricing sets its charge, and selling helps match it to a customer.
 
 **Teaching caution:** Confirm the Sep. 25 assessment before use. If the SBTE needs a secure assessment start, omit the answer/reveal and follow-up entirely; do not coach assessed answers. Use the full routine on a review day. No new reading required before a test.
 

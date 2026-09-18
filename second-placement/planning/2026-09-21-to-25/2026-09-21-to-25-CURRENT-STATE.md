@@ -2,7 +2,7 @@
 
 ## Evidence status
 
-This is a de-identified planning summary; cited raw transcripts remain local/private. It excludes student names, seating information, and individual classroom details. No September 18 transcript was available for this revision, so Friday’s outcome is provisional. Use the Visual-v2 decks linked in START-HERE-Visual-v2.md; OneDrive distribution remains on hold for Piter's review.
+This is a de-identified planning summary; cited raw transcripts remain local/private. It excludes student names, seating information, and individual classroom details. No September 18 transcript was available for this revision, so Friday’s outcome is provisional. Use the Visual-v3 decks linked in START-HERE-Visual-v3.md; OneDrive distribution remains on hold for Piter's review.
 
 ## Exact stopping point by section
 
