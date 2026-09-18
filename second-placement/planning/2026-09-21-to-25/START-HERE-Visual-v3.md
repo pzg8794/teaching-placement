@@ -2,6 +2,8 @@
 
 ## Click-controlled presentation
 
+**Tomorrow Sep. 18:** use [Friday Visual v3](../2026-09-18-Friday-Icebreaker-Visual-v3.pptx), now matching this week's revised three-slide sequence: whole scene, numbered choices, then focused answer/reading/closer. The older four-slide Revised-v2 is superseded. The page 4 content remains retrieval, followed by the actual section stopping point.
+
 The entry deck and September 18 Friday Revised-v2 now use simple PowerPoint appear/disappear effects. Run Slide Show to use them; static previews and PDFs show all objects.
 
 On each choice slide: click for the first image, click for its label, click to replace both with the second image, click for its label, then repeat for the third. Only one choice image is visible at a time. Pause for responses as each appears; students may revise their choice. Read labels aloud and use Back to revisit a choice when needed. Keep the three-minute limit.

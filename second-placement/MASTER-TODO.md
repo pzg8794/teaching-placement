@@ -2,6 +2,8 @@
 
 ## September 21–25 visual rebuild — review copy
 
+- Sep. 18 Friday now uses [Visual v3](planning/2026-09-18-Friday-Icebreaker-Visual-v3.pptx): next week's three-slide visual format, numbered choices, one image at a time, image-first answer and closer. This supersedes tomorrow's older four-slide G/S/I version. Page 4 retrieval only; resume actual section progress afterward. OneDrive hold continues.
+
 - Added click-controlled image-then-text sequencing to the weekly entry deck and Sep. 18 Friday Revised-v2. Choice images replace one another, one at a time. Speaker notes include click cues. Friday's full six-click choice sequence was checked in desktop PowerPoint. Use Slide Show, not a static preview.
 
 - Entry image audit complete: each route uses one whole scene, three source crops, then reveal. Corrected late-delivery expressions and closed-shop pickup barrier; optional Monday benefits remain hidden until students predict. Teaching plan and cue sheets match the revised flow.
