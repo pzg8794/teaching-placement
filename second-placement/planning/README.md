@@ -1,5 +1,7 @@
 # Planning
 
+- **[September 21–25 Visual v2 — START HERE](2026-09-21-to-25/START-HERE-Visual-v2.md)** — rebuilt image-led openers, Chapter 1 alternative, five one-page teacher run sheets, and revised source-matched plan. READY FOR PITER REVIEW. OneDrive upload is on hold; original SBTE files are unchanged.
+
 - [Current weekday travel, class-block, and departure plan](2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md) — 6:30 AM travel start; 7:00 AM arrival; 11:30 AM departure on DSCI602 meeting dates; regular/advisory bell times; otherwise 2:15 PM preferred and 2:30 PM latest departure
 - [September 11–18 complete teaching plan and exercise status](2026-09-11-to-18-Teaching-Plan.md)
 - [September 11: STBE-ready class setup and Teams deck](2026-09-11-STBE-Ready-Class-Setup-and-Teams.pptx) — 39-minute Friday setup; timed speaker notes; Chapter 1 notes explicitly begin Monday

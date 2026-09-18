@@ -1,5 +1,13 @@
 # Fall 2026 Second Teaching Placement Master
 
+## September 21–25 visual rebuild — review copy
+
+- [Start here: revised decks and daily run sheets](planning/2026-09-21-to-25/START-HERE-Visual-v2.md). Visual-v2 / Alternative-v2 supersede the first draft for review; original SBTE deck remains unchanged.
+- Confirm Sep. 18 outcomes separately for Blocks 1, 5, and 7. Block 7 progress is not confirmed by the evidence used in this package.
+- Resolve Terms Sep. 22, 9 AM / Review Sep. 23, 9 AM scope against unread content before announcing next week's route.
+- Confirm Sep. 25 assessment. First comparison: same Place concept, same p. 12 reading, same four minutes and two-point check.
+- **OneDrive: HOLD — do not upload this rebuild until Piter releases it.** No email or sharing-permission changes.
+
 **Project role:** Public-safe index and execution tracker for the Grade 6–12 placement; sensitive evidence stays local/private
 **Course owner:** [EDF436 master](https://github.com/pzg8794/EDF436/blob/main/MASTER-TODO.md)
 **Daily school-site placement period:** September 8–November 20, 2026

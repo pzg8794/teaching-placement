@@ -8,7 +8,7 @@ Use one stable three-column screen at entry:
 |---|---|---|
 | Chapter 1: `[page/heading]` | Textbook, Chapter 1 notes, Terms to Know, Chapter #1 Review | 1. Open the page. 2. Check the last completed heading. 3. Complete the next marked item. 4. Ask after you have tried the source cue. |
 
-Update the page/heading separately for Block 1 and Block 5. Never use a generic “we are on Chapter 1” message.
+Update the page/heading separately for Blocks 1, 5, and 7. Block 7's stopping point is unconfirmed. Never use a generic “we are on Chapter 1” message.
 
 ## 3–5 minute catch-up path
 
@@ -30,9 +30,24 @@ This is not a replacement for completing missed work; it is a re-entry ramp.
 
 ## Monday and Tuesday priority
 
-- Monday: reserve 10 minutes for Terms to Know completion/conferencing.
-- Tuesday: Terms was due at 9:00 AM. Missing work moves to the catch-up route while the class starts the 4 Ps; it does not consume the whole-class opener.
-- Wednesday: Chapter #1 Review was due at 9:00 AM. Use one short SBTE station for missing/weak responses, then close the station and return both teachers to the main lesson.
+- Monday: the revised plan reserves nine minutes for Terms to Know completion/conferencing; use a four-minute support group within that block.
+- Tuesday: Terms is due at 9:00 AM; check the clock before describing work as late. Verify the assigned scope against content actually taught. Missing work uses the catch-up route without consuming the whole-class opener.
+- Wednesday: Chapter #1 Review is due at 9:00 AM. Use one short SBTE station for missing/weak responses, then close it and return both teachers to the main lesson. Do not imply all review content was taught before this deadline.
+
+## Entry alternatives, ranked for low preparation and low overrun risk
+
+All replace the day's opener, not add to it. Use the same source concept and academic check; allow quiet written, pointing, or spoken responses. Finish by naming the exact page and heading.
+
+| Rank / routine | Prep | Time | Participation | Reading connection | Access value | Overrun risk |
+|---|---|---|---|---|---|---|
+| 1. Where are we? | Update three fields | 2–3 min | Everyone opens/checks one item | Exact section stop | Predictable re-entry and planning | Very low |
+| 2. A/B misconception check | One claim and two choices | 2 min | All choose, then one reason | Quote/paraphrase the day's concept | Low writing load; quiet think time | Low |
+| 3. One-word retrieval | One previous academic term cue | 2 min | All write/point to word bank | Prior paragraph → next heading | Retrieval plus optional visual cue | Low |
+| 4. Visual classification | Reuse three labeled pictures | 3 min | All classify | p. 4 G/S/I or pp. 5–7 activities | Image + label; no color-only code | Low |
+| 5. Predict then verify | One fictional scenario | 3 min | All predict, then read evidence | pp. 10–12 concept or 4 Ps | Low-stakes entry before vocabulary | Low–medium |
+| 6. Mini-case comparison | Two brief options | 3–4 min | All choose with one reason | pp. 13–15 functions | Familiar context; academic explanation retained | Medium; no open share-out |
+
+Example misconception: “Place means only the building where a shop sits.” Agree/disagree, then use p. 12 to correct it. Hard stop for every routine: “Keep that idea. Now find the evidence under [heading] on page [number].”
 
 ## Small, repeatable co-teaching moves
 

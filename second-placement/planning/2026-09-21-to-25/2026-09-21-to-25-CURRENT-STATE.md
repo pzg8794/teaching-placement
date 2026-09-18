@@ -2,7 +2,7 @@
 
 ## Evidence status
 
-This is a local/private reconstruction. It intentionally excludes student names, seating information, and other identifiable classroom details. The September 18 transcript does not yet exist, so Friday’s outcome is provisional.
+This is a de-identified planning summary; cited raw transcripts remain local/private. It excludes student names, seating information, and individual classroom details. No September 18 transcript was available for this revision, so Friday’s outcome is provisional. Use the Visual-v2 decks linked in START-HERE-Visual-v2.md; OneDrive distribution remains on hold for Piter's review.
 
 ## Exact stopping point by section
 
@@ -10,6 +10,7 @@ This is a local/private reconstruction. It intentionally excludes student names,
 |---|---|---|---|---|
 | Block 1 | SBTE slides through slide 7, **Investing and Financial Activities** | Read through the investing section on textbook p. 6; teacher stopped immediately before p. 7, **Financial Activities** | Review questions 1–2 were identified as answerable; Terms to Know had been introduced | High through Sep. 17 |
 | Block 5 | SBTE slides through slide 6, **Operational Activities**, in the last fully captured Block 5 lesson | No Chapter 1 reading completed in the Sep. 16 capture; pp. 3–7 remained owed | Terms to Know was modeled; Chapter #1 Review questions 1–2 were assigned | High through Sep. 16; Sep. 17 unconfirmed |
+| Block 7 | Not independently confirmed in the captured evidence used here | Not independently confirmed | Verify the section's notes and assignment progress with the SBTE | Do not substitute Block 1 or Block 5 progress |
 
 ### Evidence used
 
@@ -51,6 +52,10 @@ Until the Sep. 18 transcript is available, Monday must begin with a 60-second �
 - Chapter 1 assessment: Friday, Sep. 25 in the Sep. 16 transcript; verify before announcing.
 
 ## Monday decision rule
+
+**Deadline/scope check needed:** The recorded Terms deadline is Tuesday Sep. 22 at 9 AM and Review deadline is Wednesday Sep. 23 at 9 AM. The provisional instructional route reaches the 4 Ps Tuesday and marketing functions Wednesday. If the assignments require those concepts, the reading/teaching sequence and deadline may not align. Check the actual assignment scope with the SBTE before Monday; do not silently change deadlines, compress the reading, or assume students learned ahead. Before 9 AM say “due at 9,” not “overdue.” The unseen full assignment prompts remain a limitation, not a license to invent a key.
+
+**Source nuance:** The textbook's p. 8 smartphone/internet needs–wants example can conflict with students' need for digital access to schoolwork. Preserve the economic definition while distinguishing survival needs from context-dependent school access. No student must disclose personal access or finances.
 
 At the start of each section, display the catch-up screen and ask students to show the last completed page/slide. Use the class record, not memory:
 

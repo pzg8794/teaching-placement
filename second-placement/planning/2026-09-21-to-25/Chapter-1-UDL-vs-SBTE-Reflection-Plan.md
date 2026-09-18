@@ -26,24 +26,26 @@ Do not deliberately weaken one condition or choose only the most cooperative sec
 
 ## Suggested first comparison
 
-Test the **marketing mix / 4 Ps** because the content is bounded, both source deck and textbook align, and one matched check can be used:
+Test only **Place**, not the whole marketing mix at once. Use SBTE slide 10 versus Alternative-v2 slide 20, with the same p. 12 Place paragraph. Four minutes per condition: 60 seconds explanation, 90 seconds the same reading, 60 seconds the same check, 30 seconds transition. Keep the teacher, response options, academic expectations, and support comparable. Do not add the three-minute opener to only one condition.
 
-> “For this fictional product, identify one decision for each P and explain which P most directly solves the stated customer need.”
+> “A fictional school hoodie arrives after the event. Which P most directly needs attention? Explain how one change could address the problem.”
 
-Use the SBTE slide in one section and the UDL alternative in the other, then reverse the approach on a later concept if feasible. The goal is professional learning, not declaring a winner after one class.
+Score two points identically: one for **Place**; one for a reason linking timing/distribution/access to the customer, such as an earlier pickup or delivery route. Accept spoken or written explanations in both conditions. Pointing to C alone earns selection evidence, not an explanation point. Compare accurate responses / responses received and responses received / students present; missing responses are visible, not silently dropped.
+
+Use the SBTE slide in one section and the UDL alternative in another only if both have reached the same source content; otherwise wait. Reverse formats on a later matched concept if feasible. Record prior exposure, time of day, interruptions, attendance count, and section progress as confounds. Do not reteach the same check immediately in the second format and call the improvement a design effect. The goal is professional learning, not declaring a winner after one class.
 
 ## Class-level evidence sheet
 
 | indicator | SBTE slide condition | UDL alternative condition | interpretation caution |
 |---|---:|---:|---|
-| Ready/begun within 60 seconds | __ / class count | __ / class count | late arrival/device issues may affect this |
+| Ready/begun within 60 seconds | __ / class count | __ / class count | “begun” means correct page open and first task attempted; late arrival/device issues may affect this |
 | Responded to first CFU | __% | __% | count any valid response mode |
 | Requests for clarification | __ | __ | more questions can mean engagement, not failure |
 | Reading pages completed | __ | __ | do not trade reading for activity time |
 | Vocabulary accuracy on matched check | __% | __% | use the same scoring rule |
 | Exit-check accuracy | __% | __% | same prompt and time |
 | Incomplete required work | __ | __ | note absence/technology separately, without names |
-| Observable off-task moments | low / medium / high | low / medium / high | use a brief shared definition |
+| Observable task engagement at two fixed scans | __ / present | __ / present | record attempts, reading or relevant discussion; movement or lack of eye contact alone is not off-task |
 | Can explain in own words | __% | __% | explanation must retain the academic meaning |
 
 ## Fast observation protocol
@@ -70,12 +72,14 @@ Use the SBTE slide in one section and the UDL alternative in the other, then rev
 
 | SBTE slide/concept | UDL alternative | what changed | why |
 |---|---|---|---|
-| 1–3: title/objectives/discussion | learning map + one bounded entry choice | objective and route stay visible; one everybody-responds prompt | reduce startup ambiguity without reducing objectives |
-| 4: business, product, marketing, good/service/idea | split into business/marketing relationship and G/S/I classification | one primary concept per slide; concrete examples before/alongside terms | reduce text density and support accurate categories |
-| 5: three business activities table | three-lane visual with verbs and examples | operational/investing/financial shown by purpose and time horizon | address the observed overlap/confusion |
-| 6–7: operational/investing/financial detail | separate operational functions from investing vs. money flow | headings, examples, and one CFU per concept | preserve definitions while clarifying relationships |
-| 8: contributions to society | three contribution cards + need/want check | visual organization and one application prompt | make the reading structure visible |
-| 9: marketing concept | customer needs → company goals → profits diagram | relationship shown before paragraph definition | support causal understanding |
-| 10: marketing mix | 4 Ps decision map using one product | each P is a decision, not merely a label | connect vocabulary to application |
-| 11–13: seven functions | overview map, then two detail slides | chunk seven functions into manageable groups while preserving all seven | reduce working-memory load |
-| 14: review | cumulative retrieval grid using the same required concepts | multiple low-stakes response modes | reveal gaps before formal assessment |
+| 1–3: title/objectives/discussion | v2 slide 1 | Objectives and one fictional choice | Clarify the learning target |
+| 4: business, marketing, G/S/I | v2 slides 2–4 | Separate concepts with nearby scene and question | Concrete representation beside academic language |
+| 5–7: business activities | v2 slides 7–10 | Same pizza business, separate activity/function screens | Clarify differences without losing the shared context |
+| 8: contributions | v2 slides 11–12 | Market contribution and hoodie needs/wants scenes | Connect the source to familiar situations |
+| 9: marketing concept | v2 slides 13–14 | Research scene, then all three elements | Predict before naming; retain needs, goals and profits |
+| 10: 4 Ps | v2 slides 16–20 | Overview and one screen per P | Chunking, scenario and visible academic labels |
+| 11–13: seven functions | v2 slides 21–28 | Overview plus one screen per function | Preserve all seven while reducing density |
+| 14: review | v2 slide 29 | Explain a Figure 1.4 example using the actual text | Evidence-based application, not invented review prompts |
+| Textbook pp. 5, 10 supplements | v2 slides 5–6, 15 | Economics, profit/net worth, market share | Keep reading vocabulary even where SBTE overview is shorter |
+
+All v2 slides use cream/navy contrast, Arial, large text, meaningful fictional illustrations, a predictable check band, page cues and speaker notes. These are supports to test, not evidence that learning has already improved. No names, seating records, student screenshots, individual labels or published identifiable observations belong in the reflection log.
