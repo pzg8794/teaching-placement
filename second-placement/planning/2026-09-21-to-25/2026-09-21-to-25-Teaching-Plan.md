@@ -16,7 +16,7 @@ Monday merchandise; Tuesday snack delivery; Wednesday esports research; Thursday
 
 ## What students see
 
-Cream background, navy Arial text, teal academic labels and orange top rule match the recent icebreakers. Titles are 33 pt; main concept text is 22.5 pt; task choices approximately 19–23 pt. Large separate illustrations carry meaning. Color is paired with words/letters. Pictures repeat intentionally between prediction, answer and reading connection. Students can point, use fingers, write a response, or quietly explain. A response choice supports access; explanations and source evidence still matter for learning checks. No devices or public personal disclosures are needed for the opener. On-slide timing is a static cue, not a running timer.
+Cream background, navy Arial text, teal academic labels and orange top rule match the recent icebreakers. Each route now starts with ONE continuous scene and no answer labels. Its second slide splits that same image into THREE staggered crops with choices, but no answer key. Only the third slide reveals the answer and academic term, then bridges to reading. Titles are approximately 30–33 pt and choices 19.5 pt. Color is paired with words. Students can point, use fingers, write a response, or quietly explain. Explanations and source evidence still matter for learning checks. No devices or personal disclosures are needed. Timing cues are static, not running timers.
 
 ## Deck navigation
 
@@ -70,7 +70,7 @@ A fictional school-spirit shop is choosing its next hoodie. **Target:** pp. 10�
 
 ## Tuesday
 
-A fictional popcorn order arrives AFTER the school event. **Target:** pp. 11–12, SBTE 10.
+The club ordered popcorn ahead of time, but delivery arrived after the game. The visual shows empty cups, a disappointed seller, a concerned delivery worker, empty seats and departing customers. It shows no completed sale. **Target:** pp. 11–12, SBTE 10.
 
 | Time | Piter | SBTE | Students | Chapter 1 source | UDL support | Evidence/checkpoint |
 |---|---|---|---|---|---|---|
@@ -84,7 +84,7 @@ A fictional popcorn order arrives AFTER the school event. **Target:** pp. 11–1
 
 **Question:** Which change fixes the problem?
 
-**Choices:** A  Change the packaging; B  Make a bigger ad; C  Deliver before the event
+**Choices:** A Change the packaging; B Make a bigger ad; C Change delivery timing. Reveal: deliver before the game.
 
 **Expected:** C. The missed event is a delivery/distribution problem. A better ad or new package would not fix the stated problem.
 
@@ -138,7 +138,7 @@ A fictional esports event wants players AND spectators. **Target:** pp. 13–15,
 
 ## Thursday
 
-A repaired bicycle needs a pickup option students can use after school. **Target:** pp. 13–15 and Figure 1.4, SBTE 11–14.
+The bike is ready, but the shop closes before school ends. The right crop shows a student outside the closed door with the bike inside, not a completed handoff. **Target:** pp. 13–15 and Figure 1.4, SBTE 11–14.
 
 | Time | Piter | SBTE | Students | Chapter 1 source | UDL support | Evidence/checkpoint |
 |---|---|---|---|---|---|---|
@@ -150,17 +150,17 @@ A repaired bicycle needs a pickup option students can use after school. **Target
 | 36–40 | Give the matched check below | Tally response and explanation | Respond with term + reason | pp. 13–15 and Figure 1.4 | Same prompt and criteria; response mode choice | Concept accuracy |
 | 40–42 | Record exact page, heading, slide, work | Verify next starting point | Save; note next task | Section record | Predictable close | Exact stop, not “Chapter 1” |
 
-**Question:** Which function organizes the handoff?
+**Question:** Which change helps the student collect the bike?
 
-**Choices:** A  Product/service management; B  Marketing information management; C  Channel management
+**Choices:** A Repair the bike again; B Ask about bike colors; C Change pickup hours.
 
-**Expected:** C for the immediate distribution problem. MIM can reveal preferred pickup times and other functions support the repair; accept this distinction rather than claiming mutually exclusive categories.
+**Expected:** C: offer after-school pickup. Name channel management only after students choose. Research can reveal preferred times, but the immediate fix is arranging access to the ready bike.
 
 **Optional follow-ups (choose at most one):** How could research help choose a better pickup time? / Why wouldn’t a louder advertisement fix this alone?
 
-**Hard stop:** “We’ve identified who organizes the handoff. Save the other fixes for our application.”
+**Hard stop:** “We chose a pickup time the student can use. Now find the connection in the reading.”
 
-**One-line closer:** “A service needs a workable way to reach customers.”
+**One-line closer:** “A finished repair still needs a workable pickup.”
 
 **Transition:** “Page 13 explains the distribution decisions; Figure 1.4 shows how they support customer needs.”
 
@@ -168,7 +168,7 @@ A repaired bicycle needs a pickup option students can use after school. **Target
 
 **Key:** Channel management coordinates distribution; place is that path within the marketing mix.
 
-**Teaching caution:** If the section has not read the functions, use the plain-language choices A change the repair service, B ask preferences, C fix pickup. Reveal channel management as a preview and finish the reading before independent application.
+**Teaching caution:** Use the concrete choices for every section. Reveal channel management after the choice, and finish the reading before independent application.
 
 ## Friday
 
@@ -183,17 +183,17 @@ Imagine sneakers, a salon and an anti-litter message around Rochester. No visit 
 | 36–40 | Collect; ask one private revisit choice | Note aggregate pattern | Submit/save | Chapter 1 | Low-stakes reflection | Revisit needs |
 | 40–42 | Record exact completion | Verify record | Follow confirmed next step | Class record | Predictable close | Page/assignment stop |
 
-**Question:** Match G = good, S = service, I = idea.
+**Question:** Ask ONE at a time on the three-crop slide: “Which picture shows a good?” Pause. “Which shows a service?” Pause. “Which shows an idea?” Students respond with numbers only; no G/S/I conversion.
 
 **Choices:** 1  Sneakers for sale; 2  A paid haircut; 3  “Keep our community clean”
 
 **Expected:** Sneakers are a good, a paid haircut is a service, and the anti-litter message is an idea. The printed poster is also a good; we are classifying the message, not its paper.
 
-**Optional follow-ups (choose at most one):** If we classify the poster’s MESSAGE, what is it? / Which P or function could help the salon?
+**Optional follow-ups (choose at most one):** What makes the haircut a service? / Are we classifying the message or the paper?
 
 **Hard stop:** “Pens down. Keep your response; we’re moving to today’s directions.”
 
-**One-line closer:** “Every offering needs an audience.”
+**One-line closer:** “Different offerings. Different ways to meet a need.”
 
 **Transition:** “These are the same Chapter 1 distinctions we will use in today’s review or assessment.”
 
@@ -205,7 +205,7 @@ Imagine sneakers, a salon and an anti-litter message around Rochester. No visit 
 
 ## Monday catch-up route
 
-Use entry slides 16–18 instead of 1–3 when pp. 7–9 are incomplete. Question: Which scenes show products for sale? Choose all that fit. Choices: A  Food stall; B  Paid bicycle repair; C  Recycling message. Expected: A and B. The book includes goods and services as products. The recycling message need not be sold. Then identify wider contributions: jobs, wages, markets, and taxes. Do not infer every depicted worker’s pay. Follow-ups: How is a service also a product? / Who besides customers could benefit from the business? Hard stop: “Both goods and paid services count. Let’s use the reading to check the wider effects.” Transition: “Finish financial activities on page 7, then pages 8–9 explain how businesses affect their communities.” Use the same 3-minute clock and finish the owed reading before advancing.
+Use entry slides 16–18 INSTEAD OF 1–3 when pp. 7–9 are incomplete. Slide 16 shows one bakery scene and asks: “Who else might benefit, and how?” It does not list the benefits. Slide 17 splits the image into neutral labels: 1 Customer, 2 Baker, 3 Community. Ask students to predict one effect for someone beyond the customer. Accept a spoken or written “They might benefit because ___.” Only slide 18 reveals wages/employment and business taxes helping fund public services. The image does not establish a direct bakery donation to a school. Follow-ups: How might the baker benefit? / How could business taxes help a community? Close: “Businesses affect more than their customers.” Transition: “Finish Financial Activities on page 7, then read Ways Businesses Contribute to Society on pages 8–9.” Use the same 3-minute clock and finish owed reading before advancing.
 
 ## Source coverage and limits
 

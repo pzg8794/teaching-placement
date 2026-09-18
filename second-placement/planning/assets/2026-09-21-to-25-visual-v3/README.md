@@ -1,5 +1,9 @@
 # Revision 3 assets
 
+## Current entry images
+
+The entry deck now uses [whole-scenes](whole-scenes/README.md): six continuous scenes shown whole first, then cropped for student choices. That folder records the prompts and image-content checks. The files below remain as prior assets and, where applicable, Chapter alternative illustrations; they are not the current entry-deck source images.
+
 Built-in image generation created three fictional triptychs for distinct daily cases. No actual students, sales, school events or brands are depicted. Panels repeat only within a day's question/check/reading sequence.
 
 - snack.png: Tuesday snack packaging, advertisement and late event delivery.
@@ -22,4 +26,3 @@ Create a polished editorial illustration triptych for a grade 9 marketing lesson
 ### friday
 
 Create a polished editorial illustration triptych for grade 9 marketing classification, panoramic 3:1 with THREE EQUAL SQUARE PANELS separated by thin cream lines. Navy teal orange cream editorial semi-realistic style, mature not childish. NO text letters numbers brand logos. LEFT: a pair of new sneakers on a retail display, clearly tangible item for sale, no humans necessary. MIDDLE: professional hair stylist cutting a fictional teenager's hair in a salon, clear paid service, diverse people. RIGHT: teen holding a poster showing a crossed-out littering symbol and a person placing trash in a bin, communicating the idea to keep a community clean. Central compositions so each panel can be cropped separately. No bikes, no school hoodies, no snacks or gaming.
-

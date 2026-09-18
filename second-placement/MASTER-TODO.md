@@ -2,6 +2,8 @@
 
 ## September 21–25 visual rebuild — review copy
 
+- Entry image audit complete: each route uses one whole scene, three source crops, then reveal. Corrected late-delivery expressions and closed-shop pickup barrier; optional Monday benefits remain hidden until students predict. Teaching plan and cue sheets match the revised flow.
+
 - [Start here: revised decks and daily run sheets](planning/2026-09-21-to-25/START-HERE-Visual-v3.md). Visual-v3 / Alternative-v3 supersede the first draft for review; original SBTE deck remains unchanged.
 - Confirm Sep. 18 outcomes separately for Blocks 1, 5, and 7. Block 7 progress is not confirmed by the evidence used in this package.
 - Resolve Terms Sep. 22, 9 AM / Review Sep. 23, 9 AM scope against unread content before announcing next week's route.
