@@ -2,7 +2,7 @@
 
 ## September 21–25 visual rebuild — review copy
 
-- Sep. 18 Friday uses the established four-slide [Revised-v2 file](planning/2026-09-18-Friday-Icebreaker-Goods-Services-Ideas-Revised-v2.pptx). G/S/I codes were removed. Students respond with picture numbers and hear the full terms. Slides 3 and 4 now pair every concept with a visual, revealed before its explanation. Page 4 retrieval only; resume actual section progress afterward. Local, GitHub, and the Google Drive mirror contain the revised deck; the existing SBTE-shared OneDrive copy still needs replacement because the managed browser's file chooser rejected the selected `.pptx`.
+- Sep. 18 Friday uses the established four-slide [Revised-v2 file](planning/2026-09-18-Friday-Icebreaker-Goods-Services-Ideas-Revised-v2.pptx). G/S/I codes were removed. Students respond with picture numbers and hear the full terms. Slides 3 and 4 now pair every concept with a visual, revealed before its explanation. Page 4 retrieval only; resume actual section progress afterward. The revised deck is synchronized locally, on GitHub, in the Google Drive mirror, and in the SBTE-shared OneDrive folder.
 
 - Added click-controlled image-then-text sequencing to the weekly entry deck and Sep. 18 Friday Revised-v2. Choice images replace one another, one at a time. Speaker notes include click cues. Friday's full six-click choice sequence was checked in desktop PowerPoint. Use Slide Show, not a static preview.
 
