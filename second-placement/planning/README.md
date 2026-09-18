@@ -1,5 +1,7 @@
 # Planning
 
+- [Tomorrow Friday Sep. 18: animated icebreaker](2026-09-18-Friday-Icebreaker-Goods-Services-Ideas-Revised-v2.pptx). Click-controlled choices, one image at a time, then its label. Use PowerPoint Slide Show. The Sep. 21–25 entry deck has the same sequencing; click cues are in speaker notes.
+
 - **[September 21–25 Visual v3 — START HERE](2026-09-21-to-25/START-HERE-Visual-v3.md)** — rebuilt image-led openers, Chapter 1 alternative, five one-page teacher run sheets, and revised source-matched plan. READY FOR PITER REVIEW. OneDrive upload is on hold; original SBTE files are unchanged.
 
 - [Current weekday travel, class-block, and departure plan](2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md) — 6:30 AM travel start; 7:00 AM arrival; 11:30 AM departure on DSCI602 meeting dates; regular/advisory bell times; otherwise 2:15 PM preferred and 2:30 PM latest departure

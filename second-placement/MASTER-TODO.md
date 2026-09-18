@@ -2,6 +2,8 @@
 
 ## September 21–25 visual rebuild — review copy
 
+- Added click-controlled image-then-text sequencing to the weekly entry deck and Sep. 18 Friday Revised-v2. Choice images replace one another, one at a time. Speaker notes include click cues. Friday's full six-click choice sequence was checked in desktop PowerPoint. Use Slide Show, not a static preview.
+
 - Entry image audit complete: each route uses one whole scene, three source crops, then reveal. Corrected late-delivery expressions and closed-shop pickup barrier; optional Monday benefits remain hidden until students predict. Teaching plan and cue sheets match the revised flow.
 
 - [Start here: revised decks and daily run sheets](planning/2026-09-21-to-25/START-HERE-Visual-v3.md). Visual-v3 / Alternative-v3 supersede the first draft for review; original SBTE deck remains unchanged.

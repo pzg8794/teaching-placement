@@ -1,5 +1,13 @@
 # Visual v3: start here
 
+## Click-controlled presentation
+
+The entry deck and September 18 Friday Revised-v2 now use simple PowerPoint appear/disappear effects. Run Slide Show to use them; static previews and PDFs show all objects.
+
+On each choice slide: click for the first image, click for its label, click to replace both with the second image, click for its label, then repeat for the third. Only one choice image is visible at a time. Pause for responses as each appears; students may revise their choice. Read labels aloud and use Back to revisit a choice when needed. Keep the three-minute limit.
+
+Whole-scene slides show the image before the supporting sentence. Next week's check slides show the focused image before the answer, then explanation/reading cue, then closer. Tomorrow's text-only check/connection slides reveal one row per click. Slide-specific click cues are in speaker notes. No automatic advance, sound, or flashing. The original SBTE lecture deck and the Chapter 1 alternative lecture deck are unchanged. OneDrive remains on hold.
+
 ## Latest flow corrections
 
 The current deck uses the reference sequence from this week's icebreakers: ONE whole scene on the first slide, THREE staggered source crops on the second, then answer + academic term + reading on the third. No answer key appears before students choose. The optional Monday now asks students to predict HOW someone beyond the customer benefits, with neutral labels only. Its wages/taxes explanation appears only on the reveal. Tuesday shows disappointed/concerned faces, empty cups and departing customers; Thursday shows the unresolved closed-door pickup barrier. Teacher cue sheets use the same notice/choose/reveal timing.
