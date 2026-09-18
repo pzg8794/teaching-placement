@@ -2,6 +2,9 @@
 
 ## Latest flow corrections
 
+- Tuesday now explicitly says the club ordered ahead but delivery was late. Students choose the practical fix before naming Place.
+- Thursday now presents a concrete barrier: the bike is ready but the shop closes before school ends. Students choose after-school pickup; the check connects that exact choice to channel management. No academic-function guessing before the example. First Monday is unchanged.
+
 - Friday: ask one question at a time: “Which picture shows a good? Show its number.” Pause, then ask service, then idea. Answers: 1, 2, 3. No letter codes. Pointing, fingers, writing, or quiet speech are accepted. Check the message, not the poster paper. Close: “Different offerings. Different ways to meet a need.” No extra marketing-function task in the opener. Speaker notes contain the complete script.
 - Wednesday: three distinct visual choices restored on slides 7–8, in the established staggered layout.
 - Optional Monday slides 16–18: new bakery customer/worker/community visuals. Ask “Besides the customer, who can benefit?” Answers 2 and 3: jobs/pay and taxes supporting public services. Use this route INSTEAD OF slides 1–3 only when pp. 7–9 are still owed. It is not a second required Monday opener.
