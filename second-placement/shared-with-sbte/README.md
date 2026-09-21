@@ -8,7 +8,7 @@ Current Chapter 1 teaching and icebreaker presentations, plus the Block 1 and Bl
 
 ## Principles and Tools of Business - Blocks 4 and 7
 
-Completed Microsoft Word practice samples, PDFs, teacher run-throughs, answer keys, and the Block 4 and Block 7 norms flyers.
+Completed Microsoft Word practice samples, PDFs, teacher run-throughs, answer keys, assessment projection materials, and the Block 4 and Block 7 norms flyers.
 
 ## Excluded
 

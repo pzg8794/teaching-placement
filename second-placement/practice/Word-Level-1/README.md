@@ -17,6 +17,8 @@ This folder contains the public-safe outputs from the September 11 teacher run-t
 - `Part-1-Document-Basics-Answer-Key-and-Teaching-Notes.docx` — Lessons 1.1–1.5
 - `2026-09-16-Word-Level-1-Part-1-Lessons-1.6-to-1.9-Answer-Key-and-Teaching-Notes.docx` — Lessons 1.6–1.9
 - `2026-09-18-Word-Level-1-Monday-Assessment-Review-UDL.pptx` — 5–10 minute interactive review with instructional figures and staged click reveals; it reviews skills without reproducing the assessment answers
+- `2026-09-21-Blocks-4-and-7-Skills-Mastery-Test-1.1-Projection.pptx` — large-format student-facing assessment directions and exact required typing text for classroom projection
+- `2026-09-21-Blocks-4-and-7-Skills-Mastery-Test-1.1-Teacher-Run-Sheet.docx` — concise administration sequence, pacing, accessibility supports, and teacher checkpoints for Blocks 4 and 7
 
 Lessons 1.1 and 1.2 were navigation/save-location checks and did not require a separate output file. The sample files for Lessons 1.3–1.9 and both answer keys were rendered and visually checked.
 
