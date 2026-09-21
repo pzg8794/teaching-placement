@@ -1,5 +1,7 @@
 # Planning
 
+- [September 22: Marketing Mix group discussion](2026-09-22-Marketing-Mix-Group-Discussion.pptx) — transcript-confirmed 10–15 minute collaborative activity for Blocks 1 and 5: mixed groups choose an industry, company, and product; apply product, price, place, and promotion; and prepare a 30-second pitch. Includes a possible later mini-marketing-plan extension for discussion with the SBTE.
+
 - [Tomorrow Friday Sep. 18: current icebreaker](2026-09-18-Friday-Icebreaker-Goods-Services-Ideas-Revised-v2.pptx). Use the established four-slide Friday lesson. It uses the complete words good, service, and idea rather than G/S/I codes. Slide 2 shows numbered pictures one at a time. Slide 3 pairs every answer with its picture. Slide 4 uses a shoe-selling scene to connect business, marketing, and product. Click-controlled effects reveal image before text. This is tomorrow's deck only; it is not a copy of next week's Friday opener. The revised deck is synchronized locally, on GitHub, in the Google Drive mirror, and in the SBTE-shared OneDrive folder.
 
 - **[September 21–25 Visual v3 — START HERE](2026-09-21-to-25/START-HERE-Visual-v3.md)** — rebuilt image-led openers, Chapter 1 alternative, five one-page teacher run sheets, and revised source-matched plan. READY FOR PITER REVIEW. OneDrive upload is on hold; original SBTE files are unchanged.
