@@ -2,7 +2,17 @@
 
 ## Evidence status
 
-This is a de-identified planning summary; cited raw transcripts remain local/private. It excludes student names, seating information, and individual classroom details. No September 18 transcript was available for this revision, so Friday’s outcome is provisional. Use the Visual-v3 decks linked in START-HERE-Visual-v3.md; OneDrive distribution remains on hold for Piter's review.
+This is a de-identified planning summary; cited raw transcripts remain local/private. It excludes student names, seating information, and individual classroom details. The September 22 planning transcripts now authorize a 10–15 minute phone-feedback activity for September 23: pairs choose one company or experience, apply two of the seven marketing functions, and use late arrivals as designated speakers after partner briefing. Use the [activity guide](../2026-09-23-Phone-Feedback-Marketing-Functions-Activity.md) and [PowerPoint](../2026-09-23-Phone-Feedback-Marketing-Functions-Discussion.pptx); do not upload this update to OneDrive.
+
+## September 23 activity decision
+
+- Schedule update from the September 22 discussion: finish notes/reading Wednesday; vocabulary quiz and review-question work Thursday; chapter test Monday. Exact submission cutoffs require confirmation in Teams. These supersede older Wednesday/Friday deadline assumptions in historical sections below.
+- Launch from the *Practical Marketing* page 7 “Send Me SFMOMA” example.
+- Keep the activity to 10 minutes when possible and 15 minutes maximum.
+- Use pairs of two; each pair selects one company/experience and exactly two marketing functions.
+- Give each designated speaker about 30 seconds; listeners identify the functions used.
+- Use the closing discussion only if time remains.
+- Resume the remaining notes through slides 12–13 and reading on pp. 13–14 after the activity.
 
 ## Exact stopping point by section
 

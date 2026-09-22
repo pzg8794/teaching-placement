@@ -1,5 +1,13 @@
 # Fall 2026 Second Teaching Placement Master
 
+## September 23 — ready classroom activity
+
+- **READY:** [Phone Feedback and Marketing Functions activity guide](planning/2026-09-23-Phone-Feedback-Marketing-Functions-Activity.md) and [PowerPoint](planning/2026-09-23-Phone-Feedback-Marketing-Functions-Discussion.pptx).
+- Use the *Practical Marketing* p. 7 SFMOMA example, pairs of two, exactly two marketing functions, 30-second reports, and the late-arrival designated-speaker routine.
+- Keep the activity to 10 minutes when possible and 15 minutes maximum; closing discussion is optional.
+- After the activity, return to the remaining notes through slides 12–13 and reading pp. 13–14.
+- Public-safe local/GitHub/Google Drive resources may be updated; **do not update OneDrive** for this activity.
+
 ## September 21–25 visual rebuild — review copy
 
 - Sep. 18 Friday uses the established four-slide [Revised-v2 file](planning/2026-09-18-Friday-Icebreaker-Goods-Services-Ideas-Revised-v2.pptx). G/S/I codes were removed. Students respond with picture numbers and hear the full terms. Slides 3 and 4 now pair every concept with a visual, revealed before its explanation. Page 4 retrieval only; resume actual section progress afterward. The revised deck is synchronized locally, on GitHub, in the Google Drive mirror, and in the SBTE-shared OneDrive folder.

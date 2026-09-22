@@ -104,37 +104,33 @@ The club ordered popcorn ahead of time, but delivery arrived after the game. The
 
 ## Wednesday
 
-A fictional esports event wants players AND spectators. **Target:** pp. 13–15, SBTE 11–13.
+**September 22 schedule update supersedes earlier deadline assumptions:** finish the activity, notes and reading Wednesday; the latest planning discussion places the vocabulary quiz and review-question work on Thursday, and the chapter test on Monday. Confirm exact submission cutoffs in Teams with the SBTE; do not use the older Wednesday 9 AM / Friday-test assumptions below as current deadlines.
+
+The September 22 planning transcript replaces the earlier esports opener with a short application activity on the seven marketing functions. Use the [phone-feedback activity guide](../2026-09-23-Phone-Feedback-Marketing-Functions-Activity.md) and [classroom PowerPoint](../2026-09-23-Phone-Feedback-Marketing-Functions-Discussion.pptx). **Target:** finish the required notes through slides 12–13 and continue *Practical Marketing* pp. 13–14 after the activity.
 
 | Time | Piter | SBTE | Students | Chapter 1 source | UDL support | Evidence/checkpoint |
 |---|---|---|---|---|---|---|
 | 0–2 | Display verified page and heading | Verify this section's stop; take attendance | Open correct source | pp. 13–15 | Heading + page, paper option | Correct page located |
-| 2–5 | Run selected 3-minute entry route | Scan simultaneous choices | Notice and choose | SBTE 11–13 | Quiet processing, image + label, response choice | Count responses, do not name students |
-| 5–13 | Explain selected concept screens | Add one course example or correction | Complete matching notes | SBTE 11–13 | Concrete example plus academic vocabulary | One matched check |
-| 13–27 | Guide required reading by headings | 4-minute re-entry support, then rejoin | Read all assigned paragraphs and examples | pp. 13–15 | Tracking cue; optional quiet/read-along mode as available | Record actual paragraph reached |
-| 27–36 | Conference on assigned work | Support a small group for 4 minutes | Chapter #1 Review due 9 AM; record unread content | Actual assignment + relevant textbook pages | Chunk next item; model one comparable example | Accuracy and next unfinished item |
+| 2–12 | Run the phone-feedback pair activity; enforce the two-function limit and 30-second share | Confirm terminology and support concise sharing | Read p. 7 example, discuss in pairs, choose two functions, and share | *Practical Marketing* p. 7; seven functions | Written sentence frame, paired rehearsal, late-arrival speaker role | Pair names two functions and one specific response |
+| 12–20 | Teach/finish the remaining marketing-function notes | Add one course example or correction | Complete matching notes | SBTE 12–13 | Concrete example plus academic vocabulary | One matched check |
+| 20–30 | Guide required reading by headings | 4-minute re-entry support, then rejoin | Read assigned paragraphs and examples; record any unfinished reading | pp. 13–14 | Tracking cue; optional quiet/read-along mode as available | Record actual paragraph reached |
+| 30–36 | Conference on assigned work | Support a small group for 4 minutes | Check Chapter #1 Review status; record unread content | Actual assignment + relevant textbook pages | Chunk next item; model one comparable example | Accuracy and next unfinished item |
 | 36–40 | Give the matched check below | Tally response and explanation | Respond with term + reason | pp. 13–15 | Same prompt and criteria; response mode choice | Concept accuracy |
 | 40–42 | Record exact page, heading, slide, work | Verify next starting point | Save; note next task | Section record | Predictable close | Exact stop, not “Chapter 1” |
 
-**Question:** Which question gives the most useful evidence?
+**Partner task:** Choose a company or customer experience in which phones help customers provide or receive feedback or make a product, service, or experience easier to access. Select **two** marketing functions and explain one specific company response.
 
-**Choices:** A  “Gaming is great, right?”; B  “Play, watch, or neither?”; C  “My favorite game wins?”
+**Late-arrival routine:** A student who arrives late becomes the designated speaker after the partner provides a brief summary.
 
-**Expected:** B. It permits several preferences rather than assuming everyone likes gaming. Responses are fictional, not collected personal data. MIM includes qualitative and quantitative evidence.
+**Optional closing question:** Which function starts the company response, and which other function must support it?
 
-**Optional follow-ups (choose at most one):** Why is “neither” a useful option? / How could the answer change the event?
+**Hard stop:** End the activity at 10 minutes when possible and no later than 15 minutes. Resume the required notes and reading rather than extending the share-out.
 
-**Hard stop:** “One useful question is enough. Now find the academic name in the text.”
+**If the activity needs 15 minutes:** notes run 17–25, reading 25–34, assignment check 34–36, then retain the 36–42 exit/save routine. Record unfinished reading rather than claiming completion.
 
-**One-line closer:** “Useful questions leave room for honest answers.”
+**Matched exit check:** Name one function used in your pair’s improvement and explain the connection. Accept different functions when the explanation fits the function’s role.
 
-**Transition:** “Page 13 names this work marketing information management; then we will read how all seven functions work together.”
-
-**Matched check:** Which function gathers evidence about what customers want?
-
-**Key:** Marketing information management, also called market research.
-
-**Teaching caution:** The Sep. 17 announcements mention esports, which supplies school context. This invented event is not a claim about school plans. No need to be a gamer. Apply the routine only once this section reaches marketing functions. Review deadline is 9 AM today.
+**Teaching caution:** Do not require personal disclosures about access, finances, or disability. Check the updated assignment timing with the SBTE before describing any work as overdue.
 
 ## Thursday
 

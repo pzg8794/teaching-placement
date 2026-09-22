@@ -1,6 +1,6 @@
 # Sharing manifest
 
-Updated September 18, 2026.
+Updated September 22, 2026.
 
 ## Introduction to Marketing - Blocks 1 and 5
 
@@ -11,6 +11,8 @@ Updated September 18, 2026.
 - September 16 Wednesday Icebreaker How Businesses Help
 - September 17 Thursday Icebreaker Business Activities Revised v2
 - September 18 Friday Icebreaker Goods Services Ideas Revised v2
+- September 23 Phone Feedback Marketing Functions Discussion
+- September 23 Phone Feedback Marketing Functions Activity Guide
 - Block 1 Class Norms Flyer
 - Block 5 Class Norms Flyer
 

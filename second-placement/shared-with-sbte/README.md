@@ -4,7 +4,7 @@ This is the local staging area for materials that can be shared with the coopera
 
 ## Introduction to Marketing - Blocks 1 and 5
 
-Current Chapter 1 teaching and icebreaker presentations, plus the Block 1 and Block 5 norms flyers. Superseded drafts are not copied here.
+Current Chapter 1 teaching and icebreaker presentations, the September 23 phone-feedback marketing-functions activity, and the Block 1 and Block 5 norms flyers. Superseded drafts are not copied here.
 
 ## Principles and Tools of Business - Blocks 4 and 7
 
@@ -19,4 +19,4 @@ Completed Microsoft Word practice samples, PDFs, teacher run-throughs, answer ke
 - Textbook scans and photographed packet pages
 - Credentials, account setup records, and temporary files
 
-The OneDrive copy is shared only with the SBTE. The public GitHub repository and public-safe Google Drive mirror contain only materials suitable for broader sharing.
+The OneDrive copy is shared only with the SBTE. The public GitHub repository and public-safe Google Drive mirror contain only materials suitable for broader sharing. The September 23 activity update is intentionally **not** synchronized to OneDrive.
