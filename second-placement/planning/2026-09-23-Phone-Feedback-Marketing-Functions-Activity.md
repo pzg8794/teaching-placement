@@ -16,13 +16,23 @@ The sequence below is the compressed 10-minute route. The PowerPoint’s display
 - *Practical Marketing*, page 7
 - Students’ marketing-function notes
 
+## UDL design built into the activity
+
+The academic target stays constant: every pair connects one customer experience to exactly two marketing functions and one specific improvement. Access and participation vary without lowering that target.
+
+- **Multiple means of engagement:** students choose a familiar context; quiet think time comes before partner talk; the routine has visible time limits and predictable partner jobs.
+- **Multiple means of representation:** the textbook example is supported by a visual model, a teacher read-aloud, concise on-screen definitions, and a completed example.
+- **Multiple means of action and expression:** students may contribute by speaking, pointing, writing, reading prepared notes, using keywords, or making a labeled sketch. Listeners may name a function, hold up its number, or point to it on the reference slide.
+- **Controlled classroom routine:** students still work in assigned pairs, choose exactly two functions, prepare one shared response, and follow the 30-second share limit. Choice applies to access and expression, not to whether students complete the learning target.
+
 ## Sequence
 
-1. **Read and notice — 1 minute.** Students read the page 7 SFMOMA example and identify how a phone helps customers interact with the museum.
-2. **Choose an experience — 1 minute.** Pairs select a company or experience where customers use phones to provide or receive feedback, improve access, or simplify service.
-3. **Choose two functions — 1 minute.** Pairs select two of the seven marketing functions; they do not address all seven.
-4. **Partners discuss — 3 minutes.** Pairs connect the phone interaction, customer experience or barrier, two functions, and one specific company response.
-5. **Share and identify — 4 minutes planned.** Each designated speaker gives a 30-second explanation. Listeners identify the functions used. This allows eight pairs without transition time; budget additional sharing time within the 15-minute maximum for larger classes. If needed, remaining pairs share simultaneously with a neighboring pair so every pair participates without overrunning.
+1. **Read and notice — 1 minute.** Students use the page 7 SFMOMA example, teacher read-aloud, or visible summary to identify the phone action and customer experience.
+2. **Study the worked model — 1 minute.** The teacher points out the phone use, two functions, and one specific improvement in a complete example.
+3. **Choose an experience — 1 minute.** Pairs select a visual example or another familiar school-appropriate context. A student may speak, point, or write the choice.
+4. **Choose two functions and partner jobs — 2 minutes.** Pairs select exactly two functions and divide the response into predictable jobs. Partners may swap jobs.
+5. **Build and rehearse — 3 minutes.** Pairs use full sentences, keywords, or a labeled sketch to connect phone use, the customer experience, two functions, and one improvement. They choose a speaking support before sharing.
+6. **Share and identify — 3–4 minutes planned.** Each designated speaker gives a 30-second explanation. Listeners identify a function orally, by number, or by pointing. If needed, remaining pairs share with a neighboring pair so everyone participates without overrunning.
 6. **Closing discussion — only if time remains.** Ask which function starts the response and which other function must support it.
 
 ## Seven-function reference
@@ -42,10 +52,10 @@ The sequence below is the compressed 10-minute route. The PowerPoint’s display
 ## Participation routine
 
 - Students work in pairs.
-- Both partners contribute to the response.
+- Both partners contribute to the response through speaking, pointing, writing, reading prepared notes, keywords, or a labeled sketch.
 - Students who arrive late become the designated speakers after their partners brief them.
 - Each pair receives about 30 seconds to share.
-- Listeners identify at least one marketing function and cite the evidence they heard.
+- Listeners identify at least one marketing function and cite the evidence they heard. They may answer orally, hold up the function number, or point to the visible function list.
 
 ## Evidence boundary
 
