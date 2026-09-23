@@ -8,7 +8,7 @@ Hi,
 For tomorrow's opening, I prepared a five-minute vocabulary connection based on today's phone/customer-experience discussion. Students will:
 
 1. Choose one company or customer experience we heard today.
-2. Name one customer need or benefit.
+2. Name one customer need or want. (A benefit is the result; it is not the vocabulary term we are practicing.)
 3. Use the visible word bank to choose a marketing function: information management, product/service management, pricing/promotion, or selling/channel management.
 4. Complete the sentence: “Our company or experience is ____. The customer needs ____. The marketing concept is to satisfy that need and make money. ____ helps because the company can ____.”
 
