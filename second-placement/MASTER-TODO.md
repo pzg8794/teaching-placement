@@ -1,5 +1,13 @@
 # Fall 2026 Second Teaching Placement Master
 
+## September 24 — next-class Marketing icebreaker
+
+- **READY FOR SBTE REVIEW:** [bike-pickup access icebreaker guide](planning/2026-09-24-Marketing-Icebreaker-Bike-Pickup-v1.md). The classroom deck is a three-slide visual A/B/C opener with a **3-minute target / 5-minute absolute maximum**.
+- Fictional case: the bike repair is finished, but the shop closes before the student can arrive after school. Students choose the most direct fix, then connect **Place** (4 Ps access decision) with **channel management** (marketing function).
+- Use simultaneous response and one concise reason; do not run a full-room round-robin. This preserves the September 16 pacing feedback and keeps required source work primary.
+- After the opener, move directly into the live quiz/review/source-work sequence. Verify the actual section stop and assignment timing with the SBTE before describing work as due or overdue.
+- Public Git documentation is de-identified; raw transcripts and identifiable classroom evidence remain private.
+
 ## September 23 — ready classroom activity
 
 - **READY:** [Phone Feedback and Marketing Functions activity guide](planning/2026-09-23-Phone-Feedback-Marketing-Functions-Activity.md) and [PowerPoint](planning/2026-09-23-Phone-Feedback-Marketing-Functions-Discussion.pptx).
