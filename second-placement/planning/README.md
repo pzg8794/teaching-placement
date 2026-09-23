@@ -1,5 +1,7 @@
 # Planning
 
+- [September 24: bike-pickup access icebreaker](2026-09-24-Marketing-Icebreaker-Bike-Pickup-v1.md) — three-slide, image-led A/B/C opener connecting **Place** with **channel management**. Built for a 3-minute hard stop (5-minute absolute maximum) before current quiz/review/source work; uses the September 16 pacing feedback and the September 22 sequence update.
+
 - [September 23: phone feedback and the seven marketing functions](2026-09-23-Phone-Feedback-Marketing-Functions-Activity.md) · [classroom PowerPoint](2026-09-23-Phone-Feedback-Marketing-Functions-Discussion.pptx) — 10-minute pair activity based on the *Practical Marketing* page 7 SFMOMA example. Pairs choose one company or experience, apply two of the seven marketing functions, and prepare a 30-second explanation. Late arrivals are designated speakers after partner briefing; the closing discussion is optional if time remains.
 
 - [September 22: Marketing Mix group discussion](2026-09-22-Marketing-Mix-Group-Discussion.pptx) — transcript-confirmed 10–15 minute collaborative activity for Blocks 1 and 5: mixed groups choose an industry, company, and product; apply product, price, place, and promotion; and prepare a 30-second pitch. Includes a possible later mini-marketing-plan extension for discussion with the SBTE.
