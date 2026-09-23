@@ -37,3 +37,9 @@ Tomorrow's case is a fictional bicycle-repair pickup problem. The repair is comp
 - September 16 pacing feedback as summarized in the current plan: simultaneous choices, written options, and a hard stop rather than partner-transition time.
 - September 22 planning update in the current plan: vocabulary quiz and review-question work move to Thursday and the chapter test moves to Monday.
 - This artifact does **not** claim that September 23 class progress or assignment completion occurred unless separately verified from current classroom evidence.
+
+## Synchronized artifacts
+
+- [PowerPoint on Google Drive](https://docs.google.com/presentation/d/1rYC7h7f42BvDCTx8PyZNa0lSaJkgW-Uz/edit)
+- [Planning guide on Google Drive](https://drive.google.com/file/d/1D7FqqDUT5x4ZkEuvAnFnj23VZ8jtVUZY/view)
+- GitHub keeps this de-identified planning record as the public-safe source pointer; raw classroom transcripts remain private.
