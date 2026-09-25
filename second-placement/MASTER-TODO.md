@@ -65,7 +65,7 @@ The September 14 transcripts now supersede the earlier draft where they differ. 
 | P1 | Prepare the Chapter 1 review assignment | SBTE ACTION | Monday transcript says it should be available Tuesday so students can answer while content is fresh |
 | P1 | Bring EDF436 MCQs to the next seminar | OPEN | September 14 roundtable reminder; one round may be used before Snapshot practice |
 | P1 | Confirm Snapshot/practice signup | OPEN | Use the seminar announcement link when posted; do not claim signup without receipt |
-| P1 | Email two Letters of Expectations to the three required recipients | DUE ABOUT SEP 18 | Seminar says email after agreement; do not submit through Blackboard |
+| P1 | Finalize and submit Letter of Expectations | DRAFT PREPARED SEP 25; review/signature/submission OPEN | A detailed private working draft now follows the Warner Handbook sections and incorporates the verified placement context and current teaching work. Review it with Patrick and Zenon; complete the cover fields and agreed schedule/progression/planning details; then submit only through the current instructor-confirmed process. The Sep 25 email states intent to submit, not a submission receipt. The draft stays in the local EDF436 workspace/private Overleaf; do not store the letter in this link-accessible Drive mirror or this repository. |
 
 ## HISTORICAL SEPTEMBER 10–11 PREPARATION
 
