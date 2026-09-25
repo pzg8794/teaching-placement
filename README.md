@@ -32,3 +32,12 @@ Raw Plaud/course/placement transcripts belong in each placement's local/private 
 ## Fall 2026 — canonical starting point
 
 Read [the placement MASTER](second-placement/MASTER-TODO.md) before calendar or workload changes. The September 2 call has been located in Plaud. The MASTER links transcript timestamps, district emails, user-confirmed hours and remaining checks. Older contradictory source-status statements are superseded; preserved Git history is not current operational guidance.
+
+
+## Teaching presentation and visual-material standard
+
+All new or revised teaching-placement visual materials should follow
+[the canonical presentation and visual-material standard](docs/TEACHING-PRESENTATION-AND-VISUAL-MATERIAL-STANDARD.md).
+It governs evidence-first planning, use of de-identified student examples,
+instructional visuals, progressive reveal, age-appropriate design, PowerPoint/PDF
+delivery, privacy, versioning, and visual QA across both placements.
