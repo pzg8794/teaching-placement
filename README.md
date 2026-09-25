@@ -9,6 +9,8 @@ It uses two canonical placement boundaries:
 - `first-placement/` — Spring 2026 teaching placement and its historical index.
 - [`second-placement/MASTER-TODO.md`](second-placement/MASTER-TODO.md) — Fall 2026 Grade 6–12 placement master beginning September 8, 2026.
 
+The related private [EDF436 course repository](https://github.com/pzg8794/EDF436) indexes these placements as `first_placement/` and `second_placement/`. EDF436 owns course requirements and completion status; this repository owns placement-specific plans and evidence. The course indexes link back to the canonical placement directories above.
+
 ## Canonical rule
 
 New work must be filed under the placement it belongs to. Do not add new Fall 2026 material to the repository root or to the first-placement archive.

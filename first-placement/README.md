@@ -2,6 +2,8 @@
 
 This is the canonical boundary for the first teaching placement.
 
+**Related course workspace:** [EDF436 first_placement index](https://github.com/pzg8794/EDF436/blob/main/first_placement/README.md). EDF436 tracks course requirements and Spring course history; this repository remains the source for placement-specific plans and records.
+
 ## Structure
 
 - `communications/` — placement communications and action summaries.
