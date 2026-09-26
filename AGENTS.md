@@ -57,15 +57,3 @@ Core defaults:
   plus a checked PDF unless the user explicitly requests another format;
 - render and visually inspect the full deck and exported PDF before release;
 - preserve the repository privacy boundary at all times.
-
-
-## Artifact persistence and AI handoff
-
-For TeachingPlacement work, GitHub + Google Drive are the persistence and handoff layer.
-
-- Do not treat ChatGPT/Codex sandbox paths, Downloads, or ephemeral generated-file links as the source of truth.
-- Before asking another local/remote AI to review a teaching artifact, persist the reviewable artifact in GitHub on an explicit review/canonical branch and mirror the shareable binary/document in the current TeachingPlacement Google Drive folder.
-- Local AIs should pull/read from Git and Drive, not from a temporary sandbox path.
-- Use review branches for proposed revisions and do not merge until independent review is complete.
-- Keep Git public-safe and de-identified; raw transcripts/private school evidence remain in approved private storage.
-- If a connector blocks synchronization, report the unsynced state explicitly and do not pretend the handoff is complete.
