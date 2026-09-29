@@ -1,6 +1,6 @@
 # Sharing manifest
 
-Updated September 22, 2026.
+Updated September 29, 2026.
 
 ## Introduction to Marketing - Blocks 1 and 5
 
