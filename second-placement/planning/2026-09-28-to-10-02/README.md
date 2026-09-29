@@ -14,11 +14,18 @@
 - `2026-09-28-to-10-02-Presenter-Run-Guide.pptx` — two slides per day, one per track, with spoken prompt, timing, and route. It is not student-facing.
 - Matching PDFs are for review or reMarkable, not for answer-withholding.
 
+## Tuesday, September 29: Listen and Speak rubric
+
+- `../2026-09-29-listen-speak-rubric-intro/2026-09-29-Listen-and-Speak-Rubric-Student-Display.pptx` — five-slide student explanation of the three assignment targets and 1–4 levels.
+- `../2026-09-29-listen-speak-rubric-intro/2026-09-29-Listen-and-Speak-Rubric-Presenter-Guide.pptx` — timed 6½-minute script with prompts and delivery cues.
+- Matching PDFs are for printing or review. The presenter guide is teacher-facing.
+
 ## Evidence and decisions
 
 - September 25 meeting transcript, discussion of Chapter 1 Create and Design and Listen and Speak (about 00:19–00:28): the goods/services/ideas assignment precedes the presentation task; the latter asks for purpose, relationship to marketing concept, and example. The meeting changed its earlier test-first suggestion. **No final due date, presentation date, function-selection process, or platform was established.**
 - September 25 Word class transcript: 2.x assessment is intended Monday; Search is allowed for finding a Word command, and 3.x work follows. Treat this as the planning baseline, not proof of Monday's live schedule.
 - September 24 review: SBTE asked for broader response sampling, not only the familiar volunteers. The opener therefore uses silent thinking and a short answer reveal before handing class time back.
+- September 28 class transcripts: students have assigned marketing functions and are preparing a purpose, marketing-concept connection, and example. The rubric briefing reinforces those expectations without adding a deadline or presentation rule.
 - Existing de-identified student examples and images from the September 18, 23, and 25 classroom decks supply the visual scenarios. Monday's shoe/car-wash/recycling scene distinguishes good/service/idea visibly.
 - The school textbook and independent rubric review require a correct need/want distinction. Wednesday's prompt uses a **want** for the illustrated museum case and connects it to company goals and profit; it does not require every example to show both a need and a want.
 

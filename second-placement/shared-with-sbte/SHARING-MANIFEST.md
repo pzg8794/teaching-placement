@@ -4,6 +4,7 @@ Updated September 22, 2026.
 
 ## Introduction to Marketing - Blocks 1 and 5
 
+- September 29 Listen and Speak rubric briefing: student display and presenter guide, each with a matching PDF.
 - September 11 Chapter 1 Brain Teasers and Microsoft 365 Workflow
 - September 14 to 18 Chapter 1 Draft Week
 - September 15 Chapter 1 Tuesday UDL Ready
