@@ -10,6 +10,12 @@ Block 5 v2 reassessment. The original two-page tables, styles, section order,
 and teacher-note voice are retained; this was a content reassessment, not a
 redesign. Both exported reports were visually checked.
 
+A subsequent teacher-confirmed Block 1 correction removed an identity caveat
+and restored readiness/first-presenter evidence and the associated bonus
+recommendation in both the summary and individual feedback. The content grade
+remains separate from bonus consideration. The corrected Word/PDF replaced the
+existing private cloud versions without changing sharing permissions or format.
+
 Block 5 was checked against classroom notes, submitted presentation evidence,
 and the teacher's firsthand corrections. An additional linked deck was opened
 and saved as a private PDF. Block 1 received a second notes/rubric check, not a
