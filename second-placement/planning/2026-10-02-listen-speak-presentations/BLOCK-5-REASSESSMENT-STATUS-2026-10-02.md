@@ -32,8 +32,11 @@ considered; missing notes alone do not establish missing understanding.
 
 No outcome was entered in Teams. Overall recommendations, bonus, IE, and the
 status of Clear Explanation remain subject to the SBTE's grading decisions.
-The four v3 report files and added source PDF were saved locally and verified in
-the approved owner-only Google Drive records folder and private school OneDrive
-evaluation folder. Earlier local versions remain preserved. Git and the broadly
-accessible Drive mirror contain this de-identified status only, not named reports.
+The current v3 Word reports and regenerated matching PDFs were saved locally
+and verified in the approved owner-only Google Drive records folder and private
+school OneDrive evaluation folder. Superseded review drafts and their PDFs were
+removed from the local private folder and the obsolete Block 5 reassessment
+files were moved to the OneDrive recycle bin. Submitted-deck evidence remains
+preserved. Git and the broadly accessible Drive mirror contain this
+de-identified status only, not named reports.
 Do not use this note as a student record or imply school approval or release.
