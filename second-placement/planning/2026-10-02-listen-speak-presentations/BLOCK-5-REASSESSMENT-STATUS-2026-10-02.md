@@ -39,4 +39,8 @@ removed from the local private folder and the obsolete Block 5 reassessment
 files were moved to the OneDrive recycle bin. Submitted-deck evidence remains
 preserved. Git and the broadly accessible Drive mirror contain this
 de-identified status only, not named reports.
+The two October 2 classroom transcripts remain in the local source folder and
+were copied to the owner-only Google Drive records folder and private school
+OneDrive evaluation folder for evaluation. Raw transcripts stay excluded from
+the public Git repository under its privacy rule.
 Do not use this note as a student record or imply school approval or release.
