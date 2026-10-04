@@ -4,11 +4,12 @@ This is a de-identified navigation note. Student-level evidence, names, submitte
 decks, and proposed outcomes remain in the ignored local `private/` area and
 must not be committed to this repository or its broadly accessible Drive mirror.
 
-The current private revision is **Grading-Review-v3-PRIVATE**, in Word and PDF
+The current private revision is **Grading-Review-v4-PRIVATE**, in Word and PDF
 for Blocks 5 and 1. It supersedes the earlier reviews, including the reformatted
 Block 5 v2 reassessment. The original two-page tables, styles, section order,
 and teacher-note voice are retained; this was a content reassessment, not a
-redesign. Both exported reports were visually checked.
+redesign. Both exported v4 reports are two pages. The v4 review reflects the
+subsequent Piter/Viber adjudication; the student-level decisions remain private.
 
 A subsequent teacher-confirmed Block 1 correction removed an identity caveat
 and restored readiness/first-presenter evidence and the associated bonus
@@ -32,14 +33,14 @@ considered; missing notes alone do not establish missing understanding.
 
 No outcome was entered in Teams. Overall recommendations, bonus, IE, and the
 status of Clear Explanation remain subject to the SBTE's grading decisions.
-The current v3 Word reports and regenerated matching PDFs were saved locally
-and verified in the approved owner-only Google Drive records folder. An earlier
-review also reported a private school OneDrive copy; that location was not
-rechecked during this reconciliation. Superseded review drafts and their PDFs were
-removed from the local private folder and the obsolete Block 5 reassessment
-files were moved to the OneDrive recycle bin. Submitted-deck evidence remains
-preserved. Git and the broadly accessible Drive mirror contain this
-de-identified status only, not named reports.
+The current v4 Word reports and matching PDFs are saved in the ignored local
+private folder and the approved owner-only Google Drive records folder. They
+were also committed to the established private
+`pzg8794/TeachingPlacement-Private-Records` repository at `55535fc`; that
+repository is not the public teaching-placement repository. School OneDrive
+has not been reverified for v4. Submitted-deck evidence remains preserved.
+The public Git repository and broadly accessible Drive mirror contain only
+de-identified status, not named reports.
 Source reconciliation (October 3): the Block 5 oral presentation record was
 already local but had been missed because its title begins `Presentation Review_
 Production Linked to Promotion, Pricing, and Canvas Submission`. It is distinct
@@ -48,8 +49,9 @@ contextual evidence, not the Block 5 presentation record. The actual Block 5
 record and the Block 1 `Marketing Functions Presentations and Test Preparation`
 record are now both present in the owner-only Google Drive records folder; the
 Block 5 upload was verified there by name, size, parent, and owner-only status.
-The four current private Word/PDF grading reports and three preserved Block 5
-submitted-deck PDFs match local file sizes in that folder. Two additional
+The four current private v4 Word/PDF grading reports have been refreshed in
+place and verified by name, size, and owner-only parent in that folder. Three
+preserved Block 5 submitted-deck PDFs were previously checked there. Two additional
 presenters' separate deck PDFs were not found in the checked local private
 folder or that Drive folder; the oral record and teacher observations exist,
 but a complete deck archive must not be claimed. Teams submission links could
@@ -58,7 +60,6 @@ OneDrive state was not reverified in this reconciliation, so the earlier stateme
 above is historical, not a present-tense sync assertion. Raw transcripts and
 student-level artifacts stay excluded from public Git and its broadly
 accessible Drive mirror.
-
 Individual rubric-feedback packet status (October 4): separate class-specific
 student-feedback packets now exist in the approved owner-only Google Drive
 records folder for **Block 1** and **Block 5**. Each class has its own private
