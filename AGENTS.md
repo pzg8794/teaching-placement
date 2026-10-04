@@ -38,6 +38,31 @@ Before substantial work with Piter, read `VIBER_HOME.md` and recover the
 canonical Viber context when accessible. Do not duplicate Viber state inside
 this repository.
 
+## Source parity is part of completion
+
+For every TeachingPlacement task that creates, changes, retires, or relocates an
+artifact, update the established sources as part of that task. Do not wait for
+Piter to ask separately to "update sources."
+
+1. Identify the canonical revision, privacy class, and existing destinations
+   before editing: local files, the appropriate Git branch/remote, the correct
+   Google Drive location, and school OneDrive/SharePoint/Teams when applicable.
+2. Update every authorized, applicable copy and any index or source register
+   that would otherwise become stale. Verify remote readback or revision parity
+   before reporting a destination as current. Preserve raw transcripts and
+   other primary evidence; update their inventories or derived records, not
+   the underlying evidence.
+3. Keep student-identifying grading records and protected school material in
+   established private locations. Never publish them to public or broadly
+   shared Git/Drive. Explicit "do not touch," draft-only, review-first,
+   privacy, and school-submission boundaries override automatic syncing.
+4. If a destination is inaccessible, prohibited, not established, or in
+   conflict, do not invent a substitute or claim full synchronization. Report
+   the exact destination, reason, and remaining action.
+5. End each change-task handoff with a concise source-parity status for local,
+   Git, Drive, school systems when applicable, and affected indexes. Mark each
+   as verified current, not applicable/prohibited, or not verified.
+
 
 ## Teaching presentation and visual-material standard
 
