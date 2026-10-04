@@ -52,8 +52,9 @@ The four current private Word/PDF grading reports and three preserved Block 5
 submitted-deck PDFs match local file sizes in that folder. Two additional
 presenters' separate deck PDFs were not found in the checked local private
 folder or that Drive folder; the oral record and teacher observations exist,
-but a complete deck archive must not be claimed. Current school OneDrive state
-was not reverified in this reconciliation, so the earlier OneDrive statement
+but a complete deck archive must not be claimed. Teams submission links could
+not be rechecked because the school session required sign-in. Current school
+OneDrive state was not reverified in this reconciliation, so the earlier statement
 above is historical, not a present-tense sync assertion. Raw transcripts and
 student-level artifacts stay excluded from public Git and its broadly
 accessible Drive mirror.
