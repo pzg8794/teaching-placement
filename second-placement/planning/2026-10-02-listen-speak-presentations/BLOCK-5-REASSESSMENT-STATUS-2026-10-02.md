@@ -33,14 +33,28 @@ considered; missing notes alone do not establish missing understanding.
 No outcome was entered in Teams. Overall recommendations, bonus, IE, and the
 status of Clear Explanation remain subject to the SBTE's grading decisions.
 The current v3 Word reports and regenerated matching PDFs were saved locally
-and verified in the approved owner-only Google Drive records folder and private
-school OneDrive evaluation folder. Superseded review drafts and their PDFs were
+and verified in the approved owner-only Google Drive records folder. An earlier
+review also reported a private school OneDrive copy; that location was not
+rechecked during this reconciliation. Superseded review drafts and their PDFs were
 removed from the local private folder and the obsolete Block 5 reassessment
 files were moved to the OneDrive recycle bin. Submitted-deck evidence remains
 preserved. Git and the broadly accessible Drive mirror contain this
 de-identified status only, not named reports.
-The two October 2 classroom transcripts remain in the local source folder and
-were copied to the owner-only Google Drive records folder and private school
-OneDrive evaluation folder for evaluation. Raw transcripts stay excluded from
-the public Git repository under its privacy rule.
+Source reconciliation (October 3): the Block 5 oral presentation record was
+already local but had been missed because its title begins `Presentation Review_
+Production Linked to Promotion, Pricing, and Canvas Submission`. It is distinct
+from `10-02 Class Review_ Signatures, Accountability, and Assessments`, which is
+contextual evidence, not the Block 5 presentation record. The actual Block 5
+record and the Block 1 `Marketing Functions Presentations and Test Preparation`
+record are now both present in the owner-only Google Drive records folder; the
+Block 5 upload was verified there by name, size, parent, and owner-only status.
+The four current private Word/PDF grading reports and three preserved Block 5
+submitted-deck PDFs match local file sizes in that folder. Two additional
+presenters' separate deck PDFs were not found in the checked local private
+folder or that Drive folder; the oral record and teacher observations exist,
+but a complete deck archive must not be claimed. Current school OneDrive state
+was not reverified in this reconciliation, so the earlier OneDrive statement
+above is historical, not a present-tense sync assertion. Raw transcripts and
+student-level artifacts stay excluded from public Git and its broadly
+accessible Drive mirror.
 Do not use this note as a student record or imply school approval or release.
