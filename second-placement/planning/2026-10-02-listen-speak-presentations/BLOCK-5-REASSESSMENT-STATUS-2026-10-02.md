@@ -7,8 +7,9 @@ ignored local `private/` area, owner-only Drive, and the separate private Git
 repository described below.
 
 The current private revision is **Grading-Review-v4-PRIVATE**, in Word and PDF
-for Blocks 5 and 1. It supersedes the earlier reviews, including the reformatted
-Block 5 v2 reassessment. The original two-page tables, styles, section order,
+for Blocks 5 and 1. These presentation reviews are complete/current for SBTE
+review, not entered grades or SBTE-approved outcomes. They supersede the earlier
+reviews, including the reformatted Block 5 v2 reassessment. The original two-page tables, styles, section order,
 and teacher-note voice are retained; this was a content reassessment, not a
 redesign. Both exported v4 reports are two pages. The v4 review reflects the
 subsequent Piter/Viber adjudication; the student-level decisions remain private.
@@ -64,17 +65,15 @@ student-level artifacts stay excluded from public Git and its broadly
 accessible Drive mirror.
 
 Individual rubric-feedback packet status (October 4): separate class-specific
-student-feedback packets now exist in the approved owner-only Google Drive
-records folder for **Block 1** and **Block 5**. Each class has its own private
-DOCX working packet and its own private PDF packet. The class-specific PDFs are
-the intended SBTE-review/printing artifacts for this feedback workflow. An
-earlier combined Block 1 + Block 5 PDF was created during drafting; it is
-**superseded and non-authoritative** and must not be used for SBTE review,
-printing, or student distribution. The individualized packet update is separate
-from the presentation-review revision being handled in parallel; this status
-entry does not claim that the presentation-review revision is complete.
-No Teams grade changes or school OneDrive changes were made as part of the
-individualized-rubric packet update. Student names, individual rubric levels,
-feedback text, and raw evidence remain private and are not committed here.
+student-feedback packets are current in the ignored local private area, the
+approved owner-only Google Drive records folder, and the established private
+Git repository. Each class has its own editable DOCX working file and PDF,
+with one student per page and the overall recommendation separate from the
+criterion levels. The combined Block 1 + Block 5 PDF and two duplicate
+earlier-named class PDFs were removed from the owner-only Drive folder; they
+are not current review or printing artifacts. No Teams grades were entered.
+School OneDrive was not touched or verified. Student names, individual rubric
+levels, feedback text, and raw evidence remain private and are not committed
+to this public repository or its broadly accessible Drive mirror.
 
 Do not use this note as a student record or imply school approval or release.
