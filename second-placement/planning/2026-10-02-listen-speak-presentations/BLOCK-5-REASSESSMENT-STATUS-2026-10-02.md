@@ -58,4 +58,19 @@ OneDrive state was not reverified in this reconciliation, so the earlier stateme
 above is historical, not a present-tense sync assertion. Raw transcripts and
 student-level artifacts stay excluded from public Git and its broadly
 accessible Drive mirror.
+
+Individual rubric-feedback packet status (October 4): separate class-specific
+student-feedback packets now exist in the approved owner-only Google Drive
+records folder for **Block 1** and **Block 5**. Each class has its own private
+DOCX working packet and its own private PDF packet. The class-specific PDFs are
+the intended SBTE-review/printing artifacts for this feedback workflow. An
+earlier combined Block 1 + Block 5 PDF was created during drafting; it is
+**superseded and non-authoritative** and must not be used for SBTE review,
+printing, or student distribution. The individualized packet update is separate
+from the presentation-review revision being handled in parallel; this status
+entry does not claim that the presentation-review revision is complete.
+No Teams grade changes or school OneDrive changes were made as part of the
+individualized-rubric packet update. Student names, individual rubric levels,
+feedback text, and raw evidence remain private and are not committed here.
+
 Do not use this note as a student record or imply school approval or release.
