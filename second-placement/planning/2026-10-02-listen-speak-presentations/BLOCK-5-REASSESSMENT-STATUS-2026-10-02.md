@@ -1,8 +1,10 @@
 # Block 5 Listen and Speak reassessment — source status
 
 This is a de-identified navigation note. Student-level evidence, names, submitted
-decks, and proposed outcomes remain in the ignored local `private/` area and
-must not be committed to this repository or its broadly accessible Drive mirror.
+decks, and proposed outcomes must not be committed to this public repository
+or its broadly accessible Drive mirror. The current named v4 reviews are in the
+ignored local `private/` area, owner-only Drive, and the separate private Git
+repository described below.
 
 The current private revision is **Grading-Review-v4-PRIVATE**, in Word and PDF
 for Blocks 5 and 1. It supersedes the earlier reviews, including the reformatted
@@ -56,10 +58,11 @@ presenters' separate deck PDFs were not found in the checked local private
 folder or that Drive folder; the oral record and teacher observations exist,
 but a complete deck archive must not be claimed. Teams submission links could
 not be rechecked because the school session required sign-in. Current school
-OneDrive state was not reverified in this reconciliation, so the earlier statement
-above is historical, not a present-tense sync assertion. Raw transcripts and
+OneDrive state was not reverified in this reconciliation, so no present-tense
+OneDrive sync is claimed. Raw transcripts and
 student-level artifacts stay excluded from public Git and its broadly
 accessible Drive mirror.
+
 Individual rubric-feedback packet status (October 4): separate class-specific
 student-feedback packets now exist in the approved owner-only Google Drive
 records folder for **Block 1** and **Block 5**. Each class has its own private
