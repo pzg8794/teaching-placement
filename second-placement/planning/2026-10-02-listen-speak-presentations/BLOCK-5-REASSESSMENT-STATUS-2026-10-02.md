@@ -76,4 +76,14 @@ School OneDrive was not touched or verified. Student names, individual rubric
 levels, feedback text, and raw evidence remain private and are not committed
 to this public repository or its broadly accessible Drive mirror.
 
+October 12 communication update: a derived numerical grading interpretation
+and its provenance register are current in the established ignored local area,
+private Git, and owner-only Drive. The original presentation reviews, criterion
+evidence, and primary records have not been rewritten. The existing school
+Outlook reply is saved but unsent, pending Piter/Viber's independent review.
+Separate class tables keep base assessment, follow-up credit, and bonuses
+visible; student-level calculations and feedback remain private. No official
+grades or Teams, school OneDrive/SharePoint files were changed. This public note
+does not certify the interpretation, school approval, or current school sync.
+
 Do not use this note as a student record or imply school approval or release.
