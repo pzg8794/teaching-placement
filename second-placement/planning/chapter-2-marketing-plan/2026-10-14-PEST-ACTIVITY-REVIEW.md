@@ -38,4 +38,8 @@ Viber reviewed commit61eeeed and returned PARTIAL: content/pair design accepted;
 
 ## Upcoming planning from Piter's notes
 
+### Final correction handoff limitation
+
+Corrected content is committed at `05e65655ebe1b22ccfd9e0bd5208b9ff91a89e42`; `03c7c90f10fb62c275cb580817d4b2e93eaf57a1` adds the public-safe worksheet Drive readback screenshot. Both live remote heads were checked against local. The assigned low-cost relay could not access an in-app browser in its isolated environment (no existing tab; bounded recovery returned `Browser is not available: iab` and `Browser is not available: 2`). **RELAY NOT DELIVERED; no matched correction acceptance received.** A parent-tab fallback receipt was prepared, but its Send interaction timed out; transmission is not confirmed. Viber's earlier content/pair-design ACCEPT and numerical-grading RETURN remain the last matched decision. The worker acknowledged and implemented that RETURN, but does not claim final independent acceptance or current corrected Drive parity. School deployment remains prohibited pending authorization. All local final files remain available for Piter/SBTE review; the task-created temporary build directory was removed after preserving the deliverables.
+
 Wednesday October14: Marketing Strategy note slide9. Thursday October15: slide10 continuation and planned Terms quiz. Friday October16: slides11–12. These are current intentions, not completed instruction. Keep separate Block1/Block5 actual stops.
