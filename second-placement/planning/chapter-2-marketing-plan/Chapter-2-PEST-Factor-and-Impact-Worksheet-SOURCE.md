@@ -26,3 +26,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________
 
 **Instructor/source boundary:** The student sheet deliberately provides categories and thinking prompts **without completed examples**. It is grounded in the Chapter 2 environmental analysis/PEST figure on printed p. 20 and the teacher's reconstructed October 13 directions, not in an invented SBTE grade policy. Allow students to read/attempt before showing any example. Do not publish scores or unverified deadlines.
+# October 13 pair activity amendment
+
+Piter subsequently confirmed that this is a pair activity. The individual-name/work arrangement in the earlier content below is superseded: use both partners' names, one shared business/target market, shared discussion before writing, alternating explainer/recorder roles, and a jointly reasoned summary. Both partners explain impacts. The current pair worksheet and student/teacher decks are indexed in [the PEST review record](2026-10-14-PEST-ACTIVITY-REVIEW.md). Preserve the earlier source as history; do not reuse its individual arrangement as current instructions. Proposed numerical grading belongs in teacher-only review until Pat approves it.
+
