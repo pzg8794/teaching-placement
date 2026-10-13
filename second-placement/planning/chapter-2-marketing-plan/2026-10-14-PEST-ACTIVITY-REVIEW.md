@@ -2,6 +2,30 @@
 
 ## Current package
 
+### Current working version — v2 spacious front/back worksheet
+
+Owner-directed October 13 update: Piter's saved, edited v1 Word sheet is the wording/layout baseline (SHA-256 `473472ae03db632fd12c6a649bf5eb74f440f4cfe11307b3feec11795ca8242d`). It is preserved unchanged; the matching v1 PDF is refreshed from that exact source. No activity, timing, pair arrangement, content target, or grading decision was redesigned.
+
+- [Editable worksheet v2](2026-10-14-PEST-Business-Worksheet-v2.docx) and [two-page PDF](2026-10-14-PEST-Business-Worksheet-v2.pdf): all four color/letter/full-name categories remain on the front; minimum row height grows from 2.55 to 3.35 inches. Response paragraphs replace underscore tails with light writing rules and expand when typed into. The front explicitly permits continuation on the back/page 2. The back contains the unchanged summary prompt, enlarged response space, and labeled P/E/S/T continuation space. Print double-sided, flipping on the long edge. Additional typing may naturally add pages; no exact row heights truncate text.
+- [Student display v2](2026-10-14-PEST-Student-Display-v2.pptx) and [PDF](2026-10-14-PEST-Student-Display-v2.pdf): business-selection directions, summary and completion check now point to the back/page 2. Existing content, pictures, redundant color coding, click-controlled model reveals, and nonnumeric success criteria remain.
+- [Teacher run guide v2](2026-10-14-PEST-Piter-Run-Guide-v2.pptx) and [PDF](2026-10-14-PEST-Piter-Run-Guide-v2.pdf): duplex preparation, explicit spoken permission to continue on the back, summary location and checking both sides are included in visible cues and speaker notes. Numerical descriptors remain teacher-only and conditional on Pat's confirmation.
+
+QA: both worksheet pages rendered and inspected. Both decks rendered completely, changed slides inspected individually against their sources, full decks/PDFs scanned for collateral changes; 14 student states/12 final-state PDF pages and 12 teacher states/pages preserved. Package/layout checks passed. Public-safe blank materials only. School systems, email and grades not changed. Current v2 persistence and matched-review state are recorded below; older receipts remain historical, not current-parity claims.
+
+Piter's subsequent screenshot confirms the current front ordering and emphasis: Business, Target market, Partners/Block; italic business-language/textbook guidance and bold partner directions. These are preserved in v2. Piter's saved v1 remains byte-for-byte unchanged; no unsaved Office session was overwritten.
+
+### Current v2 source-parity / review checkpoint
+
+Local six v2 artifacts and the source/index records are verified. Git publication uses the existing `teaching_placement_shared` branch; the committing revision identifies this receipt and artifacts together. The source record, planning index and retained v1 baseline are included in the bounded commit; unrelated user changes remain unstaged.
+
+**DRIVE NOT CURRENT:** owner-account access to established folder `1k5LshhoCb5xYyGqQ78MAKJWmPnkjIhgn` was verified, but the upload action timed out and reset computer control. A bounded native fallback could observe the folder but returned `noWindowsAvailable` when attempting the upload menu. No upload completion or v2 Drive readback exists. Following Viber's matched instruction, stop retrying this surface; use verified local/Git v2 for review. Required next delivery is the six v2 files plus current source/index records in that same folder, preserving existing sharing. Earlier v1 Drive copies are historical and not the current v2 package.
+
+The worker acknowledges Viber's latest matched response for `05e6565`: **PARTIAL — no further redesign required**; accepted source corrections, outstanding Drive synchronization and independent visual confirmation. Required rendered evidence is intentionally retained in the existing assets directory: [student success criteria](assets/2026-10-14-PEST-v2-Student-Success-Criteria.png), [student explanation support](assets/2026-10-14-PEST-v2-Student-Explanation-Support.png), and [teacher-only approval cue](assets/2026-10-14-PEST-v2-Teacher-Approval-Cue.png). These allow independent review without trusting a worker's description. v2 retains those corrected elements unchanged.
+
+Lowest-cost relay Carson rechecked the existing conversation route for this job and returned `Browser is not available: 2` after an inventory timeout. **RELAY NOT DELIVERED** through that isolated environment. The actual parent interface can read the existing Viber chat; any fallback transmission/response is recorded only after verification. No independent v2 approval is assumed. Earliest incomplete gates: Drive delivery and Viber's revision-matched review. School OneDrive/SharePoint/Teams, grades, email and permission changes remain prohibited in this review-first scope. CRISP-DM/OOP are not applicable to this surgical visual-artifact edit. No new infrastructure created.
+
+### v1 history
+
 Prepared from Piter's reconstructed October 13 classroom notes and supplied whiteboard layout. Piter subsequently confirmed this is a **pair activity**: one shared worksheet with both names, shared reasoning, alternating explainer/recorder roles at each PEST category. This is a review package, not evidence that an assignment was posted or taught. Blank materials contain no student records. The photograph is a content/layout reference, not a classroom slide or public asset.
 
 - [Printable worksheet](2026-10-14-PEST-Business-Worksheet-v1.pdf) and [editable Word](2026-10-14-PEST-Business-Worksheet-v1.docx): one Letter page; business and target market, P/E/S/T quadrants, external factor/example, positive and negative impact with reasoning, business response summary.
