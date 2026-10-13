@@ -2,7 +2,17 @@
 
 ## Current package
 
-### Current working version — v2 spacious front/back worksheet
+### Current worksheet — v3 owner-directed layout correction
+
+Use [worksheet v3 Word](2026-10-14-PEST-Business-Worksheet-v3.docx) and [matching PDF](2026-10-14-PEST-Business-Worksheet-v3.pdf) with the existing v2 student display and teacher guide. Piter asked to restore the prior front layout rather than retain v2's enlarged, rule-based quadrants. v3 therefore reuses the saved v1 front table unchanged: original factor/example and +/− prompts, underline response lines, 2.55-inch minimum rows, colors and typography. Keep the approved Business / Target market / Partners-Block ordering, italic guidance and bold partner directions. Title is now explicitly bold. Partner fields use longer native tab-leader lines instead of shortening the name spaces to fit Block.
+
+Page 2 has eight full-width summary lines and four distinct continuation areas headed **P Political:** (blue), **E Economic:** (teal), **S Social:** (purple), **T Technological:** (rust), with both letters and full names. The opening continuation instruction is retained. Front directions still permit back/page-2 continuation and locate the summary there. No teaching content, grading, timing, role, or presentation decision changed. v1/v2 retained; v2 decks/PDFs unchanged because their back-page instructions remain accurate.
+
+Local DOCX/PDF rendered and both pages visually inspected. Public-safe blank materials only. Local/Git/source indexes are updated in this revision. **DRIVE NOT CURRENT**: existing authenticated upload-control failure remains; Viber's matched instruction explicitly says not to retry that failed route. School systems, private evidence, grades, permissions and email remain untouched. Deliver the v3 worksheet pair and affected records to the existing planning Drive when authorized control becomes available; do not represent older v1/v2 Drive worksheets as current.
+
+Worker ACKNOWLEDGES Viber's now-read, revision-matched verdict on `f68b2f5`: **ACCEPT for Piter/Pat instructional review; Drive delivery PARTIAL**. That accepts v2's instructional and grading boundaries, not this subsequent owner-directed v3 layout change or school deployment. Lowest-cost relay route previously failed in the isolated runner; no new working route is presumed. A direct parent-interface update to the same Viber conversation is the declared available fallback, with actual delivery and disposition recorded only after readback. v3 remains awaiting its own bounded review; no regrading or instructional redesign requested.
+
+### v2 history — spacious front/back worksheet
 
 Owner-directed October 13 update: Piter's saved, edited v1 Word sheet is the wording/layout baseline (SHA-256 `473472ae03db632fd12c6a649bf5eb74f440f4cfe11307b3feec11795ca8242d`). It is preserved unchanged; the matching v1 PDF is refreshed from that exact source. No activity, timing, pair arrangement, content target, or grading decision was redesigned.
 

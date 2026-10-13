@@ -1,6 +1,6 @@
 # Planning
 
-- **[October 14 PEST activity review package](chapter-2-marketing-plan/2026-10-14-PEST-ACTIVITY-REVIEW.md)** — current v2 spacious front/back pair worksheet (Word/PDF), student display (PowerPoint/PDF) and teacher cues (PowerPoint/PDF). Built from Piter's edited sheet; front and slides explicitly permit continuation on the back. Inclusive letter/name/color coding, staged model reveals and 30-minute timing. Proposed 1–4 grading remains teacher-only for SBTE confirmation; not posted or taught.
+- **[October 14 PEST activity review package](chapter-2-marketing-plan/2026-10-14-PEST-ACTIVITY-REVIEW.md)** — current v3 front/back pair worksheet (Word/PDF), with unchanged v2 student display and teacher cues (PowerPoint/PDF). Piter's original front response layout restored, title bold, partner spaces widened, and back summary/continuation expanded with explicit color-coded P/E/S/T labels. Front and slides permit using the back. Proposed 1–4 grading remains teacher-only for SBTE confirmation; not posted or taught.
 
 - **[Presentation & visual-material standard](../../docs/TEACHING-PRESENTATION-AND-VISUAL-MATERIAL-STANDARD.md)** — canonical process for all current/future student-facing decks and visual teaching materials: evidence-first, student-language-to-academic-language, instructional imagery, progressive reveal, distinct visual evidence, PowerPoint + PDF delivery, privacy checks, and rendered visual QA.
 

@@ -32,3 +32,5 @@ Piter subsequently confirmed that this is a pair activity. The individual-name/w
 
 Piter's subsequent space/layout direction establishes v2 as the current worksheet: Business, Target market, then Partners/Block; italic business-language/textbook guidance; bold partner directions. Keep the four PEST sections on the front with expanded editable response space. The summary and additional labeled P/E/S/T continuation space occupy the back/page 2. Front directions and both presentation versions explicitly permit using the back. This changes response space, not content targets or grading.
 
+**Later owner correction supersedes the v2 worksheet layout only:** current worksheet is v3, restoring the original front table and response lines, retaining the reordered header/emphasis, making the title bold and widening partner-name fields. Page 2 expands summary space and explicitly labels each continuation area with its matching color, letter, full name and colon. Use v3 Word/PDF with unchanged v2 decks, whose back-page instructions still apply. Do not revert pair roles or reopen grading.
+
