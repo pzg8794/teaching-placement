@@ -86,4 +86,15 @@ visible; student-level calculations and feedback remain private. No official
 grades or Teams, school OneDrive/SharePoint files were changed. This public note
 does not certify the interpretation, school approval, or current school sync.
 
+October 13 delivery update supersedes the earlier unsent communication state:
+the owner authorized sending the existing corrected grading reply, and delivery
+to the SBTE through the established school Outlook account was verified in
+Sent Items. The earlier access blocker is resolved. The full send receipt and
+student-level content remain in established private sources; this public note
+contains neither. Original assessments, primary evidence, official grades,
+Teams and school OneDrive/SharePoint files were not changed. Sending the reply
+does not imply school approval, gradebook entry or unconditional audit approval.
+The existing private communication record/register and this de-identified note
+are synchronized to their appropriate Git and Drive destinations with readback.
+
 Do not use this note as a student record or imply school approval or release.
