@@ -2,7 +2,7 @@
 
 ## Current package
 
-Prepared from Piter's reconstructed October 13 classroom notes and supplied whiteboard layout. This is a review package, not evidence that an assignment was posted or taught. Blank materials contain no student records. The photograph is a content/layout reference, not a classroom slide or public asset.
+Prepared from Piter's reconstructed October 13 classroom notes and supplied whiteboard layout. Piter subsequently confirmed this is a **pair activity**: one shared worksheet with both names, shared reasoning, alternating explainer/recorder roles at each PEST category. This is a review package, not evidence that an assignment was posted or taught. Blank materials contain no student records. The photograph is a content/layout reference, not a classroom slide or public asset.
 
 - [Printable worksheet](2026-10-14-PEST-Business-Worksheet-v1.pdf) and [editable Word](2026-10-14-PEST-Business-Worksheet-v1.docx): one Letter page; business and target market, P/E/S/T quadrants, external factor/example, positive and negative impact with reasoning, business response summary.
 - [Student PowerPoint](2026-10-14-PEST-Student-Display-v1.pptx) and [PDF](2026-10-14-PEST-Student-Display-v1.pdf): 14 click-controlled slide states; PDF has 12 final-state pages. Slides 5â€“7 reveal the model category/positive/negative impacts after student thinking, using staged slides and fast Fade transitions. Student responses for their own business are not supplied.
@@ -24,7 +24,7 @@ Content authority: restricted Principles of Marketing Chapter 2, printed pp.19â€
 
 1 Initial: limited relevant evidence of the required explanations so far. Access support alone never lowers a level. Missing/insufficient evidence is not automatically level1.
 
-These are proposed assignment descriptors, not a school-approved aggregation formula. Confirm formative versus graded use, overall scoring/IE handling, individual/pair arrangement, collection route, and final grading language before deployment. No bonuses, arithmetic averaging, due date, or official grade-entry instruction was invented.
+These are proposed assignment descriptors, not a school-approved aggregation formula. Pair arrangement is owner-confirmed. Confirm formative versus graded use, how shared and individual evidence will be assessed, overall scoring/IE handling, collection route, and final grading language before deployment. No bonuses, arithmetic averaging, due date, or official grade-entry instruction was invented.
 
 ## Inclusion and presentation QA
 
