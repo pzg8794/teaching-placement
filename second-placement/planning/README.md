@@ -1,5 +1,7 @@
 # Planning
 
+- **[October 14 PEST activity review package](chapter-2-marketing-plan/2026-10-14-PEST-ACTIVITY-REVIEW.md)** — one-page worksheet (Word/PDF), student display (PowerPoint/PDF) and teacher cues (PowerPoint/PDF). Inclusive letter/name/color coding, staged model reveals and 30-minute timing. Proposed 1–4 grading remains for SBTE confirmation; not posted or taught.
+
 - **[Presentation & visual-material standard](../../docs/TEACHING-PRESENTATION-AND-VISUAL-MATERIAL-STANDARD.md)** — canonical process for all current/future student-facing decks and visual teaching materials: evidence-first, student-language-to-academic-language, instructional imagery, progressive reveal, distinct visual evidence, PowerPoint + PDF delivery, privacy checks, and rendered visual QA.
 
 - [September 24: bike-pickup access icebreaker](2026-09-24-Marketing-Icebreaker-Bike-Pickup-v1.md) · [PowerPoint on Drive](https://docs.google.com/presentation/d/1rYC7h7f42BvDCTx8PyZNa0lSaJkgW-Uz/edit) — three-slide, image-led A/B/C opener connecting **Place** with **channel management**. Built for a 3-minute hard stop (5-minute absolute maximum) before current quiz/review/source work; uses the September 16 pacing feedback and the September 22 sequence update.
