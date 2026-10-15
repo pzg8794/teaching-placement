@@ -1,5 +1,13 @@
 # Fall 2026 Second Teaching Placement Master
 
+## October 15 — next week's Chapter 2 plan
+
+- **READY FOR PITER AND SBTE DISCUSSION:** [October 19–23 lesson plan and source update](planning/chapter-2-marketing-plan/2026-10-15-WEEKLY-PLAN-UPDATE.md), with editable Word and PDF.
+- October 15 direction: complete reading, notes and review by Thursday October 22; Marketing test Friday October 23. The ten-question review photos are located and incorporated by question number; teacher answer-key photos remain local.
+- Proposed review pacing: Q1–3 Monday, Q4–6 Tuesday, Q7–10 Wednesday, revisions Thursday. Finish remaining notes Monday from each section's actual October 16 stop.
+- Confirm review submission/test conditions, scoring examples and Tuesday/Thursday later-section coverage. Word/Business test October 28 is separate; next week's exact Word sequence remains for co-planning.
+- Source status: public-safe local/Git plan and indexes; Drive not current because connector access to the established folder is unverified; school systems unchanged.
+
 ## September 24 — next-class Marketing icebreaker
 
 - **READY FOR SBTE REVIEW:** [bike-pickup access icebreaker guide](planning/2026-09-24-Marketing-Icebreaker-Bike-Pickup-v1.md). The classroom deck is a three-slide visual A/B/C opener with a **3-minute target / 5-minute absolute maximum**.

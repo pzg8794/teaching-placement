@@ -1,5 +1,7 @@
 # Planning
 
+- **[October 19–23 Chapter 2 weekly lesson plan](chapter-2-marketing-plan/2026-10-15-WEEKLY-PLAN-UPDATE.md)** — latest October 15 SBTE direction and the photographed ten-question review: finish remaining notes Monday; Q1–3 / Q4–6 / Q7–10 across Monday–Wednesday; corrections and readiness Thursday; Marketing test Friday October 23. Editable Word and PDF, timed daily lessons, and an updated map of the original nine chapter segments. Ready for today's planning discussion; actual section stops and test logistics still require confirmation. Drive not current.
+
 - **[October 14 PEST activity review package](chapter-2-marketing-plan/2026-10-14-PEST-ACTIVITY-REVIEW.md)** — current v3 front/back pair worksheet (Word/PDF), with unchanged v2 student display and teacher cues (PowerPoint/PDF). Piter's original front response layout restored, title bold, partner spaces widened, and back summary/continuation expanded with explicit color-coded P/E/S/T labels. Front and slides permit using the back. Proposed 1–4 grading remains teacher-only for SBTE confirmation; not posted or taught.
 
 - **[Presentation & visual-material standard](../../docs/TEACHING-PRESENTATION-AND-VISUAL-MATERIAL-STANDARD.md)** — canonical process for all current/future student-facing decks and visual teaching materials: evidence-first, student-language-to-academic-language, instructional imagery, progressive reveal, distinct visual evidence, PowerPoint + PDF delivery, privacy checks, and rendered visual QA.
