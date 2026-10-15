@@ -2,12 +2,13 @@
 
 ## October 15 — next week's Chapter 2 plan
 
-- **READY FOR PITER AND SBTE DISCUSSION:** [October 19–23 lesson plan and source update](planning/chapter-2-marketing-plan/2026-10-15-WEEKLY-PLAN-UPDATE.md), with editable Word and PDF.
-- October 15 direction: complete reading, notes and review by Thursday October 22; Marketing test Friday October 23. The ten-question review photos are located and incorporated by question number; teacher answer-key photos remain local.
-- Latest direct instructions: Q1–3 immediately after the quiz Friday October 16; one main notes slide daily the following week: Monday 9, Tuesday 10, Wednesday 11, Thursday 12, Friday 13. Piter confirmed a brief slide 13 recap followed by the scheduled October 23 test. Review: Q8 Monday after checking Q1–3; Q4/Q9 Tuesday; Q5–7 Wednesday; Q10 and all corrections Thursday.
-- Student review must be available Friday October 16: arrange an earlier Teams release or printed student worksheet. The previously discussed Saturday release is too late; school release settings have not been changed.
-- Confirm review submission/test conditions, scoring examples and Tuesday/Thursday later-section coverage. Word/Business test October 28 is separate; next week's exact Word sequence remains for co-planning.
-- Source status: public-safe local/Git plan and indexes; Drive not current because connector access to the established folder is unverified; school systems unchanged.
+- **UPDATED FOR PITER AND SBTE:** [October 19–23 lesson plan v3 and source update](planning/chapter-2-marketing-plan/2026-10-15-WEEKLY-PLAN-UPDATE.md), editable Word plus checked eight-page PDF. Saved v1/v2 and user changes preserved; unsaved Word state inaccessible.
+- Latest instructional-pacing meeting: one main slide each day (9 Monday, 10 Tuesday, 11 Wednesday, 12 Thursday); finish and submit notes/review Thursday October 22. Brief slide 13 recap, then the scheduled Marketing test Friday October 23.
+- Review: Q1–3 immediately after the October 16 quiz; Q8 Monday after checking Q1–3; Q4/Q9 Tuesday; Q5–7 Wednesday; Q10, appendix check for Q5 and all corrections/submissions Thursday. Print quizzes, protect approved time and confirm private make-ups.
+- Both review assignments were reportedly rescheduled in the meeting for Thursday October 15 at 8 p.m., with due date unchanged. Check student access Friday morning; live Teams state not independently verified.
+- Exact printed-page/PDF-page/slide mappings added; Q2 corrected to p. 19, SMART Figure 2.2 p. 21, milestones pp. 21–23, bibliography p. 26. Use short models, visible finish times and targeted support; cut optional application first.
+- Confirm test conditions, grading sample and Tuesday/Thursday later-section coverage. Word/Business test October 28 is separate; exercise pacing still requires co-planning from actual Friday progress.
+- Source status: local public/private indexes updated; scoped public-safe Git package; Drive access unverified and not current; school publication not performed. Raw/private evidence remains excluded from public Git/Drive.
 
 ## September 24 — next-class Marketing icebreaker
 
