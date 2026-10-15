@@ -4,7 +4,8 @@
 
 - **READY FOR PITER AND SBTE DISCUSSION:** [October 19–23 lesson plan and source update](planning/chapter-2-marketing-plan/2026-10-15-WEEKLY-PLAN-UPDATE.md), with editable Word and PDF.
 - October 15 direction: complete reading, notes and review by Thursday October 22; Marketing test Friday October 23. The ten-question review photos are located and incorporated by question number; teacher answer-key photos remain local.
-- Proposed review pacing: Q1–3 Monday, Q4–6 Tuesday, Q7–10 Wednesday, revisions Thursday. Finish remaining notes Monday from each section's actual October 16 stop.
+- Latest direct instructions: Q1–3 immediately after the quiz Friday October 16; one main notes slide daily the following week: Monday 9, Tuesday 10, Wednesday 11, Thursday 12, Friday 13. Piter confirmed a brief slide 13 recap followed by the scheduled October 23 test. Review: Q8 Monday after checking Q1–3; Q4/Q9 Tuesday; Q5–7 Wednesday; Q10 and all corrections Thursday.
+- Student review must be available Friday October 16: arrange an earlier Teams release or printed student worksheet. The previously discussed Saturday release is too late; school release settings have not been changed.
 - Confirm review submission/test conditions, scoring examples and Tuesday/Thursday later-section coverage. Word/Business test October 28 is separate; next week's exact Word sequence remains for co-planning.
 - Source status: public-safe local/Git plan and indexes; Drive not current because connector access to the established folder is unverified; school systems unchanged.
 
