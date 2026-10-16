@@ -1,5 +1,9 @@
 # Fall 2026 Second Teaching Placement Master
 
+## Friday October 16 — itinerary and materials
+
+[Friday itinerary and readiness record](planning/2026-10-16-readiness/README.md): checked PDF with quiz-to-Q1–3 transition, Word targets, and SBTE coordination cues. Current weekly plan v4 remains unchanged. Check the readiness record for reMarkable/cloud/email verification and unresolved source gaps.
+
 ## October 15 — simplified Chapter 2 plan
 
 - **CURRENT v4:** [October 19–23 lesson plan and source update](planning/chapter-2-marketing-plan/2026-10-15-WEEKLY-PLAN-UPDATE.md), three-page Word/PDF. Same daily routine: start → read/notes → work → finish. Saved earlier versions and user changes preserved.
