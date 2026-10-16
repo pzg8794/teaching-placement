@@ -1,8 +1,10 @@
 # Sharing manifest
 
-Updated October 15, 2026.
+Updated October 16, 2026.
 
 ## Introduction to Marketing - Blocks 1 and 5
+
+- Friday October 16 Placement Itinerary: three-page current PDF; school OneDrive download readback matches local SHA-256. Self-email delivered with the current attachment and school links.
 
 - October 19–23 Chapter 2 Weekly Lesson Plan v4: current simplified three-page Word/PDF, uploaded October 15; brief Word-link invitation to Patrick Flanagan confirmed sent.
 

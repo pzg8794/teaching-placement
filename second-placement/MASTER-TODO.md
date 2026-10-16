@@ -2,7 +2,7 @@
 
 ## Friday October 16 — itinerary and materials
 
-[Friday itinerary and readiness record](planning/2026-10-16-readiness/README.md): checked PDF with quiz-to-Q1–3 transition, Word targets, and SBTE coordination cues. Current weekly plan v4 remains unchanged. Check the readiness record for reMarkable/cloud/email verification and unresolved source gaps.
+[Friday itinerary and readiness record](planning/2026-10-16-readiness/README.md): checked PDF with quiz-to-Q1–3 transition, Word targets, and SBTE coordination cues. Current weekly plan v4 remains unchanged. Final PDF verified in Drive and school OneDrive by downloaded hash; 14 PDFs imported to reMarkable Cloud and materials organized. Final school self-email sent and verified. Physical-tablet sync remains unverified; confirm the live review-deadline conflict with Pat.
 
 ## October 15 — simplified Chapter 2 plan
 
@@ -10,7 +10,7 @@
 - Latest 13:59 planning discussion: Monday Q4/Q5/Q8; Tuesday Q9. Wednesday focuses on plain budget/metric explanations, Q6/Q7 and catch-up. Use Thursday's short appendix section to finish and submit notes and all ten review answers. Remove the multistep chain and separate pair task.
 - One main slide daily: 9 Monday, 10 Tuesday, 11 Wednesday, 12 Thursday. Friday October 23: brief slide 13 recap then the scheduled Marketing test. Q1–3 remain immediately after the October 16 vocabulary quiz.
 - All daily book references retained, with exact reading stops and chapter-PDF page guide. Reuse the p. 22 case Tuesday/Wednesday and ask one clear starter question.
-- Check Friday worksheet access, quiz copies/private make-ups, test conditions and Tuesday/Thursday later-section coverage. Review release was reportedly changed to Oct. 15 at 8 p.m.; live Teams not verified. Word/Business October 28 test remains separate.
+- Check Friday worksheet access, quiz copies/private make-ups, test conditions and Tuesday/Thursday later-section coverage. Live Block 1 Teams review is due October 22 at 8:30 AM, with notes due at 8:30 PM. Confirm the review deadline conflict with Thursday's planned review lesson; the actual student review is now available privately and in reMarkable. Word/Business October 28 test remains separate.
 - Local/public/private indexes updated; scoped public-safe Git package. V4 Word/PDF uploaded and read back in Google Drive through the owner browser and in the established SBTE OneDrive Marketing folder. Pat’s brief OneDrive link invitation is confirmed sent. Existing sharing preserved; Teams unchanged.
 
 ## September 24 — next-class Marketing icebreaker
