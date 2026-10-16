@@ -19,3 +19,8 @@ The OneDrive folder `Teaching Placement Shared with SBTE` is the restricted coll
 ## Update rule
 
 Update canonical local files first. Copy only current approved versions into the SBTE staging directory, then synchronize the public-safe subset to GitHub and Google Drive and the full curated staging directory to the restricted OneDrive share. Verify names, item counts, and permissions after each update.
+
+
+## October 15 Chapter 2 delivery
+
+The simplified October 19–23 weekly lesson plan v4 (Word/PDF) was uploaded to the established Drive planning folder through the authenticated owner browser; both filenames and completed uploads were read back. The connector still reports unverified access and is not the delivery evidence. The same two files were uploaded to the existing SBTE-shared OneDrive Marketing folder and copied into the matching local staging folder. Patrick Flanagan’s brief Word-link invitation was confirmed sent by OneDrive. Existing sharing was preserved. Local/Git source/index records are updated; the Drive planning README/source record were uploaded at the delivery revision. Placement-root MASTER-TODO.md/DRIVE-MIRROR.md remain unsynchronized after API quota-exceeded/browser failure; OneDrive staging README/manifest remain unsynchronized because Open was disabled for the selected Markdown files. Exact links, completed uploads and remaining exceptions are recorded privately. Raw transcripts, licensed sources and answer-key photos were not uploaded.

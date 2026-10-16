@@ -4,7 +4,7 @@ This is the local staging area for materials that can be shared with the coopera
 
 ## Introduction to Marketing - Blocks 1 and 5
 
-Current Chapter 1 teaching and icebreaker presentations, the September 23 phone-feedback marketing-functions activity, and the Block 1 and Block 5 norms flyers. Superseded drafts are not copied here.
+Current October 19–23 Chapter 2 weekly lesson plan v4 (Word/PDF), Chapter 1 teaching and icebreaker presentations, the September 23 phone-feedback marketing-functions activity, and the Block 1 and Block 5 norms flyers. Superseded drafts are not copied here.
 
 ## Principles and Tools of Business - Blocks 4 and 7
 

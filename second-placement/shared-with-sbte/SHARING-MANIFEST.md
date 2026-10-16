@@ -1,8 +1,10 @@
 # Sharing manifest
 
-Updated September 29, 2026.
+Updated October 15, 2026.
 
 ## Introduction to Marketing - Blocks 1 and 5
+
+- October 19–23 Chapter 2 Weekly Lesson Plan v4: current simplified three-page Word/PDF, uploaded October 15; brief Word-link invitation to Patrick Flanagan confirmed sent.
 
 - September 29 Listen and Speak rubric briefing: student display and presenter guide, each with a matching PDF.
 - September 11 Chapter 1 Brain Teasers and Microsoft 365 Workflow

@@ -7,7 +7,7 @@
 - One main slide daily: 9 Monday, 10 Tuesday, 11 Wednesday, 12 Thursday. Friday October 23: brief slide 13 recap then the scheduled Marketing test. Q1–3 remain immediately after the October 16 vocabulary quiz.
 - All daily book references retained, with exact reading stops and chapter-PDF page guide. Reuse the p. 22 case Tuesday/Wednesday and ask one clear starter question.
 - Check Friday worksheet access, quiz copies/private make-ups, test conditions and Tuesday/Thursday later-section coverage. Review release was reportedly changed to Oct. 15 at 8 p.m.; live Teams not verified. Word/Business October 28 test remains separate.
-- Local/public/private indexes updated; scoped public-safe Git package. Drive access remains unverified. Requested school OneDrive link sharing is authorized but uncompleted under the prior connection failure; no send or live-link receipt.
+- Local/public/private indexes updated; scoped public-safe Git package. V4 Word/PDF uploaded and read back in Google Drive through the owner browser and in the established SBTE OneDrive Marketing folder. Pat’s brief OneDrive link invitation is confirmed sent. Existing sharing preserved; Teams unchanged.
 
 ## September 24 — next-class Marketing icebreaker
 
