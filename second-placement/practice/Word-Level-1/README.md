@@ -2,6 +2,14 @@
 
 This folder contains the public-safe outputs from the September 11 teacher run-through requested in the September 10 planning transcript.
 
+## Part 4 teacher keys — October 16
+
+All ten Working with Tables lessons (source printed pp.100–139) now have private worked models in `Part-4-Teacher-Keys/`: eleven exercise DOCXs, a six-page Word guide, twelve reading PDFs, and the lesson 4.9 Excel workbook — 25 files. Lesson 4.10 has separate table and letter files. This private folder is excluded from public Git and the anyone-link Google Drive mirror.
+
+The restricted school OneDrive location is `Teaching Placement Shared with SBTE / Principles and Tools of Business - Blocks 4 and 7 / Part 4 Teacher Keys`. Personal reMarkable holds the twelve PDFs in `Placement / Business - Word / Part 4 - Working with Tables / Teacher Keys`. The Word files retain editable tables and formula fields; lesson 4.9 contains the actual workbook. Its desktop Word/Excel activation remains unverified, and its PDF is a read-only reference snapshot.
+
+The guide identifies each lesson’s source pages, finished-file checks, instruction ambiguities and concrete teaching clarifications. Its 305–425 minute total (about 8–11 periods of 42 minutes) is a planning estimate for prepared students, with demonstrations and transitions additional; it is not a measured class average or an accommodation limit. All twelve PDFs were rendered and checked. Exact hashes and private delivery receipts are retained separately.
+
 ## Completed materials
 
 - `1.3 Start of the Year Goals.docx`

@@ -4,6 +4,8 @@ Updated October 16, 2026.
 
 ## Introduction to Marketing - Blocks 1 and 5
 
+- Restricted chapter library: all 22 chapters, Introduction, six unit contents PDFs and Appendices (30 original-byte PDFs), ordered by chapter in `Principles of Marketing - Chapters`. OneDrive downloaded readback hashes match all 30 sources; personal reMarkable has all 30 completed document links, with Chapter 2 opened and checked at 11 pages.
+
 - Friday October 16 Placement Itinerary: three-page current PDF; school OneDrive download readback matches local SHA-256. Self-email delivered with the current attachment and school links.
 
 - October 19–23 Chapter 2 Weekly Lesson Plan v4: current simplified three-page Word/PDF, uploaded October 15; brief Word-link invitation to Patrick Flanagan confirmed sent.
@@ -23,6 +25,8 @@ Updated October 16, 2026.
 
 ## Principles and Tools of Business - Blocks 4 and 7
 
+- Private `Part 4 Teacher Keys`: all ten lessons, eleven worked exercise DOCXs, a six-page Word/PDF guide, eleven exercise PDFs and one Excel workbook (25 files). The twelve PDFs are also in personal reMarkable’s current Part 4 Teacher Keys folder. The guide includes source pages, instruction issues and estimates of 305–425 minutes total; desktop Excel-object activation remains unverified.
+
 - Word Level 1 sample files for Lessons 1.3 through 1.9
 - PDF samples for Lessons 1.4 and 1.9
 - Word Level 1 teacher run-through
@@ -34,4 +38,4 @@ Updated October 16, 2026.
 
 ## Privacy boundary
 
-Only the materials listed above are mirrored to the SBTE share. Source photographs, raw transcripts, student information, email records, and licensed textbook pages remain outside the shared directory.
+The professional materials listed above are curated for the restricted SBTE share. The user explicitly authorized the licensed chapter-library PDFs and requested teacher keys for restricted school OneDrive and personal reMarkable Cloud only. Those private bytes remain excluded from public GitHub and the anyone-link Google Drive mirror; public indexes contain descriptions only. Source photographs, raw transcripts, student information and email records remain private and outside the shared directory. Existing permissions are preserved.

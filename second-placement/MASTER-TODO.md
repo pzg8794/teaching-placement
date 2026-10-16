@@ -1,5 +1,11 @@
 # Fall 2026 Second Teaching Placement Master
 
+## October 16 — chapter library and complete Word Part 4 teacher keys
+
+All 22 available Marketing chapters, including Chapter 2, plus eight supporting PDFs are organized by numbered title in the restricted school OneDrive Marketing folder and personal reMarkable `Book and References / Principles of Marketing - Chapters`. A downloaded OneDrive readback matches all 30 source PDFs. Originals and the full textbook remain preserved.
+
+All ten Word Part 4 lessons have completed editable teacher models: eleven exercise DOCX files (4.10 requires a table and a letter), a six-page Word/PDF guide with instruction clarifications and estimated completion ranges, matching PDF references, and the actual 4.9 Excel workbook. All 25 final files were read back from OneDrive with matching hashes; all twelve PDFs are present in reMarkable `Business - Word / Part 4 - Working with Tables / Teacher Keys`. See the [Word practice index](practice/Word-Level-1/README.md) and [readiness record](planning/2026-10-16-readiness/README.md). Estimates are planning ranges, not measured averages. Native 4.9 embedding/formulas are structurally checked; desktop object activation and physical-tablet sync remain unverified. Licensed chapters and completed keys stay out of public Git/Drive.
+
 ## Friday October 16 — itinerary and materials
 
 [Friday itinerary and readiness record](planning/2026-10-16-readiness/README.md): checked PDF with quiz-to-Q1–3 transition, Word targets, and SBTE coordination cues. Current weekly plan v4 remains unchanged. Final PDF verified in Drive and school OneDrive by downloaded hash; 14 PDFs imported to reMarkable Cloud and materials organized. Final school self-email sent and verified. Physical-tablet sync remains unverified; confirm the live review-deadline conflict with Pat.
