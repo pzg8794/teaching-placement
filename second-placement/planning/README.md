@@ -1,6 +1,6 @@
 # Planning
 
-- **[October 19–23 Chapter 2 weekly lesson plan v3](chapter-2-marketing-plan/2026-10-15-WEEKLY-PLAN-UPDATE.md)** — latest October 15 SBTE pacing and classroom feedback; Monday slide 9, Tuesday 10, Wednesday 11, Thursday 12; Friday 13 briefly, then the October 23 test. Exact printed/PDF page boundaries and Q1–10 references; shorter discussions, protected work time, Thursday notes/review submission. Q1–3 follow the October 16 quiz. Transcript reports review release rescheduled to October 15 at 8 p.m.; live Teams access not verified. Drive not current.
+- **[October 19–23 Chapter 2 weekly lesson plan v4](chapter-2-marketing-plan/2026-10-15-WEEKLY-PLAN-UPDATE.md)** — simplified three-page plan from the latest October 15 meeting. Same four steps daily: start, read/notes, work, finish. Slides 9–12 Monday–Thursday; brief slide 13 recap and Friday test. Monday Q4/Q5/Q8, Tuesday Q9, Wednesday Q6/Q7 and catch-up, Thursday Q10 and all submissions. Exact book pages and PDF-page guide retained. Drive and OneDrive sharing not verified.
 
 - **[October 14 PEST activity review package](chapter-2-marketing-plan/2026-10-14-PEST-ACTIVITY-REVIEW.md)** — current v3 front/back pair worksheet (Word/PDF), with unchanged v2 student display and teacher cues (PowerPoint/PDF). Piter's original front response layout restored, title bold, partner spaces widened, and back summary/continuation expanded with explicit color-coded P/E/S/T labels. Front and slides permit using the back. Proposed 1–4 grading remains teacher-only for SBTE confirmation; not posted or taught.
 
