@@ -4,7 +4,7 @@ This folder contains the public-safe outputs from the September 11 teacher run-t
 
 ## Part 4 teacher keys — October 16
 
-All ten Working with Tables lessons (source printed pp.100–139) now have private worked models in `Part-4-Teacher-Keys/`: eleven exercise DOCXs, a six-page Word guide, twelve reading PDFs, and the lesson 4.9 Excel workbook — 25 files. Lesson 4.10 has separate table and letter files. This private folder is excluded from public Git and the anyone-link Google Drive mirror.
+All ten Working with Tables lessons (source printed pp.100–139) now have private worked models in `Part-4-Teacher-Keys/`: eleven exercise DOCXs, a eight-page Word guide, twelve reading PDFs, and the lesson 4.9 Excel workbook — 25 files. Lesson 4.10 has separate table and letter files. This private folder is excluded from public Git and the anyone-link Google Drive mirror.
 
 The restricted school OneDrive location is `Teaching Placement Shared with SBTE / Principles and Tools of Business - Blocks 4 and 7 / Part 4 Teacher Keys`. Personal reMarkable holds the twelve PDFs in `Placement / Business - Word / Part 4 - Working with Tables / Teacher Keys`. The Word files retain editable tables and formula fields; lesson 4.9 contains the actual workbook. Its desktop Word/Excel activation remains unverified, and its PDF is a read-only reference snapshot.
 
@@ -41,3 +41,6 @@ The photographed Packet 2 pages provide the required final states for Lessons 1.
 - Lesson 1.9 is the PDF-focused task.
 
 No raw transcript, student record, medical image, or private screenshot belongs in this folder.
+
+
+October 16 guide revision: the current guide is eight pages and adds transcript-grounded classroom clarifications, exact step/page references, replacement wording, prerequisite links and checks of saved Word features. The revised school PDF and `00 Part 4 Answer Key Guide Revised.docx` were downloaded and verified byte-for-byte. The older school Word guide was locked and is preserved; use the Revised copy. The revised PDF opens as eight pages in reMarkable Cloud; the older guide remains preserved. The earlier 25-file delivery receipt describes the initial package, not this later revision. Classroom command availability, embedded-object activation and physical tablet sync remain unverified. Source textbooks and worked exercise files were not changed. Safe Drive index revisions and school Markdown indexes are not verified current.

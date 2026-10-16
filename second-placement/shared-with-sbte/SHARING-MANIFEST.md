@@ -25,7 +25,7 @@ Updated October 16, 2026.
 
 ## Principles and Tools of Business - Blocks 4 and 7
 
-- Private `Part 4 Teacher Keys`: all ten lessons, eleven worked exercise DOCXs, a six-page Word/PDF guide, eleven exercise PDFs and one Excel workbook (25 files). The twelve PDFs are also in personal reMarkable’s current Part 4 Teacher Keys folder. The guide includes source pages, instruction issues and estimates of 305–425 minutes total; desktop Excel-object activation remains unverified.
+- Private `Part 4 Teacher Keys`: all ten lessons, eleven worked exercise DOCXs, a eight-page Word/PDF guide, eleven exercise PDFs and one Excel workbook (25 files). The twelve PDFs are also in personal reMarkable’s current Part 4 Teacher Keys folder. The guide includes source pages, instruction issues and estimates of 305–425 minutes total; desktop Excel-object activation remains unverified.
 
 - Word Level 1 sample files for Lessons 1.3 through 1.9
 - PDF samples for Lessons 1.4 and 1.9
@@ -39,3 +39,6 @@ Updated October 16, 2026.
 ## Privacy boundary
 
 The professional materials listed above are curated for the restricted SBTE share. The user explicitly authorized the licensed chapter-library PDFs and requested teacher keys for restricted school OneDrive and personal reMarkable Cloud only. Those private bytes remain excluded from public GitHub and the anyone-link Google Drive mirror; public indexes contain descriptions only. Source photographs, raw transcripts, student information and email records remain private and outside the shared directory. Existing permissions are preserved.
+
+
+October 16 guide revision: the current guide is eight pages and adds transcript-grounded classroom clarifications, exact step/page references, replacement wording, prerequisite links and checks of saved Word features. The revised school PDF and `00 Part 4 Answer Key Guide Revised.docx` were downloaded and verified byte-for-byte. The older school Word guide was locked and is preserved; use the Revised copy. The revised PDF opens as eight pages in reMarkable Cloud; the older guide remains preserved. The earlier 25-file delivery receipt describes the initial package, not this later revision. Classroom command availability, embedded-object activation and physical tablet sync remain unverified. Source textbooks and worked exercise files were not changed. Safe Drive index revisions and school Markdown indexes are not verified current.

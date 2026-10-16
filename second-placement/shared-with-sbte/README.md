@@ -8,7 +8,7 @@ Current Friday October 16 itinerary (PDF), October 19–23 Chapter 2 weekly less
 
 ## Principles and Tools of Business - Blocks 4 and 7
 
-Completed Microsoft Word practice samples, PDFs, teacher run-throughs, answer keys, assessment projection materials, and the Block 4 and Block 7 norms flyers. The restricted school compartment now has `Part 4 Teacher Keys`: eleven worked exercise DOCXs, a six-page guide in Word/PDF, eleven exercise PDFs and one Excel workbook (25 files). Personal reMarkable has the twelve reading PDFs under the current Part 4 folder. Pacing ranges are teacher estimates; desktop activation of the embedded Excel object remains unverified.
+Completed Microsoft Word practice samples, PDFs, teacher run-throughs, answer keys, assessment projection materials, and the Block 4 and Block 7 norms flyers. The restricted school compartment now has `Part 4 Teacher Keys`: eleven worked exercise DOCXs, a eight-page guide in Word/PDF, eleven exercise PDFs and one Excel workbook (25 files). Personal reMarkable has the twelve reading PDFs under the current Part 4 folder. Pacing ranges are teacher estimates; desktop activation of the embedded Excel object remains unverified.
 
 ## Excluded
 
@@ -22,3 +22,6 @@ Completed Microsoft Word practice samples, PDFs, teacher run-throughs, answer ke
 The OneDrive copy is shared only with the SBTE. The public GitHub repository and public-safe Google Drive mirror contain only materials suitable for broader sharing. The September 23 activity update is intentionally **not** synchronized to OneDrive.
 
 The user explicitly authorized the licensed Marketing chapter PDFs in the restricted school OneDrive and personal reMarkable Cloud. This narrow exception also permits the requested teacher keys in those private teaching locations. It does not authorize publication of textbooks, keys or source evidence to public GitHub or the anyone-link Google Drive mirror. Private canonical files and the restricted local staging compartments are excluded from public Git/Drive; only these descriptive indexes are public-safe.
+
+
+October 16 guide revision: the current guide is eight pages and adds transcript-grounded classroom clarifications, exact step/page references, replacement wording, prerequisite links and checks of saved Word features. The revised school PDF and `00 Part 4 Answer Key Guide Revised.docx` were downloaded and verified byte-for-byte. The older school Word guide was locked and is preserved; use the Revised copy. The revised PDF opens as eight pages in reMarkable Cloud; the older guide remains preserved. The earlier 25-file delivery receipt describes the initial package, not this later revision. Classroom command availability, embedded-object activation and physical tablet sync remain unverified. Source textbooks and worked exercise files were not changed. Safe Drive index revisions and school Markdown indexes are not verified current.
