@@ -1,5 +1,7 @@
 # Planning
 
+[Monday October 19 lesson materials](chapter-2-marketing-plan/2026-10-19-monday/README.md): slide9 strategy/SMART/milestones, Q4/Q5/Q8; editable support deck, final-statePDF and fillable notes backup. Private four-page guide includes itinerary, answers, SBTE coordination and Word readiness. Local/staging ready; school/reMarkable upload unverified and Drive403.
+
 - **[October 16 chapter library and complete Word Part 4 keys](../practice/Word-Level-1/README.md)** — all ten lessons solved, with eleven editable exercise models, a guide covering instruction issues and estimated student completion ranges, PDF references, and the actual embedded fundraiser workbook. Restricted OneDrive and personal reMarkable copies verified. All 22 Marketing chapter PDFs plus eight supporting PDFs are organized in the two requested libraries; licensed files and keys remain outside public Git/Drive.
 
 - **[Friday October 16 itinerary and reMarkable readiness](2026-10-16-readiness/README.md)** — checked three-page PDF: Marketing quiz then quiet Q1–3; Word 4.6 / 4.5–4.6 catch-up; source pages and SBTE cues. Actual student review and Word 4.5/4.6 directions recovered from school sources; reMarkable folders organized and imports verified. See the readiness record for the live review-deadline conflict and source parity.

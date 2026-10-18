@@ -1,5 +1,7 @@
 # Shared with SBTE
 
+Monday October19 materials are ready in the restricted local Marketing staging compartment under `2026-10-19 Monday`. Classroom supportPPTX/PDF, notesbackup, private teachingguide, bookreferences and actual blankreview. This is localstaging, not a verified OneDrive upload; existing school permissions unchanged.
+
 This is the local staging area for materials that can be shared with the cooperating teacher. It is intentionally limited to classroom-ready and professional work products.
 
 ## Introduction to Marketing - Blocks 1 and 5

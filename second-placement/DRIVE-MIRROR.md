@@ -1,5 +1,7 @@
 # Placement storage map
 
+October18 Monday readiness: original public-safe classroomPPTX/PDF and blanknotesPDF plus safe indexes are Git-eligible. New Drive upload failed403insufficientParentPermissions under connectedgarcp37@mladis.com; no Driveparity claimed. Licensed source references and private teacheranswers remain excluded. School OneDrive/reMarkable newcopies not verified.
+
 ## Local source
 
 `second-placement/` is the working source. The curated SBTE share is `second-placement/shared-with-sbte/`.

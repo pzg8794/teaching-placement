@@ -1,5 +1,7 @@
 # Fall 2026 Second Teaching Placement Master
 
+Monday October19 preparation is complete locally: see [current materials](planning/chapter-2-marketing-plan/2026-10-19-monday/README.md). Weekly planv4 unchanged. Confirm Friday progress, school notes access and the review-deadline conflict withPat. Monday Word advancement remains toconfirm. Cloud delivery is pending because browsercontrol failed and Drive rejected writing.
+
 ## October 16 — chapter library and complete Word Part 4 teacher keys
 
 All 22 available Marketing chapters, including Chapter 2, plus eight supporting PDFs are organized by numbered title in the restricted school OneDrive Marketing folder and personal reMarkable `Book and References / Principles of Marketing - Chapters`. A downloaded OneDrive readback matches all 30 source PDFs. Originals and the full textbook remain preserved.

@@ -1,5 +1,7 @@
 # Sharing manifest
 
+October19 local Marketing staging includes original classroomsupportPPTX/PDF, blankfillable notes, private teacherDOCX/PDF, licensedpp19–23 reference and actualstudentreview. Schoolupload pending duebrowsercontrol failures. Teacher material is not for studentposting; no cloudpermissions or assignmentschanged.
+
 Updated October 16, 2026.
 
 ## Introduction to Marketing - Blocks 1 and 5
