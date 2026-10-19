@@ -1,5 +1,11 @@
 # Monday October 19 Marketing materials
 
+**Current release: v2.** Use [PowerPoint](2026-10-19-Marketing-Classroom-Support-v2.pptx) and [six-page PDF](2026-10-19-Marketing-Classroom-Support-v2.pdf). Previous unversioned files are preserved as earlier revisions. The matching private guide is `2026-10-19-Monday-Presentation-Guide-v2.docx/.pdf`.
+
+v2 changes the actual slide content: SMART criteria mapped to the model on slide 2, four milestone steps on slide 4, explicit Q4/Q5/Q8 directions on slide 5 and exam recall/check/correct on slide 6. The PDF includes every slide in matching order. The transcript scope and 42-minute routine remain unchanged. Local school staging matches. Cloud copies are not verified current.
+
+## Earlier preparation record
+
 Use the current weekly plan v4: school slide 9, strategy, SMART goals and milestones; printed pp. 20–23, stopping before Market Research. Leave the boxed p. 22 case for Tuesday. Review Q4, Q5 and Q8, then unfinished Q1–3.
 
 - [Editable classroom support](2026-10-19-Marketing-Classroom-Support.pptx): six screens, with manual prompt/reveal pairs. Use alongside the original school slide 9, whose numbering is unchanged.
