@@ -1,3 +1,13 @@
+## Current Monday release: v5 — October 19
+
+Use the v5 PowerPoint/PDF and Full Lesson Guide Word/PDF in `second-placement/transcripts/private/2026-10-19-readiness/`. Exact copies are staged in `shared-with-sbte/Introduction to Marketing - Blocks 1 and 5/2026-10-19 Monday/`. Earlier versions are historical and superseded.
+
+The complete SMART opener comes first (0–4 minutes). Original school slide 9 is copied unchanged at deck slide 13 for the teacher to read and connect to the opener (4–7). Students then read textbook pp. 20–23 paragraph by paragraph, skipping the boxed case on p. 22 and stopping before Market Research. The guide supplies passage-specific connections and questions. Review Q4, Q5 and Q8, then unfinished Q1–3, remain last until dismissal (20–42).
+
+QA: all 18 slide PDF pages and five guide pages visually checked; original slide XML is identical to source. Local staging hashes match. reMarkable v5 PDFs imported to Placement/Daily Slides and Placement/00 Start Here; tablet offline availability is unverified. Licensed school content and private guidance remain excluded from public Git and broadly shared Drive. School OneDrive/SharePoint upload is not verified; local staging is ready. The established Drive upload previously failed with insufficientParentPermissions; no private Drive destination is verified.
+
+## Historical records below
+
 # Current Monday full lesson v4
 
 Use [Full lesson PowerPoint](2026-10-19-Marketing-Full-Lesson-v4.pptx) and [Full lesson PDF](2026-10-19-Marketing-Full-Lesson-v4.pdf). Matching private guide: `2026-10-19-Monday-Full-Lesson-Guide-v4.docx/.pdf`.
