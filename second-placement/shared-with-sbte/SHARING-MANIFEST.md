@@ -1,3 +1,11 @@
+## Current Tuesday October 20 release — v2
+
+Use `2026-10-20-Marketing-STUDENT-v2.pptx/.pdf` (9 slides) and `2026-10-20-Marketing-TEACHER-v2.pptx/.pdf` (17 slides) in the private October 20 readiness directory and matching restricted SBTE staging folder. These supersede Tuesday v1.
+
+The four-minute Be the Match breaker now offers three concise case clues, read/listen access, A/B/C response options, pointing/writing/speaking, an optional sentence frame and a separate answer reveal. The teacher guide retains all five original case sentences with brief prior-learning cues beside each. School slide 10 remains unchanged at student position 6, after setup at position 5. Student position 7 explicitly begins book reading. Teacher positions 4–8 use blue backgrounds and SLIDE WALKTHROUGH / YOU READ labels; position 8 marks the walkthrough end. Green transition position 9 begins BOOK READING / STUDENTS READ, followed by complete book paragraphs at positions 10–16. Review Q9 and corrections remain last. Timings and pp.23–25 scope are unchanged.
+
+All 26 PDF pages visually checked; PPTX package and geometry checks pass. reMarkable desktop readback verified student v2 (9 pages) in Placement/Daily Slides and teacher v2 (17 pages) in Placement/00 Start Here, without pending import indicators. Four v2 files verified by names/sizes in the established SBTE OneDrive Marketing folder. Local/staging hashes match. Public Git carries safe indexes only; licensed/private contents remain excluded from public Git and broad Drive. An approved private Google Drive destination remains unverified. Physical-tablet offline access remains unverified. Earlier v1 files remain historical. Brief v2 notice with the shared-folder link sent to Pat at 8:33 a.m. October 19 and verified in Sent Items.
+
 ## Tuesday October 20 — student and teacher release v1
 
 Seven-slide student PowerPoint/PDF and fifteen-slide private teacher PowerPoint/PDF are ready in `second-placement/transcripts/private/2026-10-20-readiness/`, with matching restricted copies in `second-placement/shared-with-sbte/Introduction to Marketing - Blocks 1 and 5/2026-10-20 Tuesday/`.
