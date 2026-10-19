@@ -122,3 +122,8 @@ October 18 correction: Monday October 19 classroom materials now use `2026-10-19
 Monday current release is now v3: `2026-10-19-Marketing-Classroom-Support-v3.pptx/.pdf` and private `2026-10-19-Monday-Presentation-Guide-v3.docx/.pdf`. Context first, separate criterion/question and next-click answer. Local staging matches; cloud copies remain unverified.
 
 October 19 current Monday release: `2026-10-19-Marketing-Full-Lesson-v4.pptx/.pdf` plus private `2026-10-19-Monday-Full-Lesson-Guide-v4.docx/.pdf`. Full 42-minute itinerary appears in the classroom deck with activity timing on every slide. Local staging matches; all cloud destinations remain unverified. Supersedes support-only v1–v3.
+
+
+## October 21 Wednesday readiness — prepared October 19
+
+[Wednesday release record](chapter-2-marketing-plan/2026-10-21-wednesday/README.md): student 12-slide and teacher 14-slide PowerPoint/PDF v1. Visual case recap, school slide 10 review, slide 11, pp.25–26 read-aloud, notes check, Q6/Q7 and catch-up last. Four files verified in restricted OneDrive; PDFs verified in reMarkable Cloud. Direct student PPTX email confirmed sent. Existing Part 4 keys 4.6–4.10, workbook and revised guide sent separately as eight attachments. Local staging matches. Licensed artifacts remain private; Google Drive safe indexes and physical tablet sync are not verified.
