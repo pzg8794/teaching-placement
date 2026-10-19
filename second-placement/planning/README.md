@@ -66,3 +66,5 @@ before the agreed point.
 October 18 correction: Monday October 19 classroom materials now use `2026-10-19-Marketing-Classroom-Support-v2.pptx/.pdf` and private `2026-10-19-Monday-Presentation-Guide-v2.docx/.pdf`. Both slides and guide changed; local staging verified. Drive, school cloud and reMarkable delivery remain unverified.
 
 Monday current release is now v3: `2026-10-19-Marketing-Classroom-Support-v3.pptx/.pdf` and private `2026-10-19-Monday-Presentation-Guide-v3.docx/.pdf`. Context first, separate criterion/question and next-click answer. Local staging matches; cloud copies remain unverified.
+
+October 19 current Monday release: `2026-10-19-Marketing-Full-Lesson-v4.pptx/.pdf` plus private `2026-10-19-Monday-Full-Lesson-Guide-v4.docx/.pdf`. Full 42-minute itinerary appears in the classroom deck with activity timing on every slide. Local staging matches; all cloud destinations remain unverified. Supersedes support-only v1–v3.

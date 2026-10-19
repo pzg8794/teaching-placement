@@ -1,3 +1,13 @@
+# Current Monday full lesson v4
+
+Use [Full lesson PowerPoint](2026-10-19-Marketing-Full-Lesson-v4.pptx) and [Full lesson PDF](2026-10-19-Marketing-Full-Lesson-v4.pdf). Matching private guide: `2026-10-19-Monday-Full-Lesson-Guide-v4.docx/.pdf`.
+
+The student-facing deck covers the entire 42-minute lesson and displays activity times on every screen: 0–1 opening itinerary; 1–4 scenario; 4–10 reading and notes; 10–13 SMART reveals; 13–17 milestone reading; 17–19 milestone example; 19–20 notes check; 20–37 independent Q4/Q5/Q8 and catch-up; 37–42 recall, correction and saving. Timings are teacher allocations, not measured student performance.
+
+All 19 screens and four guide pages visually checked. Local school staging matches. School OneDrive/SharePoint, Google Drive and reMarkable copies remain unverified current. Earlier v1–v3 files are preserved as historical revisions, superseded by this full lesson.
+
+## Historical preparation records
+
 # Monday October 19 Marketing materials
 
 **Current release: v3.** Use [PowerPoint](2026-10-19-Marketing-Classroom-Support-v3.pptx) and [15-page PDF](2026-10-19-Marketing-Classroom-Support-v3.pdf). Previous unversioned files are preserved as earlier revisions. The matching private guide is `2026-10-19-Monday-Presentation-Guide-v3.docx/.pdf`.
