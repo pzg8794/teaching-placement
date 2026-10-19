@@ -1,3 +1,13 @@
+## Tuesday October 20 — student and teacher release v1
+
+Seven-slide student PowerPoint/PDF and fifteen-slide private teacher PowerPoint/PDF are ready in `second-placement/transcripts/private/2026-10-20-readiness/`, with matching restricted copies in `second-placement/shared-with-sbte/Introduction to Marketing - Blocks 1 and 5/2026-10-20 Tuesday/`.
+
+Sequence: 0–4 minute Be the Match case on printed p.22 (one audience question, then reveal); reading setup; teacher explains unchanged original school slide 10 at 4–8 minutes; students read complete paragraphs on pp.23–25 at 8–19 minutes, stopping before Execution Plan; notes check 19–20; Q9 and earlier corrections 20–42 until dismissal. Teacher deck pairs each complete school-slide passage and book paragraph with a connection to the same case. Q9 uses p.24; Q4 correction refers to p.23. Weekly plan v4 and October 15 transcripts are the planning authority. Actual Monday completion is not established; check each section's stopping point with Pat.
+
+All 22 PDF pages visually checked. Original school slide 10 XML is unchanged at student position 5, after the setup directions. PPTX integrity and geometry checks pass. Local/staging hashes match. Both PDFs are verified in reMarkable desktop: student in `Placement/Daily Slides` (7 pages), teacher in `Placement/00 Start Here` (15 pages), no pending import indicator. Physical-tablet offline availability remains unverified. Student PPTX/PDF sent to the established SBTE school account at 8:18 a.m. October 19, with both attachments verified in Sent Items.
+
+Source parity: local and indexes current; public Git contains safe indexes only. Licensed book/slide content and private teacher materials are excluded from public Git and broad Google Drive; no approved private Drive destination verified. School OneDrive: all four v1 files uploaded and read back by filename and size in the established Teaching Placement Shared with SBTE / Introduction to Marketing - Blocks 1 and 5 folder after refreshing school sign-in. Private receipt and hashes are retained with the release. Monday's release remains available for Monday.
+
 ## Current Monday release — STUDENT v6 and TEACHER v2 (October 19)
 
 Use `2026-10-19-Marketing-STUDENT-v6.pptx/.pdf` (18 slides) and `2026-10-19-Marketing-TEACHER-v2.pptx/.pdf` (23 slides) in `second-placement/transcripts/private/2026-10-19-readiness/`. Matching restricted copies are in `shared-with-sbte/Introduction to Marketing - Blocks 1 and 5/2026-10-19 Monday/`.
