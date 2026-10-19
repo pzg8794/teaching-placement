@@ -1,3 +1,11 @@
+## Current Tuesday October 20 release — v4
+
+Use STUDENT-v4 (14 slides) and TEACHER-v4 (21 slides), each in PowerPoint and PDF. Supersedes v2. The breaker now presents five full case sentences with five distinct instructional images; teacher pages add brief prior-learning cues. A one-minute school slide 9 review follows the breaker. Student school slide 9 is unchanged at position 9, setup is 10, and unchanged school slide 10 is 11. Book reading begins at 12. Teacher review is 7, blue school walkthrough 8–12, green book transition 13, complete book paragraphs 14–20, and review 21.
+
+Timing: breaker 0–4; slide 9 review 4–5; slide 10 5–8; pp.23–25 paragraph reading 8–19 (stop before Execution Plan); notes 19–20; Q9 and corrections 20–42. Confirm each class's actual Monday stopping point with Pat. Friday test remains scheduled.
+
+Package, geometry and render checks passed. Local/restricted-staging hashes match. Four v4 files read back in established school OneDrive Marketing folder. reMarkable desktop imports verified: student 14 pages in Placement/Daily Slides; teacher 21 pages in Placement/00 Start Here, no pending indicator. Physical tablet offline access is not verified. Brief shared-folder notice verified in Sent Items at 09:08 October 19. Public Git carries safe indexes only; licensed/private files remain excluded. No approved private Google Drive destination verified; broad Drive publication prohibited. Earlier releases below are historical.
+
 ## Current Tuesday October 20 release — v2
 
 Use `2026-10-20-Marketing-STUDENT-v2.pptx/.pdf` (9 slides) and `2026-10-20-Marketing-TEACHER-v2.pptx/.pdf` (17 slides) in the private October 20 readiness directory and matching restricted SBTE staging folder. These supersede Tuesday v1.
