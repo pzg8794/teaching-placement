@@ -1,3 +1,9 @@
+## Separate teacher PowerPoint — October 19
+
+Teacher Connections v1 is now available as editable PPTX and a 27-page PDF in `second-placement/transcripts/private/2026-10-19-readiness/`, with matching restricted school staging copies. Teacher slides 3–9 break original school slide 9 into its passages with a breaker connection beside each. Slides 11–25 contain the assigned book passages and Figure 2.2 rows, with connections/questions. Project student v5 unchanged; use this teacher deck privately. The written v5 guide remains supplementary.
+
+Local files verified; all 27 pages visually inspected. Teacher PDF imported to reMarkable `Placement/00 Start Here`. Physical-tablet offline access remains unverified. Public Git carries indexes only. Licensed/private teacher content is excluded from broad Drive sharing; no private Drive destination verified. School OneDrive/SharePoint upload remains unverified, with matching files staged locally.
+
 ## Current Monday release: v5 — October 19
 
 Use the v5 PowerPoint/PDF and Full Lesson Guide Word/PDF in `second-placement/transcripts/private/2026-10-19-readiness/`. Exact copies are staged in `shared-with-sbte/Introduction to Marketing - Blocks 1 and 5/2026-10-19 Monday/`. Earlier versions are historical and superseded.
