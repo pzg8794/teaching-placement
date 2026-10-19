@@ -41,3 +41,9 @@ The original six-slide support deck, four-page support PDF and two-page optional
 ## v3 question then answer
 
 Context comes first, including the goal, starting sales and evidence for achievability. Each SMART criterion has its own question, pause and next-click answer while the context stays visible. Fifteen slides are click states, not fifteen activities. The opener remains four minutes; five SMART checks take approximately 2½–3 minutes within reading and notes. One response per check, then reveal. Timing is a teacher estimate, not classroom-tested. Review Q4/Q5/Q8 and the weekly sequence remain unchanged. All 15 PDF pages and four guide pages checked. Cloud copies unverified.
+
+## reMarkable delivery — October 19
+
+Imported the v4 presentation PDF to Placement / Daily Slides (19 pages) and the private v4 guide PDF to Placement / 00 Start Here (4 pages). Desktop readback verified both files with upload indicators cleared; physical tablet offline availability is not verified. Existing Chapter 2 textbook, school slides, student review, answer reference and weekly plan are present in the current-week Chapter 2 folder.
+
+Content correction remains pending: complete the opener before the read-aloud activity, and keep independent questions as the final activity until dismissal. The imported v4 files do not yet incorporate that correction. Drive and school-system delivery of v4 remain unverified; this import does not change those statuses.
