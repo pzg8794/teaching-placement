@@ -1,3 +1,15 @@
+## Current Monday release — STUDENT v6 and TEACHER v2 (October 19)
+
+Use `2026-10-19-Marketing-STUDENT-v6.pptx/.pdf` (18 slides) and `2026-10-19-Marketing-TEACHER-v2.pptx/.pdf` (23 slides) in `second-placement/transcripts/private/2026-10-19-readiness/`. Matching restricted copies are in `shared-with-sbte/Introduction to Marketing - Blocks 1 and 5/2026-10-19 Monday/`.
+
+Corrected order: complete SMART breaker (slides 1–12), shared-reading setup directions (13), unchanged original school slide 9 (14), milestone retrieval (15–16), notes check (17), independent review questions (18) until dismissal. The setup explicitly asks students to open school slide 9 notes before the teacher explains that slide. Teacher v2 has complete slide passages and book paragraphs, each with a connected explanation or question; the milestone introduction and all four bullets are kept together. The teacher reads school slide 9; students then read printed pp. 20–23 aloud paragraph by paragraph, skipping the boxed p. 22 case and stopping before Market Research. Earlier student v5, teacher v1 and written v5 guide are historical; their slide-position references are superseded.
+
+Delivery: student PPTX and PDF sent to the established SBTE school account on October 19 at 6:54 a.m.; both attachments verified in Outlook Sent Items. reMarkable desktop shows STUDENT-v6 (18 pages) in `Placement/Daily Slides` and TEACHER-v2 (23 pages) in `Placement/00 Start Here`, with no pending import indicator. Physical-tablet offline access remains unverified. All final PDF pages visually inspected, including the corrected reading-directions layout. Local staging hashes match.
+
+Source parity: local files and indexes current; public Git contains safe indexes only. Licensed slide/book content and private teacher materials are prohibited from public Git/broad Drive. No approved private Google Drive destination verified; the prior connector returned insufficientParentPermissions. School OneDrive Marketing shared folder is accessible, but the Files upload/Choose Files flow did not produce a usable file chooser and timed out; no new school OneDrive/SharePoint copy is verified. Email delivery is verified separately. Receipts and hashes are retained privately.
+
+## Historical releases — superseded below
+
 ## Separate teacher PowerPoint — October 19
 
 Teacher Connections v1 is now available as editable PPTX and a 27-page PDF in `second-placement/transcripts/private/2026-10-19-readiness/`, with matching restricted school staging copies. Teacher slides 3–9 break original school slide 9 into its passages with a breaker connection beside each. Slides 11–25 contain the assigned book passages and Figure 2.2 rows, with connections/questions. Project student v5 unchanged; use this teacher deck privately. The written v5 guide remains supplementary.
