@@ -64,3 +64,5 @@ they do not replace the SBTE's lesson, add a grade, or launch Microsoft 365 work
 before the agreed point.
 
 October 18 correction: Monday October 19 classroom materials now use `2026-10-19-Marketing-Classroom-Support-v2.pptx/.pdf` and private `2026-10-19-Monday-Presentation-Guide-v2.docx/.pdf`. Both slides and guide changed; local staging verified. Drive, school cloud and reMarkable delivery remain unverified.
+
+Monday current release is now v3: `2026-10-19-Marketing-Classroom-Support-v3.pptx/.pdf` and private `2026-10-19-Monday-Presentation-Guide-v3.docx/.pdf`. Context first, separate criterion/question and next-click answer. Local staging matches; cloud copies remain unverified.

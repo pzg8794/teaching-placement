@@ -1,6 +1,6 @@
 # Monday October 19 Marketing materials
 
-**Current release: v2.** Use [PowerPoint](2026-10-19-Marketing-Classroom-Support-v2.pptx) and [six-page PDF](2026-10-19-Marketing-Classroom-Support-v2.pdf). Previous unversioned files are preserved as earlier revisions. The matching private guide is `2026-10-19-Monday-Presentation-Guide-v2.docx/.pdf`.
+**Current release: v3.** Use [PowerPoint](2026-10-19-Marketing-Classroom-Support-v3.pptx) and [15-page PDF](2026-10-19-Marketing-Classroom-Support-v3.pdf). Previous unversioned files are preserved as earlier revisions. The matching private guide is `2026-10-19-Monday-Presentation-Guide-v3.docx/.pdf`.
 
 v2 changes the actual slide content: SMART criteria mapped to the model on slide 2, four milestone steps on slide 4, explicit Q4/Q5/Q8 directions on slide 5 and exam recall/check/correct on slide 6. The PDF includes every slide in matching order. The transcript scope and 42-minute routine remain unchanged. Local school staging matches. Cloud copies are not verified current.
 
@@ -27,3 +27,7 @@ Rechecked the October 15 planning discussion (00:00–04:03), weekly plan v4, or
 Preparation for the scheduled Friday October 23 test uses the existing review: explain why identifying a target market matters (Q4), connect marketing-plan elements to their purposes (Q5), and explain all five SMART criteria (Q8). The teacher guide now cues a brief recall/check/correct routine inside the existing five-minute finish. No additional worksheet, project, test-format claim or new assessed requirement is introduced. The milestone model now states an action for reaching the checkpoint, completing the book’s four-step sequence.
 
 The original six-slide support deck, four-page support PDF and two-page optional fillable backup remain unchanged. The private teacher guide Word/PDF and restricted local school staging are revised. Cloud copies remain unverified; local staging is not an upload. Latest available local transcripts are dated October 15; Friday completion is not established.
+
+## v3 question then answer
+
+Context comes first, including the goal, starting sales and evidence for achievability. Each SMART criterion has its own question, pause and next-click answer while the context stays visible. Fifteen slides are click states, not fifteen activities. The opener remains four minutes; five SMART checks take approximately 2½–3 minutes within reading and notes. One response per check, then reveal. Timing is a teacher estimate, not classroom-tested. Review Q4/Q5/Q8 and the weekly sequence remain unchanged. All 15 PDF pages and four guide pages checked. Cloud copies unverified.
