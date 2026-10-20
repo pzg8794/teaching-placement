@@ -109,3 +109,8 @@ October 19 current Monday release: `2026-10-19-Marketing-Full-Lesson-v4.pptx/.pd
 ## October 21 Wednesday readiness — prepared October 19
 
 [Wednesday release record](planning/chapter-2-marketing-plan/2026-10-21-wednesday/README.md): student 12-slide and teacher 14-slide PowerPoint/PDF v1. Visual case recap, school slide 10 review, slide 11, pp.25–26 read-aloud, notes check, Q6/Q7 and catch-up last. Four files verified in restricted OneDrive; PDFs verified in reMarkable Cloud. Direct student PPTX email confirmed sent. Existing Part 4 keys 4.6–4.10, workbook and revised guide sent separately as eight attachments. Local staging matches. Licensed artifacts remain private; Google Drive safe indexes and physical tablet sync are not verified.
+
+
+## October 20 teacher update — v5
+
+Teacher v5 (PPTX/PDF) is current locally and in restricted staging; student v4 remains current. Teacher timing protects minutes 30–40 for review-term questions and 40–42 for saving. reMarkable Cloud teacher v5 verified, 21 pages. School OneDrive upload completion not verified; Outlook resend blocked by school sign-in. Google Drive private destination unverified; licensed artifacts prohibited in public Git/broad Drive. See Tuesday release record for details.

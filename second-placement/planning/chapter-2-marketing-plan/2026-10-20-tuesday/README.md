@@ -1,4 +1,12 @@
-## Current Tuesday October 20 release — v4
+## October 20 teacher update — v5
+
+Current teacher files: `2026-10-20-Marketing-TEACHER-v5.pptx` and `.pdf` (21 slides/pages). Student v4 remains current. Teacher cues incorporate the latest lesson debrief: nonprofit context, student summary, evidence versus assumptions, clearer metrics, and specific comprehension checks. Complete source passages and established sequence are preserved.
+
+Teacher timing overrides the older student timing labels: 0–6 breaker; 6–7 slide 9 review; 7–11 slide 10; 11–28 book reading; 28–30 notes and open review sheet; **30–40 protected review-term questions**; 40–42 save and pack. Stop teaching at minute 30 and carry unfinished reading forward. Q9 remains today's planned review item.
+
+Local canonical and restricted staging hashes match. All 21 slides/PDF pages inspected; finalizer passed. reMarkable Cloud verified in Placement/00 Start Here (21 pages); physical tablet not verified. School OneDrive upload attempted but remains in progress, so completion is not verified. Student PPTX resend awaits required school sign-in. Google Drive private destination is not established; broad publication prohibited. Safe Git indexes only; historical releases below remain preserved.
+
+## Historical Tuesday October 20 release — v4
 
 Use STUDENT-v4 (14 slides) and TEACHER-v4 (21 slides), each in PowerPoint and PDF. Supersedes v2. The breaker now presents five full case sentences with five distinct instructional images; teacher pages add brief prior-learning cues. A one-minute school slide 9 review follows the breaker. Student school slide 9 is unchanged at position 9, setup is 10, and unchanged school slide 10 is 11. Book reading begins at 12. Teacher review is 7, blue school walkthrough 8–12, green book transition 13, complete book paragraphs 14–20, and review 21.
 
@@ -6,7 +14,7 @@ Timing: breaker 0–4; slide 9 review 4–5; slide 10 5–8; pp.23–25 paragrap
 
 Package, geometry and render checks passed. Local/restricted-staging hashes match. Four v4 files read back in established school OneDrive Marketing folder. reMarkable desktop imports verified: student 14 pages in Placement/Daily Slides; teacher 21 pages in Placement/00 Start Here, no pending indicator. Physical tablet offline access is not verified. Brief shared-folder notice verified in Sent Items at 09:08 October 19. Public Git carries safe indexes only; licensed/private files remain excluded. No approved private Google Drive destination verified; broad Drive publication prohibited. Earlier releases below are historical.
 
-## Current Tuesday October 20 release — v2
+## Historical Tuesday October 20 release — v2
 
 Use `2026-10-20-Marketing-STUDENT-v2.pptx/.pdf` (9 slides) and `2026-10-20-Marketing-TEACHER-v2.pptx/.pdf` (17 slides) in the private October 20 readiness directory and matching restricted SBTE staging folder. These supersede Tuesday v1.
 
