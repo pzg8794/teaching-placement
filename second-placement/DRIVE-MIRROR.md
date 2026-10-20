@@ -1,3 +1,9 @@
+## October 20 teacher update — v6 (current)
+
+Use teacher v6 PowerPoint/PDF with student v4. Before the nonprofit case, the teacher says: “As we read, focus on who they want to reach, what we know about that group, and how they try to reach them.” The breaker explicitly connects the target group to a partial customer profile, then to message/channel choices. School slide 10 and book pp.23–24 retrieve that connection. Full original passages remain intact. The latest debrief supports introducing the background during the breaker before making later connections.
+
+The 21-slide sequence and protected review work at minutes 30–40 remain. All pages visually checked; finalizer passed; local/staging hashes match. Both v6 files verified by name and size in the restricted school OneDrive Marketing folder. Teacher PDF opens as 21 pages in reMarkable Cloud, Placement/00 Start Here. Physical tablet sync not verified. Public Git contains safe indexes only; no approved private Google Drive destination is established and broad publication is prohibited. Earlier releases below are historical.
+
 ## Current Tuesday October 20 release — v4
 
 Use STUDENT-v4 (14 slides) and TEACHER-v4 (21 slides), each in PowerPoint and PDF. Supersedes v2. The breaker now presents five full case sentences with five distinct instructional images; teacher pages add brief prior-learning cues. A one-minute school slide 9 review follows the breaker. Student school slide 9 is unchanged at position 9, setup is 10, and unchanged school slide 10 is 11. Book reading begins at 12. Teacher review is 7, blue school walkthrough 8–12, green book transition 13, complete book paragraphs 14–20, and review 21.

@@ -1,3 +1,9 @@
+## October 20 teacher update — v6 (current)
+
+Use teacher v6 PowerPoint/PDF with student v4. Before the nonprofit case, the teacher says: “As we read, focus on who they want to reach, what we know about that group, and how they try to reach them.” The breaker explicitly connects the target group to a partial customer profile, then to message/channel choices. School slide 10 and book pp.23–24 retrieve that connection. Full original passages remain intact. The latest debrief supports introducing the background during the breaker before making later connections.
+
+The 21-slide sequence and protected review work at minutes 30–40 remain. All pages visually checked; finalizer passed; local/staging hashes match. Both v6 files verified by name and size in the restricted school OneDrive Marketing folder. Teacher PDF opens as 21 pages in reMarkable Cloud, Placement/00 Start Here. Physical tablet sync not verified. Public Git contains safe indexes only; no approved private Google Drive destination is established and broad publication is prohibited. Earlier releases below are historical.
+
 ## October 20 teacher update — v5
 
 Current teacher files: `2026-10-20-Marketing-TEACHER-v5.pptx` and `.pdf` (21 slides/pages). Student v4 remains current. Teacher cues incorporate the latest lesson debrief: nonprofit context, student summary, evidence versus assumptions, clearer metrics, and specific comprehension checks. Complete source passages and established sequence are preserved.
