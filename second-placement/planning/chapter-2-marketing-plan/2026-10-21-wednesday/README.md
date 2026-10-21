@@ -1,3 +1,11 @@
+# Wednesday October 21 complete lesson plan and matched slides
+
+Current preparation is the private Complete Lesson Plan v1 (Word and nine-page PDF) plus student v2 (12 slides) and teacher v2 (14 slides), both PowerPoint/PDF. The written plan is the primary teaching route. It includes teacher content preparation, exact speech, student actions, supported paragraph reading, audience/profile links, expected responses, corrective prompts, review answer checks, timing and contingencies. It follows the Wednesday scope in weekly planv4: school slide11, printedpp25–26 through Metrics, then review Q6/Q7 and Q1–9 catch-up. Original student source slides10/11 remain at student positions7/9. Setup precedes slide11; book reading follows the slide explanation.
+
+0–2 settle/purpose; 2–6 case/question/reveal; 6–7 slide10 review; 7–11 slide11; 11–23 book; 23–27 notes/check/revise; 27–30 review launch; **30–40 protected review work**; 40–42 individual learning check/save. No separate pair task or project. Friday test stays scheduled. Confirm actual Tuesday stopping point with the SBTE.
+
+Local canonical and restricted staging hashes match. All nine plan pages and 26 deck pages were rendered and inspected; both PPTX finalizers passed. School OneDrive is not verified current because password sign-in is required. reMarkable is not verified current: in-app browser attachment failed; Chrome requires login; desktop showed no cloud connection then no available window before import. No new import/upload is claimed. Private Google Drive destination is not established; public/broad publication of licensed contents is prohibited. Safe index mirroring to Drive is not verified. Public Git contains only safe release records. Historical releases below remain preserved.
+
 # Wednesday October 21 — Chapter 2
 
 Current release: student v1 (12 slides) and teacher v1 (14 slides), each in editable PowerPoint and checked PDF. Canonical licensed files and delivery receipts remain in the private readiness directory; matching files are staged for the restricted SBTE share.
