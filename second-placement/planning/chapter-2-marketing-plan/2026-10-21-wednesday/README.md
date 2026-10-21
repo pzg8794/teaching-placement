@@ -1,12 +1,20 @@
-# Wednesday October 21 complete lesson plan and matched slides
+# Wednesday October 21 — corrected lesson release
 
-Current preparation is the private Complete Lesson Plan v1 (Word and nine-page PDF) plus student v2 (12 slides) and teacher v2 (14 slides), both PowerPoint/PDF. The written plan is the primary teaching route. It includes teacher content preparation, exact speech, student actions, supported paragraph reading, audience/profile links, expected responses, corrective prompts, review answer checks, timing and contingencies. It follows the Wednesday scope in weekly planv4: school slide11, printedpp25–26 through Metrics, then review Q6/Q7 and Q1–9 catch-up. Original student source slides10/11 remain at student positions7/9. Setup precedes slide11; book reading follows the slide explanation.
+Current preparation is **Complete Lesson Plan v2** (Word and nine-page PDF), **STUDENT-v3** (12 slides) and **TEACHER-v3** (14 slides), each PowerPoint/PDF, in the established private readiness and restricted SBTE staging directories. Earlier Wednesday plan v1/decks v1–2 are superseded for current teaching and preserved.
 
-0–2 settle/purpose; 2–6 case/question/reveal; 6–7 slide10 review; 7–11 slide11; 11–23 book; 23–27 notes/check/revise; 27–30 review launch; **30–40 protected review work**; 40–42 individual learning check/save. No separate pair task or project. Friday test stays scheduled. Confirm actual Tuesday stopping point with the SBTE.
+The October 20 recorded class covered school slide 10 and reading through Marketing Mix and Positioning. The corrected lesson begins new learning at **Execution Plan, school slide 11, printed pp. 25–26**, then Budget and Metrics, stopping before Appendix. A fresh teacher-created school-club promotion problem introduces funding, planned costs and measures that match a goal. It avoids repeating the prior nonprofit opener. The plan supplies exact speech/actions, complete paragraph reading, expected responses, corrective prompts, inclusive participation and contingencies. Confirm any section-specific stopping-point difference with the SBTE.
 
-Local canonical and restricted staging hashes match. All nine plan pages and 26 deck pages were rendered and inspected; both PPTX finalizers passed. School OneDrive is not verified current because password sign-in is required. reMarkable is not verified current: in-app browser attachment failed; Chrome requires login; desktop showed no cloud connection then no available window before import. No new import/upload is claimed. Private Google Drive destination is not established; public/broad publication of licensed contents is prohibited. Safe index mirroring to Drive is not verified. Public Git contains only safe release records. Historical releases below remain preserved.
+Sequence: 0–2 settle/purpose; 2–6 new starter; 6–7 brief bridge; 7–11 school slide 11; 11–23 supported book reading; 23–27 notes/check/revise; 27–30 review launch; **30–40 protected independent review**; 40–42 learning check/save. Review Q6/Q7 then Q1–9 catch-up stays last. Student setup 8 precedes original school slide 11 at position 9; book reading starts at 10. Friday test remains scheduled.
 
-# Wednesday October 21 — Chapter 2
+Local canonical/restricted-staging hashes match for all six files. Nine plan pages and 26 deck PDF pages rendered and visually inspected; both PPTX finalizers pass package, geometry, font and import checks. Original school slide 11 text retained at student position 9. Private receipt: delivery-v3.json. Public Git contains safe indexes only; licensed/private files remain excluded.
+
+Source parity: local and affected indexes verified current. School OneDrive/SharePoint is **not verified current**: password sign-in is required and in-app browser attachment fails. reMarkable is **not verified current**: connection/access failed before import. Older versions may still be there; no corrected upload/import or email is claimed. Google Drive private destination is not established; licensed bytes prohibited on public/broad mirror, and safe index mirror not verified.
+
+## Historical Wednesday releases
+
+Complete Lesson Plan v1 and decks v2 remained local/staged after access failures; they are superseded. The following record describes the earlier v1 delivery only. It is not evidence that corrected current files were uploaded.
+
+### Original October 19 delivery record — historical
 
 Current release: student v1 (12 slides) and teacher v1 (14 slides), each in editable PowerPoint and checked PDF. Canonical licensed files and delivery receipts remain in the private readiness directory; matching files are staged for the restricted SBTE share.
 
