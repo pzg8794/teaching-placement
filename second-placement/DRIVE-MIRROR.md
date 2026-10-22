@@ -1,4 +1,16 @@
-# Wednesday October 21 — user-edited video lesson delivered
+# Thursday October 22 - current Marketing release
+
+Use **STUDENT-v1 (11 slides)** and **TEACHER-v1 (17 slides)** with their checked PDFs, plus the one-page **Club Campaign Read-Along and Response PDF**. [Current release record](planning/chapter-2-marketing-plan/2026-10-22-thursday/README.md).
+
+The slide 10 review is a brief connection to ideas already discussed, with no new Nike questions. The new focus is all of school slide 11: execution, budget and metrics. Club video/application follows; supported book reading is printed pp.25-26. Minutes 30-40 remain protected for independent Q6/Q7 and catch-up. The original October 21 user-edited v5 files remain historical and unchanged.
+
+All five files have exact local/restricted-staging hash parity and verified school OneDrive filename/size readback. Both editable decks opened in school PowerPoint; restored school slide 10 was explicitly displayed. The updated student PPTX and blank large-print activity PDF were verified in Sent Items at 6:01 a.m. October 22, with a brief outline and a print request for each section's actual student count.
+
+reMarkable Cloud: teacher17pages in 00 Start Here, student11pages in Daily Slides, activity1page in Exercises and Planning. Physical tablet/offline sync is not verified. Public Git carries safe indexes only; protected artifacts remain private. No approved private Google Drive destination is established; the broad mirror cannot receive protected materials, and its safe-index revision is not verified current. Teams student libraries are not applicable to this SBTE release.
+
+---
+
+## Wednesday October 21 — historical user-edited release
 
 Current release: **STUDENT-v5** (12 slides) and **TEACHER-v5** (14 slides), with fresh checked PDFs exported from Piter's saved PowerPoint edits. The canonical PPTX files were preserved byte for byte. Use **Complete Lesson Plan v4** (Word and seven-page PDF) and **Group Activity Sheets v1** (Word and three-page PDF). Canonical documents and restricted SBTE staging have exact SHA256 parity. Earlier releases remain historical.
 
