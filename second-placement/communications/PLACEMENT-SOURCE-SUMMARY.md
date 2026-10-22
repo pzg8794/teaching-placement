@@ -58,3 +58,8 @@ The revised PDF was visually read September 8: DSCI602 attendance is date-specif
 [Back to MASTER](../MASTER-TODO.md) · [Current weekday plan](../planning/2026-09-12-WEEKDAY-TRAVEL-AND-DEPARTURE-PLAN.md) · [Transcript evidence](../transcripts/2026-09-02-CALL-EVIDENCE.md)
 
 Historical missing-local-source claims are superseded and preserved only in Git history. Add each new message's original link, date, request/reply distinction, exact supported fact, unresolved dependency and next action. Never infer completion from a request. Preserve the difference between school facts and Piter's current travel/departure planning choices.
+
+
+## October 22 — school communication privacy and draft review
+
+The authenticated school mailbox was checked for the principal's October 22 communication and privacy reminder. Its guidance is to address concerns professionally and directly to staff with a legitimate educational need to know. A related existing school draft was revised using relevant placement evidence and left **unsent for factual review**. Student identifiers, message wording, observations, recipient details and private evidence are excluded from this public index and Git. The authoritative communication remains in the school mailbox; the source audit remains in the established private local area. No case material was uploaded to Drive, OneDrive, Teams, SharePoint or reMarkable. This limited update does not re-verify the older communication chain above.
