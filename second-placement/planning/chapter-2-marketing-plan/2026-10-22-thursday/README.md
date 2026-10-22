@@ -1,5 +1,7 @@
 # Thursday October 22 - current Marketing continuation
 
+**Later schedule amendment:** Piter now directs Friday October 23 review and Monday October 26 testing. See the [Friday release](../2026-10-23-friday/README.md). Friday-test references in this preserved Thursday record are historical.
+
 Current: **TEACHER-v2 (17 slides)** and **STUDENT-v1 (11 slides)**, each as editable PowerPoint and checked PDF, plus **Club Campaign Read-Along and Response** (one-page, large-print, fillable PDF).
 
 Canonical protected artifacts and private delivery receipts are in `second-placement/transcripts/private/2026-10-22-readiness/`. Exact SHA256 copies are staged in `second-placement/shared-with-sbte/Introduction to Marketing - Blocks 1 and 5/2026-10-22 Thursday/`. Teacher/student v1, the October 21 user-edited v5 originals and raw transcripts remain unchanged.

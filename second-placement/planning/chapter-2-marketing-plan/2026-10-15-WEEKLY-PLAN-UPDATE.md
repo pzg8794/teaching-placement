@@ -1,5 +1,7 @@
 # Chapter 2 weekly planning update
 
+**Schedule amendment from Piter, October 22:** Friday October 23 is a full review lesson; the test is Monday October 26. Use the [Friday carousel review release](2026-10-23-friday/README.md). Earlier v4 Friday-test directions below and in its preserved Word/PDF are superseded for the test date.
+
 **Teaching week:** October 19–23, 2026. **Current version:** v4, simplified after the latest October 15 planning discussion.
 
 [Editable lesson plan v4](2026-10-19-to-23-Chapter-2-Weekly-Lesson-Plan-v4.docx) · [Printable lesson plan v4](2026-10-19-to-23-Chapter-2-Weekly-Lesson-Plan-v4.pdf)

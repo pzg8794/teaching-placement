@@ -1,3 +1,13 @@
+# Friday October 23 current Marketing review
+
+**Friday is review; the test is Monday October 26**, following Piter's latest October 22 direction. Earlier Friday-test references below are historical. [Current Friday release and print guidance](planning/chapter-2-marketing-plan/2026-10-23-friday/README.md).
+
+Use the six-page **Carousel Teacher Plan v1** (Word/PDF), ten-page **Review Question Sheets v1** (fillable PDF) and two-page **Personal Practice v1** (fillable PDF). Five two-question packets cover all ten review questions. Students attempt answers independently, rotate with reasoned feedback, explain the final packet, receive teacher corrections and answer individually from memory. Ordinary letter paper on desks or passed between seated students replaces chart paper.
+
+Local/restricted staging hashes and the three PDFs in reMarkable's dated `2026-10-23 Friday - Marketing Review` folder are verified. School OneDrive upload is **not verified**: its session requires fresh sign-in, and partial upload is possible. Check exact filenames before retrying. Git contains safe release metadata only; protected material remains private. No approved private Drive destination is established; broad-mirror protected content is prohibited. Physical tablet sync and the Drive safe-index revision are not verified. No new email was requested or sent.
+
+---
+
 # Thursday October 22 - current Marketing release
 
 Use **TEACHER-v2 (17 slides)**, **STUDENT-v1 (11 slides)** and their checked PDFs, plus the one-page **Club Campaign Read-Along and Response PDF**. [Current release record](planning/chapter-2-marketing-plan/2026-10-22-thursday/README.md).
