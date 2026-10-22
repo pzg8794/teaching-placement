@@ -4,7 +4,7 @@
 
 ## Current materials
 
-- **Marketing Carousel Teacher Plan v1**: editable Word plus checked six-page PDF. Includes a 42-minute route, speaking prompts, participation and access options, exact printed page references, teacher checks for all ten questions and print guidance.
+- **Marketing Carousel Teacher Plan v2**: editable Word plus checked six-page PDF. Includes a 42-minute route, speaking prompts, participation and access options, exact printed page references, teacher checks for all ten questions and print guidance.
 - **Marketing Review Question Sheets v1**: ten-page large-print fillable PDF, one review question per sheet. Arrange five two-question packets: A Q1/Q3, B Q2/Q7, C Q4/Q9, D Q5/Q10, E Q6/Q8. Print a fresh set per class/circuit, single-sided.
 - **Marketing Review Personal Practice v1**: two-page fillable PDF for individual first answers and a closed-note transfer check. Optional print per learner; the same work can be completed in existing notebooks/review documents.
 
@@ -22,15 +22,15 @@ Protected canonical files and delivery receipt: `second-placement/transcripts/pr
 | 33-38 | Individual closed-note transfer check |
 | 38-42 | Feedback, corrections, two study priorities and save |
 
-Use ordinary letter paper on desks or pass packets while students remain seated. No large notebook, chart paper or hanging display is necessary. Each student begins with one or two questions according to attendance, contributes to peer improvement and explains from their final stop. Class sizes are not assumed; the teacher plan includes variable attendance arrangements. More than 20 students requires duplicate circuits. Timings are estimates, not classroom-tested.
+Use ordinary letter paper on desks or pass packets while students remain seated. No large notebook, chart paper or hanging display is necessary. Each student begins with one or two questions according to attendance, contributes to peer improvement and explains from their final stop. Teacher v2 uses existing class records for section-specific group sizes and print counts, with a simple adjustment for actual absences. Earlier teacher v1 remains historical; the two student PDFs remain v1. Timings are estimates, not classroom-tested.
 
 The review uses complete thoughts, business vocabulary and justified examples, matching the relevant October 22 feedback. Every student receives the corrected meaning through the reports, rather than relying solely on unverified peer answers. Existing Nike/club examples are used carefully; new results are not invented. SMART retains Results-focused. Printed references follow the current chapter; original question numbers are preserved.
 
 ## Delivery and verification
 
 - Local canonical and restricted staging: verified exact hashes for all four files.
-- reMarkable Cloud: teacher plan 6 pages, question sheets 10 pages and personal practice 2 pages verified together under `Placement / 00 Lessons by Date / 2026-10-23 Friday - Marketing Review`. Physical tablet/offline availability is not verified.
-- School OneDrive: upload attempted in the established restricted SBTE Marketing folder. The school session requires sign-in; a bounded refresh did not resolve it. Final upload/revision parity is **not verified**, and a partial upload is possible. Sign in and inspect the four exact filenames before retrying to avoid duplicates. No email was requested or sent.
+- reMarkable Cloud: teacher plan v2 6 pages, question sheets v1 10 pages and personal practice v1 2 pages verified together under `Placement / 00 Lessons by Date / 2026-10-23 Friday - Marketing Review`. Physical tablet/offline availability is not verified.
+- School OneDrive: the original v1 upload was attempted in the established restricted SBTE Marketing folder. Teacher v2 has not been uploaded because the sign-in blocker remains. The school session requires sign-in; a bounded refresh did not resolve it. Final upload/revision parity is **not verified**, and a partial upload is possible. Sign in and inspect the four exact filenames before retrying to avoid duplicates. No email was requested or sent.
 - Git and affected indexes: public-safe metadata only; protected files are ignored. The release metadata is committed separately from user changes.
 - Google Drive: no established approved private destination; protected material prohibited on the broad mirror. Safe-index mirror revision is not verified.
 - Teams student libraries: not applicable to this private planning release; teacher answer checks must not be published to student libraries as retrieval material.
