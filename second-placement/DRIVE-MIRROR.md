@@ -6,7 +6,12 @@ The slide 10 review is a brief connection to ideas already discussed, with no ne
 
 All five files have exact local/restricted-staging hash parity and verified school OneDrive filename/size readback. Both editable decks opened in school PowerPoint; restored school slide 10 was explicitly displayed. The updated student PPTX and blank large-print activity PDF were verified in Sent Items at 6:01 a.m. October 22, with a brief outline and a print request for each section's actual student count.
 
-reMarkable Cloud: teacher17pages in 00 Start Here, student11pages in Daily Slides, activity1page in Exercises and Planning. Physical tablet/offline sync is not verified. Public Git carries safe indexes only; protected artifacts remain private. No approved private Google Drive destination is established; the broad mirror cannot receive protected materials, and its safe-index revision is not verified current. Teams student libraries are not applicable to this SBTE release.
+reMarkable Cloud: all three current PDFs are verified together in `Placement / 00 Lessons by Date / 2026-10-22 Thursday - Marketing`: teacher guide (17 pages), student slides (11 pages), and activity sheet (1 page). Original document IDs were retained; files were moved rather than reimported. Physical tablet/offline sync is not verified. Public Git carries safe indexes only; protected artifacts remain private. No approved private Google Drive destination is established; the broad mirror cannot receive protected materials, and its safe-index revision is not verified current. Teams student libraries are not applicable to this SBTE release.
+
+
+## reMarkable organization — October 22
+
+Daily lesson imports belong together under `Placement / 00 Lessons by Date / YYYY-MM-DD Weekday - Subject`. Keep current slides, teacher guide and handouts in the dated folder; superseded revisions belong in its `Earlier versions` subfolder. The former `00 Start Here` folder was renamed to `00 Lessons by Date`. Today's three PDFs are verified in the dated folder. Older lesson cleanup is partial; remaining older files retain their existing locations. Private organization receipts preserve original IDs and completed/pending moves. Historical delivery locations below describe their original deliveries.
 
 ---
 

@@ -30,9 +30,14 @@ Make the one-page Club Campaign read-along/response sheet available in both sect
 - Local canonical and restricted staging: exact SHA256 parity for all five files.
 - School OneDrive: all five files uploaded and filenames/sizes read back in the established restricted SBTE Marketing folder. Both PowerPoints opened normally; restored school slide 10 was displayed explicitly. The original embedded club video remains intact.
 - School email: verified sent October 22 at 6:01 a.m. to the established SBTE, with the updated student PPTX and blank activity PDF attached, a brief outline and a request for one printed copy per student in each Marketing section.
-- reMarkable Cloud: teacher17pages in Placement / 00 Start Here; student11pages in Daily Slides; activity1page in Exercises and Planning. Physical tablet/offline sync is not verified.
+- reMarkable Cloud: all three current PDFs are verified together in `Placement / 00 Lessons by Date / 2026-10-22 Thursday - Marketing`: teacher guide (17 pages), student slides (11 pages), and activity sheet (1 page). Original document IDs were retained; files were moved rather than reimported. Physical tablet/offline sync is not verified.
 - Public Git and indexes: safe release metadata only. Protected school/book/video/teacher bytes and raw transcripts remain private.
 - Google Drive: no approved private destination is established; protected material is prohibited on the broad mirror. Safe-index mirror revision is not verified current.
 - Teams student libraries: not applicable to this private SBTE release.
 
 All 28 deck pages and the activity PDF were visually checked; PDF field data/widget appearances were tested. Native desktop playback was not retested; use the editable PowerPoint for the embedded video, and the PDF as its static companion.
+
+
+## reMarkable organization — October 22
+
+Daily lesson imports belong together under `Placement / 00 Lessons by Date / YYYY-MM-DD Weekday - Subject`. Keep current slides, teacher guide and handouts in the dated folder; superseded revisions belong in its `Earlier versions` subfolder. The former `00 Start Here` folder was renamed to `00 Lessons by Date`. Today's three PDFs are verified in the dated folder. Older lesson cleanup is partial; remaining older files retain their existing locations. Private organization receipts preserve original IDs and completed/pending moves. Historical delivery locations below describe their original deliveries.
