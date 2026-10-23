@@ -4,23 +4,23 @@
 
 ## Current materials
 
-- **Marketing REVIEW STUDENT v2**: editable PowerPoint and checked 20-page PDF. Includes the full timed itinerary, the posted school rubric's 3/4 distinction, a sentence-by-sentence 3 model, explained business and ELA additions for the 4 model, a separate 3-to-4 revision scenario, familiar-experience cues for all ten questions, carousel directions and individual retrieval.
-- **Marketing REVIEW TEACHER v2**: editable PowerPoint and checked 25-page PDF. The first 20 pages track the student deck with DO, SAY, ASK, LISTEN and FOLLOW guidance. Private pages 21–25 contain question checks, printed book pages and follow-ups for the five packets. Project only the student deck.
-- **Carousel Teacher Plan v4**: editable Word and checked six-page PDF, aligned to the new presentation timing and slide references. Earlier slide versions and Plans v1/v2/v3 are historical.
-- **Review Question Sheets v1**: unchanged ten-page large-print fillable PDF, one question per sheet. Five packets: A Q1/Q3, B Q2/Q7, C Q4/Q9, D Q5/Q10, E Q6/Q8.
-- **Personal Practice v1**: unchanged two-page fillable PDF for initial answers and a final individual transfer check. Learners can use existing notebooks/review documents instead.
+- **Marketing REVIEW STUDENT v3**: editable PowerPoint and checked 21-page PDF. Includes the full timed itinerary, the posted school rubric's 3/4 distinction, a sentence-by-sentence 3 model, explained business and ELA additions for the 4 model, a separate 3-to-4 revision scenario, the original wording of all ten review questions, carousel directions and individual retrieval.
+- **Marketing REVIEW TEACHER v3**: editable PowerPoint and checked 26-page PDF. The first 21 pages track the student deck with DO, SAY, ASK, LISTEN and FOLLOW guidance. Private pages 22–26 contain question checks, printed book pages and follow-ups for the five packets. Project only the student deck.
+- **Carousel Teacher Plan v5**: editable Word and checked six-page PDF, aligned to the new presentation timing and slide references. Earlier slide versions and Plans v1/v2/v3/v4 are historical.
+- **Review Question Sheets v2**: ten-page large-print fillable PDF, one question per sheet. Exact wording matches the original photos, including Q4 without an added article. Five packets: A Q1/Q3, B Q2/Q7, C Q4/Q9, D Q5/Q10, E Q6/Q8.
+- **Personal Practice v2**: two-page fillable PDF for initial answers and an independent check using the original Q2 and Q8. Learners can use existing notebooks/review documents instead.
 
-Protected canonical files and release receipt: `second-placement/transcripts/private/2026-10-23-review/`, including `delivery-presentations-v2.json`. Exact copies are staged in `second-placement/shared-with-sbte/Introduction to Marketing - Blocks 1 and 5/2026-10-23 Friday/`. Teacher checks, licensed passages, media and source evidence remain outside public Git and broad Drive.
+Protected canonical files and release receipt: `second-placement/transcripts/private/2026-10-23-review/`, including `delivery-presentations-v3.json`. Exact copies are staged in `second-placement/shared-with-sbte/Introduction to Marketing - Blocks 1 and 5/2026-10-23 Friday/`. Teacher checks, licensed passages, media and source evidence remain outside public Git and broad Drive.
 
 ## Answer quality before the carousel
 
-The opening now uses the school EI Outcomes Rubric and the SBTE’s direct explanation on September 24 at 01:27:38–01:32:10, alongside the latest October 22 reminder. His practical advice is to explain ideas, justify examples, use business terminology and connect learning across the curriculum. A 3 means proficient expected work; 4 descriptors describe possible evidence of deeper complexity, independence or independent transfer. They are not a cumulative mandatory checklist.
+**Scope correction from Piter on October 23:** all student review work uses the original Chapter 2 Test Your Knowledge questions 1–10. Only the worked answer-quality examples use different questions. Do not substitute invented transfer questions or example cues for the actual review tasks.
 
-The practice question asks students to explain how the Nike film promotes its brand, explain promotion and use a specific detail. Slides 5–7 reveal the meaning, split-screen example and explanation one sentence at a time to construct a complete model 3. Slides 8–9 add explained connections to the marketing concept and ELA persuasion. Slide 10 retains the full 3 unchanged and assembles the model 4 with labelled, coloured additions. Each addition explicitly explains what new understanding it contributes.
+Slides 1–13 retain the corrected rubric-based model: build the 3 one sentence at a time, keep that entire accurate answer, then explain what the business and ELA connections add toward 4 quality. The Nike and club-poster teaching questions are different from the review questions. Pat’s direct September 24 explanation and latest October 22 reminder remain the grading basis; a model is not an automatic grade.
 
-Slides 11–12 provide a different school-club poster question, a complete 3, a student attempt at a connection and then a model upgrade. Slide 13 transfers the method to the review. These practice questions do not answer any of the ten Chapter 2 review questions. Examples and vocabulary may already be required for proficiency. Copying a model or adding unrelated sentences does not automatically demonstrate 4 quality. Teacher guidance supplies the moves, wording, prompts, expected reasoning and follow-ups.
+Slide 14 assigns the five packets. Slides 15–16 display the original wording and numbering of all ten review questions. Slides 17–19 guide peer revisions and reporting. Slide 20 and Personal Practice v2 page 2 use original review Q2 and Q8 for the five-minute individual memory check. Slide 21 closes the lesson. Private teacher answer checks are slides 22–26. The former invented exit prompts are retired.
 
-The existing captioned Nike excerpt remains 32 seconds, embedded in both PowerPoints. PDFs are static companions. Native media bytes, click timing, package structure and first-party import were checked; native desktop playback was not retested.
+The same captioned 32-second Nike excerpt and progressive reveals remain embedded. PDFs are static companions. Native media bytes and first 13 slides’ text match v2 exactly. Desktop playback was not retested.
 
 ## Lesson route
 
@@ -40,14 +40,14 @@ Use ordinary letter paper on desks, or pass packets while students stay seated. 
 
 ## Delivery and verification
 
-- **Local:** all six new outputs have exact canonical/restricted-staging SHA256 parity. Older plans and unchanged student PDFs are preserved.
-- **School OneDrive:** access recovered. All six new files were uploaded to the established restricted SBTE Marketing folder, downloaded together, and matched local SHA256 exactly. The existing Question Sheets and Personal Practice files are also visible. This supersedes the earlier sign-in/upload uncertainty; no repeat copy of those two student files was made. No email was requested or sent.
-- **reMarkable Cloud:** the dated `Placement / 00 Lessons by Date / 2026-10-23 Friday - Marketing Review` folder contains current student 20-page PDF, teacher 25-page PDF, plan v4 six-page PDF and the existing Question Sheets/Personal Practice PDFs. All three new documents open with verified page counts. Both v1 slide PDFs and Plans v1/v2/v3 are preserved in Earlier versions. Physical tablet/offline synchronization is not verified.
-- **Git and indexes:** public-safe release metadata only. Protected files are ignored; the release metadata is committed separately from user changes.
-- **Google Drive:** protected content is prohibited on the broad mirror; no established approved private destination. Safe-index mirror revision is not verified.
-- **Teams student libraries:** not applicable to this private planning release; never place the teacher checks in a student retrieval library.
+- **Local:** all eight new outputs have exact canonical/restricted-staging SHA256 parity. Previous versions and raw source photos are preserved.
+- **School OneDrive:** current revision not verified. The eight-file upload queue stalled, was canceled, and a refresh revealed the school password prompt. User sign-in is required before retrying and exact downloaded-file readback. Do not use the prior release’s successful readback as evidence that v3 is uploaded. No email was requested or sent.
+- **reMarkable Cloud:** current revision not verified. Five imports failed because the session expired. Neither available Google sign-in showed the established Placement folder. No uploads were made into those unmatched libraries, and older PDFs remain untouched. User must restore the normal Placement-library account. Physical tablet sync is unverified.
+- **Git and indexes:** public-safe release metadata only, committed separately from pre-existing user changes. Protected bytes remain ignored.
+- **Google Drive:** protected content prohibited on the broad mirror; no approved private destination established. Safe-index mirror revision unverified.
+- **Teams student libraries:** not applicable to this private planning release; teacher checks remain private.
 
-All 45 final slide/PDF pages and all six written-plan pages were rendered and visually inspected. Native tables, embedded media, package integrity, geometry and first-party import passed. Earlier student PDF field checks remain valid: 66 uniquely named multiline fields with test-fill readback. Private source, compact visual proof and exact cloud readback records are retained intentionally in `source-presentations-v2/`.
+Both decks were rendered (21/26 pages). Changed slides were checked at full size and the entire decks scanned. All six final plan pages and student handout layouts were checked. The ten question texts match the inspected original photos, and original Q2/Q8 appear in both memory-check surfaces. Native tables, media, package structure, first-party import and zero-geometry-finding checks passed. The 66 uniquely named multiline fields passed test-fill readback. Compact source and evidence are retained privately in `source-presentations-v3/`.
 
 ## Teaching basis
 
