@@ -1,0 +1,11 @@
+# Chapter 3 Characteristics of Business planning
+
+Current release: **October 26–30 Weekly Lesson Plan v1**, editable Word and checked eight-page PDF. Contains four full content-day plans, a complete remaining-chapter route, inclusive supports, source boundaries and preparation checks.
+
+Monday retains the Chapter 2 test under Piter’s latest direction. Proposed Chapter 3 start is Tuesday October 27. First week: enterprise systems; sectors; distribution and industry; operational business models. Each 42-minute content lesson preserves the opener, explanation, brief application, guided reading and ten minutes of independent questions. Dates and later assessment arrangements are proposals, not claimed SBTE approvals.
+
+Verified textbook reference: printed pp. 29–50 = chapter PDF pp. 1–22; subtract 28. Reading headings and stop points are specified. The original school Chapter 3 notes deck and Test Your Knowledge worksheet were absent from the local search and inspected Block 1 Class Materials listing. Exact original slide/question numbers remain pending; clearly labeled teacher-created practice is supplied instead. Daily classroom decks and final student activity sheets are not claimed complete by this planning release.
+
+Canonical private release: `second-placement/transcripts/private/2026-10-27-chapter-3-planning/`. Exact staging copies: `second-placement/shared-with-sbte/Introduction to Marketing - Blocks 1 and 5/2026-10-27 Chapter 3 Planning/`. Reproducible builder, source hashes, delivery receipt and compact evidence remain private. Existing Chapter 2 files and raw transcripts were preserved.
+
+Source parity: local and restricted staging verified by SHA256; school OneDrive Word/PDF upload completed with filename/size readback in the established Marketing folder. reMarkable plan and chapter PDF imported into `Placement / 00 Lessons by Date / 2026-10-27 Tuesday - Chapter 3 Planning`, with folder listing verified. Physical tablet sync remains unverified. Git carries safe indexes only. Protected sources remain prohibited on broad Google Drive; no approved private destination established and safe-index mirror revision unverified. Student Teams/SharePoint publication is not applicable to the private planning release. No email was requested or sent.

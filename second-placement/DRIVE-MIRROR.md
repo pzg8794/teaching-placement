@@ -1,3 +1,9 @@
+# Chapter 3 planning release October 23
+
+[Chapter 3 weekly plan and complete chapter route](planning/chapter-3-characteristics-of-business/README.md): editable Word and checked eight-page PDF. Proposed first content week October 27–30, retaining Monday’s Chapter 2 test. Timed teacher guidance, exact book boundaries, inclusive supports and protected individual work. Official Chapter 3 slide and question mapping remains pending school source files. Local/staging hashes verified; school OneDrive upload and reMarkable dated-folder listing verified. Git contains safe indexes only; protected Google Drive publication prohibited, private destination not established, safe-index mirror and physical tablet sync unverified. No email sent.
+
+---
+
 # Friday October 23 current Marketing review
 
 **Friday is review; the test is Monday October 26.** Current local release: **REVIEW STUDENT v3** (21 slides), **REVIEW TEACHER v3** (26 slides), each as editable PowerPoint plus checked PDF; **Carousel Teacher Plan v5** (Word/six-page PDF); **Question Sheets v2** (ten-page fillable PDF); **Personal Practice v2** (two-page fillable PDF). [Current Friday release and print guidance](planning/chapter-2-marketing-plan/2026-10-23-friday/README.md).
