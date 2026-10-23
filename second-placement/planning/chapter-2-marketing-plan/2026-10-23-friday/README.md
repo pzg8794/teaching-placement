@@ -36,13 +36,14 @@ The same captioned 32-second Nike excerpt and progressive reveals remain embedde
 
 Use ordinary letter paper on desks, or pass packets while students stay seated. No chart paper or hanging display is required. Recorded roster baselines are Block 1: 14, with A–E groups 2/3/3/3/3; Block 5: 7, with groups 1/2/1/2/1. Adjust for actual absences. Every learner starts independently, contributes and explains at the final stop.
 
-**Print:** two fresh ten-page Question Sheets sets, 20 single-sided station sheets total. Optional Personal Practice: 14 copies for Block 1 plus 7 for Block 5, 21 two-page copies; 21 duplex sheets or 42 single-sided sheets. Existing notebooks/review documents are equivalent. Keep teacher checks private.
+**Print request emailed to SBTE October 23:** two fresh ten-page Question Sheets sets, 20 single-sided station sheets total. Personal Practice **page 1 only**: 14 copies for Block 1 plus 7 for Block 5, 21 single-sided copies, adjusted for actual attendance. Students write their assigned one or two answers on this page. Page 2 is the final individual check and may be projected; learners can answer it in existing notebooks/review documents. Keep teacher checks private.
 
 ## Delivery and verification
 
 - **Local:** all eight new outputs have exact canonical/restricted-staging SHA256 parity. Previous versions and raw source photos are preserved.
-- **School OneDrive:** current revision not verified. The eight-file upload queue stalled, was canceled, and a refresh revealed the school password prompt. User sign-in is required before retrying and exact downloaded-file readback. Do not use the prior release’s successful readback as evidence that v3 is uploaded. No email was requested or sent.
-- **reMarkable Cloud:** current revision not verified. Five imports failed because the session expired. Neither available Google sign-in showed the established Placement folder. No uploads were made into those unmatched libraries, and older PDFs remain untouched. User must restore the normal Placement-library account. Physical tablet sync is unverified.
+- **School OneDrive:** verified current after restored sign-in. All eight release files uploaded to the established restricted Marketing folder; a fresh eight-file download matched every canonical SHA256. Private proof: `source-presentations-v3/onedrive-exact-readback.json`.
+- **reMarkable Cloud:** verified current. The signed-in library lacked the established dated path, so `Placement / 00 Lessons by Date / 2026-10-23 Friday - Marketing Review` was recreated and all five current PDFs imported. Document page-count readback: student 21, teacher 26, plan 6, Question Sheets 10, Personal Practice 2. Folder placement and all five names verified. Historical folders/copies remain untouched. Physical tablet sync is unverified.
+- **SBTE email:** sent October 23 at 6:46 a.m. and verified in Sent Items, with STUDENT v3 PPTX, Question Sheets v2 PDF and Personal Practice v2 PDF. Print request is above; private sent receipt and screenshot are retained with release evidence.
 - **Git and indexes:** public-safe release metadata only, committed separately from pre-existing user changes. Protected bytes remain ignored.
 - **Google Drive:** protected content prohibited on the broad mirror; no approved private destination established. Safe-index mirror revision unverified.
 - **Teams student libraries:** not applicable to this private planning release; teacher checks remain private.
