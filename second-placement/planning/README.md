@@ -22,7 +22,13 @@ Source parity: local/restricted staging, school OneDrive, reMarkable Cloud and a
 
 ## reMarkable organization — October 22
 
-Daily lesson imports belong under `Placement / 00 Lessons by Date / YYYY-MM-DD Weekday - Subject`. Current materials remain in the dated folder; superseded revisions belong in `Earlier versions`. Older lesson cleanup remains partial; remaining older files retain their existing locations. Historical delivery locations below describe their original deliveries.
+Daily lesson imports are consolidated under `Placement / 00 Lessons by Date / YYYY-MM-DD Weekday - Subject`: 16 dated folders, with no loose documents at that level. Current Monday–Friday slides, guides and activity sheets use their matching dates; superseded revisions are in each date’s `Earlier versions`. Original document/folder IDs and annotations were preserved; nothing was deleted or re-imported. September 23 and September 29 folders now use full, source-matched dates; the October 2 Listen and Speak and October 14 PEST resources are also dated.
+
+`Notes and Vocabulary` contains general notebooks, vocabulary, reflection and to-do material. `Classroom Systems and Routines` holds the Microsoft 365/Teams reference. `Unit Plans and Other Preparation` separates Chapter 2 resources from unrelated preparation. `Book and References`, `Business - Word`, `Classes - Blocks` and `Schedule` retain their established purposes. All 22 chapter PDFs and eight supporting PDFs remain in the chapter library; all ten Part 4 lessons’ eleven exercise models and the revised guide are present, with the original guide archived.
+
+Friday October 23’s student/teacher review PDFs, Teacher Plan v3 and both student practice PDFs were reverified together in the dated Friday folder. Existing imports were used to avoid duplicates. Full parent-path search readback verified the affected dated files after some folder views showed stale cached listings. Historical delivery paths below describe original deliveries and are superseded by this organization record.
+
+Source parity for this organization task: reMarkable Cloud, local private inventory and safe indexes verified current; Git carries safe metadata only. School files were not changed by these moves. Protected content remains prohibited on broad Drive; no approved private Drive destination is established, and the remote safe-index revision is not verified. Physical tablet/offline synchronization remains unverified.
 
 ---
 
