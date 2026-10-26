@@ -1,3 +1,9 @@
+## Tuesday October 27 daily lesson plan draft
+
+Current **2026-10-27-Marketing-Lesson-Plan-v1.docx** is the four-page teacher plan derived from Chapter3 weekly v3. It covers original slides4–5 (1–3 orientation), printed pp.29–31, paragraph-by-paragraph reading connections, teacher wording, expected responses and a42-minute sequence with ten independent minutes. Class stop points remain unverified and recorded separately. This is the plan-first stage: no new student/teacher classroom deck, activity images or handouts produced; no official review invented.
+
+Local/staging hashes match. School OneDrive Word upload and Saved/open four-page readback verified; notebook reading PDF opens as4pages in the existing `2026-10-27 Tuesday - Chapter 3 Planning` folder. Cloud download hashes and physical tablet sync are not verified. Git carries safe index metadata only. Protected broad Drive publication prohibited; approved private destination unestablished and safe-index Drive revision unverified. No email, new assignment or grade changes. The local private `tuesday-plan-source/delivery.json` records exact source and destination evidence.
+
 ## Chapter 3 v3 review draft sources updated October 26
 
 **Current shared working draft: v3 REVIEW DRAFT**, editable Word and checked12-page PDF. V2 and user edits remain preserved. Four October27–30 lessons each have a daily page with terms, an individual minute27 understanding check, expected reasoning/support, and separate Block1/5 stop/restart records. Wednesday stops before Intermediaries on p.33; Thursday starts there. Later weeks stay provisional and ten-minute independent work remains protected. Official review questions remain omitted until the source is available.
