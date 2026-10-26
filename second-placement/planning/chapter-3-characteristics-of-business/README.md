@@ -1,3 +1,11 @@
+## Chapter 3 v3 review draft sources updated October 26
+
+**Current shared working draft: v3 REVIEW DRAFT**, editable Word and checked12-page PDF. V2 and user edits remain preserved. Four October27–30 lessons each have a daily page with terms, an individual minute27 understanding check, expected reasoning/support, and separate Block1/5 stop/restart records. Wednesday stops before Intermediaries on p.33; Thursday starts there. Later weeks stay provisional and ten-minute independent work remains protected. Official review questions remain omitted until the source is available.
+
+Local canonical files and restricted SBTE staging match by SHA256. School OneDrive Word/PDF upload verified by success notification and filename/size readback; Word opened in Editing mode with Saved status and expected plan content. No downloaded cloud hash comparison is claimed. reMarkable v3 opens as12pages in `Placement / 00 Lessons by Date / 2026-10-27 Tuesday - Chapter 3 Planning`; existing chapter PDF and earlier versions remain intact. Physical tablet sync is unverified.
+
+The owner's subsequent source-update request authorizes distributing this **draft**, without granting instructional approval. The document's pre-sync local-only delivery labels are a creation-time snapshot; this source record and private receipt supersede those labels for delivery status. Independent Viber review, actual block progress and daily classroom readiness remain unverified. No email, new assignment, grading or permissions changed. Git carries safe indexes only; protected broad Google Drive publication prohibited, private destination unestablished, safe-index Drive revision unverified. Private provenance and cloud IDs remain in `source-v3-review/SOURCE-REGISTER.md` and `review-receipt.json`.
+
 # Chapter 3 Characteristics of Business planning
 
 # Chapter 3 refreshed weekly plans — October 26
