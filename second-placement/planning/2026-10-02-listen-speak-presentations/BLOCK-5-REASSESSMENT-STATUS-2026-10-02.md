@@ -98,3 +98,13 @@ The existing private communication record/register and this de-identified note
 are synchronized to their appropriate Git and Drive destinations with readback.
 
 Do not use this note as a student record or imply school approval or release.
+
+October 25 EDF436 Snapshot update: a two-page seminar presenter packet now
+uses de-identified excerpts from the existing individual grading evidence and
+the corrected SBTE grading breakdown. The packet and its provenance record are
+maintained in the ignored local private folder, the separate private Git
+repository, and the owner's private Drive folder. No student slides or named
+assessment records were added to this shared repository. The Fall EDF436
+syllabus specifies video; the identified classroom recording is audio, and
+format acceptance is not established. This update does not change grades or
+constitute a seminar submission.
