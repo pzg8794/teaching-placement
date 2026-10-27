@@ -1,3 +1,9 @@
+## Wednesday October 28 lesson plan draft — plan first
+
+Current review artifact: **2026-10-28-Marketing-Lesson-Plan-v1.docx**, three checked pages in the established private production and restricted SBTE staging locations, with exact SHA256 parity. It follows the weekly strategy: original school slide6 unchanged; printedp32 plus Manufacturers continuationp33, stopping before Intermediaries; Figure3.3p35 is preview only. A proposed45-second bread-factory observation activity has a no-video alternative. The42-minute routine and ten independent minutes remain. Actual block stopping points and classroom video playback are not certified.
+
+The owner requested the simple Word plan first and explicitly deferred the rest. Student/teacher presentations are preserved as private unfinished work, not classroom-ready or released. The new daily Word has not been uploaded to school OneDrive or reMarkable. The existing strategy document opened Saved; its access panel already lists the SBTE. No new invitation or email was sent. Protected broad Drive copying remains prohibited; safe-index Drive revision remains unverified. Public Git carries these safe status indexes only; final remote readback is recorded privately.
+
 ## Tuesday October 27 native-reveal revision v3 — current presentations
 
 **Current:** `2026-10-27-Marketing-STUDENT-v3` (20 slides) and `2026-10-27-Marketing-TEACHER-v3` (21 slides), each editable PPTX plus checked PDF. Each deck has 16 native on-click answer reveals across six slides. Prompts, the bakery characteristics and earlier answers remain visible while the next answer appears on the same slide. V3 supersedes the v2 presentations; earlier releases remain preserved.
