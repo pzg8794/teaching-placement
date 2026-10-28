@@ -1,4 +1,12 @@
-## Wednesday October 28 current presentations — v2
+## Wednesday October 28 current presentations — v3 word reveals and colors
+
+Current files are **2026-10-28-Marketing-STUDENT-v3.pptx** (20 slides) and **2026-10-28-Marketing-TEACHER-v3.pptx** (22 slides), each with a checked final-state PDF. V3 supersedes v2. School slide6 now reveals primary and sector separately, followed by secondary, sector, Manufacturers, tertiary and sector on separate clicks. The sector colors stay consistent across the answers and action clues: primary teal, secondary blue and tertiary orange. Added public/private ownership answers are also color-coded; the school source design remains intact.
+
+The new activity now reveals its choice clues and role words in deliberate manual steps. The sector question waits for the debrief. The secondary-sector process example also builds in steps; its input/action/result remain one manufacturing transformation. Private teacher guidance stays visible. There are47 student and27 teacher click groups. All were tested in actual PowerPoint, including hidden starting states; both final files open without repair. All42 PDF pages rendered and were checked, with the final two color-key pages rechecked. The six full teacher reading paragraphs remain unchanged. Reading starts at16 and independent work remains protected at29–39.
+
+All four canonical and restricted SBTE-staging copies match by SHA256. All four school OneDrive files were downloaded and matched exactly in **2026-10-28 Chapter 3 Sectors**. Earlier releases and the user’s open v2 remain preserved. Git contains safe indexes only. Protected teaching files remain prohibited from public Git and broad Google Drive; the two established Drive index readbacks and exact delivery results are recorded privately. No new Drive destination was created. reMarkable remains unverified for this revision. No email, new assignment, grade or permission change is claimed.
+
+## Earlier Wednesday October 28 presentations — v2
 
 Current classroom files are **2026-10-28-Marketing-STUDENT-v2.pptx** (20 slides) and **2026-10-28-Marketing-TEACHER-v2.pptx** (22 slides), each with a checked PDF. V2 supersedes the owner-rejected v1 activity. The replacement is a five-minute customer/owner decision using a familiar meal-order scenario, followed by activity-based sector connections. Both agendas and all six teacher paragraph connections now match. Reading starts at minute16 and independent work remains protected at29–39.
 
