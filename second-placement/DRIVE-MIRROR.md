@@ -1,4 +1,12 @@
-## Wednesday October 28 current presentations — v3 word reveals and colors
+## October 28 activity replacement - three-sector video and group papers
+
+The owner replaced the customer/owner role-play with one short video, three groups, and one sector paper per group. The selected clip is [Midwest Dairy: Milk’s Journey: 48 Hours in 48 Seconds](https://www.youtube.com/watch?v=LVyLCqPIYeE); the actual player lasts 56 seconds. Visible evidence was inspected: milking at about 0:17, milk transport at about 0:27, and bottling/packing at about 0:32-0:37. No captions were available in the inspected player. The classification focuses on the work performed, not scene order.
+
+New deliverables: **2026-10-28-Three-Sectors-VIDEO-Group-Sheets.pdf**, exactly three large-print pages with six fillable response boxes, and **2026-10-28-Three-Sectors-VIDEO-Teacher-Quick-Guide.pdf**, one page with a six-minute routine, visual answer evidence, flexible participation and a playback fallback. Print the group PDF single-sided. Each group identifies one observed example and explains why it fits its assigned sector. This standalone activity supersedes the role-play; the existing v3 full decks were not edited in this turn and still contain the earlier activity. Use these papers and the direct clip in its place.
+
+Local and restricted SBTE staging hashes match. Both school OneDrive PDFs were uploaded into the established **2026-10-28 Chapter 3 Sectors** folder, downloaded, and matched exactly. Four PDF pages were rendered and visually checked. Git and the two established broad Drive indexes contain safe source/status metadata only; no new artifact destination was invented. reMarkable is not verified for this addition. No email, grade, assignment or permission changes. The private video-activity receipt records final parity.
+
+## October 28 v3 presentations - source reveals preserved; activity superseded below
 
 Current files are **2026-10-28-Marketing-STUDENT-v3.pptx** (20 slides) and **2026-10-28-Marketing-TEACHER-v3.pptx** (22 slides), each with a checked final-state PDF. V3 supersedes v2. School slide6 now reveals primary and sector separately, followed by secondary, sector, Manufacturers, tertiary and sector on separate clicks. The sector colors stay consistent across the answers and action clues: primary teal, secondary blue and tertiary orange. Added public/private ownership answers are also color-coded; the school source design remains intact.
 
