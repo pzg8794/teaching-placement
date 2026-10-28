@@ -1,3 +1,9 @@
+## Thursday October 29 Marketing plan draft
+
+**2026-10-29-Marketing-Lesson-Plan-v1.docx** is a simple two-page Word plan for Blocks 1 and 5: original school slides 7–8; printed pp.33–35, from Intermediaries through Distribution Channel/Figure3.4; a familiar-product route activity; and protected independent work at minutes29–39. It follows the current weekly strategy and keeps separate actual block stopping points to check. A teacher-only note flags the school slide7/video sector-classification difference for Pat. No new official review assignment or deadline is invented.
+
+The Word draft was rendered and both pages visually checked; an independent source review passed. Local canonical and restricted SBTE staging bytes match. This is plan-first preparation for discussion, not a released classroom package: no slides, handouts, email, school upload or notebook import in this scope. Public Git and established broad Drive mirrors receive safe indexes only; protected Word/transcript material stays private. Detailed source/QA/destination status is recorded beside the private draft.
+
 ## October 28 activity replacement - three-sector video and group papers
 
 The owner replaced the customer/owner role-play with one short video, three groups, and one sector paper per group. The selected clip is [Midwest Dairy: Milk’s Journey: 48 Hours in 48 Seconds](https://www.youtube.com/watch?v=LVyLCqPIYeE); the actual player lasts 56 seconds. Visible evidence was inspected: milking at about 0:17, milk transport at about 0:27, and bottling/packing at about 0:32-0:37. No captions were available in the inspected player. The classification focuses on the work performed, not scene order.
