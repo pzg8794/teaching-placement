@@ -1,5 +1,9 @@
 
-## October 30 Friday lesson — v2 update
+## October 30 Friday Marketing correction — video and review
+
+[Friday's current correction record](chapter-3-characteristics-of-business/README.md): the checked Word/PDF plan v3 restores Thursday's unplayed 2:28 phone-case video as a three-group activity, with one typeable response sheet per group (three per block, six total). Corrected student/teacher v2 PowerPoint and PDF files are locally validated (19 and 25 slides, respectively; 22 native click reveals). The teacher review explicitly links the Wednesday canceled-courier choice and Thursday farm/bakery/transport and country/industry work to original Chapter 3 slides 7–10. Reading restarts at each block's actual unfinished paragraph; ten independent-work minutes remain protected. Prior v1/v2 records below are historical. All four v2 files, the revised Word/PDF plan and group sheet were uploaded to the established dated school OneDrive folder. Both PowerPoints opened in PowerPoint Web with 19/25 slides and no repair alert. The correction email to Pat from the university account was verified in Sent at 11:25 p.m. on October 29; recipient reading and physical playback are unverified.
+
+## Earlier October 30 Friday lesson — v2 update
 
 The Friday marketing Word plan v2 and revised agenda v2 (PowerPoint and PDF) align with the October 29 recap: economic comparison opener, school slides 7–8 review and 9–10, unfinished country/industry activity, reading, and ten minutes of independent work. The first agenda slide was updated; the other original slides remain unchanged. The v2 files are visible in the restricted school OneDrive weekly-and-daily planning folder shared with the SBTE; the agenda share invitation was confirmed. Earlier v1 files are preserved and superseded. Classroom posting is not verified. Local private artifacts are retained; protected artifacts are not published to public Git or broad Drive.
 
@@ -287,7 +291,7 @@ Drive readback: [Friday deck](https://docs.google.com/presentation/d/1T2FJzBEnsc
 
 ## Friday October 30 Chapter 3 classroom materials
 
-[Current Friday release record](chapter-3-characteristics-of-business/README.md): student and teacher Marketing v1 presentations are complete as editable PowerPoint plus checked PDF (18 and 24 slides). The original school slides 7–10 are retained; the teacher version guides paragraph-level reading on printed pp. 33–35. Four files are in the dated restricted school OneDrive folder and the local SBTE staging copy. Both PowerPoints opened cleanly in school PowerPoint Web, and the direct-link email to Pat was verified in UofR Sent. Protected file bytes remain outside public Git and broad Drive; safe-index Drive revision is not yet verified.
+[Earlier Friday v1 release record](chapter-3-characteristics-of-business/README.md): student and teacher Marketing v1 presentations are complete as editable PowerPoint plus checked PDF (18 and 24 slides). The original school slides 7–10 are retained; the teacher version guides paragraph-level reading on printed pp. 33–35. Four files are in the dated restricted school OneDrive folder and the local SBTE staging copy. Both PowerPoints opened cleanly in school PowerPoint Web, and the direct-link email to Pat was verified in UofR Sent. Protected file bytes remain outside public Git and broad Drive; safe-index Drive revision is not yet verified.
 
 ## Verified Drive mirror
 

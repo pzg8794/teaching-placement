@@ -1,5 +1,9 @@
 
-## October 30 Friday lesson — v2 update
+## October 30 Friday Marketing correction — source boundary
+
+The corrected Friday plan v3 (Word and checked PDF) restores Thursday's unplayed 2:28 [phone-case video](https://econedlink.org/resources/supply-chain-video/) as a three-group task. A one-page typeable group response PDF is staged for six prints total across both blocks. Student and teacher v2 decks/PDFs passed local package and full-render checks (19 and 25 slides, respectively; 22 native click reveals); the teacher review connects Wednesday's canceled courier and Thursday's farm, bakery, transport and country/industry examples to original slides 7–10. All four v2 files, the revised Word/PDF plan and group sheet were uploaded to the established dated school OneDrive folder; both PowerPoints opened in PowerPoint Web with 19/25 slides and no repair alert. The correction email to Pat from the university account was verified in Sent at 11:25 p.m. on October 29. Cloud byte hashes and classroom playback remain unverified. This broad Drive mirror contains safe status metadata only; the protected plan, decks, sheet, school slides and transcripts stay in restricted local and school destinations.
+
+## Earlier October 30 Friday lesson — v2 update
 
 The Friday marketing Word plan v2 and revised agenda v2 (PowerPoint and PDF) align with the October 29 recap: economic comparison opener, school slides 7–8 review and 9–10, unfinished country/industry activity, reading, and ten minutes of independent work. The first agenda slide was updated; the other original slides remain unchanged. The v2 files are visible in the restricted school OneDrive weekly-and-daily planning folder shared with the SBTE; the agenda share invitation was confirmed. Earlier v1 files are preserved and superseded. Classroom posting is not verified. Local private artifacts are retained; protected artifacts are not published to public Git or broad Drive.
 

@@ -1,5 +1,9 @@
 
-## October 30 Friday lesson — v2 update
+## October 30 Friday Marketing correction — SBTE package
+
+The corrected Friday plan v3 (Word and checked PDF) restores the unplayed phone-case video as a three-group watch, discuss and explain activity. The one-page typeable group sheet needs three copies for each Marketing block, six total. Corrected student/teacher v2 PowerPoint and PDF files passed local package and full-render checks (19 and 25 slides, respectively; 22 native click reveals); their teacher review connects the Wednesday canceled-courier choice and Thursday farm/bakery/transport and country/industry work to original Chapter 3 slides 7–10. The 42-minute plan preserves ten independent-work minutes and restarts printed pp. 33–35 at each block's actual stop. All four corrected deck files, the revised Word/PDF plan and group sheet were uploaded to the established dated school OneDrive folder. Both PowerPoints opened with 19/25 slides and no repair alert. A correction email with direct-file links and the print request was verified in university Sent at 11:25 p.m. on October 29; recipient reading and classroom playback remain unverified. Earlier Friday releases remain available as history; protected content stays in restricted school and local locations.
+
+## Earlier October 30 Friday lesson — v2 update
 
 The Friday marketing Word plan v2 and revised agenda v2 (PowerPoint and PDF) align with the October 29 recap: economic comparison opener, school slides 7–8 review and 9–10, unfinished country/industry activity, reading, and ten minutes of independent work. The first agenda slide was updated; the other original slides remain unchanged. The v2 files are visible in the restricted school OneDrive weekly-and-daily planning folder shared with the SBTE; the agenda share invitation was confirmed. Earlier v1 files are preserved and superseded. Classroom posting is not verified. Local private artifacts are retained; protected artifacts are not published to public Git or broad Drive.
 
