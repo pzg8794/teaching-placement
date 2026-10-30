@@ -267,6 +267,10 @@ Updated October 16, 2026.
 - Block 1 Class Norms Flyer
 - Block 5 Class Norms Flyer
 
+## October 30 Friday Marketing presentations
+
+Restricted SBTE staging now includes **2026-10-30-Marketing-STUDENT-v1** and **TEACHER-v1**, each as PowerPoint and PDF, in the dated Chapter 3 Industry folder. All four staging files match local canonical hashes. The corresponding school OneDrive files are in the dated Friday presentations folder under the shared Chapter 3 weekly-and-daily planning folder; both PowerPoints opened cleanly in PowerPoint Web. The UofR direct-link email to Patrick Flanagan was verified in Sent. These protected files are excluded from public Git and broad Google Drive; remote downloaded-byte parity is not claimed.
+
 ## Principles and Tools of Business - Blocks 4 and 7
 
 - Private `Part 4 Teacher Keys`: all ten lessons, eleven worked exercise DOCXs, a eight-page Word/PDF guide, eleven exercise PDFs and one Excel workbook (25 files). The twelve PDFs are also in personal reMarkable’s current Part 4 Teacher Keys folder. The guide includes source pages, instruction issues and estimates of 305–425 minutes total; desktop Excel-object activation remains unverified.

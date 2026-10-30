@@ -285,6 +285,10 @@ Drive readback: [Friday deck](https://docs.google.com/presentation/d/1T2FJzBEnsc
 - [September 2 call evidence](../transcripts/2026-09-02-CALL-EVIDENCE.md)
 - [Email source summary](../communications/PLACEMENT-SOURCE-SUMMARY.md)
 
+## Friday October 30 Chapter 3 classroom materials
+
+[Current Friday release record](chapter-3-characteristics-of-business/README.md): student and teacher Marketing v1 presentations are complete as editable PowerPoint plus checked PDF (18 and 24 slides). The original school slides 7–10 are retained; the teacher version guides paragraph-level reading on printed pp. 33–35. Four files are in the dated restricted school OneDrive folder and the local SBTE staging copy. Both PowerPoints opened cleanly in school PowerPoint Web, and the direct-link email to Pat was verified in UofR Sent. Protected file bytes remain outside public Git and broad Drive; safe-index Drive revision is not yet verified.
+
 ## Verified Drive mirror
 
 [Open the current second-placement Drive folder](https://drive.google.com/drive/folders/1l2EO2iRNDvzVQEapWE_lUBFqJ6S7u1Ls) · [open the public GitHub branch](https://github.com/pzg8794/teaching-placement/tree/teaching_placement_shared/second-placement)
