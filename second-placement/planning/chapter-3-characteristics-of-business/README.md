@@ -1,3 +1,9 @@
+## October 30 agenda and presentation visual update
+
+The current one-slide agenda v5 retains Pat’s original first-slide style, with separate attendance, icebreaker, review, new slides, activity, reading and independent-work steps. At the owner’s direction the reading line is **pp. 34–35**, the first listed deadline is bold red, and small icons precede the agenda items. The slide image was posted to both Marketing blocks’ General channels; the earlier incorrect posts were removed. The original presentation remains preserved.
+
+The local Friday student and teacher v3 presentations add instructional images to the existing decks, preserving their text, sequence, school slide content and reveals; each has a checked PDF. In the existing school OneDrive folder, four v2-named files were replaced with the revised v3 bytes, and OneDrive showed all four as uploaded with updated sizes. Opening each old direct link and independently comparing downloaded bytes remain unverified. These private teaching materials remain outside public Git and broad Drive; this is safe status metadata only. The earlier Friday records below are historical. No correction email was sent; the owner requested review before any such email.
+
 
 ## October 30 Friday correction — video and two-day review
 
