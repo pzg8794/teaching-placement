@@ -1,3 +1,7 @@
+## October 29 school folder delivery
+
+The school OneDrive folder **Chapter 3 Weekly Strategy and Daily Lesson Plans** was created under the established shared Marketing folder. Its contents were read back: the October27–30 daily Word plans, the school OneDrive v3 weekly strategy (53.7 KB), a separately labeled local strategy draft (49.6 KB), and **Agenda 10-30-26.pptx**. The two weekly copies differ in size; the school copy was preserved and copied without overwriting either version. OneDrive confirmed an invitation to Flanagan, Patrick, who already appeared in the folder access list. The agenda is available in the shared folder; a separate class posting is not verified. The open Outlook account is the school account, not the university account; the latest UofR message and Ana reply remain pending.
+
 ## Friday October 30 planning and agenda preparation
 
 A new two-page **2026-10-30-Marketing-Lesson-Plan-v1.docx** follows the latest October 29 classroom transcripts. It resumes each class at its actual unfinished paragraph on printed pp.33–35, briefly reviews original school slides7–8 and connects the route to original slide9 **Industry**. A five-minute paired activity uses familiar businesses with different roles in the same industry. Industry reading on pp.36–37 is conditional; slide10 and Operational Business Models on pp.37–39 remain the later restart. Minutes29–39 stay protected for existing notes and Terms to Know. The two recordings support different reading stops but do not explicitly label the blocks, so the plan checks each block separately.
