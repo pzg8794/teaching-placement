@@ -1,3 +1,8 @@
+
+## October 30 Friday lesson — v2 update
+
+The Friday marketing Word plan v2 and revised agenda v2 (PowerPoint and PDF) align with the October 29 recap: economic comparison opener, school slides 7–8 review and 9–10, unfinished country/industry activity, reading, and ten minutes of independent work. The first agenda slide was updated; the other original slides remain unchanged. The v2 files are visible in the restricted school OneDrive weekly-and-daily planning folder shared with the SBTE; the agenda share invitation was confirmed. Earlier v1 files are preserved and superseded. Classroom posting is not verified. Local private artifacts are retained; protected artifacts are not published to public Git or broad Drive.
+
 ## October 29 school folder delivery
 
 The school OneDrive folder **Chapter 3 Weekly Strategy and Daily Lesson Plans** was created under the established shared Marketing folder. Its contents were read back: the October27–30 daily Word plans, the school OneDrive v3 weekly strategy (53.7 KB), a separately labeled local strategy draft (49.6 KB), and **Agenda 10-30-26.pptx**. The two weekly copies differ in size; the school copy was preserved and copied without overwriting either version. OneDrive confirmed an invitation to Flanagan, Patrick, who already appeared in the folder access list. The agenda is available in the shared folder; a separate class posting is not verified. The open Outlook account is the school account, not the university account; the latest UofR message and Ana reply remain pending.
