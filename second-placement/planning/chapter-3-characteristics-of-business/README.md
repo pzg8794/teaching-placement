@@ -1,3 +1,9 @@
+## November 2 lesson and weekly strategy
+
+The November 2 Marketing lesson plan and the updated Chapter 3 weekly strategy are in the existing restricted school OneDrive planning folder; the SBTE's view access was verified. The weekly plan includes an optional backward-design activity for Tuesday. Later pacing remains subject to each block's progress. The Monday Word document is the school copy, including the owner's edits.
+
+The Monday student and teacher presentations each have an editable PowerPoint and a checked PDF in a dated school OneDrive folder. The school PowerPoint viewer opened both decks; selected progressive reveals were tested. The two PDFs also appear in the dated reMarkable Cloud lesson folder; tablet synchronization was not checked. The group activity can use the textbook figure, but the video mentioned in the notes was not identified or embedded. School documents and protected source material remain private; this record contains status metadata only.
+
 ## October 30 agenda and presentation visual update
 
 The current one-slide agenda v5 retains Pat’s original first-slide style, with separate attendance, icebreaker, review, new slides, activity, reading and independent-work steps. At the owner’s direction the reading line is **pp. 34–35**, the first listed deadline is bold red, and small icons precede the agenda items. The slide image was posted to both Marketing blocks’ General channels; the earlier incorrect posts were removed. The original presentation remains preserved.
