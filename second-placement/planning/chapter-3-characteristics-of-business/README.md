@@ -4,6 +4,8 @@ The November 2 Marketing lesson plan and the updated Chapter 3 weekly strategy a
 
 The Monday student and teacher presentations each have an editable PowerPoint and a checked PDF in a dated school OneDrive folder. The school PowerPoint viewer opened both decks; selected progressive reveals were tested. The two PDFs also appear in the dated reMarkable Cloud lesson folder; tablet synchronization was not checked. The group activity can use the textbook figure, but the video mentioned in the notes was not identified or embedded. School documents and protected source material remain private; this record contains status metadata only.
 
+The student distribution-channel slide was subsequently simplified to the original textbook diagram and the existing questions. The revised PowerPoint and PDF replaced the school versions, and the revised slide was inspected in PowerPoint for the web. The revised student PDF was imported to the same dated reMarkable folder; the earlier copy is in its Earlier versions subfolder.
+
 ## October 30 agenda and presentation visual update
 
 The current one-slide agenda v5 retains Pat’s original first-slide style, with separate attendance, icebreaker, review, new slides, activity, reading and independent-work steps. At the owner’s direction the reading line is **pp. 34–35**, the first listed deadline is bold red, and small icons precede the agenda items. The slide image was posted to both Marketing blocks’ General channels; the earlier incorrect posts were removed. The original presentation remains preserved.
