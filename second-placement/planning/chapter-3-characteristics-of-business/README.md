@@ -1,3 +1,7 @@
+## November 2 student reading update
+
+The live student PowerPoint has a short narrated, sentence-by-sentence visual reading embedded on slide 10. PowerPoint web playback was visually verified. A separate student reading PowerPoint, video and six-page PDF were uploaded to the established school lesson folder; the reading PDF was also verified in the dated reMarkable Cloud folder. The earlier full-deck PDF and local full-deck copy are not current, and physical tablet and classroom audio playback remain unverified. The teacher deck was not changed for this update.
+
 ## November 2 lesson and weekly strategy
 
 The Monday opener now asks students to match four familiar business images to the industries in Figure 3.5, then give a business example and explain why it fits. The teacher version includes timing, prompts and a key. Both PowerPoints and PDFs were updated in the shared school folder; the two revised PDFs were imported to the dated reMarkable folder. The Monday and weekly Word plans were adjusted directly in school OneDrive. Later coauthor edits and physical tablet synchronization remain unverified.
