@@ -1,3 +1,7 @@
+## November 3 Marketing lesson plan
+
+A simple Tuesday Word plan follows the November 2 class transcript and the current weekly strategy: review business models and original slides 10–12, introduce slide 13 as ready, use a buyer-switch activity, read printed pp. 39–41 from each block's actual stopping point, and protect ten minutes for existing notes and Terms to Know. The two-page Word file was uploaded to the established school OneDrive Chapter 3 planning folder, opened in Word for the web, and a view invitation was confirmed for the SBTE. The official Chapter 3 review worksheet remains unverified. The school copy and restricted local file are authoritative; protected source material is not published here.
+
 ## November 2 student reading update
 
 The live student PowerPoint has a short narrated, sentence-by-sentence visual reading embedded on slide 10. PowerPoint web playback was visually verified. A separate student reading PowerPoint, video and six-page PDF were uploaded to the established school lesson folder; the reading PDF was also verified in the dated reMarkable Cloud folder. The earlier full-deck PDF and local full-deck copy are not current, and physical tablet and classroom audio playback remain unverified. The teacher deck was not changed for this update.
