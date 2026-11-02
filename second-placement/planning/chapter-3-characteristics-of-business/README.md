@@ -1,5 +1,7 @@
 ## November 2 lesson and weekly strategy
 
+The Monday opener now asks students to match four familiar business images to the industries in Figure 3.5, then give a business example and explain why it fits. The teacher version includes timing, prompts and a key. Both PowerPoints and PDFs were updated in the shared school folder; the two revised PDFs were imported to the dated reMarkable folder. The Monday and weekly Word plans were adjusted directly in school OneDrive. Later coauthor edits and physical tablet synchronization remain unverified.
+
 The November 2 Marketing lesson plan and the updated Chapter 3 weekly strategy are in the existing restricted school OneDrive planning folder; the SBTE's view access was verified. The weekly plan includes an optional backward-design activity for Tuesday. Later pacing remains subject to each block's progress. The Monday Word document is the school copy, including the owner's edits.
 
 The Monday student and teacher presentations each have an editable PowerPoint and a checked PDF in a dated school OneDrive folder. The school PowerPoint viewer opened both decks; selected progressive reveals were tested. The two PDFs also appear in the dated reMarkable Cloud lesson folder; tablet synchronization was not checked. The group activity can use the textbook figure, but the video mentioned in the notes was not identified or embedded. School documents and protected source material remain private; this record contains status metadata only.
