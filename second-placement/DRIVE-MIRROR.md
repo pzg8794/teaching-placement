@@ -1,3 +1,7 @@
+## November 3 Chapter 3 Listen and Speak
+
+Pat’s shared school Word assignment was updated in place with simpler partner directions and transcript-grounded sector and assigned distribution-channel prompts. A matching 1–4 rubric in Word and PDF is in the established shared Chapter 3 school folder. Local private copies are retained; the school Word rubric opened and PDF preview loaded. The broad Drive mirror revision is not yet verified.
+
 ## October 30 agenda and presentation visual update
 
 The current one-slide agenda v5 retains Pat’s original first-slide style, with separate attendance, icebreaker, review, new slides, activity, reading and independent-work steps. At the owner’s direction the reading line is **pp. 34–35**, the first listed deadline is bold red, and small icons precede the agenda items. The slide image was posted to both Marketing blocks’ General channels; the earlier incorrect posts were removed. The original presentation remains preserved.
