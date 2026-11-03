@@ -1,6 +1,10 @@
+## November 4 Marketing lesson plan
+
+The two-page Wednesday Word plan is in the established school Chapter 3 folder and a private local copy is retained. It follows the current weekly map, with actual prior-day stops for both blocks left to verify. The school document opened; Pat’s individual access and the broad Drive mirror update are not verified.
+
 ## November 3 Chapter 3 Listen and Speak
 
-Pat’s shared school Word assignment was updated in place with simpler partner directions and transcript-grounded sector and assigned distribution-channel prompts. A matching 1–4 rubric in Word and PDF is in the established shared Chapter 3 school folder. Local private copies are retained; the school Word rubric opened and PDF preview loaded. The broad Drive mirror revision is not yet verified.
+Pat’s shared school Word assignment was updated in place with simpler partner directions and transcript-grounded sector and student-chosen distribution-channel prompts; a concise 1–4 rubric is included in that shared document. A matching 1–4 rubric in Word and PDF is in the established shared Chapter 3 school folder. Local private copies are retained; the school Word rubric opened and PDF preview loaded. The broad Drive mirror revision is not yet verified.
 
 ## October 30 agenda and presentation visual update
 
