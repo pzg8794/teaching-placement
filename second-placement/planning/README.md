@@ -329,3 +329,7 @@ October 19 current Monday release: `2026-10-19-Marketing-Full-Lesson-v4.pptx/.pd
 ## October 21 Wednesday readiness — prepared October 19
 
 [Wednesday release record](chapter-2-marketing-plan/2026-10-21-wednesday/README.md): student 12-slide and teacher 14-slide PowerPoint/PDF v1. Visual case recap, school slide 10 review, slide 11, pp.25–26 read-aloud, notes check, Q6/Q7 and catch-up last. Four files verified in restricted OneDrive; PDFs verified in reMarkable Cloud. Direct student PPTX email confirmed sent. Existing Part 4 keys 4.6–4.10, workbook and revised guide sent separately as eight attachments. Local staging matches. Licensed artifacts remain private; Google Drive safe indexes and physical tablet sync are not verified.
+
+## November 4 Word Part 6 reference
+
+Sixteen user-provided photos were assembled in textbook order into a private Part 6 photo-scan PDF. The local source images and PDF are kept outside this public repository. The PDF is in reMarkable Cloud under `Placement / Business - Word / 2026-11-04 - Part 6 - Columns and Page Setup`; the cloud listing showed 16 pages. The photos include Lesson 6.2 figures, but not its instruction pages (printed pp. 166–167). Tablet synchronization and a Google Drive index update have not been verified.
