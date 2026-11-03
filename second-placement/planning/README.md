@@ -332,4 +332,4 @@ October 19 current Monday release: `2026-10-19-Marketing-Full-Lesson-v4.pptx/.pd
 
 ## November 4 Word Part 6 reference
 
-Sixteen user-provided photos were assembled in textbook order into a private Part 6 photo-scan PDF. The local source images and PDF are kept outside this public repository. The PDF is in reMarkable Cloud under `Placement / Business - Word / 2026-11-04 - Part 6 - Columns and Page Setup`; the cloud listing showed 16 pages. The photos include Lesson 6.2 figures, but not its instruction pages (printed pp. 166–167). Tablet synchronization and a Google Drive index update have not been verified.
+Sixteen user-provided photos were assembled in textbook order into a private Part 6 photo-scan PDF. The local source images and PDF are kept outside this public repository. The PDF is in reMarkable Cloud under `Placement / Business - Word / 2026-11-04 - Part 6 - Columns and Page Setup`; the cloud listing showed 16 pages. The photos include Lesson 6.2 figures, but not printed pp. 166–167, including the lesson instructions. Tablet synchronization and a Google Drive index update have not been verified.
