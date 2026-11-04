@@ -190,3 +190,7 @@ Source parity: local/restricted staging SHA256 verified. School OneDrive Word/PD
 ## November 4 marketing plan
 
 The simple daily Word plan was updated directly in the existing shared school OneDrive Chapter 3 planning folder. It uses the annotated Chapter 3 Figure 3.8 opener and Figure 3.9 activity, reviews prior slides, and protects ten minutes of independent work. The school access panel listed the SBTE as able to view; reading or notification is not verified. The local earlier copy is stale. Private textbook and transcript evidence remain restricted; Drive index parity is not verified.
+
+## November 4 narrated customer-market review
+
+The current student presentation adds three short narrated examples after the two-slide ownership icebreaker: B2C, B2B, and government market. The examples connect customer markets to enterprise, economic sectors, business models, and distribution channels. The student PPTX and 20-page PDF are in the dated shared school OneDrive folder; the PDF is also in the dated reMarkable Cloud folder. The first narration was observed playing in desktop PowerPoint; playback of the other clips and physical tablet synchronization remain unverified. The earlier teacher deck is not yet aligned to this review or the updated icebreaker. Public Git contains this non-sensitive status only; private materials remain outside public Git and broad Drive. Exact source and validation details are in the private presentation register.
