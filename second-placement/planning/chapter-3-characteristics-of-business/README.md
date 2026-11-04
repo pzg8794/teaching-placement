@@ -1,3 +1,9 @@
+## November 4 presentations — local PowerPoint-checked copies
+
+Student and teacher PowerPoint files and static PDF companions were prepared from the school plan, annotated reading and latest discussion. The original school slide content was retained, with reveal effects, and ten minutes of independent work protected. Both checked PowerPoints reopened locally without a repair prompt; one student reveal was tested in a live slideshow. PDFs were rendered and reviewed.
+
+Local and restricted SBTE staging match. School OneDrive contains the earlier uploaded copies, but those PowerPoints require repair; the checked PowerPoints have not been uploaded or verified there. reMarkable was not updated because the in-app browser became unavailable. Google Drive safe-index parity is not verified; protected materials remain prohibited in broad locations. Teams posting and email were not requested. Private provenance and the detailed verification limits are recorded in the private November 4 source register.
+
 ## November 4 Marketing lesson plan
 
 The two-page Word plan for Wednesday follows the existing Chapter 3 weekly map and the preceding daily-plan format: review, original slides 13–15, partner activity, shared reading on printed pp. 41–44, and ten minutes for independent work. Each block’s actual November 3 stopping point remains unverified and the plan directs adjustment. A private local copy is retained; the school OneDrive Word document was uploaded and opened, and the containing folder is shared. Pat’s individual access has not been independently verified. No email or Teams post is claimed.
