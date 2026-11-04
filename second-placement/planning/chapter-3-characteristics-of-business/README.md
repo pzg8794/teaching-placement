@@ -1,3 +1,7 @@
+## November 4 student icebreaker v2
+
+The latest student presentation now has two icebreaker slides with four image-based ownership and business-purpose scenarios. The student PowerPoint and PDF are in the dated school OneDrive folder; the PowerPoint opened in editing mode. The student PDF is also in the dated reMarkable Cloud folder. The teacher presentation still contains the earlier icebreaker. Local/restricted staging match; Git carries safe metadata only. Physical tablet sync and Google Drive safe-index parity are not verified.
+
 ## November 4 presentations — local PowerPoint-checked copies
 
 Student and teacher PowerPoint files and static PDF companions were prepared from the school plan, annotated reading and latest discussion. The original school slide content was retained, with reveal effects, and ten minutes of independent work protected. Both checked PowerPoints reopened locally without a repair prompt; one student reveal was tested in a live slideshow. PDFs were rendered and reviewed.
