@@ -198,3 +198,5 @@ The current student presentation adds three short narrated examples after the tw
 ## November 4 student review correction
 
 Student v5 uses the owner's preserved first-slide example: explanatory context remains visible at right and answers appear on the left one at a time. The editable PowerPoint and static PDF are in the dated school presentations folder; the PDF is also visible in the dated reMarkable Cloud folder. The teacher deck still contains the earlier review. The existing audio was retained, but individual playback of every clip and physical tablet sync were not verified. Protected materials remain outside public Git and broad Drive; the Google Drive safe index is unverified. Details are in the private presentation source register.
+
+On November 4, the user asked to remove the original Types of Business slide from the current student presentation; the school PowerPoint showed 19 slides after removal. The school PDF, notebook PDF, and parity with the locally produced candidate remain unverified. Protected content stays out of public Git and broad Drive.
