@@ -2,6 +2,8 @@
 
 The Friday Word lesson plan is retained in the private dated lesson folder and was rendered for visual review. It follows the reported class stopping point and the owner's annotated reading and icebreaker notes. School OneDrive requested reauthentication before upload, so the school copy and SBTE access are not verified. Google Drive and reMarkable were not updated for this Word-only request; restricted teaching files remain outside public Git and broad Drive.
 
+The local Friday plan was revised in place to use the established storytelling review, gradual school-slide reveals, group application, shared reading, and protected independent work. The revised Word file was visually checked; the school copy remains unavailable for update pending sign-in.
+
 ## November 4 student icebreaker v2
 
 The latest student presentation now has two icebreaker slides with four image-based ownership and business-purpose scenarios. The student PowerPoint and PDF are in the dated school OneDrive folder; the PowerPoint opened in editing mode. The student PDF is also in the dated reMarkable Cloud folder. The teacher presentation still contains the earlier icebreaker. Local/restricted staging match; Git carries safe metadata only. Physical tablet sync and Google Drive safe-index parity are not verified.
