@@ -254,3 +254,5 @@ November 8 correction: the shared school weekly Word plan was updated in place a
 The vocabulary opener was subsequently revised into separate two-slide student and teacher PowerPoints and PDFs. The student version has no keyed answers; the teacher version includes matches and brief reasons. Local renders were inspected. School and reMarkable placement of the revised decks, classroom playback and Drive index parity remain unverified.
 
 Latest opener correction: each two-slide version now contains five different pictured situations per slide, covering all ten Chapter 3 terms. The school OneDrive and local weekly plans were updated to describe the activity. The revised presentations are local; school OneDrive and reMarkable placement and classroom playback are not verified.
+
+Latest visual revision: separate student and teacher v3 decks now use three slides and larger, proportionate images, with all ten scenarios retained. The local PPTX/PDF files were visually inspected; school OneDrive and reMarkable deck placement, Google Drive parity and classroom playback remain unverified.
