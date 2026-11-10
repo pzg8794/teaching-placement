@@ -1,3 +1,7 @@
+## November 10 Marketing — current source record
+
+The version 3 student and teacher Marketing PowerPoints and checked PDFs are in the school OneDrive dated presentations folder. Both version 3 PDFs are visible in the November 10 reMarkable Cloud lesson folder (18 and 19 pages). The NAICS icebreaker is in each class's dated materials folder; the itinerary was posted to both Marketing classes. The student-only Listen and Speak instructions were posted to Block 1; its formal assignment remains a draft. The earlier SBTE email contained the previous student deck. Physical reMarkable device sync and classroom playback are not verified. Protected teaching materials remain in restricted locations; this is a safe index only.
+
 ## November 4 Marketing lesson plan
 
 The two-page Wednesday Word plan is in the established school Chapter 3 folder and a private local copy is retained. It follows the current weekly map, with actual prior-day stops for both blocks left to verify. The school document opened; Pat’s individual access and the broad Drive mirror update are not verified.
