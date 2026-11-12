@@ -12,6 +12,8 @@ Student classroom links: [v3 PowerPoint](https://drive.google.com/file/d/1iXuKcD
 
 ---
 
+**Preservation update:** Exact original November 12 v2 student/teacher PowerPoints and SHA-256 manifest are archived in the existing Drive folder: [v2 original PowerPoints](https://drive.google.com/file/d/1LEW7UV1EwZzvtExnO1OAB-u1Z3ZBavki/view). Existing v1 preservation and Drive version history remain intact.
+
 ### Historical November 10 v2 snapshot (preserved)
 
 
