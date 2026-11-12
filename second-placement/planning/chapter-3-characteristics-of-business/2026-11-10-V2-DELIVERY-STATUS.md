@@ -1,4 +1,19 @@
-# Chapter 3 continuation — v2 delivery and reconciliation
+# Chapter 3 continuation — delivery history
+
+## November 12 — source-aligned warm-up and activity (v3)
+
+The owner revised the Chapter 3 Listen and Speak activity. Existing November 12 student/teacher PowerPoints were edited in place to v3, retaining Drive IDs, editable elements, and staged reveals. Their PDFs were re-exported and verified. A separate 3-slide student-only warm-up and partner-launch deck plus PDF supports class sharing without teacher answer reveals.
+
+Instructional alignment: one wholesaler and one retailer in one joint presentation; each business's activities, earnings, target market and customer needs; NAICS title/code and role; justified economic sectors; two drawings of the same product's channel with an intermediary added/removed and possible cost/price effect; and an evidence-backed idea from each of Chapters 1 and 2. The owner's updated 1–4 rubric is **draft / subject to teacher review**. No deadline, grade policy, or presentation date was invented.
+
+Student classroom links: [v3 PowerPoint](https://drive.google.com/file/d/1iXuKcDzMWOvje_tphO3pjxeofPDIAdn5/view) · [v3 PDF](https://drive.google.com/file/d/1dMFP-brrE4mtbB51VB0ibsGNpPSiW8k2/view). Short class-share: [warm-up/activity PowerPoint](https://drive.google.com/file/d/1VfGJ-yvYPVsCw3DkdKZx1kDdet2WiEsr/view) · [PDF](https://drive.google.com/file/d/1DlWuNrWwx7A-4csdMetF_1GwU7I4vHNe/view). Teacher links and source-to-change details are in the existing [private lesson index](https://github.com/pzg8794/TeachingPlacement-Private-Records/blob/main/lesson-series/2026-11-chapter-3/README.md).
+
+**Verification:** all six PPTX/PDF files were rendered/tested and read back from the existing Drive folder by filename/ID/size. The v2 PPTX originals were verified in Drive revision history before replacement. Sharing settings were unchanged. The local teaching checkout, school OneDrive/SharePoint/Teams, native PowerPoint playback and final SBTE approval were not updated or independently verified in this pass.
+
+---
+
+### Historical November 10 v2 snapshot (preserved)
+
 
 **As of:** November 10, 2026. **Owning project:** TeachingPlacement / second-placement / Principles of Marketing. This is not Quantum, GA-Work or DSCI601.
 
