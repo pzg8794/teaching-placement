@@ -1,6 +1,22 @@
 # Chapter 3 continuation — delivery history
 
-## CURRENT: November 16 — student-guide-specific partner warm-up (v5)
+## CURRENT: November 16 — team presentation with guide-ordered MLADIS model (v6)
+
+**Owner instruction:** Two partners present together with individual **fillable one-page partner-information cheat sheets** (one per student). Each student writes about the OTHER partner's selected business and uses the sheet when presenting as a team. The warm-up uses Chapter 3 guide item **#1** (business name, wholesale/retail role, NAICS industry title/code and evidence) and **one chosen question with answer and evidence from each #2 section** (Business Activities, Target Market, Business Role). No new assignment requirement or approved rubric is implied.
+
+**Teacher model source correction:** The user-supplied `Chapter-1-Listen-and-Speak-Project-Guide-and-1-4-Rubric-v1.docx` requires an example presentation organized in the sequence **(1) Purpose of the marketing function → (2) Marketing Concept Connection → (3) accurate Example/Application and why it fits**, with **(4) Communication/Vocabulary/Visual Support** as a clarity/support criterion rather than an extra content component. The revised MLADIS Bookings example uses **Channel Management** as the illustrative Chapter 1 function; owner-described accommodation/booking service facts and the example traveler booking path are qualified as illustrative, not verified transactions. The Chapter 1 rubric was NOT imported as an authorized Chapter 3 scoring rubric.
+
+**Six explicit classroom stages:** 1 team warm-up using the sheets; 2 five-minute exam review; 3 MLADIS model in guide's order; 4 pair answer completion, sheet fill and rehearsal; 5 joint class share-out using sheets; 6 exit. Both voices contribute. Total 42-minute route beyond the owner's five-minute review is teacher-proposed, not mandatory.
+
+**Student v6:** [Editable PowerPoint](https://drive.google.com/file/d/1wwvFzX7nHuJ_MdkNg9pdibAGFVD7dEV5/view) · [PDF](https://drive.google.com/file/d/1IpMRMWD1Td9BXDG2UulJCtQ9eVJYGFnF/view) — 12 slides/pages. **Teacher v6:** [Editable PowerPoint](https://drive.google.com/file/d/1SZz7IjeBEDv46zyHbzCuUBrVvTSM_Gz7/view) · [PDF](https://drive.google.com/file/d/1Ihswo26LxRmppJazU-VBQqraQJK9W6Wk/view) — 15 slides/pages. **One-page student speaking scaffold:** [Editable Word](https://drive.google.com/file/d/1xg1elK3IcKQSjit8omlenHXIqq2sFF0X/view) · [Printable PDF](https://drive.google.com/file/d/15SQoeMw5UdJwp0wmFYnKawg_cB5elsO6/view).
+
+**Validation and preservation:** All six deliverables were rendered/checked (including DOCX page render, 12/15 slide+PDF counts, slide-bound tests and visual inspection). The exact four v5 PPTX/PDF files were saved with SHA-256 manifest to the established folder [v5 preservation archive](https://drive.google.com/file/d/1wDBXRflt05WyTZbQoLySqkDTTieQP31F/view) and remotely verified BEFORE in-place v6 replacement. All four existing PPTX/PDF Drive IDs retained; two student cheat-sheet files created only in the existing folder. Six v6 deliverables and archive read back by ID/name/size. No folder, branch, privacy permission, grading policy, presentation date or source hierarchy change.
+
+**Parity and limits:** Drive current; the established private index describes the source-to-change chain at commit `33bcdeb985748bea5a5b78314e8eb37875de801b`. Public de-identified status now updated here. User's Mac checkout and school Teams/OneDrive/SharePoint are NOT updated/verified. Exact recent Block 1/5 progress, Nov 12–13 class/mentor recordings, exam result, school projector playback, and SBTE sign-off remain unverified.
+
+---
+
+## SUPERSEDED: November 16 — student-guide-specific partner warm-up (v5; archived)
 
 The **owner's latest direct warm-up instruction** controls this revision. Partners introduce **each other's** businesses using the already-issued Chapter 3 Listen and Speak question guide. Each student reports: **(1)** business name, wholesaler-or-retailer role, NAICS industry **title and code**, and **(2)** exactly **one question from EACH guide section** — Business Activities (what it does / how it operates / how it earns money), Target Market (who the customers are / how needs are met), and Business Role (who buys and why / why wholesale versus retail). **Each answer must include supporting evidence**, following the guide's own Answer/Evidence fields. This is a warm-up retrieval/communication exercise, not a change to the official assignment, date, grade or draft rubric.
 
