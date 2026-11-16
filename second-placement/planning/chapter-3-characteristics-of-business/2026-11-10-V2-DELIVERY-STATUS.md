@@ -1,6 +1,20 @@
 # Chapter 3 continuation — delivery history
 
-## CURRENT: November 16 — partner presentation-preparation lesson (v4)
+## CURRENT: November 16 — student-guide-specific partner warm-up (v5)
+
+The **owner's latest direct warm-up instruction** controls this revision. Partners introduce **each other's** businesses using the already-issued Chapter 3 Listen and Speak question guide. Each student reports: **(1)** business name, wholesaler-or-retailer role, NAICS industry **title and code**, and **(2)** exactly **one question from EACH guide section** — Business Activities (what it does / how it operates / how it earns money), Target Market (who the customers are / how needs are met), and Business Role (who buys and why / why wholesale versus retail). **Each answer must include supporting evidence**, following the guide's own Answer/Evidence fields. This is a warm-up retrieval/communication exercise, not a change to the official assignment, date, grade or draft rubric.
+
+The remainder of the November 16 owner-corrected lesson is unchanged: five-minute exam review, a clearly identified illustrative service-business model that is NOT the required wholesaler or retailer, pair work to finish written answers for both companies, and class share-out with both partners contributing. Exact school block stopping points/mentor acceptance remain unverified.
+
+**Verified current Drive links (same original IDs):** [Student editable PowerPoint v5](https://drive.google.com/file/d/1wwvFzX7nHuJ_MdkNg9pdibAGFVD7dEV5/view) · [Student PDF v5](https://drive.google.com/file/d/1IpMRMWD1Td9BXDG2UulJCtQ9eVJYGFnF/view) — 11 slides/pages. [Teacher editable PowerPoint v5](https://drive.google.com/file/d/1SZz7IjeBEDv46zyHbzCuUBrVvTSM_Gz7/view) · [Teacher PDF v5](https://drive.google.com/file/d/1Ihswo26LxRmppJazU-VBQqraQJK9W6Wk/view) — 14 slides/pages.
+
+All four v4 originals were verified against source sizes and preserved with a SHA-256 manifest in the [same-folder v4 archive](https://drive.google.com/file/d/1mf28LqnT7WJ8Sm4JmmlKSUY4WsMKMgfb/view) **before** v5 in-place replacement; archive and four current v5 files read back by ID/name/byte size. Both editable v5 decks passed slide-bound tests and had slide/PDF renders visually checked. Source, artifact, change and validation details are preserved in the established [private lesson index](https://github.com/pzg8794/TeachingPlacement-Private-Records/blob/main/lesson-series/2026-11-chapter-3/README.md) at verified private commit `a440297f9b7887205c316c8e1a11cef81bcb8ece`.
+
+**Source parity:** Google Drive and Git indexes updated; original user Mac checkout and school OneDrive/SharePoint/Teams not updated or verified. No sharing settings, school-grade policy, presentation date, rubric approval, or student records altered.
+
+---
+
+## SUPERSEDED: November 16 — partner presentation-preparation lesson (v4; archived)
 
 **Owner correction, November 16:** The class is preparing an already assigned **joint partner presentation**, not starting another general research/NAICS lesson. Correct sequence: (1) partner-business warm-up (each student introduces the OTHER partner's company and whether it is wholesale or retail, supported by characteristics), (2) a five-minute exam-concept review, (3) owner-provided real business service example as a teacher model of question/answer/evidence—not a qualifying wholesaler/retailer, (4) pairs finish research questions and written answers for BOTH required companies and rehearse explaining each other's company, (5) brief class share-out with both partners contributing, and (6) readiness exit check. The assignment's economic-sector/NAICS explanations, two product routes and Chapter 1/2 connections remain in scope for the full presentation, but the immediate Monday priority is finished answers and oral preparation.
 
