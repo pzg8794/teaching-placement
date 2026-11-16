@@ -1,5 +1,21 @@
 # Chapter 3 continuation — delivery history
 
+## November 16 — source-aligned Monday research lesson (v3)
+
+The existing November 16 student/teacher slide pairs were revised in place using the owner's November 12 Chapter 3 Listen and Speak instruction revision, while keeping the established warm cream/navy/teal/orange design, editable objects and progressive reveal sequence. The student deck now contains **17 slides** and the teacher deck **21 slides**. Each has a rendered/checked PDF. No new project root, branch or permission changes were made.
+
+Teaching focus: retrieval on wholesaler/retailer roles and buyers; research one real wholesaler and one retailer in a single partner presentation; use business-site evidence for activities, operations, revenue, target customer/need, and role; verify NAICS title/code against the actual business activity; distinguish NAICS industry from economic sector; prepare a two-route channel comparison and one supported connection each to Chapters 1 and 2. Teacher-created fictional examples and a NAICS evidence-check visual are labeled scaffolds rather than official school requirements. The owner-revised 1–4 rubric remains **DRAFT / subject to teacher review**, with no invented grade, deadline or presentation date.
+
+**Current student materials:** [editable PPTX](https://drive.google.com/file/d/1wwvFzX7nHuJ_MdkNg9pdibAGFVD7dEV5/view) · [PDF](https://drive.google.com/file/d/1IpMRMWD1Td9BXDG2UulJCtQ9eVJYGFnF/view).
+
+**Teacher materials:** [editable PPTX](https://drive.google.com/file/d/1SZz7IjeBEDv46zyHbzCuUBrVvTSM_Gz7/view) · [PDF](https://drive.google.com/file/d/1Ihswo26LxRmppJazU-VBQqraQJK9W6Wk/view).
+
+All four previously published v2 files and a SHA-256 manifest were preserved in the [same-folder archive](https://drive.google.com/file/d/1y5DAmb-tAe79jFmX7If-McpXDdaeE4rv/view) before replacement. Drive readback verified the four v3 titles, original file IDs, sizes and location. Both slide decks passed slide-bound tests; slide and PDF renders were visually reviewed and page counts checked (17/21). Native classroom Microsoft PowerPoint playback and independent SBTE acceptance have not been verified.
+
+The exact completion/stopping points for Blocks 1 and 5 after November 12, newer Pat/school instructions and the November 13 assessment outcome were not independently recovered. Teacher slides retain a block-by-block restart check, not an assumption that both classes made identical progress. The user's local checkout and school Teams/OneDrive/SharePoint were **not updated**. Detailed source-to-decision notes and artifact pointers are in the established [private lesson index](https://github.com/pzg8794/TeachingPlacement-Private-Records/blob/main/lesson-series/2026-11-chapter-3/README.md) at commit `12a0a74c153b05161801b97e82558bff866b4a50`.
+
+---
+
 ## November 12 — source-aligned warm-up and activity (v3)
 
 The owner revised the Chapter 3 Listen and Speak activity. Existing November 12 student/teacher PowerPoints were edited in place to v3, retaining Drive IDs, editable elements, and staged reveals. Their PDFs were re-exported and verified. A separate 3-slide student-only warm-up and partner-launch deck plus PDF supports class sharing without teacher answer reveals.
