@@ -1,6 +1,26 @@
 # Chapter 3 continuation — delivery history
 
-## CURRENT: November 16 — team presentation with guide-ordered MLADIS model (v6)
+## CURRENT: November 16 — Chapter 3 guide-ordered MLADIS model (v7)
+
+**Owner correction:** The previously shipped v6 MLADIS teaching model incorrectly followed a Chapter 1 presentation guide rather than the actual owner-authored **Chapter 3 Listen and Speak guide**. The v7 revision corrects the model's content to the exact Chapter 3 numbered order, without changing the team's already approved classroom flow, losing prior slide versions, or importing any Chapter 1 grading rubric.
+
+**Model sections in guide order:**
+1. **Research TWO businesses:** Students choose one wholesaler and one retailer, each with name and justified NAICS title/code, Business Activities, Target Market, and Business Role. The teacher's owner-described **MLADIS Bookings** case illustrates answering these characteristics with evidence; it is a **lodging/service** business, **not** a qualifying wholesaler or retailer. **U.S. NAICS 721199 (All Other Traveler Accommodation)** is a *candidate industry analogy* for lodging, not a verified company registration or official code; students still must verify their own selections using business and NAICS sources.
+2. **Identify economic sectors:** MLADIS service operations illustrate the **tertiary** sector and explain why. Students justify each actual business.
+3. **Show ONE product's path to the customer:** The illustrative stay service has two channel routes: **traveler → booking marketplace/intermediary → MLADIS** versus **traveler → MLADIS direct booking → stay**. The slide discusses possible intermediary fees/costs and non-deterministic customer price changes; no actual guest, property or transaction is depicted.
+4. **Connect Chapters 1 and 2:** **Chapter 1 Channel Management** and **Chapter 2 PEST technology factors** (from the already documented Chapter 2 classroom PEST worksheet and marketing-plan sequence) explain channel choices and external online-platform opportunities/risks.
+
+**Same lesson stages:** Stage 1 partner-business warm-up with existing individual [speaking sheet](https://drive.google.com/file/d/1xg1elK3IcKQSjit8omlenHXIqq2sFF0X/view) (one per student, describing the other partner's business with answer+evidence); Stage 2 exactly five-minute exam review; Stage 3 MLADIS Chapter 3 model; Stage 4 pair writing and cheat-sheet preparation; Stage 5 both present together; Stage 6 exit check. The existing draft Chapter 3 rubric is NOT represented as approved.
+
+**Live Drive files (unchanged four IDs):** [Student PPTX v7](https://drive.google.com/file/d/1wwvFzX7nHuJ_Mdk9pdibAGFVD7dEV5/view) · [Student PDF v7](https://drive.google.com/file/d/1IpMRMWD1Td9BXDG2UulJCtQ9eVJYGFnF/view) (**14** pages); [Teacher PPTX v7](https://drive.google.com/file/d/1SZz7IjeBEDv46zyHbzCuUBrVvTSM_Gz7/view) · [Teacher PDF v7](https://drive.google.com/file/d/1Ihswo26LxRmppJazU-VBQqraQJK9W6Wk/view) (**17** pages). The one-page speaking sheet remains unchanged: [Word](https://drive.google.com/file/d/1xg1elK3IcKQSjit8omlenHXIqq2sFF0X/view) · [PDF](https://drive.google.com/file/d/15SQoeMw5UdJwp0wmFYnKawg_cB5elsO6/view).
+
+**Preservation/validation:** All four preceding v6 files were SHA-256-inventoried and saved in the [same-folder preservation archive](https://drive.google.com/file/d/1M2_c3lOhpnJJ4ctx_WpERXyDqCSkRYF7/view), verified before in-place replacement. Both v7 editable PPTXs passed bounds tests, their PDFs rendered and matched 14/17 pages, and all slides were visually reviewed (model slides inspected at full size). Both PPTX/PDF texts were checked to contain all four exact Chapter 3 headings and exclude the superseded Chapter 1 purpose/concept/example sequence. All four Drive file IDs, titles, sizes and the archive were read back in the existing folder; the established private lesson index was updated at commit `274a0aef29ce689d0d8ae582375a518822af8ac3`.
+
+**Source status:** Drive and the established Git indices are updated. The original user Mac checkout and school Teams/OneDrive/SharePoint were **not** updated or verified. Nov 12–13 mentor transcripts, exact Block 1/5 progress, school projector playback, grading approval and presentation-day date remain unverified. No sharing setting or source hierarchy was changed.
+
+---
+
+## SUPERSEDED: November 16 — team model following Chapter 1 guide (v6; archived; incorrect)
 
 **Owner instruction:** Two partners present together with individual **fillable one-page partner-information cheat sheets** (one per student). Each student writes about the OTHER partner's selected business and uses the sheet when presenting as a team. The warm-up uses Chapter 3 guide item **#1** (business name, wholesale/retail role, NAICS industry title/code and evidence) and **one chosen question with answer and evidence from each #2 section** (Business Activities, Target Market, Business Role). No new assignment requirement or approved rubric is implied.
 
