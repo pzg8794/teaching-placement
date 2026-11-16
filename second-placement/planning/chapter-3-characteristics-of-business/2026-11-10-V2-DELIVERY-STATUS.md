@@ -1,6 +1,20 @@
 # Chapter 3 continuation — delivery history
 
-## November 16 — source-aligned Monday research lesson (v3)
+## CURRENT: November 16 — partner presentation-preparation lesson (v4)
+
+**Owner correction, November 16:** The class is preparing an already assigned **joint partner presentation**, not starting another general research/NAICS lesson. Correct sequence: (1) partner-business warm-up (each student introduces the OTHER partner's company and whether it is wholesale or retail, supported by characteristics), (2) a five-minute exam-concept review, (3) owner-provided real business service example as a teacher model of question/answer/evidence—not a qualifying wholesaler/retailer, (4) pairs finish research questions and written answers for BOTH required companies and rehearse explaining each other's company, (5) brief class share-out with both partners contributing, and (6) readiness exit check. The assignment's economic-sector/NAICS explanations, two product routes and Chapter 1/2 connections remain in scope for the full presentation, but the immediate Monday priority is finished answers and oral preparation.
+
+**Evidence actually checked:** primary Nov 10 `Class Review_ NAICS Classification, Bakery Business Models, and Distribution Channels` private transcript at 00:09:14–00:11:30, 00:44:10–00:47:20 and 00:51:07–00:51:41; the owner-revised Nov 12 Chapter 3 Listen and Speak instruction sheet; and direct November 16 owner lesson correction. No student names or raw transcript content are reproduced here. The owner's model is identified as a **service** company, not misrepresented as one of the two required wholesale/retail businesses; live public site verification was unavailable, so the case is labeled owner-described and illustrative.
+
+**Current four files (existing Drive IDs retained):** [Student v4 editable PPTX](https://drive.google.com/file/d/1wwvFzX7nHuJ_MdkNg9pdibAGFVD7dEV5/view) · [Student PDF](https://drive.google.com/file/d/1IpMRMWD1Td9BXDG2UulJCtQ9eVJYGFnF/view) — **11 slides/pages**. [Teacher v4 editable PPTX](https://drive.google.com/file/d/1SZz7IjeBEDv46zyHbzCuUBrVvTSM_Gz7/view) · [Teacher PDF](https://drive.google.com/file/d/1Ihswo26LxRmppJazU-VBQqraQJK9W6Wk/view) — **14 slides/pages**.
+
+Both v4 decks passed PowerPoint slide-bound checks; slide and PDF renders were visually inspected, and PDF counts match (11/14). All four v4 files and the [v3 source-preservation archive](https://drive.google.com/file/d/1hMGzEV2072MNBMpYb1j_A2q6KzsYPKd6/view) were remotely read back in the existing folder by ID, title and byte size. No new folders, branches or permissions. The v3 versions are explicitly superseded, preserved in the same-folder archive together with a SHA-256 manifest; the prior v2 archive remains.
+
+**Limitations:** current Block 1/5 work, Nov 12–13 classroom/mentor transcripts and actual exam results were not independently obtained; the exam slide is a five-minute review of reasoning without assuming scores were returned. School Teams/OneDrive/SharePoint, user Mac checkout, live projector playback, independent SBTE acceptance and assignment/grading publication are not verified/updated. The proposed 1–4 rubric remains DRAFT. The existing [private lesson index](https://github.com/pzg8794/TeachingPlacement-Private-Records/blob/main/lesson-series/2026-11-chapter-3/README.md) at commit `9fcf4da23c550a5f725caed30a108cda6e07ac4a` carries further source-to-decision detail.
+
+---
+
+## SUPERSEDED: November 16 — source-aligned Monday research lesson (v3; archived)
 
 The existing November 16 student/teacher slide pairs were revised in place using the owner's November 12 Chapter 3 Listen and Speak instruction revision, while keeping the established warm cream/navy/teal/orange design, editable objects and progressive reveal sequence. The student deck now contains **17 slides** and the teacher deck **21 slides**. Each has a rendered/checked PDF. No new project root, branch or permission changes were made.
 
