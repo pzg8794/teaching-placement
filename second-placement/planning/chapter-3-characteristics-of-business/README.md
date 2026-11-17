@@ -280,3 +280,13 @@ For the continuation after November 10, the **dated student/teacher pairs (Nov. 
 These are teacher-created draft teaching aids, not newly authorized school assignments, grades, dates, student submissions or course policy. Confirm the exact school Listen and Speak handout, rubric, test timing and presentation date with the SBTE. Keep teacher keys, student-level evidence and raw transcripts off the public mirror. The existing November 10 and earlier source state above is preserved.
 
 November 13 guide distribution: the user-edited Chapter 3 Listen and Speak guide was copied from Block 1 to Block 5 Class Materials / 11-13-2026. Word showed the copied document saved with four pages and 249 words. This records the observed copy at that time; later edits, current school access, local parity, and Google Drive parity have not been verified. School copies remain the authoritative classroom documents.
+# November 17 source reconciliation
+
+The November 16 delivery record is reconciled with this conversation's observed delivery results. The local Marketing student and teacher v7 PowerPoints, standalone warm-up/activity, partner activity, speaking sheet, and full activity presentation cheat sheet are retained in `second-placement/` as private working materials. Raw school files and transcripts are excluded from this public Git record.
+
+- Teams: both Marketing classes' November 16 Class Materials folders were verified during delivery with the standalone partner activity and both Word sheets. Corrected block-specific agenda posts replaced the earlier itinerary posts.
+- Email: the full activity presentation cheat sheet was sent from the university account to the placement account, with a visible sent confirmation during delivery.
+- reMarkable: the November 16 dated Marketing folder was verified during delivery with teacher and student PDFs, warm-up/activity, speaking sheet, and both agendas. The teacher PDF contains slides, not PowerPoint speaker notes. Physical tablet sync is unverified.
+- Business Blocks 4 and 7: local Part 7 itinerary PPTX/PDF files exist, but class deadlines were not verified and school posting is unfinished. These files must not be treated as final delivered agendas.
+- Current remote readback is still required for school systems, reMarkable and Drive. Prior delivery verification is historical evidence, not a new live verification.
+
