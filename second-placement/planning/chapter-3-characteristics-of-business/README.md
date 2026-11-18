@@ -290,3 +290,9 @@ The November 16 delivery record is reconciled with this conversation's observed 
 - Business Blocks 4 and 7: local Part 7 itinerary PPTX/PDF files exist, but class deadlines were not verified and school posting is unfinished. These files must not be treated as final delivered agendas.
 - Current remote readback is still required for school systems, reMarkable and Drive. Prior delivery verification is historical evidence, not a new live verification.
 
+## November 18 local source inventory
+
+The local `second-placement` directory contains the November 18 Marketing presentation itinerary PDF and Chapter 3 follow-up question PDFs for Block 1 groups and Block 5 individuals, including a combined version. The November 17 student guide v2 PPTX and PDF are in `second-placement/transcripts`; the local agenda PPTX/PDF and MLADIS presentation example remain in `second-placement`. These filenames establish local presence only, not approval, classroom posting, email delivery, or synchronization. The November 17 agenda was not posted during the prior session; its deadlines were not verified. The Block 4/7 Part 7 agendas remain unfinished pending deadline verification.
+
+Current remote readback of Google Drive, school OneDrive/Teams, and reMarkable remains unverified. Preserve protected classroom material in the established private destinations; this index carries only non-identifying metadata. Physical tablet sync is unverified.
+
