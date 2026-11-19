@@ -296,3 +296,9 @@ The local `second-placement` directory contains the November 18 Marketing presen
 
 Current remote readback of Google Drive, school OneDrive/Teams, and reMarkable remains unverified. Preserve protected classroom material in the established private destinations; this index carries only non-identifying metadata. Physical tablet sync is unverified.
 
+## November 19 reconciliation
+
+On November 18, `11-18-2026` folders were created in both Marketing classes' Class Materials libraries, and `Chapter3_Student_Clear_Guide_v2.pptx` was visibly verified in each. The dated reMarkable desktop folder showed the combined Block 1/Block 5 follow-up PDF alongside the itinerary, student guide, and example. A later attempt to import the two separate follow-up PDFs did not produce a visible confirmation; their presence and cloud/tablet sync remain unverified. These are historical delivery observations, not a fresh remote readback.
+
+Four November 18 classroom transcripts were added locally on November 19. They are private source evidence, not published in this index; their presence does not establish that every destination has received them. School Teams/OneDrive, reMarkable cloud, and Google Drive require current readback before claiming parity.
+
