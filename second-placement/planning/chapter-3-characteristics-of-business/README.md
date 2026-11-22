@@ -302,3 +302,6 @@ On November 18, `11-18-2026` folders were created in both Marketing classes' Cla
 
 Four November 18 classroom transcripts were added locally on November 19. They are private source evidence, not published in this index; their presence does not establish that every destination has received them. School Teams/OneDrive, reMarkable cloud, and Google Drive require current readback before claiming parity.
 
+## November 20 placement closeout
+
+The last Marketing lesson introduced Chapter 7 and connected it to Chapters 1–3. The farewell presentations were delivered to the two class-specific Teams folders, and the co-teacher received the class links through school Outlook. These are delivery observations from November 20. Student-specific presentations, grading materials, and raw transcripts remain in their restricted records.

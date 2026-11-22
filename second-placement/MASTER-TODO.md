@@ -1,5 +1,9 @@
 # Fall 2026 Second Teaching Placement Master
 
+## Placement closeout
+
+The final day of school-site teaching was November 20, 2026. This tracker preserves the placement history and source links. Use the [EDF436 course tracker](https://github.com/pzg8794/EDF436/blob/main/MASTER-TODO.md) for remaining university coursework and submission status.
+
 Monday October19 preparation is complete locally: see [current materials](planning/chapter-2-marketing-plan/2026-10-19-monday/README.md). Weekly planv4 unchanged. Confirm Friday progress, school notes access and the review-deadline conflict withPat. Monday Word advancement remains toconfirm. Cloud delivery is pending because browsercontrol failed and Drive rejected writing.
 
 ## October 16 — chapter library and complete Word Part 4 teacher keys
