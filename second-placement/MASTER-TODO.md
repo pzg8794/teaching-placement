@@ -146,9 +146,8 @@ completion states here.
 
 The authenticated Google Drive search resolved the current placement folder
 under the current `TeachingPlacement` mirror. The folder and
-its public-safe planning files are readable by anyone with the link. The latest
-raw September 8–9 `.txt` transcript exports were not present in that cloud
-folder and remain local-only. Do not upload raw transcripts, student records,
+its public-safe planning files are readable by anyone with the link. The September 8–9 raw transcript exports are part of the restricted closeout
+backup dated November 22, 2026. Do not upload raw transcripts, student records,
 signed forms, credentials, or screenshots into this public-reader folder.
 
 ## Source status at a glance
